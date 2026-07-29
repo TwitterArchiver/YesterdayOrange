@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2039307881825313246",
+    "created_at": "2026-04-01T11:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T12:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039307881825313246"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039307881825313246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "翻到了之前一个玩了一年半的列表，发现他在匿名提问回答了一大堆黄色问题，发了很多自拍，发了很多刻板印象南通语言。\n我们已经绝交半年了啊，或者不止半年了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2039307881825313246",
+        "created_at": "2026-04-01T11:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039307881825313246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039307881825313246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻到了之前一个玩了一年半的列表，发现他在匿名提问回答了一大堆黄色问题，发了很多自拍，发了很多刻板印象南通语言。\n我们已经绝交半年了啊，或者不止半年了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2038124373736083568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11501,
+          "following_count": 4800,
+          "like_count": 84790,
+          "listed_count": 20,
+          "media_count": 2025,
+          "tweet_count": 18743
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

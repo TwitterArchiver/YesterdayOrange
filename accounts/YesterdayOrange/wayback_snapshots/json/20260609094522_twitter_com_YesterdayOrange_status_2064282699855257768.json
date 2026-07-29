@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064282692360015873",
+        "3_2064282692343275520",
+        "3_2064282692540387328"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2064282699855257768",
+    "created_at": "2026-06-09T09:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064282699855257768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jbq6kUBtBz",
+          "end": 68,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2064282699855257768/photo/1",
+          "media_key": "3_2064282692360015873",
+          "start": 45,
+          "url": "https://t.co/Jbq6kUBtBz"
+        },
+        {
+          "display_url": "pic.x.com/Jbq6kUBtBz",
+          "end": 68,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2064282699855257768/photo/1",
+          "media_key": "3_2064282692343275520",
+          "start": 45,
+          "url": "https://t.co/Jbq6kUBtBz"
+        },
+        {
+          "display_url": "pic.x.com/Jbq6kUBtBz",
+          "end": 68,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2064282699855257768/photo/1",
+          "media_key": "3_2064282692540387328",
+          "start": 45,
+          "url": "https://t.co/Jbq6kUBtBz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064282699855257768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【武亮：男孩子生活费别给太多，女孩子可以多给一点！男生乱花钱，女生懂得省钱！-哔哩哔哩】 https://t.co/Jbq6kUBtBz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064282692360015873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXOK_IbEAEZCuH.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064282692343275520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXOK_EboAAvR4x.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064282692540387328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXOK_zbUAATGuH.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064282692360015873",
+            "3_2064282692343275520",
+            "3_2064282692540387328"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2064282699855257768",
+        "created_at": "2026-06-09T09:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064282699855257768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jbq6kUBtBz",
+              "end": 68,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2064282699855257768/photo/1",
+              "media_key": "3_2064282692360015873",
+              "start": 45,
+              "url": "https://t.co/Jbq6kUBtBz"
+            },
+            {
+              "display_url": "pic.x.com/Jbq6kUBtBz",
+              "end": 68,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2064282699855257768/photo/1",
+              "media_key": "3_2064282692343275520",
+              "start": 45,
+              "url": "https://t.co/Jbq6kUBtBz"
+            },
+            {
+              "display_url": "pic.x.com/Jbq6kUBtBz",
+              "end": 68,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2064282699855257768/photo/1",
+              "media_key": "3_2064282692540387328",
+              "start": 45,
+              "url": "https://t.co/Jbq6kUBtBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064282699855257768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【武亮：男孩子生活费别给太多，女孩子可以多给一点！男生乱花钱，女生懂得省钱！-哔哩哔哩】 https://t.co/Jbq6kUBtBz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2064207940840759466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12151,
+          "following_count": 5129,
+          "like_count": 93871,
+          "listed_count": 21,
+          "media_count": 2296,
+          "tweet_count": 20339
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

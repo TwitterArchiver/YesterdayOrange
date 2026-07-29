@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2001584600943071496",
+    "created_at": "2025-12-18T17:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T18:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001702888880701924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1868001649404547072",
+          "start": 0,
+          "username": "CuiGan45555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001702888880701924",
+    "in_reply_to_user_id": "1868001649404547072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001700182296268939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuiGan45555 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2001584600943071496",
+        "created_at": "2025-12-18T17:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T18:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001702888880701924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1868001649404547072",
+              "start": 0,
+              "username": "CuiGan45555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001702888880701924",
+        "in_reply_to_user_id": "1868001649404547072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001700182296268939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuiGan45555 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868001649404547072",
+        "conversation_id": "2001584600943071496",
+        "created_at": "2025-12-18T17:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T18:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001700182296268939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001700182296268939",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001584600943071496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2000095705998983445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9513,
+          "following_count": 3425,
+          "like_count": 68692,
+          "listed_count": 16,
+          "media_count": 1517,
+          "tweet_count": 15846
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T18:35:00.000Z",
+        "description": "",
+        "id": "1868001649404547072",
+        "name": "甘文崔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898447486211203072/g4jDyjqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 212,
+          "like_count": 1927,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 142
+        },
+        "username": "CuiGan45555",
+        "verified": false
+      }
+    ]
+  }
+}

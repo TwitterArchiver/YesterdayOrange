@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2078143478064951714",
+    "created_at": "2026-07-17T15:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078143478064951714"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/foreveryuuka/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/foreveryuuka/status/2078118951553565166",
+          "start": 6,
+          "url": "https://t.co/rPFCusgGnl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078143478064951714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078118951553565166",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想知道 https://t.co/rPFCusgGnl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2078143478064951714",
+        "created_at": "2026-07-17T15:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078143478064951714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foreveryuuka/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/foreveryuuka/status/2078118951553565166",
+              "start": 6,
+              "url": "https://t.co/rPFCusgGnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078143478064951714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078118951553565166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想知道 https://t.co/rPFCusgGnl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586779015574327296",
+        "conversation_id": "2078103182543294916",
+        "created_at": "2026-07-17T14:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078118951553565166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078118951553565166",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078103182543294916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 啊，为什么分手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2078080489244770777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12177,
+          "following_count": 5189,
+          "like_count": 96086,
+          "listed_count": 20,
+          "media_count": 2382,
+          "tweet_count": 20916
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-30T17:56:28.000Z",
+        "description": "新形态次世代能源茶酱・🚩🏴🏳️‍⚧️・World Cup26⚽🇳🇱🇫🇷🇪🇸🇿🇦🇲🇦🇨🇮🇨🇻🇨🇩🇬🇭・169㎝ 49.8㎏・喜欢JK制服/lolita/地雷系・优香，喜欢",
+        "id": "1586779015574327296",
+        "name": "Yuuka Elite💜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063920555859042304/vHVT7FGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 447,
+          "like_count": 25856,
+          "listed_count": 3,
+          "media_count": 545,
+          "tweet_count": 19902
+        },
+        "url": "",
+        "username": "ForeverYuuka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2042141022629876158",
+    "created_at": "2026-04-09T07:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042141022629876158"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042141022629876158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“doro，你有什么想买的吗？”\ndoro和我在商场逛了一整天，最后只吃了麦当劳。\n“你想要新衣服吗？”\n“你想要新手机吗？”\ndoro多要了两包番茄酱，挤在吃完的汉堡纸上。\n“我感觉我不需要什么了，我们回去吧。”\n“要回家了。”\n“我们再待一会吧，我还不想回去。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2042141022629876158",
+        "created_at": "2026-04-09T07:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042141022629876158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042141022629876158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“doro，你有什么想买的吗？”\ndoro和我在商场逛了一整天，最后只吃了麦当劳。\n“你想要新衣服吗？”\n“你想要新手机吗？”\ndoro多要了两包番茄酱，挤在吃完的汉堡纸上。\n“我感觉我不需要什么了，我们回去吧。”\n“要回家了。”\n“我们再待一会吧，我还不想回去。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2041671996229218473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11417,
+          "following_count": 4798,
+          "like_count": 85382,
+          "listed_count": 20,
+          "media_count": 2057,
+          "tweet_count": 18851
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

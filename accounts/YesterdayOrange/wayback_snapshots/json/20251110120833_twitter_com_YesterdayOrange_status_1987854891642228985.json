@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1987852149121012136",
+    "created_at": "2025-11-10T12:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T13:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987854891642228985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1723525389681823744",
+          "start": 0,
+          "username": "Asuka_Isekai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987854891642228985",
+    "in_reply_to_user_id": "1723525389681823744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987854794640564641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asuka_Isekai 你去搜一下那句日语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1987852149121012136",
+        "created_at": "2025-11-10T12:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T13:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987854891642228985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1723525389681823744",
+              "start": 0,
+              "username": "Asuka_Isekai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987854891642228985",
+        "in_reply_to_user_id": "1723525389681823744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987854794640564641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asuka_Isekai 你去搜一下那句日语"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723525389681823744",
+        "conversation_id": "1987852149121012136",
+        "created_at": "2025-11-10T12:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T13:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987854794640564641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987854794640564641",
+        "in_reply_to_user_id": "1723525389681823744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987854715162673246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 你好狠的心😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1987852149121012136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8087,
+          "following_count": 3186,
+          "like_count": 63514,
+          "listed_count": 14,
+          "media_count": 1304,
+          "tweet_count": 14654
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T02:17:38.000Z",
+        "description": "🇨🇳 || 魔法少女ノ魔女裁判 まのさば  魔法少女ノ因習村‖ヰ組,花組,少革‖my fans    @Yumeitsustellar‖Project Sekai ||アークナイツ 大陸 ||\nEnglish  中文👌日本語は少し知っています || 独学ピアノ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "Yumeitsustellar"
+              }
+            ]
+          }
+        },
+        "id": "1723525389681823744",
+        "location": "Endfield ",
+        "name": "枫林🍁@VALヰS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948783864438312960/4qC_yGem_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 1639,
+          "like_count": 60298,
+          "listed_count": 2,
+          "media_count": 220,
+          "tweet_count": 7645
+        },
+        "username": "Asuka_Isekai",
+        "verified": false
+      }
+    ]
+  }
+}

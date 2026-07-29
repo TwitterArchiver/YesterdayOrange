@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1999390589343924626",
+    "created_at": "2025-12-12T08:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T09:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999395198510727321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1935630143021539328",
+          "start": 0,
+          "username": "xiaoxiaoyue2334"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999395198510727321",
+    "in_reply_to_user_id": "1935630143021539328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999390589343924626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiaoyue2334 有我耶！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1999390579378257924",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79DI4MagAQ7Ux3.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1999390589343924626",
+        "created_at": "2025-12-12T08:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999395198510727321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1935630143021539328",
+              "start": 0,
+              "username": "xiaoxiaoyue2334"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999395198510727321",
+        "in_reply_to_user_id": "1935630143021539328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999390589343924626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiaoyue2334 有我耶！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999390579378257924"
+          ]
+        },
+        "author_id": "1935630143021539328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1999390589343924626",
+        "created_at": "2025-12-12T08:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999390589343924626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1997392853291745280/5VBthu36?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1997392853291745280/5VBthu36?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/IeBjgtPg3t"
+            },
+            {
+              "display_url": "pic.x.com/2TjP8Hqd6m",
+              "end": 64,
+              "expanded_url": "https://x.com/xiaoxiaoyue2334/status/1999390589343924626/photo/1",
+              "media_key": "3_1999390579378257924",
+              "start": 41,
+              "url": "https://t.co/2TjP8Hqd6m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999390589343924626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/IeBjgtPg3t https://t.co/2TjP8Hqd6m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1999295726791409827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9450,
+          "following_count": 3406,
+          "like_count": 68458,
+          "listed_count": 16,
+          "media_count": 1497,
+          "tweet_count": 15760
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T09:26:15.000Z",
+        "description": "（互fo）07 |   大一|174 65kg   一个普通的宅  可以称呼 玥/筱 （男） 会些伪音 成分acg  宅 卡丘 mc π  vrc（pc）cs..有些复杂？ 喜欢可爱的好友想变得更充实   无对象 有的话来个xnn cd（不要太涩了） 私信扩列好友也行呢   私信看着回 可以聊聊天 上线时间不定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xylzero",
+                "end": 23,
+                "expanded_url": "http://t.me/xylzero",
+                "start": 0,
+                "url": "https://t.co/QenifA4nfA"
+              }
+            ]
+          }
+        },
+        "id": "1935630143021539328",
+        "location": "q1598739480虽然不是nn但来找窝玩 补药挂列表",
+        "name": "筱 月",
+        "pinned_tweet_id": "1998793047765823951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949532341405388800/VFzFfUOs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 52,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/QenifA4nfA",
+        "username": "xiaoxiaoyue2334",
+        "verified": false
+      }
+    ]
+  }
+}

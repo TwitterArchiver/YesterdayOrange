@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2019794614434013294",
+    "created_at": "2026-02-06T15:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T16:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019794614434013294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeihaku8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019794614434013294",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@bungeihaku8964 这是好宝宝😙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2019794614434013294",
+        "created_at": "2026-02-06T15:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T16:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019794614434013294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeihaku8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019794614434013294",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@bungeihaku8964 这是好宝宝😙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2017875249245917244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10181,
+          "following_count": 3825,
+          "like_count": 74403,
+          "listed_count": 17,
+          "media_count": 1713,
+          "tweet_count": 16888
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "專業：政治學 內網搬運工 愛港愛粵 兩岸和平 人道主義 憲政 邏輯至上 信奉三民主義 支持改革開放 望驅逐韃虏 天佑中華",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kmt.org.tw",
+                "end": 23,
+                "expanded_url": "http://www.kmt.org.tw/",
+                "start": 0,
+                "url": "https://t.co/TrlLnQy63s"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "Republic of China——📍Canton",
+        "name": "文芸の空白~粵內勢力❂🇹🇼🇭🇰🇲🇴🇯🇵",
+        "pinned_tweet_id": "2019552189237325953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010269811520196608/Gv-g7spP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 486,
+          "like_count": 8176,
+          "listed_count": 6,
+          "media_count": 467,
+          "tweet_count": 2174
+        },
+        "url": "https://t.co/TrlLnQy63s",
+        "username": "bungeihaku8964",
+        "verified": false
+      }
+    ]
+  }
+}

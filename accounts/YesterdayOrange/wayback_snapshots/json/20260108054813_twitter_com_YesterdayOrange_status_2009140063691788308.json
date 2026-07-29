@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2009140063691788308",
+    "created_at": "2026-01-08T05:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T06:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009140063691788308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shannonbar4882…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/shannonbar48824/status/2008932158757544115",
+          "start": 67,
+          "url": "https://t.co/VKkrLNEmwE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009140063691788308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008932158757544115",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上一个回避型找我倒了一个月垃圾后把我切割了，再上一个先瞒着我HRT，再说自己回避型不喜欢亲密关系，然后过一个月和另一个xyn在一起了 https://t.co/VKkrLNEmwE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2009140063691788308",
+        "created_at": "2026-01-08T05:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T06:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009140063691788308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shannonbar4882…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/shannonbar48824/status/2008932158757544115",
+              "start": 67,
+              "url": "https://t.co/VKkrLNEmwE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009140063691788308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008932158757544115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上一个回避型找我倒了一个月垃圾后把我切割了，再上一个先瞒着我HRT，再说自己回避型不喜欢亲密关系，然后过一个月和另一个xyn在一起了 https://t.co/VKkrLNEmwE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863439579887378432",
+        "conversation_id": "2008886908236308866",
+        "created_at": "2026-01-07T16:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008932158757544115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008932158757544115",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008886908236308866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我是回避型依恋，我可以无微不至的回复你，爱你。但我不会找你🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2008564800843112913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9918,
+          "following_count": 3674,
+          "like_count": 72046,
+          "listed_count": 17,
+          "media_count": 1635,
+          "tweet_count": 16491
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:26:52.000Z",
+        "description": "Ars longa,vita brevis",
+        "id": "1863439579887378432",
+        "name": "龙井茶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881344422379720704/q7mDxCy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 79,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 153
+        },
+        "username": "ShannonBar48824",
+        "verified": false
+      }
+    ]
+  }
+}

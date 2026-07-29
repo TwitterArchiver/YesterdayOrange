@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2058943773762371627",
+    "created_at": "2026-05-25T16:33:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058949677169684761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2040976629736841216",
+          "start": 0,
+          "username": "YunShmu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058949677169684761",
+    "in_reply_to_user_id": "2040976629736841216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058947487285882920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunShmu 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2058943773762371627",
+        "created_at": "2026-05-25T16:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058949677169684761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2040976629736841216",
+              "start": 0,
+              "username": "YunShmu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058949677169684761",
+        "in_reply_to_user_id": "2040976629736841216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058947487285882920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunShmu 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040976629736841216",
+        "conversation_id": "2058943773762371627",
+        "created_at": "2026-05-25T16:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058947487285882920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058947487285882920",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058943773762371627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange ，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2057128877051588914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12072,
+          "following_count": 5095,
+          "like_count": 92409,
+          "listed_count": 22,
+          "media_count": 2263,
+          "tweet_count": 20103
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T02:15:34.000Z",
+        "description": "",
+        "id": "2040976629736841216",
+        "name": "yun shmu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042156476299669504/jxXcA-yN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 108,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 64
+        },
+        "username": "YunShmu",
+        "verified": false
+      }
+    ]
+  }
+}

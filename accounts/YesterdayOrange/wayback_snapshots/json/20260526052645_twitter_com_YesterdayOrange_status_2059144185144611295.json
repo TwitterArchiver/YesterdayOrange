@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2059129992366452940",
+    "created_at": "2026-05-26T05:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059144185144611295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1879073913176752128",
+          "start": 0,
+          "username": "tufei299"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059144185144611295",
+    "in_reply_to_user_id": "1879073913176752128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059140859766177813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tufei299 怎么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2059129992366452940",
+        "created_at": "2026-05-26T05:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059144185144611295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1879073913176752128",
+              "start": 0,
+              "username": "tufei299"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059144185144611295",
+        "in_reply_to_user_id": "1879073913176752128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059140859766177813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tufei299 怎么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879073913176752128",
+        "conversation_id": "2059129992366452940",
+        "created_at": "2026-05-26T05:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059140859766177813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059140859766177813",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059129992366452940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2059129992366452940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12078,
+          "following_count": 5099,
+          "like_count": 92446,
+          "listed_count": 22,
+          "media_count": 2263,
+          "tweet_count": 20112
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-14T07:51:56.000Z",
+        "description": "昨日看花花灼灼",
+        "id": "1879073913176752128",
+        "location": "紫阳街",
+        "name": "灼灼长安8964",
+        "pinned_tweet_id": "2059116065851089022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044077486825431040/LIeg5Lep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 138,
+          "like_count": 7430,
+          "listed_count": 1,
+          "media_count": 229,
+          "tweet_count": 3289
+        },
+        "username": "tufei299",
+        "verified": false
+      }
+    ]
+  }
+}

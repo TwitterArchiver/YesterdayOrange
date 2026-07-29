@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2079171024499990912",
+    "created_at": "2026-07-20T11:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079171024499990912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cruthousindrea…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/cruthousindream/status/2079170458356953527",
+          "start": 7,
+          "url": "https://t.co/DJtQno3Ero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079171024499990912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079170458356953527",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是沙糖桔嘛 https://t.co/DJtQno3Ero"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2079171024499990912",
+        "created_at": "2026-07-20T11:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079171024499990912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cruthousindrea…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/cruthousindream/status/2079170458356953527",
+              "start": 7,
+              "url": "https://t.co/DJtQno3Ero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079171024499990912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079170458356953527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是沙糖桔嘛 https://t.co/DJtQno3Ero"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566669758174486529",
+        "conversation_id": "2079169228268290064",
+        "created_at": "2026-07-20T11:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079170458356953527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079170458356953527",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079169228268290064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 不是沙糖桔我不贴🤠🤠🤠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2078080489244770777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12179,
+          "following_count": 5215,
+          "like_count": 96442,
+          "listed_count": 20,
+          "media_count": 2401,
+          "tweet_count": 20966
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-05T06:09:23.000Z",
+        "description": "偶尔会写故事，偶尔会和动物聊天，偶尔会和自己聊天，偶尔想在网上展示一些自己。\n不过最重要的，未来，过去，还有现在～",
+        "id": "1566669758174486529",
+        "name": "Yukey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071883716473860097/sS4wAe1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 27,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "cruthousindream",
+        "verified": true
+      }
+    ]
+  }
+}

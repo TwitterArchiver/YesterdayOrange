@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1985375344384459132",
+    "created_at": "2025-11-03T15:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T16:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985375344384459132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/1985373240110600326",
+          "start": 13,
+          "url": "https://t.co/KtYDyO9u6u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985375344384459132",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985373240110600326",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好像今天质量不太行（x） https://t.co/KtYDyO9u6u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1985373051190689794",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G412RWbawAIn59K.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1985375344384459132",
+        "created_at": "2025-11-03T15:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985375344384459132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/1985373240110600326",
+              "start": 13,
+              "url": "https://t.co/KtYDyO9u6u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985375344384459132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985373240110600326",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像今天质量不太行（x） https://t.co/KtYDyO9u6u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985373051190689794"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1985373240110600326",
+        "created_at": "2025-11-03T15:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985373240110600326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NHSpkZUIHe",
+              "end": 178,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1985373240110600326/photo/1",
+              "media_key": "3_1985373051190689794",
+              "start": 155,
+              "url": "https://t.co/NHSpkZUIHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985373240110600326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "母亲听说欧润吉性酸，会耽误学习\n父亲便手扔掉Doro的欧润吉，送Doro上学\n太阳刚刚升起，Doro饿了\n父亲忘了早餐，但记得提醒Doro好好学习\n隔壁班的黄毛帮Doro买了早餐，听了上午的事情\n黄毛不认识欧润吉，放学后他买了一袋橙子和橘子\nDoro接过黄毛的手，他说带她走\n太阳落山了，像一个被扔掉的欧润吉 https://t.co/NHSpkZUIHe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1985373240110600326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7556,
+          "following_count": 3057,
+          "like_count": 61392,
+          "listed_count": 14,
+          "media_count": 1243,
+          "tweet_count": 14329
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

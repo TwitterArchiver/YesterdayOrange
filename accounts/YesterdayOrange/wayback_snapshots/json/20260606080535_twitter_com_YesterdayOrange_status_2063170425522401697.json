@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063170413182808064"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063170425522401697",
+    "created_at": "2026-06-06T08:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T09:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063170425522401697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J0bOqor8uO",
+          "end": 28,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2063170425522401697/photo/1",
+          "media_key": "3_2063170413182808064",
+          "start": 5,
+          "url": "https://t.co/J0bOqor8uO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063170425522401697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "汉堡外卖 https://t.co/J0bOqor8uO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063170413182808064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHaj0TbcAACqd-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063170413182808064"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063170425522401697",
+        "created_at": "2026-06-06T08:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063170425522401697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0bOqor8uO",
+              "end": 28,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2063170425522401697/photo/1",
+              "media_key": "3_2063170413182808064",
+              "start": 5,
+              "url": "https://t.co/J0bOqor8uO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063170425522401697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "汉堡外卖 https://t.co/J0bOqor8uO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2062796473314799809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12129,
+          "following_count": 5123,
+          "like_count": 93475,
+          "listed_count": 21,
+          "media_count": 2285,
+          "tweet_count": 20288
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

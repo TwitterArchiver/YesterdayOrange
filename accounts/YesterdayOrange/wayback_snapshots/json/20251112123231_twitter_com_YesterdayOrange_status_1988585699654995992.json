@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1988585699654995992",
+    "created_at": "2025-11-12T12:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T13:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988585699654995992"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mshuxing/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/mshuxing/status/1988546715859706236",
+          "start": 9,
+          "url": "https://t.co/hEAaG2TbC2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988585699654995992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988546715859706236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不知道这是什么 https://t.co/hEAaG2TbC2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1988585699654995992",
+        "created_at": "2025-11-12T12:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988585699654995992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mshuxing/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/mshuxing/status/1988546715859706236",
+              "start": 9,
+              "url": "https://t.co/hEAaG2TbC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988585699654995992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988546715859706236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不知道这是什么 https://t.co/hEAaG2TbC2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918236611684233216",
+        "conversation_id": "1988463725494628769",
+        "created_at": "2025-11-12T09:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T10:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988546715859706236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988546715859706236",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988463725494628769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 胡巴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1988520564370161874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8166,
+          "following_count": 3204,
+          "like_count": 64035,
+          "listed_count": 14,
+          "media_count": 1321,
+          "tweet_count": 14740
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T09:30:44.000Z",
+        "description": "cn菡亭序意 可以叫我幼幼 碎碎念 自拍 攻击性言论 中偏重抑焦自残\nBrat｜顺女｜范性恋｜友跨🏳️‍⚧️｜恐顺反顺 |LGBT+全友好🏳️‍🌈\n♌ 狮子座｜INTP-T｜2011.08.04 |纯爱党\n看出成分互fo属性置顶",
+        "id": "1918236611684233216",
+        "name": "幼",
+        "pinned_tweet_id": "1987675343897903364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986523114952392704/U1VlMaIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 101,
+          "like_count": 1119,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 449
+        },
+        "username": "mshuxing",
+        "verified": false
+      }
+    ]
+  }
+}

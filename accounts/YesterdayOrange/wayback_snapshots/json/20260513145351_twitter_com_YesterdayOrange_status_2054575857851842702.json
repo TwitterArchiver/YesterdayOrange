@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2054367091843866648",
+    "created_at": "2026-05-13T14:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T15:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054575857851842702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002631807993581569",
+          "start": 0,
+          "username": "YOYOSAMA372185"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054575857851842702",
+    "in_reply_to_user_id": "2002631807993581569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054573309937992014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@YOYOSAMA372185 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2054367091843866648",
+        "created_at": "2026-05-13T14:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054575857851842702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002631807993581569",
+              "start": 0,
+              "username": "YOYOSAMA372185"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054575857851842702",
+        "in_reply_to_user_id": "2002631807993581569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054573309937992014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@YOYOSAMA372185 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002631807993581569",
+        "conversation_id": "2054367091843866648",
+        "created_at": "2026-05-13T14:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054573309937992014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054573309937992014",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054367091843866648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@YesterdayOrange 欸?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2054258784231645579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11960,
+          "following_count": 5005,
+          "like_count": 90519,
+          "listed_count": 22,
+          "media_count": 2232,
+          "tweet_count": 19876
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-21T06:46:55.000Z",
+        "description": "我是一只猫娘（是/不是？/到底是还是不是）我会在各大帖子下面喵喵叫....喵喵喵!",
+        "id": "2002631807993581569",
+        "name": "YOYOSAMA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043668896759336960/PmtCtUO6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 35,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 226
+        },
+        "username": "YOYOSAMA372185",
+        "verified": false
+      }
+    ]
+  }
+}

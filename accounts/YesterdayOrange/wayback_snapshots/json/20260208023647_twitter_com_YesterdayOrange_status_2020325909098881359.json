@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2020306432751726595"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2020325909098881359",
+    "created_at": "2026-02-08T02:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T03:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020325909098881359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1964042844198621187",
+          "start": 3,
+          "username": "bungeihaku8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020325909098881359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020306433779331227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bungeihaku8964: IQ大比拼4\n看看大家民意如何"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-02-09T01:19:23.000Z",
+        "id": "2020306432751726595",
+        "options": [
+          {
+            "label": "文芸の空白",
+            "position": 1,
+            "votes": 17
+          },
+          {
+            "label": "達爾文老爺爺",
+            "position": 2,
+            "votes": 1
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2020306432751726595"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2020325909098881359",
+        "created_at": "2026-02-08T02:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T03:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020325909098881359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1964042844198621187",
+              "start": 3,
+              "username": "bungeihaku8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020325909098881359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020306433779331227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bungeihaku8964: IQ大比拼4\n看看大家民意如何"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2020306432751726595"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2020306433779331227",
+        "created_at": "2026-02-08T01:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T02:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020306433779331227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020306433779331227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "IQ大比拼4\n看看大家民意如何"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2017875249245917244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10191,
+          "following_count": 3838,
+          "like_count": 74486,
+          "listed_count": 17,
+          "media_count": 1718,
+          "tweet_count": 16916
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "專業：政治學 內網搬運工 愛港愛粵 兩岸和平 人道主義 憲政 邏輯至上 信奉三民主義 支持改革開放 望驅逐韃虏 天佑中華",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kmt.org.tw",
+                "end": 23,
+                "expanded_url": "http://www.kmt.org.tw/",
+                "start": 0,
+                "url": "https://t.co/TrlLnQy63s"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "Republic of China——📍Canton",
+        "name": "文芸の空白~粵內勢力❂🇹🇼🇭🇰🇲🇴🇯🇵",
+        "pinned_tweet_id": "2019552189237325953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010269811520196608/Gv-g7spP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1116,
+          "following_count": 489,
+          "like_count": 8248,
+          "listed_count": 6,
+          "media_count": 469,
+          "tweet_count": 2192
+        },
+        "url": "https://t.co/TrlLnQy63s",
+        "username": "bungeihaku8964",
+        "verified": false
+      }
+    ]
+  }
+}

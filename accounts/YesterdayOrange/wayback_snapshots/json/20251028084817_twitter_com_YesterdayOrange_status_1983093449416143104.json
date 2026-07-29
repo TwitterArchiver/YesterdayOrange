@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1983093449416143104",
+    "created_at": "2025-10-28T08:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T09:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983093449416143104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/awaandqwq/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/awaandqwq/status/1983090882250170699",
+          "start": 9,
+          "url": "https://t.co/zsXxg6ZRJz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983093449416143104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983090882250170699",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我家宝宝好漂亮🥰 https://t.co/zsXxg6ZRJz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_1983090839594106880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VanJtWgAAU9A-.jpg",
+        "width": 1281
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1983093449416143104",
+        "created_at": "2025-10-28T08:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T09:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983093449416143104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/awaandqwq/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/awaandqwq/status/1983090882250170699",
+              "start": 9,
+              "url": "https://t.co/zsXxg6ZRJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983093449416143104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983090882250170699",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我家宝宝好漂亮🥰 https://t.co/zsXxg6ZRJz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983090839594106880"
+          ]
+        },
+        "author_id": "1881792419135356928",
+        "conversation_id": "1983090882250170699",
+        "created_at": "2025-10-28T08:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T09:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983090882250170699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3VHnv1a1ha",
+              "end": 60,
+              "expanded_url": "https://x.com/awaandqwq/status/1983090882250170699/photo/1",
+              "media_key": "3_1983090839594106880",
+              "start": 37,
+              "url": "https://t.co/3VHnv1a1ha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983090882250170699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天上午发的那张看起来怪怪的 我决定重新发一次喵（其实我蛮喜欢我的腿的） https://t.co/3VHnv1a1ha"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1983039190972641305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6965,
+          "following_count": 2872,
+          "like_count": 58601,
+          "listed_count": 14,
+          "media_count": 1182,
+          "tweet_count": 14002
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T19:54:26.000Z",
+        "description": "高校2年生、ベースが弾けて、“東方project”が好きで友達を作りたい 🐧 3972923516（我话太多了私信会上限….）可以恰我的Q聊天喵",
+        "id": "1881792419135356928",
+        "location": "Atlanta, GA",
+        "name": "博麗霊夢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881792872476770304/4u4Ps2AI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 131,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 90
+        },
+        "username": "awaandqwq",
+        "verified": false
+      }
+    ]
+  }
+}

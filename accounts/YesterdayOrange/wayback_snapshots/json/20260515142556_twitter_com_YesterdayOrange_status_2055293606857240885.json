@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2055176105116815361",
+    "created_at": "2026-05-15T14:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055293606857240885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1830577223289753600",
+          "start": 0,
+          "username": "wrenmist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055293606857240885",
+    "in_reply_to_user_id": "1830577223289753600",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055279588293624236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wrenmist 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2055176105116815361",
+        "created_at": "2026-05-15T14:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055293606857240885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1830577223289753600",
+              "start": 0,
+              "username": "wrenmist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055293606857240885",
+        "in_reply_to_user_id": "1830577223289753600",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055279588293624236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wrenmist 👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830577223289753600",
+        "conversation_id": "2055176105116815361",
+        "created_at": "2026-05-15T13:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055279588293624236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055279588293624236",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055176105116815361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2054845995012509696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12026,
+          "following_count": 5052,
+          "like_count": 91113,
+          "listed_count": 22,
+          "media_count": 2235,
+          "tweet_count": 19941
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-02T12:03:27.000Z",
+        "description": "仍在继续",
+        "id": "1830577223289753600",
+        "location": "国営 海の中道海浜公園",
+        "name": "Sable Wren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047877403712888832/cMUL0vCN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 304,
+          "like_count": 846,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 401
+        },
+        "username": "wrenmist",
+        "verified": true
+      }
+    ]
+  }
+}

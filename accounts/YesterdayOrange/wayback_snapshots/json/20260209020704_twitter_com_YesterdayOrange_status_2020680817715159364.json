@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020680806398869504",
+        "3_2020680806663159808",
+        "3_2020680806377914368",
+        "3_2020680806373675008"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2020680817715159364",
+    "created_at": "2026-02-09T02:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T03:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020680817715159364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pmKPUN4rRb",
+          "end": 53,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2020680817715159364/photo/1",
+          "media_key": "3_2020680806398869504",
+          "start": 30,
+          "url": "https://t.co/pmKPUN4rRb"
+        },
+        {
+          "display_url": "pic.x.com/pmKPUN4rRb",
+          "end": 53,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2020680817715159364/photo/1",
+          "media_key": "3_2020680806663159808",
+          "start": 30,
+          "url": "https://t.co/pmKPUN4rRb"
+        },
+        {
+          "display_url": "pic.x.com/pmKPUN4rRb",
+          "end": 53,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2020680817715159364/photo/1",
+          "media_key": "3_2020680806377914368",
+          "start": 30,
+          "url": "https://t.co/pmKPUN4rRb"
+        },
+        {
+          "display_url": "pic.x.com/pmKPUN4rRb",
+          "end": 53,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2020680817715159364/photo/1",
+          "media_key": "3_2020680806373675008",
+          "start": 30,
+          "url": "https://t.co/pmKPUN4rRb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020680817715159364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在xhs刷到的，如何评价？\n“亚洲最高学府计算机硕士薪资” https://t.co/pmKPUN4rRb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020680806398869504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HArmfMXawAAhCKp.jpg",
+        "width": 946
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2020680806663159808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HArmfNWbgAASt37.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020680806377914368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HArmfMSbAAAJ7NH.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020680806373675008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HArmfMRaUAAdQX1.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020680806398869504",
+            "3_2020680806663159808",
+            "3_2020680806377914368",
+            "3_2020680806373675008"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2020680817715159364",
+        "created_at": "2026-02-09T02:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T03:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020680817715159364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pmKPUN4rRb",
+              "end": 53,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2020680817715159364/photo/1",
+              "media_key": "3_2020680806398869504",
+              "start": 30,
+              "url": "https://t.co/pmKPUN4rRb"
+            },
+            {
+              "display_url": "pic.x.com/pmKPUN4rRb",
+              "end": 53,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2020680817715159364/photo/1",
+              "media_key": "3_2020680806663159808",
+              "start": 30,
+              "url": "https://t.co/pmKPUN4rRb"
+            },
+            {
+              "display_url": "pic.x.com/pmKPUN4rRb",
+              "end": 53,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2020680817715159364/photo/1",
+              "media_key": "3_2020680806377914368",
+              "start": 30,
+              "url": "https://t.co/pmKPUN4rRb"
+            },
+            {
+              "display_url": "pic.x.com/pmKPUN4rRb",
+              "end": 53,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2020680817715159364/photo/1",
+              "media_key": "3_2020680806373675008",
+              "start": 30,
+              "url": "https://t.co/pmKPUN4rRb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020680817715159364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在xhs刷到的，如何评价？\n“亚洲最高学府计算机硕士薪资” https://t.co/pmKPUN4rRb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2020532938266525821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10214,
+          "following_count": 3861,
+          "like_count": 74533,
+          "listed_count": 17,
+          "media_count": 1725,
+          "tweet_count": 16961
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

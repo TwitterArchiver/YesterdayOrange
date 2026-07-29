@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2064872067661701473",
+    "created_at": "2026-06-11T00:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T01:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064872067661701473"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064872067661701473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "敢不敢发到你推，看看你收到字母是几？\nA 我想抱抱你\nB 我喜欢你\nC 我讨厌你\nD 我想亲亲你\nE 我们和好吧\nF 你很帅\nG 你很坏\nH 你很呆\nI 你很可爱\nJ 你很迷人\nK 想和你做最好的朋友\nL 想和你逛街\nM 你很烦人以后我们别联系\nN 你很忙\nO 很无情\nP 想和你在一起\nQ 用命去爱你\nR 你是我女神\nS 你是我男神\nT 你是混蛋\nU 你很高冷\nV 你很善良\nW 你很老实\nX 你很单纯\nY 我恨你\nZ 我想艹你"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "敢不敢发到你推，看看你收到字母是几？\nA 我想抱抱你\nB 我喜欢你\nC 我讨厌你\nD 我想亲亲你\nE 我们和好吧\nF 你很帅\nG 你很坏\nH 你很呆\nI 你很可爱\nJ 你很迷人\nK 想和你做最好的朋友\nL 想和你逛街\nM 你很烦人以后我们别联系\nN 你很忙\nO 很无情\nP 想和你在一起\nQ 用命去爱你\nR 你是我女神\nS 你是我男神\nT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2064872067661701473",
+        "created_at": "2026-06-11T00:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064872067661701473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064872067661701473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "敢不敢发到你推，看看你收到字母是几？\nA 我想抱抱你\nB 我喜欢你\nC 我讨厌你\nD 我想亲亲你\nE 我们和好吧\nF 你很帅\nG 你很坏\nH 你很呆\nI 你很可爱\nJ 你很迷人\nK 想和你做最好的朋友\nL 想和你逛街\nM 你很烦人以后我们别联系\nN 你很忙\nO 很无情\nP 想和你在一起\nQ 用命去爱你\nR 你是我女神\nS 你是我男神\nT 你是混蛋\nU 你很高冷\nV 你很善良\nW 你很老实\nX 你很单纯\nY 我恨你\nZ 我想艹你"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "敢不敢发到你推，看看你收到字母是几？\nA 我想抱抱你\nB 我喜欢你\nC 我讨厌你\nD 我想亲亲你\nE 我们和好吧\nF 你很帅\nG 你很坏\nH 你很呆\nI 你很可爱\nJ 你很迷人\nK 想和你做最好的朋友\nL 想和你逛街\nM 你很烦人以后我们别联系\nN 你很忙\nO 很无情\nP 想和你在一起\nQ 用命去爱你\nR 你是我女神\nS 你是我男神\nT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2064378484663992607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12166,
+          "following_count": 5133,
+          "like_count": 94015,
+          "listed_count": 21,
+          "media_count": 2299,
+          "tweet_count": 20393
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

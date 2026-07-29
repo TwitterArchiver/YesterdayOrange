@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2022536158690128181",
+    "created_at": "2026-02-14T10:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T11:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022612787051270585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2022214454281388032",
+          "start": 0,
+          "username": "YukiMomiji25256"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022612787051270585",
+    "in_reply_to_user_id": "2022214454281388032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022610590481752465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukiMomiji25256 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2022536158690128181",
+        "created_at": "2026-02-14T10:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T11:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022612787051270585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2022214454281388032",
+              "start": 0,
+              "username": "YukiMomiji25256"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022612787051270585",
+        "in_reply_to_user_id": "2022214454281388032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022610590481752465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukiMomiji25256 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022214454281388032",
+        "conversation_id": "2022536158690128181",
+        "created_at": "2026-02-14T09:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022610590481752465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022610590481752465",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022536158690128181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2022259278455984412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10485,
+          "following_count": 4062,
+          "like_count": 76108,
+          "listed_count": 17,
+          "media_count": 1770,
+          "tweet_count": 17232
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T07:41:27.000Z",
+        "description": "",
+        "id": "2022214454281388032",
+        "name": "椛雪Yuki Momiji",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022249868283240449/tBRzNcdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 25,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "YukiMomiji25256",
+        "verified": false
+      }
+    ]
+  }
+}

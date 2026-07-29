@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2051825404240158901",
+    "created_at": "2026-05-06T00:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T01:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051825404240158901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1717080511435153408",
+          "start": 3,
+          "username": "Your1828"
+        },
+        {
+          "end": 30,
+          "id": "1788485889225834496",
+          "start": 14,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051825404240158901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051637288589820223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Your1828: @YesterdayOrange 一群傻屌，一辈子没去过漫展。爆猪意思是长得丑潜规则是长得丑出乙游角色就是会被骂。男的当然可以出男乙游啊前提就是你长得好看你如果长得肥头大耳出什么都得被骂一帮子傻屌看营销号瞎鸡巴乱出又整男女对立了我说的话你都理解不了就…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2051825404240158901",
+        "created_at": "2026-05-06T00:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T01:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051825404240158901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1717080511435153408",
+              "start": 3,
+              "username": "Your1828"
+            },
+            {
+              "end": 30,
+              "id": "1788485889225834496",
+              "start": 14,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051825404240158901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051637288589820223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Your1828: @YesterdayOrange 一群傻屌，一辈子没去过漫展。爆猪意思是长得丑潜规则是长得丑出乙游角色就是会被骂。男的当然可以出男乙游啊前提就是你长得好看你如果长得肥头大耳出什么都得被骂一帮子傻屌看营销号瞎鸡巴乱出又整男女对立了我说的话你都理解不了就…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717080511435153408",
+        "conversation_id": "2051526234706972992",
+        "created_at": "2026-05-05T12:17:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:17:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051637288589820223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051637288589820223",
+        "in_reply_to_user_id": "1717080511435153408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1029,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051546788541182241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 一群傻屌，一辈子没去过漫展。爆猪意思是长得丑潜规则是长得丑出乙游角色就是会被骂。男的当然可以出男乙游啊前提就是你长得好看你如果长得肥头大耳出什么都得被骂一帮子傻屌看营销号瞎鸡巴乱出又整男女对立了我说的话你都理解不了就过来喷我什么男的为什么不能出男呢？你现实中一定是肥头大耳油头垢面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2051560833235444117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11904,
+          "following_count": 4995,
+          "like_count": 89929,
+          "listed_count": 23,
+          "media_count": 2209,
+          "tweet_count": 19751
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-25T07:28:02.000Z",
+        "description": "不要骂人",
+        "id": "1717080511435153408",
+        "name": "江郎才尽",
+        "pinned_tweet_id": "1912790342580985913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825245469339254784/t_F0Pziy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 163,
+          "like_count": 227,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 780
+        },
+        "username": "Your1828",
+        "verified": false
+      }
+    ]
+  }
+}

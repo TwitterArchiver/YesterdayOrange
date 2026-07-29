@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2049453828131660242",
+    "created_at": "2026-04-29T11:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049453828131660242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2049436817934700807",
+          "start": 6,
+          "url": "https://t.co/iogblfgX7g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049453828131660242",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049436817934700807",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是安卓人 https://t.co/iogblfgX7g"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2049453828131660242",
+        "created_at": "2026-04-29T11:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049453828131660242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2049436817934700807",
+              "start": 6,
+              "url": "https://t.co/iogblfgX7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049453828131660242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049436817934700807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是安卓人 https://t.co/iogblfgX7g"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2049436817934700807",
+        "created_at": "2026-04-29T10:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049436817934700807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/2049425883908432346",
+              "start": 28,
+              "url": "https://t.co/RkscpIvY0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049436817934700807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 412,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049425883908432346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家都好优秀啊，上海大学对我来说已经很高不可攀了，呜呜 https://t.co/RkscpIvY0w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2048959571394511106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11862,
+          "following_count": 4967,
+          "like_count": 88968,
+          "listed_count": 23,
+          "media_count": 2190,
+          "tweet_count": 19608
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

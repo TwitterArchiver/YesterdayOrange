@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026983873360613377",
+        "3_2026983873348038656",
+        "3_2026983873280933888",
+        "3_2026983873360596993"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026983906541715787",
+    "created_at": "2026-02-26T11:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T12:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026983906541715787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iryDPr7MUk",
+          "end": 32,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2026983906541715787/photo/1",
+          "media_key": "3_2026983873360613377",
+          "start": 9,
+          "url": "https://t.co/iryDPr7MUk"
+        },
+        {
+          "display_url": "pic.x.com/iryDPr7MUk",
+          "end": 32,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2026983906541715787/photo/1",
+          "media_key": "3_2026983873348038656",
+          "start": 9,
+          "url": "https://t.co/iryDPr7MUk"
+        },
+        {
+          "display_url": "pic.x.com/iryDPr7MUk",
+          "end": 32,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2026983906541715787/photo/1",
+          "media_key": "3_2026983873280933888",
+          "start": 9,
+          "url": "https://t.co/iryDPr7MUk"
+        },
+        {
+          "display_url": "pic.x.com/iryDPr7MUk",
+          "end": 32,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2026983906541715787/photo/1",
+          "media_key": "3_2026983873360596993",
+          "start": 9,
+          "url": "https://t.co/iryDPr7MUk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026983906541715787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女仆咖啡厅，禁男 https://t.co/iryDPr7MUk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026983873360613377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFLF-ka0AEFrzx.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026983873348038656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFLF-ha8AAhrz4.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026983873280933888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFLF-RbAAABXBA.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026983873360596993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFLF-kakAE53lH.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026983873360613377",
+            "3_2026983873348038656",
+            "3_2026983873280933888",
+            "3_2026983873360596993"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026983906541715787",
+        "created_at": "2026-02-26T11:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026983906541715787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iryDPr7MUk",
+              "end": 32,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2026983906541715787/photo/1",
+              "media_key": "3_2026983873360613377",
+              "start": 9,
+              "url": "https://t.co/iryDPr7MUk"
+            },
+            {
+              "display_url": "pic.x.com/iryDPr7MUk",
+              "end": 32,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2026983906541715787/photo/1",
+              "media_key": "3_2026983873348038656",
+              "start": 9,
+              "url": "https://t.co/iryDPr7MUk"
+            },
+            {
+              "display_url": "pic.x.com/iryDPr7MUk",
+              "end": 32,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2026983906541715787/photo/1",
+              "media_key": "3_2026983873280933888",
+              "start": 9,
+              "url": "https://t.co/iryDPr7MUk"
+            },
+            {
+              "display_url": "pic.x.com/iryDPr7MUk",
+              "end": 32,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2026983906541715787/photo/1",
+              "media_key": "3_2026983873360596993",
+              "start": 9,
+              "url": "https://t.co/iryDPr7MUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026983906541715787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女仆咖啡厅，禁男 https://t.co/iryDPr7MUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2026270503917277418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10855,
+          "following_count": 4333,
+          "like_count": 79699,
+          "listed_count": 20,
+          "media_count": 1879,
+          "tweet_count": 17755
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

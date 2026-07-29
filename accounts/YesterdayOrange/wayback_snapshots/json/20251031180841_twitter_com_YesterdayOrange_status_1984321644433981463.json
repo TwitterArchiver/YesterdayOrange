@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1984321455350562851",
+    "created_at": "2025-10-31T18:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T19:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984321644433981463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1122379259287261184",
+          "start": 0,
+          "username": "tnlhlnilml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984321644433981463",
+    "in_reply_to_user_id": "1122379259287261184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984321455350562851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tnlhlnilml 这是怎么做到的😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1984321455350562851",
+        "created_at": "2025-10-31T18:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T19:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984321644433981463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1122379259287261184",
+              "start": 0,
+              "username": "tnlhlnilml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984321644433981463",
+        "in_reply_to_user_id": "1122379259287261184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984321455350562851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tnlhlnilml 这是怎么做到的😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1122379259287261184",
+        "conversation_id": "1984321455350562851",
+        "created_at": "2025-10-31T18:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T19:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984321455350562851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984321455350562851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的牛奶本来可以用来配麦片\n但是我选择用来配火鸡面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1984296329212993548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7314,
+          "following_count": 3031,
+          "like_count": 60342,
+          "listed_count": 14,
+          "media_count": 1211,
+          "tweet_count": 14201
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-28T05:57:23.000Z",
+        "description": "女｜可以叫我高建国或者高高｜贴贴所有路过的人",
+        "id": "1122379259287261184",
+        "location": "布什·戈门",
+        "name": "只剩一口的高坚果",
+        "pinned_tweet_id": "1710957205317689496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616448628159283201/250__DqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 192,
+          "like_count": 49733,
+          "listed_count": 1,
+          "media_count": 434,
+          "tweet_count": 8302
+        },
+        "username": "tnlhlnilml",
+        "verified": false
+      }
+    ]
+  }
+}

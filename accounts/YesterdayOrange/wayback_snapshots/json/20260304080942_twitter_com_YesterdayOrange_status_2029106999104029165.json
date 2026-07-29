@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2029001015056556302",
+    "created_at": "2026-03-04T08:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T09:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029106999104029165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1220287808159481858",
+          "start": 0,
+          "username": "7swords"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029106999104029165",
+    "in_reply_to_user_id": "1220287808159481858",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029075055729074682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7swords 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2029001015056556302",
+        "created_at": "2026-03-04T08:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T09:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029106999104029165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1220287808159481858",
+              "start": 0,
+              "username": "7swords"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029106999104029165",
+        "in_reply_to_user_id": "1220287808159481858",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029075055729074682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7swords 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1220287808159481858",
+        "conversation_id": "2029001015056556302",
+        "created_at": "2026-03-04T06:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T07:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029075055729074682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029075055729074682",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029001015056556302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange vcaRB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2028629348073587063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10934,
+          "following_count": 4396,
+          "like_count": 80118,
+          "listed_count": 20,
+          "media_count": 1896,
+          "tweet_count": 17868
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-23T10:11:10.000Z",
+        "description": "梦想是成为赛车手，虽然遥遥无期。/F1车迷/跑的越快，就离今天的难过越远。/幸福就像小狗的巧克力，我一吃就死了。/间歇性精神失常。/Hashimoto Arina/Ня, пока. / 🎸noob.",
+        "id": "1220287808159481858",
+        "location": "我在这小小一方天地里谱写只属于我的故事，只因🈚人在意。",
+        "name": "咖啡因是我的治愈良药",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915705227749072898/9aexxN5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 681,
+          "like_count": 14454,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 513
+        },
+        "username": "7swords",
+        "verified": false
+      }
+    ]
+  }
+}

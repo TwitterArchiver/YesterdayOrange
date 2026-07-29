@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2081946130817142867",
+    "created_at": "2026-07-28T06:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081987537183338992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882099914886537220",
+          "start": 0,
+          "username": "kkaawaayii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081987537183338992",
+    "in_reply_to_user_id": "1882099914886537220",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081984921766121664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkaawaayii 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2081946130817142867",
+        "created_at": "2026-07-28T06:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081987537183338992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882099914886537220",
+              "start": 0,
+              "username": "kkaawaayii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081987537183338992",
+        "in_reply_to_user_id": "1882099914886537220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081984921766121664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkaawaayii 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882099914886537220",
+        "conversation_id": "2081946130817142867",
+        "created_at": "2026-07-28T06:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081984921766121664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081984921766121664",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081946130817142867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我也要喵～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2081790267934626067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12267,
+          "following_count": 5299,
+          "like_count": 97645,
+          "listed_count": 21,
+          "media_count": 2449,
+          "tweet_count": 21146
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-22T16:16:26.000Z",
+        "description": "11岁的抑郁症，23岁才治好。03年丨深圳打工人丨169cm58kg丨12岁跳楼丨2026.5.4开药治焦虑抑郁丨5.18CPA丨6.7hrt丨想和MTF贴贴",
+        "id": "1882099914886537220",
+        "name": "剧中人🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067469478430912512/L2nGDei1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 96,
+          "like_count": 9887,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 944
+        },
+        "url": "",
+        "username": "kkaawaayii",
+        "verified": false
+      }
+    ]
+  }
+}

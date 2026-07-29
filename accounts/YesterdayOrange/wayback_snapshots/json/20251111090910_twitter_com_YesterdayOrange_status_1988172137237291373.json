@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1988063872667037976",
+    "created_at": "2025-11-11T09:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T10:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988172137237291373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1867035438051131393",
+          "start": 0,
+          "username": "Iwilldieyoutoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988172137237291373",
+    "in_reply_to_user_id": "1867035438051131393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988172053216940255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iwilldieyoutoo 贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1988063872667037976",
+        "created_at": "2025-11-11T09:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T10:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988172137237291373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1867035438051131393",
+              "start": 0,
+              "username": "Iwilldieyoutoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988172137237291373",
+        "in_reply_to_user_id": "1867035438051131393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988172053216940255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iwilldieyoutoo 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867035438051131393",
+        "conversation_id": "1988063872667037976",
+        "created_at": "2025-11-11T09:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T10:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988172053216940255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988172053216940255",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988063872667037976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 抱抱亲亲贴贴😚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1987852149121012136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8133,
+          "following_count": 3192,
+          "like_count": 63752,
+          "listed_count": 14,
+          "media_count": 1311,
+          "tweet_count": 14688
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T02:35:24.000Z",
+        "description": "顺女泛性恋 // ✝精品神药滥用✝ // 会回fo但是会比较慢大概一到三天 // 🚪52解锁qq好友位 // 只收支付宝口令红包喵 // 周末不怎么上X可能错过口令请见谅 // 四叶草是幸运十叶草是螺旋桨带我升天",
+        "id": "1867035438051131393",
+        "name": "十字草草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986660942050963456/orX-Znda_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 65,
+          "like_count": 691,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 97
+        },
+        "username": "Iwilldieyoutoo",
+        "verified": false
+      }
+    ]
+  }
+}

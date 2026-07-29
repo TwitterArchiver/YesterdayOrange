@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1993710416799883305",
+    "created_at": "2025-11-27T03:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T04:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993879117583011993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938558508229877760",
+          "start": 0,
+          "username": "xuany66670"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993879117583011993",
+    "in_reply_to_user_id": "1938558508229877760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993878725935681891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuany66670 互关喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_1993878686852931584",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G6uuGgcXYAAIaQy.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G6uuGgcXYAAIaQy.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1993710416799883305",
+        "created_at": "2025-11-27T03:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993879117583011993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938558508229877760",
+              "start": 0,
+              "username": "xuany66670"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993879117583011993",
+        "in_reply_to_user_id": "1938558508229877760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993878725935681891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuany66670 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1993878686852931584"
+          ]
+        },
+        "author_id": "1938558508229877760",
+        "conversation_id": "1993710416799883305",
+        "created_at": "2025-11-27T03:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T04:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993878725935681891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7E6lesbc59",
+              "end": 40,
+              "expanded_url": "https://x.com/xuany66670/status/1993878725935681891/photo/1",
+              "media_key": "16_1993878686852931584",
+              "start": 17,
+              "url": "https://t.co/7E6lesbc59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993878725935681891",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993852583916839080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange https://t.co/7E6lesbc59"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1992956304256852427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9209,
+          "following_count": 3359,
+          "like_count": 67101,
+          "listed_count": 14,
+          "media_count": 1414,
+          "tweet_count": 15410
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-27T11:22:46.000Z",
+        "description": "09年男孩纸 高淫商/超超超爱睡觉/贪吃/宅家/PUBGMOBILE 国际服/PUBGMOBILE 日韩端/三角洲行动/社交恐惧症/选择困难症/トマト翻译过来是番茄的意思我的朋友都叫我番茄所以你们可以称呼我番茄/幻想我可以被草死而不是被自己道死",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yxy_20090202?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yxy_20090202?igsh=MTZ5OGd3dzNjbm11ZA==",
+                "start": 0,
+                "url": "https://t.co/KTImqFzU5P"
+              }
+            ]
+          }
+        },
+        "id": "1938558508229877760",
+        "location": "江苏省，中华人民共和国",
+        "name": "トマト",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992991696645197827/LJgFLIKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 15,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 91
+        },
+        "url": "https://t.co/KTImqFzU5P",
+        "username": "xuany66670",
+        "verified": false
+      }
+    ]
+  }
+}

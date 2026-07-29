@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2045193222243365241",
+    "created_at": "2026-04-17T17:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045193222243365241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ipgz7u/status/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/ipgz7u/status/2045192765160731071",
+          "start": 10,
+          "url": "https://t.co/ueKYwaYbg7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045193222243365241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045192765160731071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "羡慕你成绩好，呜呜 https://t.co/ueKYwaYbg7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2045193222243365241",
+        "created_at": "2026-04-17T17:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045193222243365241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ipgz7u/status/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ipgz7u/status/2045192765160731071",
+              "start": 10,
+              "url": "https://t.co/ueKYwaYbg7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045193222243365241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045192765160731071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羡慕你成绩好，呜呜 https://t.co/ueKYwaYbg7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708450531121995777",
+        "conversation_id": "2045187875608956970",
+        "created_at": "2026-04-17T17:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045192765160731071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045192765160731071",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045187875608956970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 实则很多人并没有引起关注，成绩好与其并不是正相关。就像我只是个路过的小透明一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2044726295100260383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11492,
+          "following_count": 4858,
+          "like_count": 86813,
+          "listed_count": 21,
+          "media_count": 2112,
+          "tweet_count": 19105
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-01T11:55:32.000Z",
+        "description": "要怎样，才能爱着这个世界呢？明明一直以来，都在不停地跌倒吧。",
+        "id": "1708450531121995777",
+        "name": "此之彼方",
+        "pinned_tweet_id": "1912838387389673801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041800832908476416/PgxcLG7U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 238,
+          "like_count": 7693,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1128
+        },
+        "username": "IpGz7u",
+        "verified": false
+      }
+    ]
+  }
+}

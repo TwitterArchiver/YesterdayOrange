@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1993173540015882602",
+    "created_at": "2025-11-26T04:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T05:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993531050010800212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1854050294616977408",
+          "start": 0,
+          "username": "King_White_Wolf"
+        },
+        {
+          "end": 33,
+          "id": "1893332752000524290",
+          "start": 17,
+          "username": "StarryCloud1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993531050010800212",
+    "in_reply_to_user_id": "1854050294616977408",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993529915497734445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@King_White_Wolf @StarryCloud1123 ？😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1993173540015882602",
+        "created_at": "2025-11-26T04:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T05:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993531050010800212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1854050294616977408",
+              "start": 0,
+              "username": "King_White_Wolf"
+            },
+            {
+              "end": 33,
+              "id": "1893332752000524290",
+              "start": 17,
+              "username": "StarryCloud1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993531050010800212",
+        "in_reply_to_user_id": "1854050294616977408",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993529915497734445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@King_White_Wolf @StarryCloud1123 ？😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854050294616977408",
+        "conversation_id": "1993173540015882602",
+        "created_at": "2025-11-26T03:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T04:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993529915497734445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893332752000524290",
+              "start": 0,
+              "username": "StarryCloud1123"
+            },
+            {
+              "end": 33,
+              "id": "1788485889225834496",
+              "start": 17,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993529915497734445",
+        "in_reply_to_user_id": "1893332752000524290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993473557536686502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryCloud1123 @YesterdayOrange 假的，这个up不理人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1992956304256852427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9023,
+          "following_count": 3319,
+          "like_count": 66881,
+          "listed_count": 14,
+          "media_count": 1404,
+          "tweet_count": 15334
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T06:37:15.000Z",
+        "description": "这里是石青木木的表推哦\n最喜欢木桶饭小男娘合法小兽太\n稳定的想死的精神状态，穷的荡气回肠，一名响当当的响当当，薪尽自然凉，要么成仙仙，要么躺板板\n里推@HentaiLooner🔞仅通过兽兽和熟人，有发过帖子+锁推才给通过哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "HentaiLooner"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@patrick94229?…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@patrick94229?si=f7iLJN6gnl4h9PIH",
+                "start": 0,
+                "url": "https://t.co/yp4s1dci6V"
+              }
+            ]
+          }
+        },
+        "id": "1854050294616977408",
+        "location": "距离您 -18 CM",
+        "name": "石青木木🏳️‍🌈",
+        "pinned_tweet_id": "1876887152975376556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985501823881682944/utPLUfVz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 372,
+          "like_count": 3231,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1216
+        },
+        "url": "https://t.co/yp4s1dci6V",
+        "username": "King_White_Wolf",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T16:11:34.000Z",
+        "description": "我们存在于一生仅此一次的当下/转帖会出现NSFW/对象@blueicesama/里推@zefffenggg/你不回我＝我不回你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "blueicesama"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "zefffenggg"
+              }
+            ]
+          }
+        },
+        "id": "1893332752000524290",
+        "name": "灿云SCloud🔜Sleeping",
+        "pinned_tweet_id": "1985751330938634387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981412250612068352/jGf7BI0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3808,
+          "following_count": 1520,
+          "like_count": 33055,
+          "listed_count": 4,
+          "media_count": 206,
+          "tweet_count": 2920
+        },
+        "username": "StarryCloud1123",
+        "verified": false
+      }
+    ]
+  }
+}

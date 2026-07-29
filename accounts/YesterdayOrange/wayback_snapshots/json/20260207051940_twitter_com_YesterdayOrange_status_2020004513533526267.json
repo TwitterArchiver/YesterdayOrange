@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020004503827935257",
+        "3_2020004503601426432",
+        "3_2020004503593115648"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2020004513533526267",
+    "created_at": "2026-02-07T05:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T06:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020004513533526267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YnRoMu8k1f",
+          "end": 100,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2020004513533526267/photo/1",
+          "media_key": "3_2020004503827935257",
+          "start": 77,
+          "url": "https://t.co/YnRoMu8k1f"
+        },
+        {
+          "display_url": "pic.x.com/YnRoMu8k1f",
+          "end": 100,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2020004513533526267/photo/1",
+          "media_key": "3_2020004503601426432",
+          "start": 77,
+          "url": "https://t.co/YnRoMu8k1f"
+        },
+        {
+          "display_url": "pic.x.com/YnRoMu8k1f",
+          "end": 100,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2020004513533526267/photo/1",
+          "media_key": "3_2020004503593115648",
+          "start": 77,
+          "url": "https://t.co/YnRoMu8k1f"
+        },
+        {
+          "display_url": "x.com/bungeihaku8964…",
+          "end": 124,
+          "expanded_url": "https://twitter.com/bungeihaku8964/status/2020001711650386395",
+          "start": 101,
+          "url": "https://t.co/hLM2Gal3lB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020004513533526267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020001711650386395",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了🤣。\n人怎么能这么好笑。\n友跨在他们眼里就是单纯想ccb。\n“顺直真恶心”\n“绝对是为了骗药娘py”\n“我没想到这个领域都有龟男啊”\n“真下头” https://t.co/YnRoMu8k1f https://t.co/hLM2Gal3lB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2020004513533526267].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2020004513533526267",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2020004513533526267"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020004503827935257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAh_ZM9acBk7gd-.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020004503601426432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAh_ZMHaMAA426A.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020004503593115648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAh_ZMFbYAAHzsw.jpg",
+        "width": 946
+      },
+      {
+        "duration_ms": 48483,
+        "height": 1280,
+        "media_key": "7_2020001667232735232",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2020001667232735232/pu/img/3qLbv5Xb7GE8B5yz.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2020001667232735232/pu/vid/avc1/320x710/pHt1jb8rlUlFXjtA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2020001667232735232/pu/vid/avc1/480x1066/1N53RvnfQfZyzgKp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2020001667232735232/pu/vid/avc1/576x1280/39BDP7ZJwxKH-dk4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2020001667232735232/pu/pl/YFs6GR5eEfokfdyA.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2020001667232735232"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2020001711650386395",
+        "created_at": "2026-02-07T05:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T06:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020001711650386395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A2DWvHsmYm",
+              "end": 48,
+              "expanded_url": "https://x.com/bungeihaku8964/status/2020001711650386395/video/1",
+              "media_key": "7_2020001667232735232",
+              "start": 25,
+              "url": "https://t.co/A2DWvHsmYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020001711650386395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "社達TV 之 達爾文老爺爺與它的達衛兵的聊天紀錄 https://t.co/A2DWvHsmYm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2017875249245917244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10188,
+          "following_count": 3828,
+          "like_count": 74427,
+          "listed_count": 17,
+          "media_count": 1717,
+          "tweet_count": 16899
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "專業：政治學 內網搬運工 愛港愛粵 兩岸和平 人道主義 憲政 邏輯至上 信奉三民主義 支持改革開放 望驅逐韃虏 天佑中華",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kmt.org.tw",
+                "end": 23,
+                "expanded_url": "http://www.kmt.org.tw/",
+                "start": 0,
+                "url": "https://t.co/TrlLnQy63s"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "Republic of China——📍Canton",
+        "name": "文芸の空白~粵內勢力❂🇹🇼🇭🇰🇲🇴🇯🇵",
+        "pinned_tweet_id": "2019552189237325953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010269811520196608/Gv-g7spP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 486,
+          "like_count": 8193,
+          "listed_count": 6,
+          "media_count": 468,
+          "tweet_count": 2178
+        },
+        "url": "https://t.co/TrlLnQy63s",
+        "username": "bungeihaku8964",
+        "verified": false
+      }
+    ]
+  }
+}

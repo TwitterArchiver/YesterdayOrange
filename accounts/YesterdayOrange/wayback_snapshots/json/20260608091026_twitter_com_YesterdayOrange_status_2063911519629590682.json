@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2063899801746591931",
+    "created_at": "2026-06-08T09:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063911519629590682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951932082676269056",
+          "start": 0,
+          "username": "qbi12976931"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063911519629590682",
+    "in_reply_to_user_id": "1951932082676269056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063907512001405341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qbi12976931 但你还没回我之前的消息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2063899801746591931",
+        "created_at": "2026-06-08T09:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063911519629590682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951932082676269056",
+              "start": 0,
+              "username": "qbi12976931"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063911519629590682",
+        "in_reply_to_user_id": "1951932082676269056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063907512001405341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qbi12976931 但你还没回我之前的消息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951932082676269056",
+        "conversation_id": "2063899801746591931",
+        "created_at": "2026-06-08T08:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063907512001405341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063907512001405341",
+        "in_reply_to_user_id": "1951932082676269056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063903142983635196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 过期的橙子，你说网上那些只点赞不回复的人是啥心理啊▼_▼，都到墙外来了，想说什么直接说不就是了╮(￣▽￣)╭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2063465238943670425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12131,
+          "following_count": 5124,
+          "like_count": 93670,
+          "listed_count": 21,
+          "media_count": 2292,
+          "tweet_count": 20320
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-03T09:04:20.000Z",
+        "description": "世界还真是大啊(￣(エ)￣)",
+        "id": "1951932082676269056",
+        "name": "齐北",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951932235281817600/m_hqllnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 38,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 165
+        },
+        "username": "qbi12976931",
+        "verified": false
+      }
+    ]
+  }
+}

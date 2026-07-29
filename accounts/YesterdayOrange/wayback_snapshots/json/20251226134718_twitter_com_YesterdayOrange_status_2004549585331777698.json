@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2004537847139999926",
+    "created_at": "2025-12-26T13:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T14:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004549585331777698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1672167491613892608",
+          "start": 0,
+          "username": "StarryChan233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004549585331777698",
+    "in_reply_to_user_id": "1672167491613892608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004549002449281081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarryChan233 互关w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2004537847139999926",
+        "created_at": "2025-12-26T13:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T14:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004549585331777698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672167491613892608",
+              "start": 0,
+              "username": "StarryChan233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004549585331777698",
+        "in_reply_to_user_id": "1672167491613892608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004549002449281081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryChan233 互关w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672167491613892608",
+        "conversation_id": "2004537847139999926",
+        "created_at": "2025-12-26T13:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T14:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004549002449281081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004549002449281081",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004537847139999926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 浪费"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2004537847139999926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9586,
+          "following_count": 3482,
+          "like_count": 69406,
+          "listed_count": 16,
+          "media_count": 1538,
+          "tweet_count": 15962
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T08:59:43.000Z",
+        "description": "祈祷转生异世界",
+        "id": "1672167491613892608",
+        "location": "中国",
+        "name": "咲夜Starry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998787100532158465/Zif4sYrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 108,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 192
+        },
+        "username": "StarryChan233",
+        "verified": false
+      }
+    ]
+  }
+}

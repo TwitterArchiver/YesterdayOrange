@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1988513598512263454",
+    "created_at": "2025-11-12T07:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T08:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988514702838952085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1677270742705270784",
+          "start": 0,
+          "username": "GEACPS1940629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988514702838952085",
+    "in_reply_to_user_id": "1677270742705270784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988514580771872834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GEACPS1940629 有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 364,
+        "media_key": "3_1988514577890557952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ifeRXaQAAalpX.jpg",
+        "width": 548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1988513598512263454",
+        "created_at": "2025-11-12T07:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988514702838952085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1677270742705270784",
+              "start": 0,
+              "username": "GEACPS1940629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988514702838952085",
+        "in_reply_to_user_id": "1677270742705270784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988514580771872834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GEACPS1940629 有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988514577890557952"
+          ]
+        },
+        "author_id": "1677270742705270784",
+        "conversation_id": "1988513598512263454",
+        "created_at": "2025-11-12T07:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988514580771872834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6K3YzK2bi",
+              "end": 51,
+              "expanded_url": "https://x.com/GEACPS1940629/status/1988514580771872834/photo/1",
+              "media_key": "3_1988514577890557952",
+              "start": 28,
+              "url": "https://t.co/P6K3YzK2bi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988514580771872834",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988513598512263454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 你有這種鯊魚布偶嗎🥰 https://t.co/P6K3YzK2bi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1988268283351757203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8164,
+          "following_count": 3200,
+          "like_count": 63989,
+          "listed_count": 14,
+          "media_count": 1320,
+          "tweet_count": 14721
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T10:58:18.000Z",
+        "description": "@撐雨傘的湯普尼🇺🇸🇪🇺🇺🇦 的小號丨不談政治，鍵政人請遠離｜心理狀態很糟糕，想讓人安慰，Telegram的鏈接就放在這了，和我聊聊天吧🥺\n\n提問箱：https://t.co/FbqcTq0Vqx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mr.tenpenny",
+                "end": 98,
+                "expanded_url": "https://ngl.link/mr.tenpenny",
+                "start": 75,
+                "url": "https://t.co/FbqcTq0Vqx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xi1939",
+                "end": 23,
+                "expanded_url": "http://t.me/xi1939",
+                "start": 0,
+                "url": "https://t.co/2CsWnNhq0f"
+              }
+            ]
+          }
+        },
+        "id": "1677270742705270784",
+        "name": "Mr.湯普尼",
+        "pinned_tweet_id": "1954982607738847246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881742183369220096/e-AyMgBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 3798,
+          "like_count": 62033,
+          "listed_count": 2,
+          "media_count": 2568,
+          "tweet_count": 7229
+        },
+        "url": "https://t.co/2CsWnNhq0f",
+        "username": "GEACPS1940629",
+        "verified": false
+      }
+    ]
+  }
+}

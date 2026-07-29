@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2035236692236685328",
+    "created_at": "2026-07-25T05:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080891237377474782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1904224216179716096",
+          "start": 0,
+          "username": "yoic_0216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080891237377474782",
+    "in_reply_to_user_id": "1904224216179716096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035236692236685328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoic_0216 我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2035236692236685328",
+        "created_at": "2026-07-25T05:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080891237377474782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1904224216179716096",
+              "start": 0,
+              "username": "yoic_0216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080891237377474782",
+        "in_reply_to_user_id": "1904224216179716096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035236692236685328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoic_0216 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904224216179716096",
+        "conversation_id": "2035236692236685328",
+        "created_at": "2026-03-21T06:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T07:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035236692236685328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035236692236685328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候推刷对多了真的感觉好无聊好空虚，发个帖子也0人点赞0人评论，真是无人在意具象化了，感觉自己是透明人本尊，呵呵呵呵呵🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2080247998165197048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12273,
+          "following_count": 5284,
+          "like_count": 97385,
+          "listed_count": 21,
+          "media_count": 2432,
+          "tweet_count": 21084
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-24T17:30:17.000Z",
+        "description": "✨",
+        "id": "1904224216179716096",
+        "location": "Earth",
+        "name": "布丁只是经过",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949313100156727297/g4F0SkwR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 150,
+          "like_count": 702,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "yoic_0216",
+        "verified": false
+      }
+    ]
+  }
+}

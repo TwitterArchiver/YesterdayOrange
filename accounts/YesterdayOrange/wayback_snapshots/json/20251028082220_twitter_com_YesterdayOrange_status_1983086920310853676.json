@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1983082945855553603",
+    "created_at": "2025-10-28T08:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T09:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983086920310853676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1792215207961395200",
+          "start": 0,
+          "username": "An9488039089693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983086920310853676",
+    "in_reply_to_user_id": "1792215207961395200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983086768262881412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@An9488039089693 齐奥塞斯库来了就老实了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1983082945855553603",
+        "created_at": "2025-10-28T08:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T09:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983086920310853676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792215207961395200",
+              "start": 0,
+              "username": "An9488039089693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983086920310853676",
+        "in_reply_to_user_id": "1792215207961395200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983086768262881412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@An9488039089693 齐奥塞斯库来了就老实了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792215207961395200",
+        "conversation_id": "1983082945855553603",
+        "created_at": "2025-10-28T08:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T09:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983086768262881412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983086768262881412",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983082945855553603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 😂😂😂😂 哈哈哈哈哈 而且 只要有人同性恋 生育率就会降低 全然不顾别的什么原因了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1983039190972641305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6963,
+          "following_count": 2872,
+          "like_count": 58596,
+          "listed_count": 14,
+          "media_count": 1182,
+          "tweet_count": 14001
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T15:26:25.000Z",
+        "description": "🌈胆小 社恐 但刻薄 （低情商） （年方二八）",
+        "id": "1792215207961395200",
+        "name": "安非他命.",
+        "pinned_tweet_id": "1955933236317839780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916148709915824128/QfVqkI9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 936,
+          "like_count": 40619,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 9416
+        },
+        "username": "An9488039089693",
+        "verified": false
+      }
+    ]
+  }
+}

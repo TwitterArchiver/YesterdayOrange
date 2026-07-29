@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079174280936656897"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2079174337173848075",
+    "created_at": "2026-07-20T11:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079174337173848075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LQS23u302k",
+          "end": 70,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2079174337173848075/photo/1",
+          "media_key": "3_2079174280936656897",
+          "start": 47,
+          "url": "https://t.co/LQS23u302k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079174337173848075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然但是这个问题好抽象\n\n不想和男朋友发生关系正常吗？\n没有什么原因就是单纯不想和他发生关系 https://t.co/LQS23u302k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1262,
+        "media_key": "3_2079174280936656897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq1_hlbkAEJHCo.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079174280936656897"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2079174337173848075",
+        "created_at": "2026-07-20T11:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079174337173848075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LQS23u302k",
+              "end": 70,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2079174337173848075/photo/1",
+              "media_key": "3_2079174280936656897",
+              "start": 47,
+              "url": "https://t.co/LQS23u302k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079174337173848075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然但是这个问题好抽象\n\n不想和男朋友发生关系正常吗？\n没有什么原因就是单纯不想和他发生关系 https://t.co/LQS23u302k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2078080489244770777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12180,
+          "following_count": 5215,
+          "like_count": 96447,
+          "listed_count": 20,
+          "media_count": 2402,
+          "tweet_count": 20967
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

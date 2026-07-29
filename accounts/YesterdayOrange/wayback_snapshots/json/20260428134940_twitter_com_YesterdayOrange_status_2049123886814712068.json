@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2049123886814712068",
+    "created_at": "2026-04-28T13:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049123886814712068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mark67358226/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/mark67358226/status/2048758019161538799",
+          "start": 11,
+          "url": "https://t.co/DvQa4frHM6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049123886814712068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048758019161538799",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们在南方公园上学吗 https://t.co/DvQa4frHM6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2049123886814712068",
+        "created_at": "2026-04-28T13:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049123886814712068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mark67358226/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/mark67358226/status/2048758019161538799",
+              "start": 11,
+              "url": "https://t.co/DvQa4frHM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049123886814712068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048758019161538799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们在南方公园上学吗 https://t.co/DvQa4frHM6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519649212736049152",
+        "conversation_id": "2048758019161538799",
+        "created_at": "2026-04-27T13:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048758019161538799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048758019161538799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逆天死人同學，做實驗讓我徒手拿剛燒完的坩堝，他明知道我不聰明，還好這次機靈。寫卷子我說寫破防了他讓我割手，還拿我割手的藍貝印劃我兩下，橘子皮就扔我外套上，虧我對他那麽好。但他遭報應了，寄吧被蚊子叮了疼癢一整天😋，我把刀丟給他讓他自己割"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2048959571394511106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11852,
+          "following_count": 4956,
+          "like_count": 88806,
+          "listed_count": 23,
+          "media_count": 2185,
+          "tweet_count": 19562
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體，簡體也可 | 日語🇯🇵 朝鮮語🇰🇷也會一點 | 性取向雙 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（線下找我玩也行超無聊的叫我就去！）",
+        "id": "1519649212736049152",
+        "location": "北京市昌平區",
+        "name": "Lhn002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 119,
+          "like_count": 919,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 452
+        },
+        "username": "Mark67358226",
+        "verified": false
+      }
+    ]
+  }
+}

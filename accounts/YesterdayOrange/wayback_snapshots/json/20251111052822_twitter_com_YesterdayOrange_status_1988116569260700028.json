@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988083057321291776"
+      ],
+      "media_source_tweet_id": [
+        "1988083063822446974"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "1988116569260700028",
+    "created_at": "2025-11-11T05:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T06:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988116569260700028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1609919452988178440",
+          "start": 3,
+          "username": "Nacytried"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CXnzS0aJi2",
+          "end": 53,
+          "expanded_url": "https://x.com/Nacytried/status/1988083063822446974/photo/1",
+          "media_key": "3_1988083057321291776",
+          "start": 30,
+          "url": "https://t.co/CXnzS0aJi2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988116569260700028",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988083063822446974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nacytried: 好奇下大家今天在听什么歌呢～ https://t.co/CXnzS0aJi2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988083057321291776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5cXAd-bsAAr-3f.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988083057321291776"
+          ],
+          "media_source_tweet_id": [
+            "1988083063822446974"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1988116569260700028",
+        "created_at": "2025-11-11T05:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988116569260700028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1609919452988178440",
+              "start": 3,
+              "username": "Nacytried"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CXnzS0aJi2",
+              "end": 53,
+              "expanded_url": "https://x.com/Nacytried/status/1988083063822446974/photo/1",
+              "media_key": "3_1988083057321291776",
+              "start": 30,
+              "url": "https://t.co/CXnzS0aJi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988116569260700028",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988083063822446974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nacytried: 好奇下大家今天在听什么歌呢～ https://t.co/CXnzS0aJi2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988083057321291776"
+          ]
+        },
+        "author_id": "1609919452988178440",
+        "conversation_id": "1988083063822446974",
+        "created_at": "2025-11-11T03:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T04:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988083063822446974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CXnzS0aJi2",
+              "end": 38,
+              "expanded_url": "https://x.com/Nacytried/status/1988083063822446974/photo/1",
+              "media_key": "3_1988083057321291776",
+              "start": 15,
+              "url": "https://t.co/CXnzS0aJi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988083063822446974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好奇下大家今天在听什么歌呢～ https://t.co/CXnzS0aJi2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1987852149121012136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8094,
+          "following_count": 3189,
+          "like_count": 63693,
+          "listed_count": 14,
+          "media_count": 1308,
+          "tweet_count": 14677
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T14:28:21.000Z",
+        "description": "低人气主播喵梦亲～穿搭/日常分享=(^.^)=",
+        "id": "1609919452988178440",
+        "location": "台灣",
+        "name": "喵梦亲真的很想爆红",
+        "pinned_tweet_id": "1986423772413677571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982472115900014592/cinKYJoX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 37,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 155
+        },
+        "username": "Nacytried",
+        "verified": false
+      }
+    ]
+  }
+}

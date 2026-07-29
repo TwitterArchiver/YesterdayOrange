@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2081610015396557084",
+    "created_at": "2026-07-27T11:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081711062186066229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1108748825689247747",
+          "start": 0,
+          "username": "Sbr97826689"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081711062186066229",
+    "in_reply_to_user_id": "1108748825689247747",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081710731729506490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sbr97826689 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2081610015396557084",
+        "created_at": "2026-07-27T11:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081711062186066229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1108748825689247747",
+              "start": 0,
+              "username": "Sbr97826689"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081711062186066229",
+        "in_reply_to_user_id": "1108748825689247747",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081710731729506490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sbr97826689 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1108748825689247747",
+        "conversation_id": "2081610015396557084",
+        "created_at": "2026-07-27T11:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081710731729506490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081710731729506490",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081610015396557084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 问题不完全是荣誉能不能共享。\n问题是有人教我们：荣誉不能共享，耻辱必须同当！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2081440370819527059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12262,
+          "following_count": 5292,
+          "like_count": 97712,
+          "listed_count": 21,
+          "media_count": 2446,
+          "tweet_count": 21131
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-21T15:14:54.000Z",
+        "description": "中国うまれで中国に住んでいる男子大学生。日本語へたへた…\n💚日野森志歩\nA college student born and living in China. He/Him/His/His. English ok, not that good at Japanese...",
+        "id": "1108748825689247747",
+        "location": "Zhejiang province, China",
+        "name": "SbrAkr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1108752090816376832/kMPwG82I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 351,
+          "like_count": 2728,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 687
+        },
+        "url": "",
+        "username": "Sbr97826689",
+        "verified": false
+      }
+    ]
+  }
+}

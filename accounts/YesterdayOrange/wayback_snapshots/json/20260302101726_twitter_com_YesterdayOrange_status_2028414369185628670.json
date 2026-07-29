@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2028396972596695455",
+    "created_at": "2026-03-02T10:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T11:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028414369185628670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1937379847514521601",
+          "start": 0,
+          "username": "Cernansky0x3f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028414369185628670",
+    "in_reply_to_user_id": "1937379847514521601",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028410655288467910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cernansky0x3f 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2028396972596695455",
+        "created_at": "2026-03-02T10:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028414369185628670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937379847514521601",
+              "start": 0,
+              "username": "Cernansky0x3f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028414369185628670",
+        "in_reply_to_user_id": "1937379847514521601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028410655288467910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cernansky0x3f 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937379847514521601",
+        "conversation_id": "2028396972596695455",
+        "created_at": "2026-03-02T10:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028410655288467910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028410655288467910",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028396972596695455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange O.o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2026270503917277418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10913,
+          "following_count": 4370,
+          "like_count": 79924,
+          "listed_count": 20,
+          "media_count": 1892,
+          "tweet_count": 17826
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T05:18:52.000Z",
+        "description": "寒王车主小粉丝。\n主队：FaZe clan。\n欢迎交流CS相关内容。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fazeclan.com",
+                "end": 23,
+                "expanded_url": "http://fazeclan.com",
+                "start": 0,
+                "url": "https://t.co/4B1fpSXSPj"
+              }
+            ]
+          }
+        },
+        "id": "1937379847514521601",
+        "location": "FaZe Esports",
+        "name": "David Čerňanský",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025976015848366083/TVmBHtCJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 28,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/4B1fpSXSPj",
+        "username": "Cernansky0x3f",
+        "verified": false
+      }
+    ]
+  }
+}

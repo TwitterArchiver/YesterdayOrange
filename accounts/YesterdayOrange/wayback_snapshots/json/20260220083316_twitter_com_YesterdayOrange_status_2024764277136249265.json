@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2024119492721184922",
+    "created_at": "2026-02-20T08:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T09:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024764277136249265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1597527679141806080",
+          "start": 0,
+          "username": "Kierouy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024764277136249265",
+    "in_reply_to_user_id": "1597527679141806080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024760247865479362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kierouy 好的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2024119492721184922",
+        "created_at": "2026-02-20T08:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T09:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024764277136249265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1597527679141806080",
+              "start": 0,
+              "username": "Kierouy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024764277136249265",
+        "in_reply_to_user_id": "1597527679141806080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024760247865479362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kierouy 好的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597527679141806080",
+        "conversation_id": "2024119492721184922",
+        "created_at": "2026-02-20T08:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T09:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024760247865479362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024760247865479362",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024119492721184922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 是交朋友吧？(´･ω･`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2024122058007793948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10721,
+          "following_count": 4264,
+          "like_count": 78007,
+          "listed_count": 18,
+          "media_count": 1834,
+          "tweet_count": 17527
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T09:47:50.000Z",
+        "description": "05/3/9 男 双性恋 169~173吧大概？85.6kg  ↔ 68kg↔65kg 减肥中 想找个属于我的小男娘/药娘/2025.10.5已加入🍥",
+        "id": "1597527679141806080",
+        "name": "MAOMAO-Shark🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023783621656780800/9ezrppG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 202,
+          "like_count": 639,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 48
+        },
+        "username": "Kierouy",
+        "verified": false
+      }
+    ]
+  }
+}

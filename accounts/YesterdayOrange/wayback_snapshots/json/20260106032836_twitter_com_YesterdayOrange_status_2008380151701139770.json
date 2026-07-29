@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2008150284351275308",
+    "created_at": "2026-01-06T03:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T04:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008380151701139770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892139767476912128",
+          "start": 0,
+          "username": "HereS90160"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008380151701139770",
+    "in_reply_to_user_id": "1892139767476912128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008323199650455751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HereS90160 你和多少人文过🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2008150284351275308",
+        "created_at": "2026-01-06T03:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008380151701139770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892139767476912128",
+              "start": 0,
+              "username": "HereS90160"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008380151701139770",
+        "in_reply_to_user_id": "1892139767476912128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008323199650455751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HereS90160 你和多少人文过🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892139767476912128",
+        "conversation_id": "2008150284351275308",
+        "created_at": "2026-01-05T23:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T00:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008323199650455751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008323199650455751",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008150284351275308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 因為文完都變成黑歷史了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2008129415814037573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9892,
+          "following_count": 3667,
+          "like_count": 71658,
+          "listed_count": 17,
+          "media_count": 1617,
+          "tweet_count": 16422
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T09:10:56.000Z",
+        "description": "一個來自澳門🇲🇴的Maimai玩家\n愛越級",
+        "id": "1892139767476912128",
+        "name": "HereIsSoda",
+        "pinned_tweet_id": "1990703738911342795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990703066178568192/bHRHGD_C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 31,
+          "like_count": 1285,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 86
+        },
+        "username": "HereS90160",
+        "verified": false
+      }
+    ]
+  }
+}

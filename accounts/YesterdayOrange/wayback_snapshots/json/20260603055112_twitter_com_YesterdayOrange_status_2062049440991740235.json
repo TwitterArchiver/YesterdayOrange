@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2061970892885012672",
+    "created_at": "2026-06-03T05:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062049440991740235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1932044371790061568",
+          "start": 0,
+          "username": "KiteSilhouette"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062049440991740235",
+    "in_reply_to_user_id": "1932044371790061568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062041299621224683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiteSilhouette 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2061970892885012672",
+        "created_at": "2026-06-03T05:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062049440991740235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1932044371790061568",
+              "start": 0,
+              "username": "KiteSilhouette"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062049440991740235",
+        "in_reply_to_user_id": "1932044371790061568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062041299621224683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiteSilhouette 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932044371790061568",
+        "conversation_id": "2061970892885012672",
+        "created_at": "2026-06-03T05:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062041299621224683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062041299621224683",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061970892885012672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 早安喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2061985237773717733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12102,
+          "following_count": 5111,
+          "like_count": 93113,
+          "listed_count": 21,
+          "media_count": 2276,
+          "tweet_count": 20212
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-09T11:57:40.000Z",
+        "description": "来自中国大陆的粥批\n爱玩明日方舟和明日方舟：终末地（都是大陆服务器，并且同名，有兴趣的可以加个好友）\n没有攻击性的温和动物一只，请不要对我表现出莫名其妙的恶意哦",
+        "id": "1932044371790061568",
+        "name": "离离陌上纸鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060698627199352832/imCTjKUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 69
+        },
+        "username": "KiteSilhouette",
+        "verified": false
+      }
+    ]
+  }
+}

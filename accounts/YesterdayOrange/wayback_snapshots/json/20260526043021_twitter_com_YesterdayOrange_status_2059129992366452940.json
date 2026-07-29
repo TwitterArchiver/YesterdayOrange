@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2059129992366452940",
+    "created_at": "2026-05-26T04:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059129992366452940"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059129992366452940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我又梦到他了，我陪他去上学。\n我们肩并肩，沿着小河边走，穿过立交桥，走了很远很远。\n他的脸颊是含糊不清的，他比我矮一些，和我并排走的时候，微微靠在我身上。\n他说他喜欢我。\n他说，之前说过的那些事情都是假的。\n我问他：“今天天气怎么样？”\n他说：“不好。”\n我又问他：“最近怎么样？”\n他说：“学习挺忙的。”\n于是，我们走到了学校，我看着他走进大门，走进人群里，再也看不到了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我又梦到他了，我陪他去上学。\n我们肩并肩，沿着小河边走，穿过立交桥，走了很远很远。\n他的脸颊是含糊不清的，他比我矮一些，和我并排走的时候，微微靠在我身上。\n他说他喜欢我。\n他说，之前说过的那些事情都是假的。\n我问他：“今天天气怎么样？”\n他说：“不好。”\n我又问他：“最近怎么样？”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2059129992366452940",
+        "created_at": "2026-05-26T04:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059129992366452940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059129992366452940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我又梦到他了，我陪他去上学。\n我们肩并肩，沿着小河边走，穿过立交桥，走了很远很远。\n他的脸颊是含糊不清的，他比我矮一些，和我并排走的时候，微微靠在我身上。\n他说他喜欢我。\n他说，之前说过的那些事情都是假的。\n我问他：“今天天气怎么样？”\n他说：“不好。”\n我又问他：“最近怎么样？”\n他说：“学习挺忙的。”\n于是，我们走到了学校，我看着他走进大门，走进人群里，再也看不到了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又梦到他了，我陪他去上学。\n我们肩并肩，沿着小河边走，穿过立交桥，走了很远很远。\n他的脸颊是含糊不清的，他比我矮一些，和我并排走的时候，微微靠在我身上。\n他说他喜欢我。\n他说，之前说过的那些事情都是假的。\n我问他：“今天天气怎么样？”\n他说：“不好。”\n我又问他：“最近怎么样？”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2057128877051588914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12078,
+          "following_count": 5098,
+          "like_count": 92443,
+          "listed_count": 22,
+          "media_count": 2263,
+          "tweet_count": 20110
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

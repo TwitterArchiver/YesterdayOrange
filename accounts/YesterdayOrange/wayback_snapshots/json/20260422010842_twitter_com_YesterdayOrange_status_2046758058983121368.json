@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2046758058983121368",
+    "created_at": "2026-04-22T01:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T02:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046758058983121368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900108524304076800",
+          "start": 3,
+          "username": "qi_bu64350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046758058983121368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046543102010445912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qi_bu64350: 贵圈风气也是越来越乱了，这样式似乎不od都不配进跨圈了，不知道的以为你跨圈皇帝呢搁这立新规，我就这么说了\n劝人od天打雷劈\n不服的尽管来找骂，你od圈圈地自萌自己欧弟割手没人会骂，但是有毒虫顶着跨圈旗号在这宣传就是纯➗牲懂吗😁 https://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2331,
+        "media_key": "3_2046542588124250112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbHpA7awAAorW1.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2046758058983121368",
+        "created_at": "2026-04-22T01:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T02:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046758058983121368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900108524304076800",
+              "start": 3,
+              "username": "qi_bu64350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046758058983121368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046543102010445912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qi_bu64350: 贵圈风气也是越来越乱了，这样式似乎不od都不配进跨圈了，不知道的以为你跨圈皇帝呢搁这立新规，我就这么说了\n劝人od天打雷劈\n不服的尽管来找骂，你od圈圈地自萌自己欧弟割手没人会骂，但是有毒虫顶着跨圈旗号在这宣传就是纯➗牲懂吗😁 https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046542588124250112"
+          ]
+        },
+        "author_id": "1900108524304076800",
+        "conversation_id": "2046543102010445912",
+        "created_at": "2026-04-21T10:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046543102010445912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjABiH9ILm",
+              "end": 137,
+              "expanded_url": "https://x.com/qi_bu64350/status/2046543102010445912/photo/1",
+              "media_key": "3_2046542588124250112",
+              "start": 114,
+              "url": "https://t.co/OjABiH9ILm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046543102010445912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11426,
+          "like_count": 148,
+          "quote_count": 8,
+          "reply_count": 44,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "贵圈风气也是越来越乱了，这样式似乎不od都不配进跨圈了，不知道的以为你跨圈皇帝呢搁这立新规，我就这么说了\n劝人od天打雷劈\n不服的尽管来找骂，你od圈圈地自萌自己欧弟割手没人会骂，但是有毒虫顶着跨圈旗号在这宣传就是纯➗牲懂吗😁 https://t.co/OjABiH9ILm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2046480546080125100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11647,
+          "following_count": 4917,
+          "like_count": 87724,
+          "listed_count": 22,
+          "media_count": 2146,
+          "tweet_count": 19306
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T08:56:07.000Z",
+        "description": "好累……\n依旧把这当QQ空间用\n前@Ciallo_114_514 @YunoQiu56649",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "Ciallo_114_514"
+              },
+              {
+                "end": 46,
+                "start": 33,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "1900108524304076800",
+        "location": "第五高原",
+        "name": "ciallo～（三代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043066409954217985/F_FxYsLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 307,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 269
+        },
+        "username": "qi_bu64350",
+        "verified": false
+      }
+    ]
+  }
+}

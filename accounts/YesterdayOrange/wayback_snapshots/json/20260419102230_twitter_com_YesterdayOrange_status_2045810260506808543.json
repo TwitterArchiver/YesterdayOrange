@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2045798512290677199",
+    "created_at": "2026-04-19T10:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T11:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045810260506808543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2041080781704241152",
+          "start": 0,
+          "username": "jinft5mes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045810260506808543",
+    "in_reply_to_user_id": "2041080781704241152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045810076846539113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinft5mes 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2045798512290677199",
+        "created_at": "2026-04-19T10:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045810260506808543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2041080781704241152",
+              "start": 0,
+              "username": "jinft5mes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045810260506808543",
+        "in_reply_to_user_id": "2041080781704241152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045810076846539113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinft5mes 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041080781704241152",
+        "conversation_id": "2045798512290677199",
+        "created_at": "2026-04-19T10:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045810076846539113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045810076846539113",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045798512290677199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange mua"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2045231864064139330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11574,
+          "following_count": 4884,
+          "like_count": 87242,
+          "listed_count": 21,
+          "media_count": 2128,
+          "tweet_count": 19185
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T09:09:41.000Z",
+        "description": "🫠",
+        "id": "2041080781704241152",
+        "name": "every0331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041979389156667392/d4ZTz3yw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 59
+        },
+        "username": "jinft5mes",
+        "verified": false
+      }
+    ]
+  }
+}

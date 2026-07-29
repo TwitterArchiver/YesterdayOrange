@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2033908279722783009",
+    "created_at": "2026-03-17T16:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T17:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033936400505336281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2030547965354586112",
+          "start": 0,
+          "username": "sabermlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033936400505336281",
+    "in_reply_to_user_id": "2030547965354586112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033936217977335896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sabermlove 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2033908279722783009",
+        "created_at": "2026-03-17T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033936400505336281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2030547965354586112",
+              "start": 0,
+              "username": "sabermlove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033936400505336281",
+        "in_reply_to_user_id": "2030547965354586112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033936217977335896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sabermlove 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030547965354586112",
+        "conversation_id": "2033908279722783009",
+        "created_at": "2026-03-17T15:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033936217977335896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033936217977335896",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033908279722783009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 谁能跟我聊天什么都不卡在线就行😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2033924730877837630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11245,
+          "following_count": 4573,
+          "like_count": 82297,
+          "listed_count": 20,
+          "media_count": 1956,
+          "tweet_count": 18264
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-08T07:35:47.000Z",
+        "description": "我招我全招，皇太极我放的，岳飞我害的，商鞅我车裂的，比干心我挖的，圆明园火我点的，佛祖手指我尿的，纣王我勾的，葫芦娃我抓的，小蝌蚪找错妈我忽悠的。女娲石头我藏的，悟空金箍棒我锯的，嫦娥奔月我骗的，夸父追日我撺掇的，白蛇水漫金山我教唆的，阿基米德支点我撬走的，哥白尼日心说是我捂住不让他讲的",
+        "id": "2030547965354586112",
+        "name": "忆芬芳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030549445880979456/ihV9Vbep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 41,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 16
+        },
+        "username": "sabermlove",
+        "verified": false
+      }
+    ]
+  }
+}

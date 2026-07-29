@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1988840363369410676",
+    "created_at": "2025-11-14T03:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T04:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989174073176519068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1795411939889414144",
+          "start": 0,
+          "username": "kazahayayuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989174073176519068",
+    "in_reply_to_user_id": "1795411939889414144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989171808298529178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kazahayayuu 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1988840363369410676",
+        "created_at": "2025-11-14T03:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T04:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989174073176519068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1795411939889414144",
+              "start": 0,
+              "username": "kazahayayuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989174073176519068",
+        "in_reply_to_user_id": "1795411939889414144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989171808298529178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kazahayayuu 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795411939889414144",
+        "conversation_id": "1988840363369410676",
+        "created_at": "2025-11-14T03:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T04:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989171808298529178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989171808298529178",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988840363369410676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 100"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1988972619169951931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8187,
+          "following_count": 3218,
+          "like_count": 64278,
+          "listed_count": 14,
+          "media_count": 1328,
+          "tweet_count": 14806
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T11:09:11.000Z",
+        "description": "｜摄影📹｜游戏🎮｜风景🏞️｜爱刷P站🅿️｜摇滚乐🎸｜梓厨꒰ঌ(🎀ᗜ` v ´ᗜ 🌸)໒꒱💈｜我爱世界🌎｜喜欢⛩️🍣🍙｜动漫爱好者🪭｜游戏宅🎮｜热爱运动🏃｜乐观向上😄｜业余摄影师🌇｜爱猫人士🐱｜游戏开发者🎮（互fo）",
+        "id": "1795411939889414144",
+        "location": "IP属地：朝鲜",
+        "name": "Kawayoちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988586296055681025/ap7HxbXJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 654,
+          "like_count": 6186,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 107
+        },
+        "username": "kazahayayuu",
+        "verified": false
+      }
+    ]
+  }
+}

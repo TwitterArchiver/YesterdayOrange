@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2000573300876206080"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2000573302147080274",
+    "created_at": "2025-12-15T14:26:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T15:26:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000573302147080274"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000573302147080274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我应该看到什么就分享还是应该少发一些"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2025-12-16T14:26:58.000Z",
+        "id": "2000573300876206080",
+        "options": [
+          {
+            "label": "现在的帖子数量是合适的",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "你可以多发一些",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "你可以精简一些",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2000573300876206080"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2000573302147080274",
+        "created_at": "2025-12-15T14:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000573302147080274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000573302147080274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我应该看到什么就分享还是应该少发一些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2000095705998983445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9490,
+          "following_count": 3414,
+          "like_count": 68582,
+          "listed_count": 16,
+          "media_count": 1510,
+          "tweet_count": 15814
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

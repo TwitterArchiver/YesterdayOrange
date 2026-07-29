@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2010745142152704347",
+    "created_at": "2026-01-12T16:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T17:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010745142152704347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1554997800030461952",
+          "start": 3,
+          "username": "Plne7_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2010…",
+          "end": 35,
+          "expanded_url": "http://x.com/i/article/2010724545423122433",
+          "start": 12,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2010724545423122433",
+          "url": "https://t.co/tagksgRC2f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010745142152704347",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010742801311633683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Plne7_: https://t.co/tagksgRC2f"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2010745142152704347",
+        "created_at": "2026-01-12T16:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010745142152704347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1554997800030461952",
+              "start": 3,
+              "username": "Plne7_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2010…",
+              "end": 35,
+              "expanded_url": "http://x.com/i/article/2010724545423122433",
+              "start": 12,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2010724545423122433",
+              "url": "https://t.co/tagksgRC2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010745142152704347",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010742801311633683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Plne7_: https://t.co/tagksgRC2f"
+      },
+      {
+        "article": {
+          "title": "2026港卡最新最全最保姆级开户指南"
+        },
+        "attachments": {},
+        "author_id": "1554997800030461952",
+        "conversation_id": "2010742801311633683",
+        "created_at": "2026-01-12T15:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T16:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010742801311633683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2010…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2010724545423122433",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2010724545423122433",
+              "url": "https://t.co/tagksgRC2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010742801311633683",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tagksgRC2f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2008564800843112913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10030,
+          "following_count": 3699,
+          "like_count": 72716,
+          "listed_count": 16,
+          "media_count": 1662,
+          "tweet_count": 16586
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T01:09:29.000Z",
+        "description": "$BTC Holder｜Macro&Crypto｜Artificial Intelligence",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "BTC"
+              }
+            ]
+          }
+        },
+        "id": "1554997800030461952",
+        "name": "Vincent7",
+        "pinned_tweet_id": "2001857329327935531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997116616837156866/4G1jZnZc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 1463,
+          "like_count": 41195,
+          "listed_count": 4,
+          "media_count": 136,
+          "tweet_count": 1762
+        },
+        "username": "Plne7_",
+        "verified": true
+      }
+    ]
+  }
+}

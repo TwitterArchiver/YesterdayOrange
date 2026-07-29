@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2044662601720951002",
+    "created_at": "2026-04-16T06:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T07:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044662601720951002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/im_magneto/sta…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/im_magneto/status/2042547948706500691",
+          "start": 37,
+          "url": "https://t.co/RSuytUkbYf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044662601720951002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042547948706500691",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "招聘\n由于对象位长期空缺，现招募对象数位\n要求如下：\n- 小学或以上学历 https://t.co/RSuytUkbYf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2044662601720951002",
+        "created_at": "2026-04-16T06:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044662601720951002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/im_magneto/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/im_magneto/status/2042547948706500691",
+              "start": 37,
+              "url": "https://t.co/RSuytUkbYf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044662601720951002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042547948706500691",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "招聘\n由于对象位长期空缺，现招募对象数位\n要求如下：\n- 小学或以上学历 https://t.co/RSuytUkbYf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263504138307899392",
+        "conversation_id": "2042547948706500691",
+        "created_at": "2026-04-10T10:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042547948706500691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042547948706500691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23975,
+          "like_count": 161,
+          "quote_count": 10,
+          "reply_count": 62,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "招聘\n由于男友位长期空缺，现招募男友一位\n要求如下：\n- 男的\n- 不能是有夫之夫/有妇之夫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2044324684934852857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11473,
+          "following_count": 4843,
+          "like_count": 86561,
+          "listed_count": 21,
+          "media_count": 2099,
+          "tweet_count": 19052
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-21T16:17:25.000Z",
+        "description": "20岁 ENFJ(溫良的利他主義者)/\nTAG 可爱 & Furry & 小男孩🥰/\nAKA 小图灵(Turing)，熱愛計算機學科、生物學科/\nAddr 三亞||西安||成都/\n歡迎光臨我的Blog https://t.co/xLebzdwYc1 / \n如果我们不熟（互动很少）我是不会给泥联系方式or里推的 /",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fmcf.cc",
+                "end": 124,
+                "expanded_url": "https://fmcf.cc",
+                "start": 101,
+                "url": "https://t.co/xLebzdwYc1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fmcf.cc",
+                "end": 23,
+                "expanded_url": "https://fmcf.cc",
+                "start": 0,
+                "url": "https://t.co/xLebzdwYc1"
+              }
+            ]
+          }
+        },
+        "id": "1263504138307899392",
+        "location": "Sanya, PRC ",
+        "name": "全麦面包🍞",
+        "pinned_tweet_id": "2013274396925075619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583759739749441537/Q5PVXn-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 745,
+          "like_count": 14536,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 6087
+        },
+        "url": "https://t.co/xLebzdwYc1",
+        "username": "im_magneto",
+        "verified": true
+      }
+    ]
+  }
+}

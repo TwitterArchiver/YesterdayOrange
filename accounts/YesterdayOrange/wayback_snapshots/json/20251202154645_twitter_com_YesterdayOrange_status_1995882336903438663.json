@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1994994592446648575",
+    "created_at": "2025-12-02T15:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T16:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995882336903438663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1751290211345330176",
+          "start": 0,
+          "username": "ZhonXuForCS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995882336903438663",
+    "in_reply_to_user_id": "1751290211345330176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995876697326190804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhonXuForCS 宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1994994592446648575",
+        "created_at": "2025-12-02T15:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T16:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995882336903438663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1751290211345330176",
+              "start": 0,
+              "username": "ZhonXuForCS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995882336903438663",
+        "in_reply_to_user_id": "1751290211345330176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995876697326190804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhonXuForCS 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751290211345330176",
+        "conversation_id": "1994994592446648575",
+        "created_at": "2025-12-02T15:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T16:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995876697326190804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995876697326190804",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994994592446648575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange www\n来抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1995315140724748766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9442,
+          "following_count": 3385,
+          "like_count": 67763,
+          "listed_count": 16,
+          "media_count": 1452,
+          "tweet_count": 15577
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T17:05:09.000Z",
+        "description": "Greetings from China!\nA student & noob developer in Shandong.P\nprefer languages:JavaScript/TypeScript Kotlin C#\ngo and see my fixed post to get more info",
+        "id": "1751290211345330176",
+        "location": "Shandong Province",
+        "name": "Zhon_Xu",
+        "pinned_tweet_id": "1989981176040476672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992536241905238016/As9hc31r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 226,
+          "like_count": 1190,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 649
+        },
+        "username": "ZhonXuForCS",
+        "verified": false
+      }
+    ]
+  }
+}

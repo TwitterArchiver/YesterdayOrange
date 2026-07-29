@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1993571292713541737",
+    "created_at": "2025-11-26T07:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T08:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993575558735856042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1989222283211337730",
+          "start": 0,
+          "username": "bot74733793"
+        },
+        {
+          "end": 26,
+          "id": "1966505502919270400",
+          "start": 13,
+          "username": "QiShuiBuXing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993575558735856042",
+    "in_reply_to_user_id": "1989222283211337730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993574987513708602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bot74733793 @QiShuiBuXing 你甚至不理我私信😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1993571292713541737",
+        "created_at": "2025-11-26T07:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T08:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993575558735856042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1989222283211337730",
+              "start": 0,
+              "username": "bot74733793"
+            },
+            {
+              "end": 26,
+              "id": "1966505502919270400",
+              "start": 13,
+              "username": "QiShuiBuXing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993575558735856042",
+        "in_reply_to_user_id": "1989222283211337730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993574987513708602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bot74733793 @QiShuiBuXing 你甚至不理我私信😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989222283211337730",
+        "conversation_id": "1993571292713541737",
+        "created_at": "2025-11-26T06:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T07:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993574987513708602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1966505502919270400",
+              "start": 0,
+              "username": "QiShuiBuXing"
+            },
+            {
+              "end": 30,
+              "id": "1788485889225834496",
+              "start": 14,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993574987513708602",
+        "in_reply_to_user_id": "1966505502919270400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993572246687035508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiShuiBuXing @YesterdayOrange 你怎么把我想说的话说了😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1992956304256852427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9053,
+          "following_count": 3324,
+          "like_count": 66972,
+          "listed_count": 14,
+          "media_count": 1411,
+          "tweet_count": 15374
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T06:42:10.000Z",
+        "description": "",
+        "id": "1989222283211337730",
+        "name": "Bot747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989222483770372102/j-cWkWiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 24,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 62
+        },
+        "username": "bot74733793",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T14:13:54.000Z",
+        "description": "我们一生中可能遇到那么一两个人，也许相见的时间只有一场雷雨或者一个春天那么短，但他们却伸手把我们从深渊里拉了出来，不为什么，只因为他们看见了我们的绝望与悲伤。然后，即便永不相见，也觉常在身旁。",
+        "id": "1966505502919270400",
+        "name": "Qi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987177220130119680/y9K2ZMnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 140,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 27
+        },
+        "username": "QiShuiBuXing",
+        "verified": false
+      }
+    ]
+  }
+}

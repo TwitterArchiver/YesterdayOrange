@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2002069885678149828",
+    "created_at": "2025-12-19T17:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T18:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002069885678149828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2002014266594050433",
+          "start": 11,
+          "url": "https://t.co/XlmQ57NT6l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002069885678149828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002014266594050433",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我过气了，没人理我😢 https://t.co/XlmQ57NT6l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2002069885678149828",
+        "created_at": "2025-12-19T17:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T18:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002069885678149828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2002014266594050433",
+              "start": 11,
+              "url": "https://t.co/XlmQ57NT6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002069885678149828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002014266594050433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我过气了，没人理我😢 https://t.co/XlmQ57NT6l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2002014266594050433",
+        "created_at": "2025-12-19T13:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T14:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002014266594050433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002014266594050433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 666,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很快刷新在武汉几天。\n有无当地人介绍一下。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2002014266594050433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9520,
+          "following_count": 3439,
+          "like_count": 68790,
+          "listed_count": 16,
+          "media_count": 1519,
+          "tweet_count": 15869
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

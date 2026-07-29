@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1985213430492721235",
+    "created_at": "2025-11-03T05:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T06:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985213430492721235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mengbai6962/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/mengbai6962/status/1985213069019287935",
+          "start": 14,
+          "url": "https://t.co/wMnBnURhGb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985213430492721235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985213069019287935",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "半夜开麦的傻逼程度高于外放 https://t.co/wMnBnURhGb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1985213430492721235",
+        "created_at": "2025-11-03T05:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T06:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985213430492721235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengbai6962/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/mengbai6962/status/1985213069019287935",
+              "start": 14,
+              "url": "https://t.co/wMnBnURhGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985213430492721235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985213069019287935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "半夜开麦的傻逼程度高于外放 https://t.co/wMnBnURhGb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771360931089666048",
+        "conversation_id": "1985014077475991711",
+        "created_at": "2025-11-03T05:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T06:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985213069019287935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985213069019287935",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985014077475991711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 不外放但是凌晨三点开麦打三角洲😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1985030987299078214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7531,
+          "following_count": 3045,
+          "like_count": 61303,
+          "listed_count": 14,
+          "media_count": 1239,
+          "tweet_count": 14306
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T02:19:01.000Z",
+        "description": "博主苦逼考研ing，希望每天可以多睡一会儿",
+        "id": "1771360931089666048",
+        "location": "3.5km",
+        "name": "珑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823362325052805120/xBUYe2I6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 515,
+          "like_count": 1623,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 61
+        },
+        "username": "mengbai6962",
+        "verified": false
+      }
+    ]
+  }
+}

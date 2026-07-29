@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2032732213012512826",
+    "created_at": "2026-03-17T22:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T23:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034041837745541191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2006303139784515584",
+          "start": 0,
+          "username": "Yuri_Li_Awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034041837745541191",
+    "in_reply_to_user_id": "2006303139784515584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034039638869086636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuri_Li_Awa 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2032732213012512826",
+        "created_at": "2026-03-17T22:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T23:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034041837745541191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2006303139784515584",
+              "start": 0,
+              "username": "Yuri_Li_Awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034041837745541191",
+        "in_reply_to_user_id": "2006303139784515584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034039638869086636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuri_Li_Awa 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006303139784515584",
+        "conversation_id": "2032732213012512826",
+        "created_at": "2026-03-17T22:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T23:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034039638869086636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034039638869086636",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032732213012512826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2033924730877837630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11264,
+          "following_count": 4590,
+          "like_count": 82347,
+          "listed_count": 20,
+          "media_count": 1956,
+          "tweet_count": 18280
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-31T09:55:28.000Z",
+        "description": "To be or not to be, that's a question...",
+        "id": "2006303139784515584",
+        "name": "Yuri_LiAwa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006303511873720320/lpAjK1k3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 93,
+          "like_count": 1768,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "username": "Yuri_Li_Awa",
+        "verified": false
+      }
+    ]
+  }
+}

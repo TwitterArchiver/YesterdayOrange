@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2043660146753302880",
+    "created_at": "2026-04-13T13:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043689429295092121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1813500209328193536",
+          "start": 0,
+          "username": "Nukokw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043689429295092121",
+    "in_reply_to_user_id": "1813500209328193536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043680028001796109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nukokw 你都不理我私信🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2043660146753302880",
+        "created_at": "2026-04-13T13:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043689429295092121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1813500209328193536",
+              "start": 0,
+              "username": "Nukokw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043689429295092121",
+        "in_reply_to_user_id": "1813500209328193536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043680028001796109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nukokw 你都不理我私信🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813500209328193536",
+        "conversation_id": "2043660146753302880",
+        "created_at": "2026-04-13T13:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043680028001796109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043680028001796109",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043660146753302880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 11111111"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2043569353350914261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11438,
+          "following_count": 4823,
+          "like_count": 86199,
+          "listed_count": 20,
+          "media_count": 2086,
+          "tweet_count": 18986
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-17T09:05:28.000Z",
+        "description": "intp \n\nnukokw@outlook.",
+        "id": "1813500209328193536",
+        "location": "Japan",
+        "name": "Nuko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041927610452574208/85t4YbKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 755,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 282
+        },
+        "username": "Nukokw",
+        "verified": false
+      }
+    ]
+  }
+}

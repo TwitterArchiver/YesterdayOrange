@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2049073657675395464",
+    "created_at": "2026-04-28T10:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T11:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049073657675395464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YesterdayOrang…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/YesterdayOrange/status/2048680442698911975",
+          "start": 29,
+          "url": "https://t.co/lUGLFQSrn2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049073657675395464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048680442698911975",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草，怎么真有人因为这个取关我啊。\n这个就是纯粹说了玩的。 https://t.co/lUGLFQSrn2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2048680433089703936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5f_-Ca8AAh7pX.jpg",
+        "width": 432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2049073657675395464",
+        "created_at": "2026-04-28T10:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049073657675395464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/2048680442698911975",
+              "start": 29,
+              "url": "https://t.co/lUGLFQSrn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049073657675395464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048680442698911975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草，怎么真有人因为这个取关我啊。\n这个就是纯粹说了玩的。 https://t.co/lUGLFQSrn2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048680433089703936"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2048680442698911975",
+        "created_at": "2026-04-27T08:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048680442698911975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uH47lbJ06L",
+              "end": 48,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2048680442698911975/photo/1",
+              "media_key": "3_2048680433089703936",
+              "start": 25,
+              "url": "https://t.co/uH47lbJ06L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048680442698911975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2926,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@所有人\n我现在和你们绝交了，有人不让我和你们玩 https://t.co/uH47lbJ06L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2048959571394511106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11851,
+          "following_count": 5002,
+          "like_count": 88760,
+          "listed_count": 23,
+          "media_count": 2182,
+          "tweet_count": 19545
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

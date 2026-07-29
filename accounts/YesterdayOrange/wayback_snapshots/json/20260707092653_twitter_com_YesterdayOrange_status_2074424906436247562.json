@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074424028966821888",
+        "3_2074424093844348928"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2074424906436247562",
+    "created_at": "2026-07-07T09:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:26:40.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074424851931279583",
+      "2074424906436247562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p7PBgB0ucU",
+          "end": 160,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2074424906436247562/photo/1",
+          "media_key": "3_2074424028966821888",
+          "start": 137,
+          "url": "https://t.co/p7PBgB0ucU"
+        },
+        {
+          "display_url": "pic.x.com/p7PBgB0ucU",
+          "end": 160,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2074424906436247562/photo/1",
+          "media_key": "3_2074424093844348928",
+          "start": 137,
+          "url": "https://t.co/p7PBgB0ucU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074424906436247562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "厌倦自身中具有某种令人作呕的东西。\n在此，我应得出这样的结论：厌倦是件好事。\n因为一切都始于意识，而若不通过意识，则任何东西都\n毫无价值。\n这些观点并不包含什么独创之处。但它们都是显而易见的：在某一段时间内，这也就足以概括认识荒谬的起源。所有的东西都是原始“烦恼”的起源。 https://t.co/p7PBgB0ucU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2074424028966821888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnVqeAaIAAwodw.png",
+        "width": 676
+      },
+      {
+        "height": 868,
+        "media_key": "3_2074424093844348928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnVuPsaoAAlt-p.png",
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074424028966821888",
+            "3_2074424093844348928"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2074424851931279583",
+        "created_at": "2026-07-07T09:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:26:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074424851931279583",
+          "2074424906436247562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aH3hoygu4y",
+              "end": 161,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2074424851931279583/photo/1",
+              "media_key": "3_2074424028966821888",
+              "start": 138,
+              "url": "https://t.co/aH3hoygu4y"
+            },
+            {
+              "display_url": "pic.x.com/aH3hoygu4y",
+              "end": 161,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2074424851931279583/photo/1",
+              "media_key": "3_2074424093844348928",
+              "start": 138,
+              "url": "https://t.co/aH3hoygu4y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074424851931279583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "厌倦自身中具有某种令人作呕的东西。\n在此，我应得出这样的结论：厌倦是件好事。\n因为\n一切都始于意识，而若不通过意识，则任何东西都\n毫无价值。\n这些观点并不包含什么独创之处。但它们都是显而易见的：在某一段时间内，这也就足以概括认识荒谬的起源。所有的东西都是原始“烦恼”的起源。 https://t.co/aH3hoygu4y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074424028966821888",
+            "3_2074424093844348928"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2074424906436247562",
+        "created_at": "2026-07-07T09:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:26:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074424851931279583",
+          "2074424906436247562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7PBgB0ucU",
+              "end": 160,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2074424906436247562/photo/1",
+              "media_key": "3_2074424028966821888",
+              "start": 137,
+              "url": "https://t.co/p7PBgB0ucU"
+            },
+            {
+              "display_url": "pic.x.com/p7PBgB0ucU",
+              "end": 160,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2074424906436247562/photo/1",
+              "media_key": "3_2074424093844348928",
+              "start": 137,
+              "url": "https://t.co/p7PBgB0ucU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074424906436247562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "厌倦自身中具有某种令人作呕的东西。\n在此，我应得出这样的结论：厌倦是件好事。\n因为一切都始于意识，而若不通过意识，则任何东西都\n毫无价值。\n这些观点并不包含什么独创之处。但它们都是显而易见的：在某一段时间内，这也就足以概括认识荒谬的起源。所有的东西都是原始“烦恼”的起源。 https://t.co/p7PBgB0ucU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2074424906436247562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12191,
+          "following_count": 5176,
+          "like_count": 95170,
+          "listed_count": 20,
+          "media_count": 2352,
+          "tweet_count": 20702
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

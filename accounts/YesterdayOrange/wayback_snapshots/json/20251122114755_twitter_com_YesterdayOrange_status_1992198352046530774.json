@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1992198352046530774",
+    "created_at": "2025-11-22T11:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T12:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992198352046530774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/1992168563810124163",
+          "start": 22,
+          "url": "https://t.co/ql0t3HhqO2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992198352046530774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992168563810124163",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "三连跪，自闭了😢。\n这个日本怎么这么难打啊 https://t.co/ql0t3HhqO2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1992198352046530774",
+        "created_at": "2025-11-22T11:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992198352046530774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/1992168563810124163",
+              "start": 22,
+              "url": "https://t.co/ql0t3HhqO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992198352046530774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992168563810124163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三连跪，自闭了😢。\n这个日本怎么这么难打啊 https://t.co/ql0t3HhqO2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1992168563810124163",
+        "created_at": "2025-11-22T09:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T10:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992168563810124163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992168563810124163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1510,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "钢丝新版本，即将战胜日本的时候，英美一起对本校长宣战了👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1991897930484351162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8565,
+          "following_count": 3274,
+          "like_count": 65709,
+          "listed_count": 14,
+          "media_count": 1375,
+          "tweet_count": 15045
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

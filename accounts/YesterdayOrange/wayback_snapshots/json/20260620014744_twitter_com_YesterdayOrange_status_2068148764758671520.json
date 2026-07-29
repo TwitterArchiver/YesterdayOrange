@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2068136884765929885",
+    "created_at": "2026-06-20T01:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068148764758671520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1710327044540968960",
+          "start": 0,
+          "username": "Augety_Morii622"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068148764758671520",
+    "in_reply_to_user_id": "1710327044540968960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068141187114979365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Augety_Morii622 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2068136884765929885",
+        "created_at": "2026-06-20T01:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068148764758671520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1710327044540968960",
+              "start": 0,
+              "username": "Augety_Morii622"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068148764758671520",
+        "in_reply_to_user_id": "1710327044540968960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068141187114979365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Augety_Morii622 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710327044540968960",
+        "conversation_id": "2068136884765929885",
+        "created_at": "2026-06-20T01:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068141187114979365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068141187114979365",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068136884765929885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 早安喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2065839376798806044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12149,
+          "following_count": 5114,
+          "like_count": 94426,
+          "listed_count": 21,
+          "media_count": 2309,
+          "tweet_count": 20478
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-06T16:12:09.000Z",
+        "description": "",
+        "id": "1710327044540968960",
+        "name": "纸上云烟过眼多",
+        "pinned_tweet_id": "2064746056940974420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061879961234157568/zhNnLVRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 127,
+          "like_count": 2774,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "Augety_Morii622",
+        "verified": false
+      }
+    ]
+  }
+}

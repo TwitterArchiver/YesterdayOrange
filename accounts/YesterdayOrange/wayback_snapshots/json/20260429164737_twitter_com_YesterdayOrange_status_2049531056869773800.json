@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2049531056869773800",
+    "created_at": "2026-04-29T16:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049531056869773800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2024812886699474944",
+          "start": 8,
+          "username": "Chasjjxw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049531056869773800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以后我一辈子是 @Chasjjxw 的主人，他要无条件听我话，永远"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2049531056869773800",
+        "created_at": "2026-04-29T16:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049531056869773800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2024812886699474944",
+              "start": 8,
+              "username": "Chasjjxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049531056869773800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后我一辈子是 @Chasjjxw 的主人，他要无条件听我话，永远"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2049528095464657383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11861,
+          "following_count": 4966,
+          "like_count": 89042,
+          "listed_count": 23,
+          "media_count": 2190,
+          "tweet_count": 19621
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-20T11:47:00.000Z",
+        "description": "常驻北京，欢迎来找我玩//是🏳️‍🌈，将来去🇦🇺读书//不要在网上吵架哦～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/autumeeb5y1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/autumeeb5y1",
+                "start": 0,
+                "url": "https://t.co/KBWVqi2cAR"
+              }
+            ]
+          }
+        },
+        "id": "2024812886699474944",
+        "location": "北京",
+        "name": "Josh单身版",
+        "pinned_tweet_id": "2033830719320134112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027731164430274563/HsbTsoRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 405,
+          "like_count": 4532,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1002
+        },
+        "url": "https://t.co/KBWVqi2cAR",
+        "username": "Chasjjxw",
+        "verified": false
+      }
+    ]
+  }
+}

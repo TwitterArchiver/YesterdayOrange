@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2057277961196511327",
+    "created_at": "2026-05-21T01:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T02:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057277961196511327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2057273518140842283",
+          "start": 23,
+          "url": "https://t.co/QSsXo3o6kg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057277961196511327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057273518140842283",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "梦到毕业了但是离不开学校，道路被大雨封锁了。 https://t.co/QSsXo3o6kg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2057277961196511327",
+        "created_at": "2026-05-21T01:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057277961196511327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2057273518140842283",
+              "start": 23,
+              "url": "https://t.co/QSsXo3o6kg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057277961196511327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057273518140842283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梦到毕业了但是离不开学校，道路被大雨封锁了。 https://t.co/QSsXo3o6kg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2057273518140842283",
+        "created_at": "2026-05-21T01:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057273518140842283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057273518140842283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉最近噩梦多到影响睡觉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2057128877051588914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12044,
+          "following_count": 5074,
+          "like_count": 91847,
+          "listed_count": 22,
+          "media_count": 2255,
+          "tweet_count": 20022
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

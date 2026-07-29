@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2077671175627698219",
+    "created_at": "2026-07-16T12:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077730054579298321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031599737078689793",
+          "start": 0,
+          "username": "aihekeleqaq666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077730054579298321",
+    "in_reply_to_user_id": "2031599737078689793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077728919462285382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aihekeleqaq666 不工作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2077671175627698219",
+        "created_at": "2026-07-16T12:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077730054579298321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031599737078689793",
+              "start": 0,
+              "username": "aihekeleqaq666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077730054579298321",
+        "in_reply_to_user_id": "2031599737078689793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077728919462285382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aihekeleqaq666 不工作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031599737078689793",
+        "conversation_id": "2077671175627698219",
+        "created_at": "2026-07-16T12:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077728919462285382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077728919462285382",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077671175627698219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 16"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2075657040111018244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12182,
+          "following_count": 5188,
+          "like_count": 95897,
+          "listed_count": 20,
+          "media_count": 2374,
+          "tweet_count": 20880
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-11T05:15:04.000Z",
+        "description": "魂族，真是让人感到厌恶的血脉味道……",
+        "id": "2031599737078689793",
+        "location": "朝鲜🇰🇵",
+        "name": "爱喝可乐🥤（百分百互fo）",
+        "pinned_tweet_id": "2064610989069545824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059518390017163266/CnhJ3wS7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 240,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 310
+        },
+        "url": "",
+        "username": "aihekeleqaq666",
+        "verified": false
+      }
+    ]
+  }
+}

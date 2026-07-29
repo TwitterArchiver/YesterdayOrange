@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2024076919755636821",
+    "created_at": "2026-02-19T06:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T07:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024363568196673675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1499379720324251651",
+          "start": 0,
+          "username": "flowers0952"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024363568196673675",
+    "in_reply_to_user_id": "1499379720324251651",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024363422536839346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flowers0952 但我不是药娘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2024076919755636821",
+        "created_at": "2026-02-19T06:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024363568196673675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1499379720324251651",
+              "start": 0,
+              "username": "flowers0952"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024363568196673675",
+        "in_reply_to_user_id": "1499379720324251651",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024363422536839346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flowers0952 但我不是药娘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499379720324251651",
+        "conversation_id": "2024076919755636821",
+        "created_at": "2026-02-19T06:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024363422536839346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024363422536839346",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024076919755636821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 交朋友交朋友😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2024122058007793948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10683,
+          "following_count": 4235,
+          "like_count": 77630,
+          "listed_count": 17,
+          "media_count": 1824,
+          "tweet_count": 17475
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T13:42:45.000Z",
+        "description": "02/友跨男/isfp/社恐但渴望社交/LOL、三角洲（找搭子固玩）/交朋友😭/蹲一个香香软软的小药娘男娘🥹",
+        "id": "1499379720324251651",
+        "location": "武汉",
+        "name": "繁花落寂",
+        "pinned_tweet_id": "1901197205706543134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903721010261856257/uxtjZ3T0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 183,
+          "like_count": 8218,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 439
+        },
+        "username": "flowers0952",
+        "verified": false
+      }
+    ]
+  }
+}

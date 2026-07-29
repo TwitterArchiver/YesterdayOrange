@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1983909096815522015",
+    "created_at": "2025-10-30T15:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T16:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983922838013718716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1605152272375197699",
+          "start": 0,
+          "username": "zhungjilinxiop1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983922838013718716",
+    "in_reply_to_user_id": "1605152272375197699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983922450782982572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhungjilinxiop1 为什么这不是好结局"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1983909096815522015",
+        "created_at": "2025-10-30T15:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T16:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983922838013718716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1605152272375197699",
+              "start": 0,
+              "username": "zhungjilinxiop1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983922838013718716",
+        "in_reply_to_user_id": "1605152272375197699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983922450782982572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhungjilinxiop1 为什么这不是好结局"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605152272375197699",
+        "conversation_id": "1983909096815522015",
+        "created_at": "2025-10-30T15:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T16:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983922450782982572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983922450782982572",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983909096815522015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 为什么不是好结局😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1983909096815522015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7223,
+          "following_count": 3007,
+          "like_count": 59758,
+          "listed_count": 14,
+          "media_count": 1204,
+          "tweet_count": 14143
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T10:45:06.000Z",
+        "description": "我想通过打农火瓦舟和羽毛球来逃避一切\n结果发现真的能逃避一切 人就活一次别忘了对自己好点😇😇",
+        "id": "1605152272375197699",
+        "name": "装甲连小炮手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983208792222511104/CYPGCCrU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 6,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 89
+        },
+        "username": "zhungjilinxiop1",
+        "verified": false
+      }
+    ]
+  }
+}

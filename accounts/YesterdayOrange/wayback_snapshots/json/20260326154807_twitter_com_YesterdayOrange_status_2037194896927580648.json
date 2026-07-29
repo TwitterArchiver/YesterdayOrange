@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2037158215662919797",
+    "created_at": "2026-03-26T15:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T16:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037194896927580648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690190225891340288",
+          "start": 0,
+          "username": "KernelKim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037194896927580648",
+    "in_reply_to_user_id": "1690190225891340288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037171616095101237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KernelKim 晚上好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2037158215662919797",
+        "created_at": "2026-03-26T15:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037194896927580648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690190225891340288",
+              "start": 0,
+              "username": "KernelKim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037194896927580648",
+        "in_reply_to_user_id": "1690190225891340288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037171616095101237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KernelKim 晚上好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690190225891340288",
+        "conversation_id": "2037158215662919797",
+        "created_at": "2026-03-26T14:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037171616095101237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037171616095101237",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037158215662919797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 晚上好喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2036351762710639004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11421,
+          "following_count": 4794,
+          "like_count": 84429,
+          "listed_count": 20,
+          "media_count": 2007,
+          "tweet_count": 18667
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-12T02:35:35.000Z",
+        "description": "计算机/电影/逗猫/旅游。                                     欢迎来到我的朋友圈（好像也没人看），感谢你关注我（有人关注我我会乐好一会！",
+        "id": "1690190225891340288",
+        "location": "Nagoya-shi Meito, Aichi",
+        "name": "Miller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690190425816969217/EYMCsc36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 37,
+          "like_count": 868,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 462
+        },
+        "username": "KernelKim",
+        "verified": false
+      }
+    ]
+  }
+}

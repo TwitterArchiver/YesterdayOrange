@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1989209809728798866",
+    "created_at": "2025-11-14T12:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T13:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989312812808835324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1253716419239268354",
+          "start": 0,
+          "username": "ratfrombasement"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989312812808835324",
+    "in_reply_to_user_id": "1253716419239268354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989311455162765510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ratfrombasement 摆烂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1989209809728798866",
+        "created_at": "2025-11-14T12:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989312812808835324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1253716419239268354",
+              "start": 0,
+              "username": "ratfrombasement"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989312812808835324",
+        "in_reply_to_user_id": "1253716419239268354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989311455162765510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratfrombasement 摆烂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253716419239268354",
+        "conversation_id": "1989209809728798866",
+        "created_at": "2025-11-14T12:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989311455162765510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989311455162765510",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989209809728798866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 大猩猩那关怎么过👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1988972619169951931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8195,
+          "following_count": 3228,
+          "like_count": 64438,
+          "listed_count": 14,
+          "media_count": 1334,
+          "tweet_count": 14818
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-24T16:04:33.000Z",
+        "description": "在一生的黄金时代，感到自己正在一天天衰老下去，像受了锤的牛，所以想记录一些东西，在世间留下些存在的痕迹。",
+        "id": "1253716419239268354",
+        "location": "西西弗斯的石头上",
+        "name": "地下室鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984661877939720192/ZkYOYotE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 151,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 121
+        },
+        "username": "ratfrombasement",
+        "verified": false
+      }
+    ]
+  }
+}

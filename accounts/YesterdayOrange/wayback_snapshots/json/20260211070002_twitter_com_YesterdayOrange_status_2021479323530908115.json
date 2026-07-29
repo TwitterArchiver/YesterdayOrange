@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2021479323530908115",
+    "created_at": "2026-02-11T07:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T08:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021479323530908115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2021426278398820864",
+          "start": 17,
+          "url": "https://t.co/torlNMMcYM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021479323530908115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021426278398820864",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么样的群体会有同类贴贴社群呢？ https://t.co/torlNMMcYM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2021479323530908115",
+        "created_at": "2026-02-11T07:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021479323530908115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2021426278398820864",
+              "start": 17,
+              "url": "https://t.co/torlNMMcYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021479323530908115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021426278398820864",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么样的群体会有同类贴贴社群呢？ https://t.co/torlNMMcYM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2021426278398820864",
+        "created_at": "2026-02-11T03:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T04:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021426278398820864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021426278398820864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1090,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们ASD也是少数群体，而且更加天生。\n为什么我们ASD没有同类贴贴的社群🤔（（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2021413592336384190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10230,
+          "following_count": 3887,
+          "like_count": 75019,
+          "listed_count": 17,
+          "media_count": 1743,
+          "tweet_count": 17034
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

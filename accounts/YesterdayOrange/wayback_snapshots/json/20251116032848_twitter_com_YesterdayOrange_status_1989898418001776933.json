@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989898409067896832",
+        "3_1989898409109823488",
+        "3_1989898409118240768",
+        "3_1989898409114009600"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1989898418001776933",
+    "created_at": "2025-11-16T03:28:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T04:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989898418001776933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oxCqtNr0GI",
+          "end": 67,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1989898418001776933/photo/1",
+          "media_key": "3_1989898409067896832",
+          "start": 44,
+          "url": "https://t.co/oxCqtNr0GI"
+        },
+        {
+          "display_url": "pic.x.com/oxCqtNr0GI",
+          "end": 67,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1989898418001776933/photo/1",
+          "media_key": "3_1989898409109823488",
+          "start": 44,
+          "url": "https://t.co/oxCqtNr0GI"
+        },
+        {
+          "display_url": "pic.x.com/oxCqtNr0GI",
+          "end": 67,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1989898418001776933/photo/1",
+          "media_key": "3_1989898409118240768",
+          "start": 44,
+          "url": "https://t.co/oxCqtNr0GI"
+        },
+        {
+          "display_url": "pic.x.com/oxCqtNr0GI",
+          "end": 67,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1989898418001776933/photo/1",
+          "media_key": "3_1989898409114009600",
+          "start": 44,
+          "url": "https://t.co/oxCqtNr0GI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989898418001776933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "男朋友因为打游戏骗我去睡觉被我识破，然后我提了分手，他同意了，问问男孩子们他怎么想的？ https://t.co/oxCqtNr0GI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989898409067896832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52KD2ObYAAqvlP.jpg",
+        "width": 946
+      },
+      {
+        "height": 1708,
+        "media_key": "3_1989898409109823488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52KD2YbIAAYxGp.jpg",
+        "width": 880
+      },
+      {
+        "height": 1848,
+        "media_key": "3_1989898409118240768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52KD2abkAAvpar.jpg",
+        "width": 1008
+      },
+      {
+        "height": 1780,
+        "media_key": "3_1989898409114009600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52KD2ZbAAAl7At.jpg",
+        "width": 892
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989898409067896832",
+            "3_1989898409109823488",
+            "3_1989898409118240768",
+            "3_1989898409114009600"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989898418001776933",
+        "created_at": "2025-11-16T03:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T04:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989898418001776933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxCqtNr0GI",
+              "end": 67,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1989898418001776933/photo/1",
+              "media_key": "3_1989898409067896832",
+              "start": 44,
+              "url": "https://t.co/oxCqtNr0GI"
+            },
+            {
+              "display_url": "pic.x.com/oxCqtNr0GI",
+              "end": 67,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1989898418001776933/photo/1",
+              "media_key": "3_1989898409109823488",
+              "start": 44,
+              "url": "https://t.co/oxCqtNr0GI"
+            },
+            {
+              "display_url": "pic.x.com/oxCqtNr0GI",
+              "end": 67,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1989898418001776933/photo/1",
+              "media_key": "3_1989898409118240768",
+              "start": 44,
+              "url": "https://t.co/oxCqtNr0GI"
+            },
+            {
+              "display_url": "pic.x.com/oxCqtNr0GI",
+              "end": 67,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1989898418001776933/photo/1",
+              "media_key": "3_1989898409114009600",
+              "start": 44,
+              "url": "https://t.co/oxCqtNr0GI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989898418001776933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男朋友因为打游戏骗我去睡觉被我识破，然后我提了分手，他同意了，问问男孩子们他怎么想的？ https://t.co/oxCqtNr0GI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1989685373346426906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8243,
+          "following_count": 3247,
+          "like_count": 64720,
+          "listed_count": 14,
+          "media_count": 1339,
+          "tweet_count": 14842
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

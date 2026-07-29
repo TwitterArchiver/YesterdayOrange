@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2043873988305399808"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2043873989559497108",
+    "created_at": "2026-04-14T02:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043873989559497108"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043873989559497108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你厌学吗？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-04-15T02:08:26.000Z",
+        "id": "2043873988305399808",
+        "options": [
+          {
+            "label": "不厌学",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "厌学",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "喜欢上学",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2043873988305399808"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2043873989559497108",
+        "created_at": "2026-04-14T02:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043873989559497108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043873989559497108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你厌学吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2043569353350914261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11449,
+          "following_count": 4830,
+          "like_count": 86229,
+          "listed_count": 20,
+          "media_count": 2086,
+          "tweet_count": 18993
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

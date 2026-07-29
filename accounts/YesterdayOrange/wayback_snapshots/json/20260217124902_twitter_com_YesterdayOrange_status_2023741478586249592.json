@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2023741478586249592",
+    "created_at": "2026-02-17T12:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T13:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023741478586249592"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2023736766814117914",
+          "start": 28,
+          "url": "https://t.co/0ZVq42vQFw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023741478586249592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023736766814117914",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很久很久之前，我们给对方的备注是，painkiller https://t.co/0ZVq42vQFw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1896,
+        "media_key": "3_2023736756915630085",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXB27LbcAUmSRa.jpg",
+        "width": 824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2023741478586249592",
+        "created_at": "2026-02-17T12:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023741478586249592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2023736766814117914",
+              "start": 28,
+              "url": "https://t.co/0ZVq42vQFw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023741478586249592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023736766814117914",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很久很久之前，我们给对方的备注是，painkiller https://t.co/0ZVq42vQFw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023736756915630085"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2023736766814117914",
+        "created_at": "2026-02-17T12:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023736766814117914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ah2raHPNCw",
+              "end": 173,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2023736766814117914/photo/1",
+              "media_key": "3_2023736756915630085",
+              "start": 150,
+              "url": "https://t.co/Ah2raHPNCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023736766814117914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“对方说想起你都是特别难受的时候。\n群主居然没有骂他。\n而是问什么时候会特别难受。”\n\n“我玉玉又不会表现出来。\n除了你基本上不会。”\n\n“如果不是知道你们之间的事情。\n我可能会以为他在故意串。”\n\n“我建议和他切断联系，把爱和关心留给能给你回馈的人，但这好像没有可行性”\n\n我删了他，我应该哭吗？ https://t.co/Ah2raHPNCw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2023736766814117914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10622,
+          "following_count": 4190,
+          "like_count": 77066,
+          "listed_count": 17,
+          "media_count": 1810,
+          "tweet_count": 17392
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

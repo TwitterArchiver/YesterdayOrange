@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2047719608434753828",
+    "created_at": "2026-04-24T16:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T17:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047719608434753828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mark67358226/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/mark67358226/status/2047707864341606603",
+          "start": 13,
+          "url": "https://t.co/G78rxhqRCL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047719608434753828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047707864341606603",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我怎么感觉到处都是（x） https://t.co/G78rxhqRCL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2047719608434753828",
+        "created_at": "2026-04-24T16:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047719608434753828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mark67358226/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/mark67358226/status/2047707864341606603",
+              "start": 13,
+              "url": "https://t.co/G78rxhqRCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047719608434753828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047707864341606603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我怎么感觉到处都是（x） https://t.co/G78rxhqRCL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519649212736049152",
+        "conversation_id": "2047707864341606603",
+        "created_at": "2026-04-24T16:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047707864341606603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047707864341606603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "話說還有因非政治立場原因，電子設備和生活中都用繁體字的大陸人嗎🤔，暫時沒遇到過同類……我個人是單純喜歡傳統文化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2047196207223910858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11702,
+          "following_count": 4962,
+          "like_count": 88232,
+          "listed_count": 23,
+          "media_count": 2167,
+          "tweet_count": 19412
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體，簡體也可 | 日語🇯🇵 朝鮮語🇰🇷也會一點 | 性取向雙 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（線下找我玩也行超無聊的叫我就去！）",
+        "id": "1519649212736049152",
+        "location": "北京市昌平區",
+        "name": "Lhn002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 75,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 338
+        },
+        "username": "Mark67358226",
+        "verified": false
+      }
+    ]
+  }
+}

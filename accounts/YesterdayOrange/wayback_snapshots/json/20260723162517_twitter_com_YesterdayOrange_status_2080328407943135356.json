@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2080279779149058488",
+    "created_at": "2026-07-23T16:25:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:25:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080328407943135356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1757390454642143232",
+          "start": 0,
+          "username": "YDBchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080328407943135356",
+    "in_reply_to_user_id": "1757390454642143232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080327002863575488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YDBchan 宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2080279779149058488",
+        "created_at": "2026-07-23T16:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080328407943135356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1757390454642143232",
+              "start": 0,
+              "username": "YDBchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080328407943135356",
+        "in_reply_to_user_id": "1757390454642143232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080327002863575488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YDBchan 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757390454642143232",
+        "conversation_id": "2080279779149058488",
+        "created_at": "2026-07-23T16:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080327002863575488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080327002863575488",
+        "in_reply_to_user_id": "1757390454642143232",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080324640040272347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 437（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2080247998165197048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12267,
+          "following_count": 5249,
+          "like_count": 97198,
+          "listed_count": 21,
+          "media_count": 2426,
+          "tweet_count": 21058
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-13T13:05:20.000Z",
+        "description": "",
+        "id": "1757390454642143232",
+        "name": "Hitoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814555488396451845/Y4lj4Ixq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 118,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "YDBchan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1983597515833536750",
+    "created_at": "2025-10-29T18:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T19:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983597515833536750"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983597515833536750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我白天忘了耳机充电，所以醒了。\n🙂‍↔️\n没有降噪耳机，眼罩，褪黑素，少了一个就没法睡觉了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1983597515833536750",
+        "created_at": "2025-10-29T18:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T19:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983597515833536750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983597515833536750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我白天忘了耳机充电，所以醒了。\n🙂‍↔️\n没有降噪耳机，眼罩，褪黑素，少了一个就没法睡觉了😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1983562573929947411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7122,
+          "following_count": 2959,
+          "like_count": 59356,
+          "listed_count": 14,
+          "media_count": 1191,
+          "tweet_count": 14078
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

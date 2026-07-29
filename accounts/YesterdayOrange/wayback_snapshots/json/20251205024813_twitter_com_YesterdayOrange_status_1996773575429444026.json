@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996773565325328385"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "1996773575429444026",
+    "created_at": "2025-12-05T02:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T03:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996773575429444026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JYpvpF7Mbx",
+          "end": 164,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1996773575429444026/photo/1",
+          "media_key": "3_1996773565325328385",
+          "start": 141,
+          "url": "https://t.co/JYpvpF7Mbx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996773575429444026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来支持了，我自己也是二次元，这种小众的东西和文化就不该上的了台面，天天都有人到处宣扬真的败坏我们的名声！我们正常二次元都讨厌这种人！我本来是不支持不反对的，但是看到漫展约跑沉迷二次元啃老门酱二游开盒…这些违法乱纪道德败坏的行为，才选择反二的。我歧视二次元，我还歧视不歧视二次元的人 https://t.co/JYpvpF7Mbx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1887,
+        "media_key": "3_1996773565325328385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7X2-nIbQAEK7bN.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996773565325328385"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1996773575429444026",
+        "created_at": "2025-12-05T02:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T03:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996773575429444026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYpvpF7Mbx",
+              "end": 164,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1996773575429444026/photo/1",
+              "media_key": "3_1996773565325328385",
+              "start": 141,
+              "url": "https://t.co/JYpvpF7Mbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996773575429444026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来支持了，我自己也是二次元，这种小众的东西和文化就不该上的了台面，天天都有人到处宣扬真的败坏我们的名声！我们正常二次元都讨厌这种人！我本来是不支持不反对的，但是看到漫展约跑沉迷二次元啃老门酱二游开盒…这些违法乱纪道德败坏的行为，才选择反二的。我歧视二次元，我还歧视不歧视二次元的人 https://t.co/JYpvpF7Mbx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1996467554056118485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9463,
+          "following_count": 3400,
+          "like_count": 67907,
+          "listed_count": 16,
+          "media_count": 1459,
+          "tweet_count": 15616
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

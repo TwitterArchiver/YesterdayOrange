@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039142911280078848"
+      ],
+      "media_source_tweet_id": [
+        "2039142917189881945"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2039378918164287708",
+    "created_at": "2026-04-01T16:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039378918164287708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1810873766119100416",
+          "start": 3,
+          "username": "RainBuild_2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jaOH1SPSMb",
+          "end": 52,
+          "expanded_url": "https://x.com/RainBuild_2024/status/2039142917189881945/photo/1",
+          "media_key": "3_2039142911280078848",
+          "start": 29,
+          "url": "https://t.co/jaOH1SPSMb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039378918164287708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039142917189881945",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainBuild_2024: 还是太有钱导致的 https://t.co/jaOH1SPSMb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039142911280078848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEx9rIka4AABcay.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039142911280078848"
+          ],
+          "media_source_tweet_id": [
+            "2039142917189881945"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2039378918164287708",
+        "created_at": "2026-04-01T16:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039378918164287708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1810873766119100416",
+              "start": 3,
+              "username": "RainBuild_2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jaOH1SPSMb",
+              "end": 52,
+              "expanded_url": "https://x.com/RainBuild_2024/status/2039142917189881945/photo/1",
+              "media_key": "3_2039142911280078848",
+              "start": 29,
+              "url": "https://t.co/jaOH1SPSMb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039378918164287708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039142917189881945",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainBuild_2024: 还是太有钱导致的 https://t.co/jaOH1SPSMb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039142911280078848"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "2039142917189881945",
+        "created_at": "2026-04-01T00:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039142917189881945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jaOH1SPSMb",
+              "end": 32,
+              "expanded_url": "https://x.com/RainBuild_2024/status/2039142917189881945/photo/1",
+              "media_key": "3_2039142911280078848",
+              "start": 9,
+              "url": "https://t.co/jaOH1SPSMb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039142917189881945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10714,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还是太有钱导致的 https://t.co/jaOH1SPSMb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2038124373736083568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11505,
+          "following_count": 4802,
+          "like_count": 84793,
+          "listed_count": 20,
+          "media_count": 2027,
+          "tweet_count": 18749
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/Android ROM开发/产品项目运营/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/PM前请征得同意否则Ban/GMT+8/上一个账号@RainEngine2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "RainEngine2024"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴日向",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035649404812853248/cnSm6sUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9387,
+          "following_count": 884,
+          "like_count": 67934,
+          "listed_count": 17,
+          "media_count": 1423,
+          "tweet_count": 9930
+        },
+        "username": "RainBuild_2024",
+        "verified": false
+      }
+    ]
+  }
+}

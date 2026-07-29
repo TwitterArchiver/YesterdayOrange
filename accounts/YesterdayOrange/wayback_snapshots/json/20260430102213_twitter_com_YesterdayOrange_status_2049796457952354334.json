@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2049796457952354334",
+    "created_at": "2026-04-30T10:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T11:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049796457952354334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yun_y1ho86/sta…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/yun_y1ho86/status/2049660416830370148",
+          "start": 84,
+          "url": "https://t.co/Nn2j8GvJ3A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049796457952354334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049660416830370148",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求求大家不要死好吗😭😭想自杀之前可以试着做点喜欢的事消磨一会时间吗，就一会，自杀念头就会减轻很多 如果愿意的话有什么事都可以和咱倾诉，虽然不擅长安慰人，但是会认真听喵 https://t.co/Nn2j8GvJ3A"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2049796457952354334",
+        "created_at": "2026-04-30T10:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049796457952354334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yun_y1ho86/sta…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/yun_y1ho86/status/2049660416830370148",
+              "start": 84,
+              "url": "https://t.co/Nn2j8GvJ3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049796457952354334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049660416830370148",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求求大家不要死好吗😭😭想自杀之前可以试着做点喜欢的事消磨一会时间吗，就一会，自杀念头就会减轻很多 如果愿意的话有什么事都可以和咱倾诉，虽然不擅长安慰人，但是会认真听喵 https://t.co/Nn2j8GvJ3A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804112443666497536",
+        "conversation_id": "2049660416830370148",
+        "created_at": "2026-04-30T01:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049660416830370148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CunZai1069/sta…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/CunZai1069/status/2049634383548805584",
+              "start": 84,
+              "url": "https://t.co/ZuL8HJFOdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049660416830370148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049634383548805584",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求求大家不要死好吗😭😭想自杀之前可以试着做点喜欢的事消磨一会时间吗，就一会，自杀念头就会减轻很多 如果愿意的话有什么事都可以和咱倾诉，虽然不擅长安慰人，但是会认真听喵 https://t.co/ZuL8HJFOdI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2049528095464657383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11862,
+          "following_count": 4969,
+          "like_count": 89146,
+          "listed_count": 23,
+          "media_count": 2193,
+          "tweet_count": 19641
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜物理学在读｜心理学｜哲学｜友跨｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓与蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 31,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "username": "yun_y1ho86",
+        "verified": false
+      }
+    ]
+  }
+}

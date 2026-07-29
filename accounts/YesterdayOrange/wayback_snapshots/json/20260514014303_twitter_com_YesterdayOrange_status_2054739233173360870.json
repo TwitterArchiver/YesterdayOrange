@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2054007668105412917",
+    "created_at": "2026-05-14T01:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T02:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054739233173360870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032774080269856768",
+          "start": 0,
+          "username": "ChuiXi99582"
+        },
+        {
+          "end": 29,
+          "id": "1678638272560640000",
+          "start": 13,
+          "username": "chushuang128629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054739233173360870",
+    "in_reply_to_user_id": "2032774080269856768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054650145485230494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChuiXi99582 @chushuang128629 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2054007668105412917",
+        "created_at": "2026-05-14T01:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T02:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054739233173360870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032774080269856768",
+              "start": 0,
+              "username": "ChuiXi99582"
+            },
+            {
+              "end": 29,
+              "id": "1678638272560640000",
+              "start": 13,
+              "username": "chushuang128629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054739233173360870",
+        "in_reply_to_user_id": "2032774080269856768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054650145485230494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChuiXi99582 @chushuang128629 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032774080269856768",
+        "conversation_id": "2054007668105412917",
+        "created_at": "2026-05-13T19:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T20:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054650145485230494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678638272560640000",
+              "start": 0,
+              "username": "chushuang128629"
+            },
+            {
+              "end": 33,
+              "id": "1788485889225834496",
+              "start": 17,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054650145485230494",
+        "in_reply_to_user_id": "1678638272560640000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054010763803783352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chushuang128629 @YesterdayOrange 我被这么搞了不止一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2054258784231645579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11968,
+          "following_count": 5012,
+          "like_count": 90679,
+          "listed_count": 22,
+          "media_count": 2232,
+          "tweet_count": 19887
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T11:01:32.000Z",
+        "description": "二周目/07/北京-密云/双性恋/M/缺爱/男/如果愿意跟我聊天我会很开心....",
+        "id": "2032774080269856768",
+        "name": "椎名立希🌈『难受中』",
+        "pinned_tweet_id": "2036735499042480448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054640524360028160/3mB0TsUK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 72,
+          "like_count": 1017,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 274
+        },
+        "username": "ChuiXi99582",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T05:32:28.000Z",
+        "description": "",
+        "id": "1678638272560640000",
+        "name": "初霜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678655316123328512/LxPgb86Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 63,
+          "like_count": 2086,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 1063
+        },
+        "username": "chushuang128629",
+        "verified": false
+      }
+    ]
+  }
+}

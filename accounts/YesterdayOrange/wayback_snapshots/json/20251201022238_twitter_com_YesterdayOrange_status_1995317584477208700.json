@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1995125266784653332",
+    "created_at": "2025-12-01T02:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T03:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995317584477208700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1900389734507233280",
+          "start": 0,
+          "username": "liljn851848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995317584477208700",
+    "in_reply_to_user_id": "1900389734507233280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995286798365520381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liljn851848 起床行为本身就很吵啊（x）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1995125266784653332",
+        "created_at": "2025-12-01T02:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T03:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995317584477208700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1900389734507233280",
+              "start": 0,
+              "username": "liljn851848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995317584477208700",
+        "in_reply_to_user_id": "1900389734507233280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995286798365520381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liljn851848 起床行为本身就很吵啊（x）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900389734507233280",
+        "conversation_id": "1995125266784653332",
+        "created_at": "2025-12-01T00:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T01:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995286798365520381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995286798365520381",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2718,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995125266784653332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 贵校没有图书室和自习室么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1995315140724748766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9363,
+          "following_count": 3378,
+          "like_count": 67669,
+          "listed_count": 16,
+          "media_count": 1442,
+          "tweet_count": 15550
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T03:33:41.000Z",
+        "description": "皆さん、こんにちは、橙汁と申します、僕は中国人です。今は日本語を勉強しているので、もしよろしければ、私としゃべてください。日本語のレベルはまだまだ下手だから、いつでも私の間違いを指摘してください。JLPTのN2レベル試験予定です。\nこれ以上、ありがとうございます！",
+        "id": "1900389734507233280",
+        "location": "Kowloon City District",
+        "name": "橙汁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988083581760290816/m9U_cxvU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 12,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 31
+        },
+        "username": "liljn851848",
+        "verified": false
+      }
+    ]
+  }
+}

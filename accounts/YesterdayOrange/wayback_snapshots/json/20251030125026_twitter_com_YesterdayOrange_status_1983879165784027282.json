@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1983879165784027282",
+    "created_at": "2025-10-30T12:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T13:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983879165784027282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zyy1870813/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/zyy1870813/status/1983877130200215880",
+          "start": 35,
+          "url": "https://t.co/BESQ6ckdTp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983879165784027282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983877130200215880",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这里有一个人，一边说自己被很多很多人追过，一边说自己略丑，是谁呢🤓👍 https://t.co/BESQ6ckdTp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 707,
+        "media_key": "3_1983877117072044036",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gluhka8AQ-w74.jpg",
+        "width": 698
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1983879165784027282",
+        "created_at": "2025-10-30T12:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983879165784027282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zyy1870813/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/zyy1870813/status/1983877130200215880",
+              "start": 35,
+              "url": "https://t.co/BESQ6ckdTp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983879165784027282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983877130200215880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这里有一个人，一边说自己被很多很多人追过，一边说自己略丑，是谁呢🤓👍 https://t.co/BESQ6ckdTp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983877117072044036"
+          ]
+        },
+        "author_id": "1952993357611094016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983877130200215880",
+        "created_at": "2025-10-30T12:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983877130200215880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eGnn6BbSkQ",
+              "end": 25,
+              "expanded_url": "https://x.com/zyy1870813/status/1983877130200215880/photo/1",
+              "media_key": "3_1983877117072044036",
+              "start": 2,
+              "url": "https://t.co/eGnn6BbSkQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983877130200215880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😠 https://t.co/eGnn6BbSkQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1983562573929947411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7204,
+          "following_count": 3004,
+          "like_count": 59616,
+          "listed_count": 14,
+          "media_count": 1202,
+          "tweet_count": 14128
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T07:21:26.000Z",
+        "description": "🇨🇳英德日語言學本科在讀、TEM4/B1/N3等級。\n愛好:美食/旅行/コーデ /歴史を読むこと/ACG/軍事/それに奇幻科幻です。顔面偏差値、ブス不安。\n已經旅遊🇯🇵🇺🇸🇲🇽🇧🇿🇫🇯🇱🇰/🇭🇰🇹🇼。\n保守社會主義/🇨🇳🇰🇵🇰🇷🇯🇵漢中心東亞團结/建制。",
+        "id": "1952993357611094016",
+        "location": "北京",
+        "name": "zyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956399417965309954/sRJ6VHV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 71,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 150
+        },
+        "username": "zyy1870813",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2006999434375430541",
+    "created_at": "2026-01-02T08:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T09:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006999434375430541"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006999434375430541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "问大家一个尺度比较大的问题，就是怎么做到一天到晚都没人找你聊天，然后你也没对象，还能玩手机到半夜一两点才睡觉的？我怎么想都想不明白，你们到底是咋做到的，我真不明白。\n哇我破防了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2006999434375430541",
+        "created_at": "2026-01-02T08:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006999434375430541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006999434375430541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问大家一个尺度比较大的问题，就是怎么做到一天到晚都没人找你聊天，然后你也没对象，还能玩手机到半夜一两点才睡觉的？我怎么想都想不明白，你们到底是咋做到的，我真不明白。\n哇我破防了😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2006949069026156584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9854,
+          "following_count": 3645,
+          "like_count": 71068,
+          "listed_count": 17,
+          "media_count": 1590,
+          "tweet_count": 16270
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

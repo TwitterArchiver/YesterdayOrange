@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1984452781969965214",
+    "created_at": "2025-11-01T04:44:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T05:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984481611203952906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "971003340602486784",
+          "start": 0,
+          "username": "prism_ix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984481611203952906",
+    "in_reply_to_user_id": "971003340602486784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984481013188477192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@prism_ix 可以当我男朋友吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1984452781969965214",
+        "created_at": "2025-11-01T04:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T05:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984481611203952906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "971003340602486784",
+              "start": 0,
+              "username": "prism_ix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984481611203952906",
+        "in_reply_to_user_id": "971003340602486784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984481013188477192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@prism_ix 可以当我男朋友吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "971003340602486784",
+        "conversation_id": "1984452781969965214",
+        "created_at": "2025-11-01T04:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T05:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984481013188477192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984481013188477192",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984452781969965214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 那，我是50米6.9秒，立定跳远2.3m 的猛男（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1984296329212993548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7331,
+          "following_count": 3036,
+          "like_count": 60482,
+          "listed_count": 14,
+          "media_count": 1220,
+          "tweet_count": 14216
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-06T12:43:31.000Z",
+        "description": "某个人?的倒影 ｜00后中登 ｜当树洞发",
+        "id": "971003340602486784",
+        "location": "月球,雨海南部",
+        "name": "镜子涟🪞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977070934424227841/JOG_2P-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 99,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 469
+        },
+        "username": "prism_ix",
+        "verified": false
+      }
+    ]
+  }
+}

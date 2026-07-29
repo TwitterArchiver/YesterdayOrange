@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2077000447538466982",
+    "created_at": "2026-07-14T12:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077009641041809626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1650524052581228544",
+          "start": 0,
+          "username": "yibei9023330156"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077009641041809626",
+    "in_reply_to_user_id": "1650524052581228544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077008841032569058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yibei9023330156 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2077000447538466982",
+        "created_at": "2026-07-14T12:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077009641041809626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1650524052581228544",
+              "start": 0,
+              "username": "yibei9023330156"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077009641041809626",
+        "in_reply_to_user_id": "1650524052581228544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077008841032569058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yibei9023330156 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650524052581228544",
+        "conversation_id": "2077000447538466982",
+        "created_at": "2026-07-14T12:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077008841032569058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077008841032569058",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077000447538466982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 谁不想呢…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2075657040111018244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12183,
+          "following_count": 5189,
+          "like_count": 95609,
+          "listed_count": 20,
+          "media_count": 2367,
+          "tweet_count": 20824
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-24T15:36:36.000Z",
+        "description": "为自己的过往赎罪，我希望这个世界不会再有自杀和争执，我希望我劝的人最后都能好好活着，有什么事可以和我聊聊，我要是看见的话都会回复的",
+        "id": "1650524052581228544",
+        "name": "铃木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043062358126530560/Hk51YEQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "yibei9023330156",
+        "verified": false
+      }
+    ]
+  }
+}

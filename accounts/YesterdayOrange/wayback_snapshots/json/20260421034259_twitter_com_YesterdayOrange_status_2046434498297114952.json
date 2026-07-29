@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2046434498297114952",
+    "created_at": "2026-04-21T03:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T04:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046434498297114952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YesterdayOrang…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/YesterdayOrange/status/2046429293929279615",
+          "start": 42,
+          "url": "https://t.co/Mq84guvY5k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046434498297114952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046429293929279615",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这么138浏览才4个投票。\n我平常发的无关痛痒的投票，差不多5-10浏览就投一次。 https://t.co/Mq84guvY5k"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2046434498297114952",
+        "created_at": "2026-04-21T03:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046434498297114952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/2046429293929279615",
+              "start": 42,
+              "url": "https://t.co/Mq84guvY5k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046434498297114952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046429293929279615",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么138浏览才4个投票。\n我平常发的无关痛痒的投票，差不多5-10浏览就投一次。 https://t.co/Mq84guvY5k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2046429292847095808"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2046429293929279615",
+        "created_at": "2026-04-21T03:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046429293929279615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046429293929279615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你妈妈爱你吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2046253917890392241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11655,
+          "following_count": 4916,
+          "like_count": 87587,
+          "listed_count": 22,
+          "media_count": 2139,
+          "tweet_count": 19264
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

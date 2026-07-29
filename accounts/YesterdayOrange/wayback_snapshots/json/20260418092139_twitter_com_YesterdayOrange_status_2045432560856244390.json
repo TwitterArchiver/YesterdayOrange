@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2045432560856244390",
+    "created_at": "2026-04-18T09:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T10:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045432560856244390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2045328925094826389",
+          "start": 9,
+          "url": "https://t.co/F4YGThrs1V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045432560856244390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045328925094826389",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么分数这么低😨 https://t.co/F4YGThrs1V"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2045432560856244390",
+        "created_at": "2026-04-18T09:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045432560856244390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2045328925094826389",
+              "start": 9,
+              "url": "https://t.co/F4YGThrs1V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045432560856244390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045328925094826389",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么分数这么低😨 https://t.co/F4YGThrs1V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2045328923706482688"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2045328925094826389",
+        "created_at": "2026-04-18T02:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045328925094826389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045328925094826389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2342,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "给地球online评分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2045231864064139330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11510,
+          "following_count": 4867,
+          "like_count": 86943,
+          "listed_count": 21,
+          "media_count": 2120,
+          "tweet_count": 19156
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

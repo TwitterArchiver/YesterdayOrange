@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2045822148649058718",
+    "created_at": "2026-04-19T11:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045822148649058718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lemon12160206/…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/lemon12160206/status/2030317079849766929",
+          "start": 110,
+          "url": "https://t.co/RwPaFDHQOl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045822148649058718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030317079849766929",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被吃醋到底是啥感觉啊\n被担心到底是啥感觉啊\n被质问到底是啥感觉啊\n被窥探到底是啥感觉啊\n被保护到底是啥感觉啊\n被偏爱到底是啥感觉啊\n被包容到底是啥感觉啊\n被信任到底是啥感觉啊\n被转钱到底是啥感觉啊\n是唯一到底是啥感觉啊 https://t.co/RwPaFDHQOl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2045822148649058718",
+        "created_at": "2026-04-19T11:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045822148649058718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lemon12160206/…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/lemon12160206/status/2030317079849766929",
+              "start": 110,
+              "url": "https://t.co/RwPaFDHQOl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045822148649058718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030317079849766929",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被吃醋到底是啥感觉啊\n被担心到底是啥感觉啊\n被质问到底是啥感觉啊\n被窥探到底是啥感觉啊\n被保护到底是啥感觉啊\n被偏爱到底是啥感觉啊\n被包容到底是啥感觉啊\n被信任到底是啥感觉啊\n被转钱到底是啥感觉啊\n是唯一到底是啥感觉啊 https://t.co/RwPaFDHQOl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958198328568791040",
+        "conversation_id": "2030317079849766929",
+        "created_at": "2026-03-07T16:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030317079849766929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030317079849766929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被吃醋到底是啥感觉啊\n被担心到底是啥感觉啊\n被质问到底是啥感觉啊\n被窥探到底是啥感觉啊\n被保护到底是啥感觉啊\n被偏爱到底是啥感觉啊\n被包容到底是啥感觉啊\n被信任到底是啥感觉啊\n被转钱到底是啥感觉啊\n是唯一到底是啥感觉啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2045231864064139330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11589,
+          "following_count": 4887,
+          "like_count": 87247,
+          "listed_count": 21,
+          "media_count": 2128,
+          "tweet_count": 19187
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-20T16:04:12.000Z",
+        "description": "06某未知名状男子，（简介暂时这样以后再扩充）",
+        "id": "1958198328568791040",
+        "name": "le mo n",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958198500417851392/oaG0t-4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 68,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 258
+        },
+        "username": "lemon12160206",
+        "verified": false
+      }
+    ]
+  }
+}

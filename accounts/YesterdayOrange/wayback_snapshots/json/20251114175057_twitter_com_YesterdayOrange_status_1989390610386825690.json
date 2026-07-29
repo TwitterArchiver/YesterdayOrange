@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1989311172651384854",
+    "created_at": "2025-11-14T17:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T18:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989390610386825690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692047356034953216",
+          "start": 0,
+          "username": "Acriley_zc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989390610386825690",
+    "in_reply_to_user_id": "1692047356034953216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989382005629624469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acriley_zc fo我才可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1989311172651384854",
+        "created_at": "2025-11-14T17:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T18:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989390610386825690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692047356034953216",
+              "start": 0,
+              "username": "Acriley_zc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989390610386825690",
+        "in_reply_to_user_id": "1692047356034953216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989382005629624469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acriley_zc fo我才可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692047356034953216",
+        "conversation_id": "1989311172651384854",
+        "created_at": "2025-11-14T17:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T18:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989382005629624469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989382005629624469",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989311172651384854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 文么虽？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1988972619169951931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8221,
+          "following_count": 3234,
+          "like_count": 64566,
+          "listed_count": 14,
+          "media_count": 1334,
+          "tweet_count": 14821
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T05:35:11.000Z",
+        "description": "雨は気まぐれ。/东方project，galgame萌新，单机游戏爱好者，喜欢摇滚乐，软工在读，目前修行中......",
+        "id": "1692047356034953216",
+        "name": "北見ゆみや_official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883480658686918656/wFH3bZEM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 147,
+          "like_count": 786,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 232
+        },
+        "username": "Acriley_zc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2064217828660838864",
+    "created_at": "2026-06-09T20:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T21:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064437710350360849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1854234034572075008",
+          "start": 0,
+          "username": "CURIOUSBB372677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064437710350360849",
+    "in_reply_to_user_id": "1854234034572075008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064434125084475679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CURIOUSBB372677 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2064217828660838864",
+        "created_at": "2026-06-09T20:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T21:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064437710350360849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1854234034572075008",
+              "start": 0,
+              "username": "CURIOUSBB372677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064437710350360849",
+        "in_reply_to_user_id": "1854234034572075008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064434125084475679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CURIOUSBB372677 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854234034572075008",
+        "conversation_id": "2064217828660838864",
+        "created_at": "2026-06-09T19:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064434125084475679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064434125084475679",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064217828660838864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我也想啊，可惜朋友，可惜，我是男的🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2064378484663992607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12165,
+          "following_count": 5135,
+          "like_count": 93968,
+          "listed_count": 21,
+          "media_count": 2298,
+          "tweet_count": 20371
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-06T18:47:19.000Z",
+        "description": "翻墙来看黄黄的，没想到墙外还挺有意思～\n欢迎大家来和我做朋友～（〜^∇^)〜",
+        "id": "1854234034572075008",
+        "location": "Japan",
+        "name": "CURIOUSBB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062583163839512576/ZoWuqrii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 131,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "username": "CURIOUSBB372677",
+        "verified": false
+      }
+    ]
+  }
+}

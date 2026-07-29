@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2056537953065934974",
+    "created_at": "2026-05-19T00:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T01:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056537953065934974"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056537953065934974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做了特别神秘的梦。\n梦到去中考，但是同学不想中考，用系统把全校困了起来。\n而我一次一次复活躲避追沙，每次复活都了解他们的背景故事，最后找出活下去的方式。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2056537953065934974",
+        "created_at": "2026-05-19T00:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056537953065934974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056537953065934974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了特别神秘的梦。\n梦到去中考，但是同学不想中考，用系统把全校困了起来。\n而我一次一次复活躲避追沙，每次复活都了解他们的背景故事，最后找出活下去的方式。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2056355935485071678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12046,
+          "following_count": 5070,
+          "like_count": 91604,
+          "listed_count": 22,
+          "media_count": 2251,
+          "tweet_count": 19997
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

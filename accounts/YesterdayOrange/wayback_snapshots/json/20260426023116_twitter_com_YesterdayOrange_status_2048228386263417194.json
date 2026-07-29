@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2048203479953670473",
+    "created_at": "2026-04-26T02:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T03:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048228386263417194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1543588539232751622",
+          "start": 0,
+          "username": "NYShigure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048228386263417194",
+    "in_reply_to_user_id": "1543588539232751622",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048227250466906386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NYShigure 你都不理我私信喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2048203479953670473",
+        "created_at": "2026-04-26T02:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048228386263417194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1543588539232751622",
+              "start": 0,
+              "username": "NYShigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048228386263417194",
+        "in_reply_to_user_id": "1543588539232751622",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048227250466906386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NYShigure 你都不理我私信喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543588539232751622",
+        "conversation_id": "2048203479953670473",
+        "created_at": "2026-04-26T02:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048227250466906386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048227250466906386",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048203479953670473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 早桑好ﾉ☀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2047196207223910858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11764,
+          "following_count": 4978,
+          "like_count": 88314,
+          "listed_count": 23,
+          "media_count": 2170,
+          "tweet_count": 19444
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-03T13:32:57.000Z",
+        "description": "喜歡菲林影像ʢ˶ᵒ ᵕ ˂˶ʡᶻ\n                                                                                       希望你天天開心˚ʚ｡･ᵕ･｡ɞ˚",
+        "id": "1543588539232751622",
+        "location": "Nanning,China",
+        "name": "南雲時雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1543588609839624192/GYcM7yvY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 69,
+          "like_count": 615,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 261
+        },
+        "username": "NYShigure",
+        "verified": false
+      }
+    ]
+  }
+}

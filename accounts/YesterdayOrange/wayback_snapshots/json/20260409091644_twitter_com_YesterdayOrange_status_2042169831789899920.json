@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042169819919953920"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2042169831789899920",
+    "created_at": "2026-04-09T09:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042169831789899920"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uQNAxKIcZp",
+          "end": 37,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2042169831789899920/photo/1",
+          "media_key": "3_2042169819919953920",
+          "start": 14,
+          "url": "https://t.co/uQNAxKIcZp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042169831789899920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有哪些酒店参与星级评比啊 https://t.co/uQNAxKIcZp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2042169819919953920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFc-oZ9aMAAjVGN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042169819919953920"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2042169831789899920",
+        "created_at": "2026-04-09T09:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042169831789899920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uQNAxKIcZp",
+              "end": 37,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2042169831789899920/photo/1",
+              "media_key": "3_2042169819919953920",
+              "start": 14,
+              "url": "https://t.co/uQNAxKIcZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042169831789899920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有哪些酒店参与星级评比啊 https://t.co/uQNAxKIcZp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2042141022629876158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11417,
+          "following_count": 4799,
+          "like_count": 85395,
+          "listed_count": 20,
+          "media_count": 2058,
+          "tweet_count": 18853
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

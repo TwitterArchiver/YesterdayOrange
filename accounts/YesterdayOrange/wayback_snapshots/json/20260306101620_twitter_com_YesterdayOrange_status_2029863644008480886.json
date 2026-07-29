@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2029729515040395405",
+    "created_at": "2026-03-06T10:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T11:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029863644008480886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001252855441960960",
+          "start": 0,
+          "username": "ChuanAscent_159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029863644008480886",
+    "in_reply_to_user_id": "2001252855441960960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029762082099581072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChuanAscent_159 什么学校啊（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2029729515040395405",
+        "created_at": "2026-03-06T10:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029863644008480886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001252855441960960",
+              "start": 0,
+              "username": "ChuanAscent_159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029863644008480886",
+        "in_reply_to_user_id": "2001252855441960960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029762082099581072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChuanAscent_159 什么学校啊（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001252855441960960",
+        "conversation_id": "2029729515040395405",
+        "created_at": "2026-03-06T03:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T04:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029762082099581072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029762082099581072",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 340,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029729515040395405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 上学期刚做，做的是图书馆系统，混了个80多分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2028629348073587063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10943,
+          "following_count": 4409,
+          "like_count": 80264,
+          "listed_count": 20,
+          "media_count": 1903,
+          "tweet_count": 17895
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-17T11:27:38.000Z",
+        "description": "",
+        "id": "2001252855441960960",
+        "name": "屹川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014729950457221120/jOH-k4S5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 20,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 57
+        },
+        "username": "ChuanAscent_159",
+        "verified": false
+      }
+    ]
+  }
+}

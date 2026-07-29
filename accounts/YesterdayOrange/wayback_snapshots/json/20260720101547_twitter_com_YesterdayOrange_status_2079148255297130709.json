@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2079148255297130709",
+    "created_at": "2026-07-20T10:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079148255297130709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Akino_QwQ/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Akino_QwQ/status/2077971115348275254",
+          "start": 16,
+          "url": "https://t.co/5zP4kOuP4T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079148255297130709",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077971115348275254",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "地球好可怕，我要回B-612了 https://t.co/5zP4kOuP4T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 519,
+        "media_key": "3_2077971106049511424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZvth2bUAA7F6y.jpg",
+        "width": 1674
+      },
+      {
+        "height": 946,
+        "media_key": "3_2077971106049544192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZvth2b0AA32Y6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2079148255297130709",
+        "created_at": "2026-07-20T10:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079148255297130709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Akino_QwQ/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Akino_QwQ/status/2077971115348275254",
+              "start": 16,
+              "url": "https://t.co/5zP4kOuP4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079148255297130709",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077971115348275254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "地球好可怕，我要回B-612了 https://t.co/5zP4kOuP4T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077971106049511424",
+            "3_2077971106049544192"
+          ]
+        },
+        "author_id": "1271512602145730560",
+        "conversation_id": "2077971115348275254",
+        "created_at": "2026-07-17T04:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077971115348275254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TPl64uRc9L",
+              "end": 33,
+              "expanded_url": "https://x.com/Akino_QwQ/status/2077971115348275254/photo/1",
+              "media_key": "3_2077971106049511424",
+              "start": 10,
+              "url": "https://t.co/TPl64uRc9L"
+            },
+            {
+              "display_url": "pic.x.com/TPl64uRc9L",
+              "end": 33,
+              "expanded_url": "https://x.com/Akino_QwQ/status/2077971115348275254/photo/1",
+              "media_key": "3_2077971106049544192",
+              "start": 10,
+              "url": "https://t.co/TPl64uRc9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077971115348275254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4205,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是不是只能下海了 https://t.co/TPl64uRc9L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2078080489244770777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12180,
+          "following_count": 5216,
+          "like_count": 96426,
+          "listed_count": 20,
+          "media_count": 2400,
+          "tweet_count": 20963
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-12T18:40:10.000Z",
+        "description": "这里是银离子/银喵！🚪（？）/持证含糖友跨顺猫/想变可爱/收破烂的/Maimai/摄影器材/想拍小姐姐/软件工程/一点网络工程/修电脑/二轮车/魔改硬件/SSD/医疗电子/拆机/LLer/火车迷/mc原版/化学已/ADHD/想od/想要5HT2A激动剂/不键政!/对象(不混圈)/主人@HoshinoMako0131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 142,
+                "username": "HoshinoMako0131"
+              }
+            ]
+          }
+        },
+        "id": "1271512602145730560",
+        "location": "华立科技展厅",
+        "name": "一定不是银喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011153409378754560/HMEgRHqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3558,
+          "following_count": 949,
+          "like_count": 18519,
+          "listed_count": 7,
+          "media_count": 673,
+          "tweet_count": 3933
+        },
+        "url": "",
+        "username": "Akino_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

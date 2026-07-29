@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2039595028927095213",
+    "created_at": "2026-04-02T10:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T11:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039656807124423048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1895142421027266562",
+          "start": 0,
+          "username": "rating3pro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039656807124423048",
+    "in_reply_to_user_id": "1895142421027266562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039642140234670329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rating3pro 是的喵，怎么了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2039595028927095213",
+        "created_at": "2026-04-02T10:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039656807124423048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1895142421027266562",
+              "start": 0,
+              "username": "rating3pro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039656807124423048",
+        "in_reply_to_user_id": "1895142421027266562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039642140234670329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rating3pro 是的喵，怎么了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895142421027266562",
+        "conversation_id": "2039595028927095213",
+        "created_at": "2026-04-02T09:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039642140234670329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039642140234670329",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039595028927095213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 北京大兴国际机场吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2039378057040113862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11507,
+          "following_count": 4801,
+          "like_count": 84846,
+          "listed_count": 20,
+          "media_count": 2032,
+          "tweet_count": 18767
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-27T16:02:27.000Z",
+        "description": "那个…你好。\n会一点运维和网络。\n爱玩CS和Roblox。\nGithub：https://t.co/FvavRW85Wq\n博客在下面。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/rating3pro",
+                "end": 60,
+                "expanded_url": "http://github.com/rating3pro",
+                "start": 37,
+                "url": "https://t.co/FvavRW85Wq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xie.today",
+                "end": 23,
+                "expanded_url": "https://www.xie.today",
+                "start": 0,
+                "url": "https://t.co/DnJdutCEUJ"
+              }
+            ]
+          }
+        },
+        "id": "1895142421027266562",
+        "name": "rating3pro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924650024274952196/BSGXBM2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 250,
+          "like_count": 11755,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1244
+        },
+        "url": "https://t.co/DnJdutCEUJ",
+        "username": "rating3pro",
+        "verified": true
+      }
+    ]
+  }
+}

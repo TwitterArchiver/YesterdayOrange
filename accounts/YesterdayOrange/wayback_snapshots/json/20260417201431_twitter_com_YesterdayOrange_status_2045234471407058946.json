@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2045209164042190995",
+    "created_at": "2026-04-17T20:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T21:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045234471407058946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1843289184775086080",
+          "start": 0,
+          "username": "cml1559450"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045234471407058946",
+    "in_reply_to_user_id": "1843289184775086080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045234213771964661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cml1559450 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2045209164042190995",
+        "created_at": "2026-04-17T20:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045234471407058946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1843289184775086080",
+              "start": 0,
+              "username": "cml1559450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045234471407058946",
+        "in_reply_to_user_id": "1843289184775086080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045234213771964661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cml1559450 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843289184775086080",
+        "conversation_id": "2045209164042190995",
+        "created_at": "2026-04-17T20:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045234213771964661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045234213771964661",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045209164042190995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 嘤嘤嘤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2045231864064139330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11496,
+          "following_count": 4860,
+          "like_count": 86829,
+          "listed_count": 21,
+          "media_count": 2114,
+          "tweet_count": 19116
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T13:56:38.000Z",
+        "description": "please😟，请不要压力我，我只是个喷菇，丧尸来了会保护你的。",
+        "id": "1843289184775086080",
+        "location": "California, USA",
+        "name": "迷你世界大喷菇🇨🇳🇨🇳🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040350474789089280/SnyBRiww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 39,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 131
+        },
+        "username": "cml1559450",
+        "verified": false
+      }
+    ]
+  }
+}

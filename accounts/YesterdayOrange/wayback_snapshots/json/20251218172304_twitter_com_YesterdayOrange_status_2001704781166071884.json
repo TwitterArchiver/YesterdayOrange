@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2001662023202148385",
+    "created_at": "2025-12-18T17:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T18:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001704781166071884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1910256364464517120",
+          "start": 0,
+          "username": "a567783356818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001704781166071884",
+    "in_reply_to_user_id": "1910256364464517120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001666186376024496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a567783356818 番茄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2001662023202148385",
+        "created_at": "2025-12-18T17:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T18:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001704781166071884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1910256364464517120",
+              "start": 0,
+              "username": "a567783356818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001704781166071884",
+        "in_reply_to_user_id": "1910256364464517120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001666186376024496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a567783356818 番茄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910256364464517120",
+        "conversation_id": "2001662023202148385",
+        "created_at": "2025-12-18T14:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T15:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001666186376024496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001666186376024496",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001662023202148385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 你觉得麻辣烫骨汤还是番茄汤好吃🤔？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2000095705998983445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9514,
+          "following_count": 3429,
+          "like_count": 68737,
+          "listed_count": 16,
+          "media_count": 1517,
+          "tweet_count": 15852
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T09:00:01.000Z",
+        "description": "是喜欢在X上评论的游荡幽灵（＾ω＾)                     由于差点莫名其妙被封号了，所以我决定克制欲望了，减少评论，还是视奸大家吧\n_(:з」∠)_",
+        "id": "1910256364464517120",
+        "name": "lucky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910256812999208960/IWzZ4_8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 51,
+          "like_count": 736,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 734
+        },
+        "username": "a567783356818",
+        "verified": false
+      }
+    ]
+  }
+}

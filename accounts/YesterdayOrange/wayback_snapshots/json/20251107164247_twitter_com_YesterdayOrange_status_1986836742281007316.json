@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1986835542483607583",
+    "created_at": "2025-11-07T16:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T17:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986836742281007316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1969024973374377984",
+          "start": 0,
+          "username": "rubyvein72203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986836742281007316",
+    "in_reply_to_user_id": "1969024973374377984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986836144190079100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rubyvein72203 而且失眠很严重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1986835542483607583",
+        "created_at": "2025-11-07T16:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T17:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986836742281007316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1969024973374377984",
+              "start": 0,
+              "username": "rubyvein72203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986836742281007316",
+        "in_reply_to_user_id": "1969024973374377984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986836144190079100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rubyvein72203 而且失眠很严重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969024973374377984",
+        "conversation_id": "1986835542483607583",
+        "created_at": "2025-11-07T16:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T17:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986836144190079100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986836144190079100",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986835542483607583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 是咯，已经形成习惯了。你这种情况大概也不适合戴耳塞吧，会不会担心自己听不到动静？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1986404979910058420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7876,
+          "following_count": 3113,
+          "like_count": 62731,
+          "listed_count": 15,
+          "media_count": 1286,
+          "tweet_count": 14506
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T13:05:24.000Z",
+        "description": "麻木算罪过，谁把热烈还给我",
+        "id": "1969024973374377984",
+        "name": "妳看吧我会假装妳没在看的:)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984320001818738688/YLlp2X4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 44,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 481
+        },
+        "username": "rubyvein72203",
+        "verified": false
+      }
+    ]
+  }
+}

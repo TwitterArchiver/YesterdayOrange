@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2042123261061034086",
+    "created_at": "2026-04-09T06:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042123261061034086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/switzerland181…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/switzerland1815/status/2042114299859280089",
+          "start": 18,
+          "url": "https://t.co/LdQ2YH696A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042123261061034086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042114299859280089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吾侪青年，当为xx之崛起而奋斗终生 https://t.co/LdQ2YH696A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 636,
+        "media_key": "3_2042113466102919170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcLYLobMAIaZV6.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2042123261061034086",
+        "created_at": "2026-04-09T06:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042123261061034086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/switzerland181…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/switzerland1815/status/2042114299859280089",
+              "start": 18,
+              "url": "https://t.co/LdQ2YH696A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042123261061034086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042114299859280089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吾侪青年，当为xx之崛起而奋斗终生 https://t.co/LdQ2YH696A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042113466102919170"
+          ]
+        },
+        "author_id": "2033844837787795456",
+        "conversation_id": "2042114299859280089",
+        "created_at": "2026-04-09T05:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042114299859280089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oeCBvTUuHA",
+              "end": 88,
+              "expanded_url": "https://x.com/Switzerland1815/status/2042114299859280089/photo/1",
+              "media_key": "3_2042113466102919170",
+              "start": 65,
+              "url": "https://t.co/oeCBvTUuHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042114299859280089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真受不了有些做题曲写议论文动不动就来句君不见君不见了，写之前想想和你语言风格搭不搭再用啊，有的放在文中是真的生硬，一股文青病味 https://t.co/oeCBvTUuHA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2041671996229218473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11417,
+          "following_count": 4797,
+          "like_count": 85358,
+          "listed_count": 20,
+          "media_count": 2055,
+          "tweet_count": 18848
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-17T09:56:22.000Z",
+        "description": "yaha~",
+        "id": "2033844837787795456",
+        "location": "Istanbul",
+        "name": "Swiss",
+        "pinned_tweet_id": "2034207813816521086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033936881138995206/kcdc9QS8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 331,
+          "like_count": 1560,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 362
+        },
+        "username": "Switzerland1815",
+        "verified": false
+      }
+    ]
+  }
+}

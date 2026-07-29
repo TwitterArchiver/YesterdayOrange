@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2070933194770440450",
+    "created_at": "2026-06-28T04:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071086196575584542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1530252010213330945",
+          "start": 0,
+          "username": "rikinkan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071086196575584542",
+    "in_reply_to_user_id": "1530252010213330945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070933194770440450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rikinkan 互关喵。\n因为我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2070933194770440450",
+        "created_at": "2026-06-28T04:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071086196575584542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1530252010213330945",
+              "start": 0,
+              "username": "rikinkan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071086196575584542",
+        "in_reply_to_user_id": "1530252010213330945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070933194770440450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rikinkan 互关喵。\n因为我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530252010213330945",
+        "conversation_id": "2070933194770440450",
+        "created_at": "2026-06-27T18:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070933194770440450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070933194770440450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还以为全世界都和我一样读大学之前只有老家的县城和一成不变的读书生活，等到了大学才有所谓“人生经历”。我一直觉得我到了大学之后，哦甚至说可能是到了大一寒假之后我才算有了人生。我好羡慕你们，你们早早的就有了“人生”，即使可能痛苦，但却不会又痛苦又寡淡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2069728968174178357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12174,
+          "following_count": 5140,
+          "like_count": 94768,
+          "listed_count": 20,
+          "media_count": 2334,
+          "tweet_count": 20597
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-27T18:18:16.000Z",
+        "description": "不是键政号\n🧡💛🤍🩵💙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "atlas2.vear.vip",
+                "end": 23,
+                "expanded_url": "https://atlas2.vear.vip",
+                "start": 0,
+                "url": "https://t.co/CceBRYFMkv"
+              }
+            ]
+          }
+        },
+        "id": "1530252010213330945",
+        "location": "新疆维吾尔自治区",
+        "name": "呂西安 和另外325人",
+        "pinned_tweet_id": "2051316918695666024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060407556229718016/FEbJeqRf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 38,
+          "like_count": 1804,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 2001
+        },
+        "url": "https://t.co/CceBRYFMkv",
+        "username": "rikinkan",
+        "verified": false
+      }
+    ]
+  }
+}

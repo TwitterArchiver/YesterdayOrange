@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1982828353540460905",
+    "created_at": "2025-10-27T15:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T16:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982830055907819541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808883154083852288",
+          "start": 0,
+          "username": "lipuxizi7071638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982830055907819541",
+    "in_reply_to_user_id": "1808883154083852288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982828353540460905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lipuxizi7071638 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1982828353540460905",
+        "created_at": "2025-10-27T15:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T16:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982830055907819541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1808883154083852288",
+              "start": 0,
+              "username": "lipuxizi7071638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982830055907819541",
+        "in_reply_to_user_id": "1808883154083852288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982828353540460905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lipuxizi7071638 加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808883154083852288",
+        "conversation_id": "1982828353540460905",
+        "created_at": "2025-10-27T15:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T16:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982828353540460905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/1982465948155248859",
+              "start": 47,
+              "url": "https://t.co/9w7ahec00B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982828353540460905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982465948155248859",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的前任就是这样离开我的\n很对不起人家，伴随我长大的自卑是一生的污点。\n不被喜欢也是正常的… https://t.co/9w7ahec00B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1982468201574535482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6901,
+          "following_count": 2845,
+          "like_count": 58412,
+          "listed_count": 14,
+          "media_count": 1179,
+          "tweet_count": 13963
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T15:18:59.000Z",
+        "description": "我们会在将来重逢",
+        "id": "1808883154083852288",
+        "name": "小鱼块",
+        "pinned_tweet_id": "1970381866139296204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959441187561259009/aHiEBrnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4595,
+          "following_count": 505,
+          "like_count": 9931,
+          "listed_count": 14,
+          "media_count": 86,
+          "tweet_count": 3076
+        },
+        "username": "lipuxizi7071638",
+        "verified": false
+      }
+    ]
+  }
+}

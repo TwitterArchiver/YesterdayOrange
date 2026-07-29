@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1984083659641761975",
+    "created_at": "2025-10-31T02:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T03:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984083659641761975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/1983909096815522015",
+          "start": 23,
+          "url": "https://t.co/TLUz0wy2nC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984083659641761975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983909096815522015",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么都觉得是坏结局啊😢\n我不是这个意思啊😢 https://t.co/TLUz0wy2nC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1983908906947760128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4hCo8Fa0AA5_zS.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1984083659641761975",
+        "created_at": "2025-10-31T02:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T03:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984083659641761975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/1983909096815522015",
+              "start": 23,
+              "url": "https://t.co/TLUz0wy2nC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984083659641761975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983909096815522015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么都觉得是坏结局啊😢\n我不是这个意思啊😢 https://t.co/TLUz0wy2nC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983908906947760128"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1983909096815522015",
+        "created_at": "2025-10-30T14:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T15:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983909096815522015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gc7iKb35DP",
+              "end": 179,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1983909096815522015/photo/1",
+              "media_key": "3_1983908906947760128",
+              "start": 156,
+              "url": "https://t.co/Gc7iKb35DP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983909096815522015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2255,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Doro抱着最后一袋欧润吉，她感觉自己变轻了\n结霜的欧润吉也很甘甜\nDoro隐约看到你的轮廓，Doro递出一颗欧润吉，冷气冻住了她的声音\n欧润吉一点点变硬，空气也没有甜味\nDoro抱住欧润吉，她闭上眼睛\nDoro感觉被抱住，她想起某个温暖的下午\n欧润吉升起了，人们没有发现Doro，只有一袋冻坏的欧润吉扔在路边 https://t.co/Gc7iKb35DP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1983909096815522015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7256,
+          "following_count": 3011,
+          "like_count": 59849,
+          "listed_count": 14,
+          "media_count": 1204,
+          "tweet_count": 14150
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

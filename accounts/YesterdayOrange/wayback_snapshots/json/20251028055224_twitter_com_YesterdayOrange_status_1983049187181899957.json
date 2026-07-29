@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1983049187181899957",
+    "created_at": "2025-10-28T05:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T06:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983049187181899957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ephraim_deca/s…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/ephraim_deca/status/1982999235759882702",
+          "start": 29,
+          "url": "https://t.co/wSmojeFQAe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983049187181899957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982999235759882702",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不允许有人不认识滴水湖😡\n我在那里度过了一个愉快的夏天 https://t.co/wSmojeFQAe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 791,
+        "media_key": "3_1982999087487021056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4UHKeeWcAAu2G6.png",
+        "width": 867
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1983049187181899957",
+        "created_at": "2025-10-28T05:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T06:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983049187181899957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ephraim_deca/s…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/ephraim_deca/status/1982999235759882702",
+              "start": 29,
+              "url": "https://t.co/wSmojeFQAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983049187181899957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982999235759882702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不允许有人不认识滴水湖😡\n我在那里度过了一个愉快的夏天 https://t.co/wSmojeFQAe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982999087487021056"
+          ]
+        },
+        "author_id": "1587696726022017027",
+        "conversation_id": "1982999235759882702",
+        "created_at": "2025-10-28T02:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T03:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982999235759882702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QuXZHJOyHA",
+              "end": 43,
+              "expanded_url": "https://x.com/Ephraim_deca/status/1982999235759882702/photo/1",
+              "media_key": "3_1982999087487021056",
+              "start": 20,
+              "url": "https://t.co/QuXZHJOyHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982999235759882702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同志，滴水湖在哪里，我在地图上找不到它 https://t.co/QuXZHJOyHA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1983039190972641305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6955,
+          "following_count": 2868,
+          "like_count": 58561,
+          "listed_count": 14,
+          "media_count": 1180,
+          "tweet_count": 13990
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T06:43:01.000Z",
+        "description": "加拿大荒原一秒都待不下去了//中文/English/Español//\n“...应持守公允，并切记，人灵之得救，在教会中常应视为最高无上之法律。”🇻🇦\n电报：https://t.co/TfjP9W0sVX\n垃圾箱：https://t.co/BUKhQfYqVS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Clemens777hepta",
+                "end": 102,
+                "expanded_url": "http://t.me/Clemens777hepta",
+                "start": 79,
+                "url": "https://t.co/TfjP9W0sVX"
+              },
+              {
+                "display_url": "ngl.link/clemensdsh",
+                "end": 130,
+                "expanded_url": "https://ngl.link/clemensdsh",
+                "start": 107,
+                "url": "https://t.co/BUKhQfYqVS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clemensdsh.github.io",
+                "end": 23,
+                "expanded_url": "http://clemensdsh.github.io",
+                "start": 0,
+                "url": "https://t.co/5hQ1rQqSqz"
+              }
+            ]
+          }
+        },
+        "id": "1587696726022017027",
+        "location": "Hamilton, Ontario",
+        "name": "楊柳條兒青",
+        "pinned_tweet_id": "1959026398766510194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916508130042896384/4QZdgjiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 3963,
+          "like_count": 68016,
+          "listed_count": 4,
+          "media_count": 130,
+          "tweet_count": 1566
+        },
+        "url": "https://t.co/5hQ1rQqSqz",
+        "username": "Ephraim_deca",
+        "verified": false
+      }
+    ]
+  }
+}

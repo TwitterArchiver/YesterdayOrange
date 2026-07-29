@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1984297919328239990",
+    "created_at": "2025-10-31T16:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T17:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984297919328239990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1777004598429114369",
+          "start": 3,
+          "username": "TaoWu75791"
+        },
+        {
+          "end": 28,
+          "id": "1709261220765986816",
+          "start": 15,
+          "username": "Anthony_M664"
+        },
+        {
+          "end": 45,
+          "id": "1843444540495278083",
+          "start": 29,
+          "username": "fattykakapo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984297919328239990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢 @TaoWu75791 @Anthony_M664\n@fattykakapo8964 给我看学信网🥺，随便提要求然后就有回应的感觉真的特别特别好，有一种被宠爱的感觉😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1984297919328239990",
+        "created_at": "2025-10-31T16:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984297919328239990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1777004598429114369",
+              "start": 3,
+              "username": "TaoWu75791"
+            },
+            {
+              "end": 28,
+              "id": "1709261220765986816",
+              "start": 15,
+              "username": "Anthony_M664"
+            },
+            {
+              "end": 45,
+              "id": "1843444540495278083",
+              "start": 29,
+              "username": "fattykakapo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984297919328239990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢 @TaoWu75791 @Anthony_M664\n@fattykakapo8964 给我看学信网🥺，随便提要求然后就有回应的感觉真的特别特别好，有一种被宠爱的感觉😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1984296329212993548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7309,
+          "following_count": 3028,
+          "like_count": 60315,
+          "listed_count": 14,
+          "media_count": 1213,
+          "tweet_count": 14200
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-07T16:05:06.000Z",
+        "description": "ฅ՞•ﻌ•՞ฅ\n（无聊的人，只有空空的灵魂）    \n    如果多一张船票，你会不会跟我一起走",
+        "id": "1777004598429114369",
+        "name": "Tao",
+        "pinned_tweet_id": "1983163294883131410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982474270962860032/xtXV9Km0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 29,
+          "like_count": 492,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 78
+        },
+        "username": "TaoWu75791",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T17:36:57.000Z",
+        "description": "",
+        "id": "1709261220765986816",
+        "name": "楚.辞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733904332968566784/u6uiza0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 122,
+          "like_count": 1143,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "Anthony_M664",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T00:13:37.000Z",
+        "description": "新时代四无鸟员：无厘头搞笑、无下限嘲讽、无节制刷推，无差别喷人。 Make Kakapo Great Again   这里提问 https://t.co/g0qevzu0Xr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kakapo8964",
+                "end": 87,
+                "expanded_url": "https://ngl.link/kakapo8964",
+                "start": 64,
+                "url": "https://t.co/g0qevzu0Xr"
+              }
+            ]
+          }
+        },
+        "id": "1843444540495278083",
+        "location": "異世界",
+        "name": "Kakapo在地球同步轨道（胆大高速版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874389221873778688/gPM2GwiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 642,
+          "like_count": 1372,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 3457
+        },
+        "username": "fattykakapo8964",
+        "verified": false
+      }
+    ]
+  }
+}

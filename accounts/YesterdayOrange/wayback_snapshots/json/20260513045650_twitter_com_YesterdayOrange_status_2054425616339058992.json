@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2054367091843866648",
+    "created_at": "2026-05-13T04:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T05:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054425616339058992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876534446327050240",
+          "start": 0,
+          "username": "asahi_rin359"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054425616339058992",
+    "in_reply_to_user_id": "1876534446327050240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054425492410060910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@asahi_rin359 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2054367091843866648",
+        "created_at": "2026-05-13T04:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T05:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054425616339058992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876534446327050240",
+              "start": 0,
+              "username": "asahi_rin359"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054425616339058992",
+        "in_reply_to_user_id": "1876534446327050240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054425492410060910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@asahi_rin359 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876534446327050240",
+        "conversation_id": "2054367091843866648",
+        "created_at": "2026-05-13T04:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T05:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054425492410060910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054425492410060910",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054367091843866648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@YesterdayOrange 哟西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2054258784231645579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11937,
+          "following_count": 4996,
+          "like_count": 90375,
+          "listed_count": 22,
+          "media_count": 2228,
+          "tweet_count": 19857
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-07T07:40:58.000Z",
+        "description": "鉄道、スホーイ戦闘機が好きです\n日本語の学習においては、ご容赦ください",
+        "id": "1876534446327050240",
+        "location": "三途川の向こう、間山県渚前町三丁目",
+        "name": "朝日りん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966568233026371584/RNWJuEPF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 340,
+          "like_count": 2323,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 657
+        },
+        "username": "asahi_rin359",
+        "verified": false
+      }
+    ]
+  }
+}

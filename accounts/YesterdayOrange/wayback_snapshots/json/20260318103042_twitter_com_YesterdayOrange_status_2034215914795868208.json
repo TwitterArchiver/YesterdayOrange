@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2034215914795868208",
+    "created_at": "2026-03-18T10:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T11:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034215914795868208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2034196965337296922",
+          "start": 59,
+          "url": "https://t.co/9StUiBcGiC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034215914795868208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034196965337296922",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实最抽象的地方在于，本地不测一下就上线新版本（对，没有正经测试环境），发现bug多的让人难绷，于是紧急测试紧急修改 https://t.co/9StUiBcGiC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2034215914795868208",
+        "created_at": "2026-03-18T10:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T11:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034215914795868208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2034196965337296922",
+              "start": 59,
+              "url": "https://t.co/9StUiBcGiC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034215914795868208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034196965337296922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实最抽象的地方在于，本地不测一下就上线新版本（对，没有正经测试环境），发现bug多的让人难绷，于是紧急测试紧急修改 https://t.co/9StUiBcGiC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2034196965337296922",
+        "created_at": "2026-03-18T09:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034196965337296922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034196965337296922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天先是测试环境和开发环境混乱，测试环境用上了生产接口，先指责我用错接口了，然后才发现是开发的问题。\n然后提了一个bug，产品：用户真的会犯这种错误吗？\n然后我说没有某个功能，产品让我截图哪里没有......\n然后到这里很烦躁了，飞书又响了，产品说我半个月前校对的一个时间是错的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2033924730877837630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11293,
+          "following_count": 4619,
+          "like_count": 82450,
+          "listed_count": 20,
+          "media_count": 1957,
+          "tweet_count": 18333
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

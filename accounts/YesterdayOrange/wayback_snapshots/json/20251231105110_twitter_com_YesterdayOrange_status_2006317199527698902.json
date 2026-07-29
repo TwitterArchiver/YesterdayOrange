@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2006248208918556828",
+    "created_at": "2025-12-31T10:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T11:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006317199527698902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1417588223929249793",
+          "start": 0,
+          "username": "Cao_195"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006317199527698902",
+    "in_reply_to_user_id": "1417588223929249793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006317005599895980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cao_195 我嫉妒你😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2006248208918556828",
+        "created_at": "2025-12-31T10:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006317199527698902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1417588223929249793",
+              "start": 0,
+              "username": "Cao_195"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006317199527698902",
+        "in_reply_to_user_id": "1417588223929249793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006317005599895980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cao_195 我嫉妒你😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417588223929249793",
+        "conversation_id": "2006248208918556828",
+        "created_at": "2025-12-31T10:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006317005599895980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006317005599895980",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006248208918556828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 14…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2006248475131003325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9804,
+          "following_count": 3627,
+          "like_count": 70616,
+          "listed_count": 16,
+          "media_count": 1580,
+          "tweet_count": 16203
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-20T20:52:33.000Z",
+        "description": "從不希望有人看到我在說什麼 又希望會有人懂我在想什麼",
+        "id": "1417588223929249793",
+        "location": "王城羅德爾",
+        "name": "拿坡里的雪球",
+        "pinned_tweet_id": "1739330385266520246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1417589530933166080/3CdTzeCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 30,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "username": "Cao_195",
+        "verified": false
+      }
+    ]
+  }
+}

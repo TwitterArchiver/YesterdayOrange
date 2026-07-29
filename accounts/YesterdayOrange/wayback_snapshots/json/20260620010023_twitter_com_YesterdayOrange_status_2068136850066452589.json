@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2068136850066452589",
+    "created_at": "2026-06-20T01:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068136850066452589"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068136850066452589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "时代洪流奔涌不息，吾辈青年当追寻精神坐标。张桂梅校长以瘦弱之躯扛起民族未来之希望，她扎根贫瘠之地，燃烧岁月之芳华，于无声处听惊雷，在无望中筑通途。她用布满膏药的手掌托举起无数大山女孩的梦想，以‘九死亦无悔’的执着诠释了师者大爱。她的身影，是烛火，照亮了山区的夜空；她的坚守，是路标，指引着我们在浮躁的时代中锚定初心，砥砺前行。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "时代洪流奔涌不息，吾辈青年当追寻精神坐标。张桂梅校长以瘦弱之躯扛起民族未来之希望，她扎根贫瘠之地，燃烧岁月之芳华，于无声处听惊雷，在无望中筑通途。她用布满膏药的手掌托举起无数大山女孩的梦想，以‘九死亦无悔’的执着诠释了师者大爱。她的身影，是烛火，照亮了山区的夜空；她的坚守，是路标，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2068136850066452589",
+        "created_at": "2026-06-20T01:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068136850066452589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068136850066452589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "时代洪流奔涌不息，吾辈青年当追寻精神坐标。张桂梅校长以瘦弱之躯扛起民族未来之希望，她扎根贫瘠之地，燃烧岁月之芳华，于无声处听惊雷，在无望中筑通途。她用布满膏药的手掌托举起无数大山女孩的梦想，以‘九死亦无悔’的执着诠释了师者大爱。她的身影，是烛火，照亮了山区的夜空；她的坚守，是路标，指引着我们在浮躁的时代中锚定初心，砥砺前行。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时代洪流奔涌不息，吾辈青年当追寻精神坐标。张桂梅校长以瘦弱之躯扛起民族未来之希望，她扎根贫瘠之地，燃烧岁月之芳华，于无声处听惊雷，在无望中筑通途。她用布满膏药的手掌托举起无数大山女孩的梦想，以‘九死亦无悔’的执着诠释了师者大爱。她的身影，是烛火，照亮了山区的夜空；她的坚守，是路标，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2065839376798806044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12150,
+          "following_count": 5112,
+          "like_count": 94423,
+          "listed_count": 21,
+          "media_count": 2309,
+          "tweet_count": 20474
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1984131778416959601",
+    "created_at": "2025-10-31T16:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T17:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984292223517872436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1891454772106153984",
+          "start": 0,
+          "username": "bbba422642"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984292223517872436",
+    "in_reply_to_user_id": "1891454772106153984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984291660134818241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbba422642 可以和我约吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1984131778416959601",
+        "created_at": "2025-10-31T16:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984292223517872436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1891454772106153984",
+              "start": 0,
+              "username": "bbba422642"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984292223517872436",
+        "in_reply_to_user_id": "1891454772106153984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984291660134818241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbba422642 可以和我约吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891454772106153984",
+        "conversation_id": "1984131778416959601",
+        "created_at": "2025-10-31T16:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984291660134818241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984291660134818241",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984131778416959601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 评论区咋都是985，俺们211有人想约吗😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1984255689762701422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7305,
+          "following_count": 3028,
+          "like_count": 60304,
+          "listed_count": 14,
+          "media_count": 1213,
+          "tweet_count": 14198
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T11:49:19.000Z",
+        "description": "",
+        "id": "1891454772106153984",
+        "name": "爱咋咋地",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911704218576039936/VsDOR3lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 41,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "bbba422642",
+        "verified": false
+      }
+    ]
+  }
+}

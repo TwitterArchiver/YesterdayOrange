@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1982331034638385507",
+    "created_at": "2025-10-26T09:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T10:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982381532275998985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1928064821918060550",
+          "start": 0,
+          "username": "karunecalcium96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982381532275998985",
+    "in_reply_to_user_id": "1928064821918060550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982379074640371771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karunecalcium96 有多喜欢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1982331034638385507",
+        "created_at": "2025-10-26T09:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T10:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982381532275998985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1928064821918060550",
+              "start": 0,
+              "username": "karunecalcium96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982381532275998985",
+        "in_reply_to_user_id": "1928064821918060550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982379074640371771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karunecalcium96 有多喜欢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928064821918060550",
+        "conversation_id": "1982331034638385507",
+        "created_at": "2025-10-26T09:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T10:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982379074640371771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982379074640371771",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982369084252766324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 當然喜歡!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1982157534913007732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6829,
+          "following_count": 2813,
+          "like_count": 58015,
+          "listed_count": 14,
+          "media_count": 1164,
+          "tweet_count": 13919
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T12:24:23.000Z",
+        "description": "HK 來看小男娘的uwu 也會發一些maimai或者幹話  #男娘 #femboy",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "男娘"
+              },
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "femboy"
+              }
+            ]
+          }
+        },
+        "id": "1928064821918060550",
+        "location": "Hong Kong",
+        "name": "膠時林",
+        "pinned_tweet_id": "1949163421477560701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969111358546591746/6DwUMy5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 123,
+          "like_count": 1092,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 311
+        },
+        "username": "karunecalcium96",
+        "verified": false
+      }
+    ]
+  }
+}

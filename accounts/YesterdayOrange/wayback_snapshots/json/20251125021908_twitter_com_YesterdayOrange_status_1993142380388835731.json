@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993142371111124993"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "1993142380388835731",
+    "created_at": "2025-11-25T02:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T03:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993142380388835731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/73JYKO2hAe",
+          "end": 40,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1993142380388835731/photo/1",
+          "media_key": "3_1993142371111124993",
+          "start": 17,
+          "url": "https://t.co/73JYKO2hAe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993142380388835731",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么向孩子证明我上班比他上学辛苦 https://t.co/73JYKO2hAe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993142371111124993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6kQbSjbwAEYwQe.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993142371111124993"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1993142380388835731",
+        "created_at": "2025-11-25T02:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T03:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993142380388835731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/73JYKO2hAe",
+              "end": 40,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1993142380388835731/photo/1",
+              "media_key": "3_1993142371111124993",
+              "start": 17,
+              "url": "https://t.co/73JYKO2hAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993142380388835731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么向孩子证明我上班比他上学辛苦 https://t.co/73JYKO2hAe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1992956304256852427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8853,
+          "following_count": 3277,
+          "like_count": 66258,
+          "listed_count": 14,
+          "media_count": 1394,
+          "tweet_count": 15179
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

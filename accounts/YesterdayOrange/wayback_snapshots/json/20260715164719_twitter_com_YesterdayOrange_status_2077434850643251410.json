@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2077434850643251410",
+    "created_at": "2026-07-15T16:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T17:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077434850643251410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2077431157654974635",
+          "start": 12,
+          "url": "https://t.co/dmqMWRgzr4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077434850643251410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077431157654974635",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这么多赞但是没人理我😭 https://t.co/dmqMWRgzr4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2077434850643251410",
+        "created_at": "2026-07-15T16:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077434850643251410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2077431157654974635",
+              "start": 12,
+              "url": "https://t.co/dmqMWRgzr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077434850643251410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077431157654974635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么多赞但是没人理我😭 https://t.co/dmqMWRgzr4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2077431157654974635",
+        "created_at": "2026-07-15T16:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077431157654974635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077431157654974635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你可以和我交朋友吗🥺\n扣1和我交朋友😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2075657040111018244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12180,
+          "following_count": 5192,
+          "like_count": 95841,
+          "listed_count": 21,
+          "media_count": 2372,
+          "tweet_count": 20860
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

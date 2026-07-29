@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1983602016195883096",
+    "created_at": "2025-10-31T16:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T17:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984291484691235232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1979778281072402432",
+          "start": 0,
+          "username": "PaiHsiao94335"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984291484691235232",
+    "in_reply_to_user_id": "1979778281072402432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984286314758586424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaiHsiao94335 宝宝抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1983602016195883096",
+        "created_at": "2025-10-31T16:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984291484691235232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1979778281072402432",
+              "start": 0,
+              "username": "PaiHsiao94335"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984291484691235232",
+        "in_reply_to_user_id": "1979778281072402432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984286314758586424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaiHsiao94335 宝宝抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979778281072402432",
+        "conversation_id": "1983602016195883096",
+        "created_at": "2025-10-31T15:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984286314758586424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984286314758586424",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983602016195883096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我要拥抱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1984255689762701422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7305,
+          "following_count": 3028,
+          "like_count": 60297,
+          "listed_count": 14,
+          "media_count": 1212,
+          "tweet_count": 14196
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-19T05:16:45.000Z",
+        "description": "to our world",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.163.com/m/playlist?id=…",
+                "end": 23,
+                "expanded_url": "https://music.163.com/m/playlist?id=7457251099&creatorId=7876054451",
+                "start": 0,
+                "url": "https://t.co/osNzXk73ax"
+              }
+            ]
+          }
+        },
+        "id": "1979778281072402432",
+        "location": "Hubrian Company",
+        "name": "青鸟薯条机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984286649594064896/3tmyj1gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 27,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 67
+        },
+        "url": "https://t.co/osNzXk73ax",
+        "username": "PaiHsiao94335",
+        "verified": false
+      }
+    ]
+  }
+}

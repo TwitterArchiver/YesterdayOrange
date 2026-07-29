@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2049314287873884502",
+    "created_at": "2026-04-29T03:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T04:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049326101386936360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1431522334339391489",
+          "start": 0,
+          "username": "Russell67074993"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049326101386936360",
+    "in_reply_to_user_id": "1431522334339391489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049325742975246580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Russell67074993 你都不理我私信😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2049314287873884502",
+        "created_at": "2026-04-29T03:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049326101386936360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1431522334339391489",
+              "start": 0,
+              "username": "Russell67074993"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049326101386936360",
+        "in_reply_to_user_id": "1431522334339391489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049325742975246580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Russell67074993 你都不理我私信😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431522334339391489",
+        "conversation_id": "2049314287873884502",
+        "created_at": "2026-04-29T03:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049325742975246580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049325742975246580",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049314287873884502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2048959571394511106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11855,
+          "following_count": 4958,
+          "like_count": 88888,
+          "listed_count": 23,
+          "media_count": 2187,
+          "tweet_count": 19580
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-28T07:41:48.000Z",
+        "description": "He is using men as his tool to get himself on.",
+        "id": "1431522334339391489",
+        "location": "山东省",
+        "name": "the kuroshio",
+        "pinned_tweet_id": "1951658610758680661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020805726130909184/3xpbVzsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 38,
+          "like_count": 1149,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 276
+        },
+        "username": "Russell67074993",
+        "verified": false
+      }
+    ]
+  }
+}

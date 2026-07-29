@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1986836105854132359",
+    "created_at": "2025-11-07T16:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T17:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986836105854132359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/1986729369004568697",
+          "start": 6,
+          "url": "https://t.co/tJPWGqFKwG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986836105854132359",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986729369004568697",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "活动截止了 https://t.co/tJPWGqFKwG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1986836105854132359",
+        "created_at": "2025-11-07T16:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T17:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986836105854132359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/1986729369004568697",
+              "start": 6,
+              "url": "https://t.co/tJPWGqFKwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986836105854132359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986729369004568697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "活动截止了 https://t.co/tJPWGqFKwG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1986729369004568697",
+        "created_at": "2025-11-07T09:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T10:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986729369004568697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986729369004568697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2123,
+          "like_count": 80,
+          "quote_count": 2,
+          "reply_count": 44,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "评论这个帖子可以获取我的随机私信www\n（仅限fo我的不然我怕封号）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1986404979910058420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7875,
+          "following_count": 3113,
+          "like_count": 62727,
+          "listed_count": 15,
+          "media_count": 1286,
+          "tweet_count": 14504
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

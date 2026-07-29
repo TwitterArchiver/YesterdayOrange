@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2043641563201614261",
+    "created_at": "2026-04-13T16:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T17:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043728124014457169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757688141664948224",
+          "start": 0,
+          "username": "LLLLLANCHY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043728124014457169",
+    "in_reply_to_user_id": "1757688141664948224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043726813940297956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LLLLLANCHY 好的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2043641563201614261",
+        "created_at": "2026-04-13T16:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043728124014457169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757688141664948224",
+              "start": 0,
+              "username": "LLLLLANCHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043728124014457169",
+        "in_reply_to_user_id": "1757688141664948224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043726813940297956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LLLLLANCHY 好的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757688141664948224",
+        "conversation_id": "2043641563201614261",
+        "created_at": "2026-04-13T16:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043726813940297956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043726813940297956",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043641563201614261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 来陪我给学生改画😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2043569353350914261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11443,
+          "following_count": 4825,
+          "like_count": 86229,
+          "listed_count": 20,
+          "media_count": 2086,
+          "tweet_count": 18990
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T08:48:13.000Z",
+        "description": "我已飞升/港人/🚫AI/未授权使用/未授权转载/\n/会发画/是小画室美术老师/\n/大号已经飞升/正常交流可/\n极端建政人士和攻击自己种族人士请离开\n如果不想被我攻击的话\n小狗：@8wRb7（已飞升）/@ChandaPras89332（已飞升）/@laudigfris66866（已破防拉黑我）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 88,
+                "username": "8wRb7"
+              },
+              {
+                "end": 116,
+                "start": 100,
+                "username": "ChandaPras89332"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "username": "laudigfris66866"
+              }
+            ]
+          }
+        },
+        "id": "1757688141664948224",
+        "location": "SIDE 4殖民卫星/也有可能在阿克西斯（）",
+        "name": "岚琦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025802622314397696/179KSZdk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 350,
+          "like_count": 1698,
+          "listed_count": 2,
+          "media_count": 449,
+          "tweet_count": 3733
+        },
+        "username": "LLLLLANCHY",
+        "verified": false
+      }
+    ]
+  }
+}

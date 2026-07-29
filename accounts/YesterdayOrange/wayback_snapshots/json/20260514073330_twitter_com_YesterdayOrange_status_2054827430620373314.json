@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2054734929511260579",
+    "created_at": "2026-05-14T07:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054827430620373314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2045151553661919232",
+          "start": 0,
+          "username": "KirishimaNobuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054827430620373314",
+    "in_reply_to_user_id": "2045151553661919232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054768746431176802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KirishimaNobuko 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2054734929511260579",
+        "created_at": "2026-05-14T07:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054827430620373314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045151553661919232",
+              "start": 0,
+              "username": "KirishimaNobuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054827430620373314",
+        "in_reply_to_user_id": "2045151553661919232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054768746431176802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KirishimaNobuko 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045151553661919232",
+        "conversation_id": "2054734929511260579",
+        "created_at": "2026-05-14T03:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054768746431176802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054768746431176802",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054734929511260579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 早安喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2054258784231645579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11975,
+          "following_count": 5020,
+          "like_count": 90781,
+          "listed_count": 22,
+          "media_count": 2232,
+          "tweet_count": 19898
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T14:47:06.000Z",
+        "description": "被强迫纠正到“人生正轨”上的残缺逼少女\n08/焦虑症/双相/mtf\n欢迎同类互fo喵呜",
+        "id": "2045151553661919232",
+        "location": "有你存在的时空",
+        "name": "读作未来的小悔🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045152197349142528/nzWpE4-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 32,
+          "like_count": 844,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 196
+        },
+        "username": "KirishimaNobuko",
+        "verified": false
+      }
+    ]
+  }
+}

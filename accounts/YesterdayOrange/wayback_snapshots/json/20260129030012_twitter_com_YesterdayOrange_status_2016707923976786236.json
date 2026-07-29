@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2016703554015416337",
+    "created_at": "2026-01-29T03:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T04:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806993387285057537",
+          "start": 0,
+          "username": "CR_Rabbit_Li"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016707923976786236",
+    "in_reply_to_user_id": "1806993387285057537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016706025811038683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CR_Rabbit_Li 而我大三了哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806993387285057537",
+        "conversation_id": "2016703554015416337",
+        "created_at": "2026-01-29T02:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T03:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016706025811038683",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016703554015416337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 虽然嘴上说着不怕高考 但是前几周梦到自己考语文玩了两个小时手机最后只考了23分真的吓醒了😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2016317132775293330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10122,
+          "following_count": 3784,
+          "like_count": 73756,
+          "listed_count": 15,
+          "media_count": 1694,
+          "tweet_count": 16802
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T10:09:50.000Z",
+        "description": "男｜08｜高三在家自学｜168｜68｜算是直男吧｜轻度极限运动爱好者（很菜）｜Minecraft｜一念逍遥｜文明6｜戴森球｜INT？",
+        "id": "1806993387285057537",
+        "location": "广州",
+        "name": "一只屑兔子🚴🏃",
+        "pinned_tweet_id": "2010718152565657981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015402151824994304/dLXffYYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 96,
+          "like_count": 9212,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 821
+        },
+        "username": "CR_Rabbit_Li",
+        "verified": false
+      }
+    ]
+  }
+}

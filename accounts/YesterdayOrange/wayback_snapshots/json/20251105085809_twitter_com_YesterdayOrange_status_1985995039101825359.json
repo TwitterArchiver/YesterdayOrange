@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1985995039101825359",
+    "created_at": "2025-11-05T08:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T09:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985995039101825359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sogg6716/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/sogg6716/status/1985973142238744600",
+          "start": 6,
+          "url": "https://t.co/82XtjKjDBY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985995039101825359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985973142238744600",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很猎奇了（ https://t.co/82XtjKjDBY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985973137729863682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-YC-_bQAIL5mW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1985995039101825359",
+        "created_at": "2025-11-05T08:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T09:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985995039101825359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sogg6716/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/sogg6716/status/1985973142238744600",
+              "start": 6,
+              "url": "https://t.co/82XtjKjDBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985995039101825359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985973142238744600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很猎奇了（ https://t.co/82XtjKjDBY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985973137729863682"
+          ]
+        },
+        "author_id": "1799337134605930496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1985973142238744600",
+        "created_at": "2025-11-05T07:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T08:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985973142238744600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y0MuwhTplI",
+              "end": 46,
+              "expanded_url": "https://x.com/Sogg6716/status/1985973142238744600/photo/1",
+              "media_key": "3_1985973137729863682",
+              "start": 23,
+              "url": "https://t.co/y0MuwhTplI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985973142238744600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了减少碳水于是把汉堡外面的面包换成了蔬菜😌 https://t.co/y0MuwhTplI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1985736420343050383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7673,
+          "following_count": 3087,
+          "like_count": 61770,
+          "listed_count": 14,
+          "media_count": 1263,
+          "tweet_count": 14406
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T07:06:24.000Z",
+        "description": "大三在读丨目前打算学医丨上推特当然是大家做朋友丨回fo率99%丨介于现充和死宅之间丨熟悉后想恰v丨碎碎念&胡言乱语出没⚠️丨算是混乱中立？ 总之祝所有人生活愉快捏(^∇^*)/",
+        "id": "1799337134605930496",
+        "location": "Santa Barbara, USA",
+        "name": "笙鹤",
+        "pinned_tweet_id": "1974372503515771046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972145919211778048/5cHPM9gg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 311,
+          "like_count": 15551,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 2764
+        },
+        "username": "Sogg6716",
+        "verified": false
+      }
+    ]
+  }
+}

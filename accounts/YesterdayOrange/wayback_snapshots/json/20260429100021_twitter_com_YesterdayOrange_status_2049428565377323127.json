@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2049428565377323127",
+    "created_at": "2026-04-29T10:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049428565377323127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhoudejie/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/zhoudejie/status/2048214757606576135",
+          "start": 7,
+          "url": "https://t.co/JuCnOvY7mL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049428565377323127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048214757606576135",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那我很诚信了 https://t.co/JuCnOvY7mL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2049428565377323127",
+        "created_at": "2026-04-29T10:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049428565377323127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhoudejie/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/zhoudejie/status/2048214757606576135",
+              "start": 7,
+              "url": "https://t.co/JuCnOvY7mL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049428565377323127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048214757606576135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我很诚信了 https://t.co/JuCnOvY7mL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "521107189",
+        "conversation_id": "2048214757606576135",
+        "created_at": "2026-04-26T01:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T02:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048214757606576135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048214757606576135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真是想问那些几k甚至几十k粉的人说互关，但是实际上关注比粉丝数少个0的人，你们是来搞笑的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2048959571394511106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11859,
+          "following_count": 4967,
+          "like_count": 88936,
+          "listed_count": 23,
+          "media_count": 2189,
+          "tweet_count": 19605
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2012-03-11T07:38:43.000Z",
+        "description": "Developer of Mind Elixir: https://t.co/XdWbzVMd4k\nGitHub: https://t.co/sqh8tkDn5C\nADHD | INFP | Gamer | 过期二次元 | 蓝v互关\n\nNintendo Switch FC 3824-2959-2096",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mind-elixir.com",
+                "end": 49,
+                "expanded_url": "https://mind-elixir.com/",
+                "start": 26,
+                "url": "https://t.co/XdWbzVMd4k"
+              },
+              {
+                "display_url": "github.com/ssshooter",
+                "end": 81,
+                "expanded_url": "https://github.com/ssshooter",
+                "start": 58,
+                "url": "https://t.co/sqh8tkDn5C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssshooter.com",
+                "end": 23,
+                "expanded_url": "https://ssshooter.com/",
+                "start": 0,
+                "url": "https://t.co/NBr8Qcrlrc"
+              }
+            ]
+          }
+        },
+        "id": "521107189",
+        "location": "China-Guangdong-Guangzhou",
+        "name": "SSShooter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/634304443618451456/q6ewFg7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 430,
+          "like_count": 665,
+          "listed_count": 5,
+          "media_count": 68,
+          "tweet_count": 274
+        },
+        "url": "https://t.co/NBr8Qcrlrc",
+        "username": "zhoudejie",
+        "verified": true
+      }
+    ]
+  }
+}

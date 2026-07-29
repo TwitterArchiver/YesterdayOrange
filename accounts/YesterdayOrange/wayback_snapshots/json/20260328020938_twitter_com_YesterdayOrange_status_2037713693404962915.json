@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2037713693404962915",
+    "created_at": "2026-03-28T02:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T03:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037713693404962915"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2037456853278597211",
+          "start": 18,
+          "url": "https://t.co/AwInoJxv2Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037713693404962915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037456853278597211",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😡，我的意思是统计一下谁是我的py https://t.co/AwInoJxv2Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2037713693404962915",
+        "created_at": "2026-03-28T02:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037713693404962915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2037456853278597211",
+              "start": 18,
+              "url": "https://t.co/AwInoJxv2Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037713693404962915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037456853278597211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😡，我的意思是统计一下谁是我的py https://t.co/AwInoJxv2Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2037456853278597211",
+        "created_at": "2026-03-27T09:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037456853278597211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kevinlasnh/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/kevinlasnh/status/2037454138246889787",
+              "start": 24,
+              "url": "https://t.co/I9ZBtGgT0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037456853278597211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1371,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037454138246889787",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想知道，在下面扣12345，我统计一下数量 https://t.co/I9ZBtGgT0n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2036351762710639004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11416,
+          "following_count": 4796,
+          "like_count": 84533,
+          "listed_count": 20,
+          "media_count": 2010,
+          "tweet_count": 18687
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

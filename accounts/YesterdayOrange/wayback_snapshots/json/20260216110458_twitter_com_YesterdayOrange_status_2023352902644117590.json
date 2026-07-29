@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2023234709191573843",
+    "created_at": "2026-02-16T11:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T12:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023352902644117590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1998038429628878848",
+          "start": 0,
+          "username": "li_wei52996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023352902644117590",
+    "in_reply_to_user_id": "1998038429628878848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023279966541296033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li_wei52996 互关喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_2023279952721014785",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBQiZa8a8AEPyym.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBQiZa8a8AEPyym.mp4"
+          }
+        ],
+        "width": 256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2023234709191573843",
+        "created_at": "2026-02-16T11:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023352902644117590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1998038429628878848",
+              "start": 0,
+              "username": "li_wei52996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023352902644117590",
+        "in_reply_to_user_id": "1998038429628878848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023279966541296033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li_wei52996 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2023279952721014785"
+          ]
+        },
+        "author_id": "1998038429628878848",
+        "conversation_id": "2023234709191573843",
+        "created_at": "2026-02-16T06:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023279966541296033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3T5EuaWj5",
+              "end": 44,
+              "expanded_url": "https://x.com/li_wei52996/status/2023279966541296033/photo/1",
+              "media_key": "16_2023279952721014785",
+              "start": 21,
+              "url": "https://t.co/j3T5EuaWj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023279966541296033",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023234709191573843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 可愛的 https://t.co/j3T5EuaWj5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2023017545771704611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10558,
+          "following_count": 4138,
+          "like_count": 76722,
+          "listed_count": 17,
+          "media_count": 1797,
+          "tweet_count": 17337
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T14:36:07.000Z",
+        "description": "我有OC",
+        "id": "1998038429628878848",
+        "location": "台北市, 台灣",
+        "name": "Tina庭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022647021581279232/PD6nJcMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 54
+        },
+        "username": "li_wei52996",
+        "verified": false
+      }
+    ]
+  }
+}

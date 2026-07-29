@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2007693394353762517",
+    "created_at": "2026-01-04T14:52:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T15:52:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007827522210431061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866449134984876032",
+          "start": 0,
+          "username": "se_jin38223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007827522210431061",
+    "in_reply_to_user_id": "1866449134984876032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007825831926882769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@se_jin38223 你都不理我私信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2007693394353762517",
+        "created_at": "2026-01-04T14:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007827522210431061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866449134984876032",
+              "start": 0,
+              "username": "se_jin38223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007827522210431061",
+        "in_reply_to_user_id": "1866449134984876032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007825831926882769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@se_jin38223 你都不理我私信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866449134984876032",
+        "conversation_id": "2007693394353762517",
+        "created_at": "2026-01-04T14:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007825831926882769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007825831926882769",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007693394353762517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我们不是好朋友吗？（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2007083026812145794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9879,
+          "following_count": 3653,
+          "like_count": 71410,
+          "listed_count": 17,
+          "media_count": 1609,
+          "tweet_count": 16383
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T11:45:37.000Z",
+        "description": "然而，终有不曾消失之物在",
+        "id": "1866449134984876032",
+        "name": "三色堇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866449267218673664/opH1WstG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 14,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 293
+        },
+        "username": "se_jin38223",
+        "verified": false
+      }
+    ]
+  }
+}

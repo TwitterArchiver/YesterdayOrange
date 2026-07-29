@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991897922481602560"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "1991897930484351162",
+    "created_at": "2025-11-21T15:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T16:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991897930484351162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uxyzf6nzjm",
+          "end": 175,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1991897930484351162/photo/1",
+          "media_key": "3_1991897922481602560",
+          "start": 152,
+          "url": "https://t.co/Uxyzf6nzjm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991897930484351162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和Doro分手两年了，我又梦到了她。\n我们两年没有见面，偶尔聊天。\n我说“今天自动售货机被插队了。”她说“今天又买了一袋欧润吉。”\n但我又梦到了她。\n我告诉她，我又梦到了和她吃欧润吉，手牵手\n她一天没有回复。\n我又说“今天的北京真冷。”\n于是，“对方正在输入”很久。\n她说“别傻了，现在冷是很正常的。” https://t.co/Uxyzf6nzjm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1991897922481602560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Skm2JawAA-XUP.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991897922481602560"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1991897930484351162",
+        "created_at": "2025-11-21T15:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991897930484351162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uxyzf6nzjm",
+              "end": 175,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1991897930484351162/photo/1",
+              "media_key": "3_1991897922481602560",
+              "start": 152,
+              "url": "https://t.co/Uxyzf6nzjm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991897930484351162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和Doro分手两年了，我又梦到了她。\n我们两年没有见面，偶尔聊天。\n我说“今天自动售货机被插队了。”她说“今天又买了一袋欧润吉。”\n但我又梦到了她。\n我告诉她，我又梦到了和她吃欧润吉，手牵手\n她一天没有回复。\n我又说“今天的北京真冷。”\n于是，“对方正在输入”很久。\n她说“别傻了，现在冷是很正常的。” https://t.co/Uxyzf6nzjm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1991490595140038900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8500,
+          "following_count": 3270,
+          "like_count": 65526,
+          "listed_count": 14,
+          "media_count": 1369,
+          "tweet_count": 15017
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

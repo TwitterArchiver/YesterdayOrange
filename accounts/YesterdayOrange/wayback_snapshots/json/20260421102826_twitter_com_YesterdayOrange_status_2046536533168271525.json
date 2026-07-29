@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2046536533168271525",
+    "created_at": "2026-04-21T10:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046536533168271525"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pysimpom/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/pysimpom/status/2046536469351989731",
+          "start": 18,
+          "url": "https://t.co/3KHsFRqSsT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046536533168271525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046536469351989731",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不是渣男，只是稍微花心一点罢了😇 https://t.co/3KHsFRqSsT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2046536533168271525",
+        "created_at": "2026-04-21T10:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046536533168271525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pysimpom/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/pysimpom/status/2046536469351989731",
+              "start": 18,
+              "url": "https://t.co/3KHsFRqSsT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046536533168271525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046536469351989731",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不是渣男，只是稍微花心一点罢了😇 https://t.co/3KHsFRqSsT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945314547126185984",
+        "conversation_id": "2046530558147350724",
+        "created_at": "2026-04-21T10:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046536469351989731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            },
+            {
+              "end": 30,
+              "id": "1788485889225834496",
+              "start": 14,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046536469351989731",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046533599395242348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 @YesterdayOrange 我不是渣男，只是稍微花心一点罢了😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2046480546080125100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11659,
+          "following_count": 4923,
+          "like_count": 87649,
+          "listed_count": 22,
+          "media_count": 2142,
+          "tweet_count": 19285
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-16T02:48:34.000Z",
+        "description": "特摄厨，BA厨，美漫厨 | blender和绘画在学 | 现在南京 | vibe，古法两手抓中\ngithub:https://t.co/GbsMIU43kQ|\nNGL:https://t.co/v8WRYGH0ZI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/evilmordy",
+                "end": 78,
+                "expanded_url": "http://github.com/evilmordy",
+                "start": 55,
+                "url": "https://t.co/GbsMIU43kQ"
+              },
+              {
+                "display_url": "ngl.link/yuchaosong791",
+                "end": 107,
+                "expanded_url": "https://ngl.link/yuchaosong791",
+                "start": 84,
+                "url": "https://t.co/v8WRYGH0ZI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/hFP8V8t",
+                "end": 23,
+                "expanded_url": "https://b23.tv/hFP8V8t",
+                "start": 0,
+                "url": "https://t.co/9W4RGXWEkT"
+              }
+            ]
+          }
+        },
+        "id": "1945314547126185984",
+        "name": "fake sensei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042548764972564480/-U2cGKZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 1080,
+          "like_count": 5480,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1267
+        },
+        "url": "https://t.co/9W4RGXWEkT",
+        "username": "pysimpom",
+        "verified": false
+      }
+    ]
+  }
+}

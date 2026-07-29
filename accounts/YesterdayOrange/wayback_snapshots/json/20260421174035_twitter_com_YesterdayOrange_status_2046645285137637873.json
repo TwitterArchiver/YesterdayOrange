@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2046631538713088360",
+    "created_at": "2026-04-21T17:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T18:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046645285137637873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1896478512506146816",
+          "start": 0,
+          "username": "MJH1650025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046645285137637873",
+    "in_reply_to_user_id": "1896478512506146816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046645129109537029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MJH1650025 你都不理我私信😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2046631538713088360",
+        "created_at": "2026-04-21T17:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046645285137637873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896478512506146816",
+              "start": 0,
+              "username": "MJH1650025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046645285137637873",
+        "in_reply_to_user_id": "1896478512506146816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046645129109537029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MJH1650025 你都不理我私信😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896478512506146816",
+        "conversation_id": "2046631538713088360",
+        "created_at": "2026-04-21T17:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046645129109537029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046645129109537029",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046631538713088360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2046480546080125100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11661,
+          "following_count": 4923,
+          "like_count": 87698,
+          "listed_count": 22,
+          "media_count": 2145,
+          "tweet_count": 19302
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-03T08:31:36.000Z",
+        "description": "我喜欢你",
+        "id": "1896478512506146816",
+        "location": "秒速五厘米",
+        "name": "花生酱拌饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021615521431732224/hM5pAjlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 78,
+          "like_count": 521,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 363
+        },
+        "username": "MJH1650025",
+        "verified": false
+      }
+    ]
+  }
+}

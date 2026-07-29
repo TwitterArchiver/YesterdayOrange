@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1999494580945977815",
+    "created_at": "2025-12-12T15:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T16:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999494580945977815"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ushionoantr/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/ushionoantr/status/1999130989713293502",
+          "start": 3,
+          "url": "https://t.co/bcvSvInG25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999494580945977815",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999130989713293502",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？… https://t.co/bcvSvInG25"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1999494580945977815",
+        "created_at": "2025-12-12T15:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T16:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999494580945977815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ushionoantr/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ushionoantr/status/1999130989713293502",
+              "start": 3,
+              "url": "https://t.co/bcvSvInG25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999494580945977815",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999130989713293502",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？… https://t.co/bcvSvInG25"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764453435037089792",
+        "conversation_id": "1999130989713293502",
+        "created_at": "2025-12-11T14:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T15:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999130989713293502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999130989713293502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 450,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大学4年过不了四级的，都是些什么东西？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1999463741214327098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9451,
+          "following_count": 3408,
+          "like_count": 68472,
+          "listed_count": 16,
+          "media_count": 1499,
+          "tweet_count": 15767
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T00:51:25.000Z",
+        "description": "因游戏原因不得不回来，尽可能屏蔽简中，支黑笑话创作仍在蓝天，蓝天号：https://t.co/kbLu8Ovb2f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sukebeeasuna.bsky.social",
+                "end": 57,
+                "expanded_url": "http://sukebeeasuna.bsky.social",
+                "start": 34,
+                "url": "https://t.co/kbLu8Ovb2f"
+              }
+            ]
+          }
+        },
+        "id": "1764453435037089792",
+        "name": "想看诺亚牛优香",
+        "pinned_tweet_id": "1966111417523900773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966109144609607680/pGo__N_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 20,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 153
+        },
+        "username": "UshioNoaNTR",
+        "verified": false
+      }
+    ]
+  }
+}

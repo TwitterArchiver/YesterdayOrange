@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2079213730240639320",
+    "created_at": "2026-07-20T14:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T15:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079213730240639320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/night1kvv/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/night1kvv/status/2079202988007297233",
+          "start": 16,
+          "url": "https://t.co/szfHXFyZLg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079213730240639320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079202988007297233",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有宝宝 宝贝 要和我互呀。 https://t.co/szfHXFyZLg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2079213730240639320",
+        "created_at": "2026-07-20T14:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079213730240639320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/night1kvv/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/night1kvv/status/2079202988007297233",
+              "start": 16,
+              "url": "https://t.co/szfHXFyZLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079213730240639320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079202988007297233",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有宝宝 宝贝 要和我互呀。 https://t.co/szfHXFyZLg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078048032667652096",
+        "conversation_id": "2079202988007297233",
+        "created_at": "2026-07-20T13:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079202988007297233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079202988007297233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有宝宝 宝贝 要和我互呀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2078080489244770777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12184,
+          "following_count": 5221,
+          "like_count": 96491,
+          "listed_count": 20,
+          "media_count": 2405,
+          "tweet_count": 20981
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-17T09:25:27.000Z",
+        "description": "死了就没得玩了 没死就一直玩\n没人认识我我就一直随便发\n有人和我互么",
+        "id": "2078048032667652096",
+        "name": "死了就没得玩了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078050468383834113/9CeHvDXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "Night1kvv",
+        "verified": false
+      }
+    ]
+  }
+}

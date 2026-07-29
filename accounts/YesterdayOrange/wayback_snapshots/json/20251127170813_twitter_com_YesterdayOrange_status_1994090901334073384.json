@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1994089314465050967",
+    "created_at": "2025-11-27T17:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T18:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994090901334073384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1961400393528930304",
+          "start": 0,
+          "username": "lwMJ0lNxLB80053"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994090901334073384",
+    "in_reply_to_user_id": "1961400393528930304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994090736086868282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lwMJ0lNxLB80053 抱抱w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1994089314465050967",
+        "created_at": "2025-11-27T17:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T18:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994090901334073384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1961400393528930304",
+              "start": 0,
+              "username": "lwMJ0lNxLB80053"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994090901334073384",
+        "in_reply_to_user_id": "1961400393528930304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994090736086868282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lwMJ0lNxLB80053 抱抱w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961400393528930304",
+        "conversation_id": "1994089314465050967",
+        "created_at": "2025-11-27T17:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T18:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994090736086868282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994090736086868282",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994090102784717232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 就是，莫名的委屈，难过，像是小心翼翼的捧着盛满了水的杯子，眼见马上就要到了结果洒了一地，是难过时被忽略，还被说'这又没什么的'随后又被拉着看被分享的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1994073228369592563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9255,
+          "following_count": 3367,
+          "like_count": 67236,
+          "listed_count": 14,
+          "media_count": 1421,
+          "tweet_count": 15451
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T12:08:04.000Z",
+        "description": "日常发疯，常常发疯，反正没人看就当分享日常啦！₍˄·͈༝·͈˄*₎◞ ̑̑\n从心又社恐的小渝，想聊天又不会说话\n为什么我不是小猫，为什么我不是小猫，为什么我不是小猫//加v的人多了，偷偷放个🚪（5，就当给小猫买糖了🥺）",
+        "id": "1961400393528930304",
+        "location": "GUANGDONG",
+        "name": "渝小鱼喵˄ºᐜº˄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992242034032455680/oPFRn0SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 149,
+          "like_count": 1538,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 221
+        },
+        "username": "lwMJ0lNxLB80053",
+        "verified": false
+      }
+    ]
+  }
+}

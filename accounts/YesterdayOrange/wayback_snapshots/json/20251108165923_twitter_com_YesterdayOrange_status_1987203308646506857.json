@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1987096485062967515",
+    "created_at": "2025-11-08T16:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T17:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987203308646506857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1869716715682336768",
+          "start": 0,
+          "username": "baiyeyanyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987203308646506857",
+    "in_reply_to_user_id": "1869716715682336768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987190615155851418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiyeyanyu 不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1987096485062967515",
+        "created_at": "2025-11-08T16:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T17:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987203308646506857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1869716715682336768",
+              "start": 0,
+              "username": "baiyeyanyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987203308646506857",
+        "in_reply_to_user_id": "1869716715682336768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987190615155851418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiyeyanyu 不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869716715682336768",
+        "conversation_id": "1987096485062967515",
+        "created_at": "2025-11-08T16:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T17:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987190615155851418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987190615155851418",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987096485062967515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 87"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1987031603093389780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7974,
+          "following_count": 3128,
+          "like_count": 62825,
+          "listed_count": 15,
+          "media_count": 1291,
+          "tweet_count": 14565
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-19T12:09:46.000Z",
+        "description": "在我看来 人生？这个世界？都没有意义 所以我只会一时兴起去做某些事 做的好不好都无所谓 反正是没有意义 这条路不过是迈向死亡的进度条罢了",
+        "id": "1869716715682336768",
+        "name": "白夜",
+        "pinned_tweet_id": "1986838560792846445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869983308651868160/oDXTjry1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 40,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 895
+        },
+        "username": "baiyeyanyu",
+        "verified": false
+      }
+    ]
+  }
+}

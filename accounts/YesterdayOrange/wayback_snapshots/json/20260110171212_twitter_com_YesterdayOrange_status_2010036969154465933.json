@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2009275951104856523",
+    "created_at": "2026-01-10T17:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T18:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010036969154465933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1653636905307893762",
+          "start": 0,
+          "username": "MSRUIB12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010036969154465933",
+    "in_reply_to_user_id": "1653636905307893762",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009275951104856523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MSRUIB12 诶（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2009275951104856523",
+        "created_at": "2026-01-10T17:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T18:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010036969154465933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1653636905307893762",
+              "start": 0,
+              "username": "MSRUIB12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010036969154465933",
+        "in_reply_to_user_id": "1653636905307893762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009275951104856523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MSRUIB12 诶（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653636905307893762",
+        "conversation_id": "2009275951104856523",
+        "created_at": "2026-01-08T14:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009275951104856523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009275951104856523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从军队退伍的军人在家女装，想想就很反差"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2008564800843112913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9992,
+          "following_count": 3690,
+          "like_count": 72517,
+          "listed_count": 17,
+          "media_count": 1653,
+          "tweet_count": 16555
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T05:45:47.000Z",
+        "description": "这是一个笨蛋\n喜欢玩FPS和二次元游戏",
+        "id": "1653636905307893762",
+        "location": "湖南怀化",
+        "name": "纽芬兰白狼",
+        "pinned_tweet_id": "2000224344673489050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005210704824127488/Jy9VFSPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 174,
+          "like_count": 1369,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 118
+        },
+        "username": "MSRUIB12",
+        "verified": false
+      }
+    ]
+  }
+}

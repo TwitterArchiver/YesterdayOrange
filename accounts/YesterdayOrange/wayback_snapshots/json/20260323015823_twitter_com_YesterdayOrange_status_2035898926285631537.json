@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035635432025976832"
+      ],
+      "media_source_tweet_id": [
+        "2035635456390668662"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2035898926285631537",
+    "created_at": "2026-03-23T01:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T02:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035898926285631537"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "Doro"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1919761076264304641",
+          "start": 3,
+          "username": "newxiaoshaye"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FXS4AyxC7Z",
+          "end": 47,
+          "expanded_url": "https://x.com/newxiaoshaye/status/2035635456390668662/photo/1",
+          "media_key": "3_2035635432025976832",
+          "start": 24,
+          "url": "https://t.co/FXS4AyxC7Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035898926285631537",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035635456390668662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @newxiaoshaye: #Doro https://t.co/FXS4AyxC7Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035635432025976832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAHo-IbcAAgsYH.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035635432025976832"
+          ],
+          "media_source_tweet_id": [
+            "2035635456390668662"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035898926285631537",
+        "created_at": "2026-03-23T01:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T02:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035898926285631537"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "Doro"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919761076264304641",
+              "start": 3,
+              "username": "newxiaoshaye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXS4AyxC7Z",
+              "end": 47,
+              "expanded_url": "https://x.com/newxiaoshaye/status/2035635456390668662/photo/1",
+              "media_key": "3_2035635432025976832",
+              "start": 24,
+              "url": "https://t.co/FXS4AyxC7Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035898926285631537",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035635456390668662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @newxiaoshaye: #Doro https://t.co/FXS4AyxC7Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035635432025976832"
+          ]
+        },
+        "author_id": "1919761076264304641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035635456390668662",
+        "created_at": "2026-03-22T08:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035635456390668662"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "Doro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXS4AyxC7Z",
+              "end": 29,
+              "expanded_url": "https://x.com/newxiaoshaye/status/2035635456390668662/photo/1",
+              "media_key": "3_2035635432025976832",
+              "start": 6,
+              "url": "https://t.co/FXS4AyxC7Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035635456390668662",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 29912,
+          "like_count": 960,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "#Doro https://t.co/FXS4AyxC7Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2034816663066222935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11387,
+          "following_count": 4762,
+          "like_count": 83772,
+          "listed_count": 20,
+          "media_count": 1988,
+          "tweet_count": 18565
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-06T14:28:37.000Z",
+        "description": "以前中推的少弟弟/P5X玩家/doro/猫推/互fo",
+        "id": "1919761076264304641",
+        "location": "Melbourne, Victoria",
+        "name": "Newxiaoshaoye🇦🇺🇨🇳",
+        "pinned_tweet_id": "2025528175124766908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027370593960730624/uLa3xQeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 2146,
+          "like_count": 86013,
+          "listed_count": 4,
+          "media_count": 1090,
+          "tweet_count": 4473
+        },
+        "username": "newxiaoshaye",
+        "verified": true
+      }
+    ]
+  }
+}

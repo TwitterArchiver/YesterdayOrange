@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1985569026496761999",
+    "created_at": "2025-11-04T10:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T11:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985663253352182152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1962779302254256128",
+          "start": 0,
+          "username": "Kezhi1912"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985663253352182152",
+    "in_reply_to_user_id": "1962779302254256128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985662837906424025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kezhi1912 我可以当你主人吗😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1985569026496761999",
+        "created_at": "2025-11-04T10:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T11:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985663253352182152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1962779302254256128",
+              "start": 0,
+              "username": "Kezhi1912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985663253352182152",
+        "in_reply_to_user_id": "1962779302254256128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985662837906424025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kezhi1912 我可以当你主人吗😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962779302254256128",
+        "conversation_id": "1985569026496761999",
+        "created_at": "2025-11-04T10:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T11:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985662837906424025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985662837906424025",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985569026496761999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 为了找到那个爱我的主人而努力活着☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1985385072380477750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7601,
+          "following_count": 3082,
+          "like_count": 61540,
+          "listed_count": 14,
+          "media_count": 1253,
+          "tweet_count": 14366
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T07:27:22.000Z",
+        "description": "你好，こんにちは！🐾",
+        "id": "1962779302254256128",
+        "location": "月閣，青島特別市",
+        "name": "Edward Pan 🇯🇵🇹🇼",
+        "pinned_tweet_id": "1978886601414697150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984631031996301316/XJcaB4HE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 11,
+          "like_count": 10133,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 367
+        },
+        "username": "Kezhi1912",
+        "verified": true
+      }
+    ]
+  }
+}

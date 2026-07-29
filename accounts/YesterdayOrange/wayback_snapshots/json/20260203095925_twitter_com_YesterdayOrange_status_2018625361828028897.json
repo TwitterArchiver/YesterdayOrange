@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2018625360536227840"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2018625361828028897",
+    "created_at": "2026-02-03T09:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T10:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018625361828028897"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2018625361828028897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢是出于具体的原因还是感觉"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-02-04T09:59:24.000Z",
+        "id": "2018625360536227840",
+        "options": [
+          {
+            "label": "原因",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "感觉",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2018625360536227840"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2018625361828028897",
+        "created_at": "2026-02-03T09:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T10:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018625361828028897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018625361828028897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢是出于具体的原因还是感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2017875249245917244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10120,
+          "following_count": 3793,
+          "like_count": 73945,
+          "listed_count": 16,
+          "media_count": 1698,
+          "tweet_count": 16839
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010644586646081536"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2010644601879859347",
+    "created_at": "2026-01-12T09:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T10:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010644601879859347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TbfLw5cY8c",
+          "end": 108,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2010644601879859347/photo/1",
+          "media_key": "3_2010644586646081536",
+          "start": 85,
+          "url": "https://t.co/TbfLw5cY8c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010644601879859347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "它告诉我们青春，健康，真挚的心意，这都是些不值价的东西，要趁年轻早早把它们卖掉换成票子，票子值价得多，有了票子就能去伟大的自由市场上把自己卖掉的东西成百上千倍地买回来。 https://t.co/TbfLw5cY8c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010644586646081536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-c-mUSaEAAFebp.jpg",
+        "width": 806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010644586646081536"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2010644601879859347",
+        "created_at": "2026-01-12T09:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T10:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010644601879859347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbfLw5cY8c",
+              "end": 108,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2010644601879859347/photo/1",
+              "media_key": "3_2010644586646081536",
+              "start": 85,
+              "url": "https://t.co/TbfLw5cY8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010644601879859347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "它告诉我们青春，健康，真挚的心意，这都是些不值价的东西，要趁年轻早早把它们卖掉换成票子，票子值价得多，有了票子就能去伟大的自由市场上把自己卖掉的东西成百上千倍地买回来。 https://t.co/TbfLw5cY8c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2008564800843112913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10030,
+          "following_count": 3699,
+          "like_count": 72709,
+          "listed_count": 16,
+          "media_count": 1661,
+          "tweet_count": 16583
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

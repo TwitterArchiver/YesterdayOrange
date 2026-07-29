@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047278609648566272",
+        "3_2047278609652731904"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2047278652413645241",
+    "created_at": "2026-04-23T11:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047278652413645241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MBGWZ3pLQ0",
+          "end": 40,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2047278652413645241/photo/1",
+          "media_key": "3_2047278609648566272",
+          "start": 17,
+          "url": "https://t.co/MBGWZ3pLQ0"
+        },
+        {
+          "display_url": "pic.x.com/MBGWZ3pLQ0",
+          "end": 40,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2047278652413645241/photo/1",
+          "media_key": "3_2047278609652731904",
+          "start": 17,
+          "url": "https://t.co/MBGWZ3pLQ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047278652413645241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢我就要每天请我吃这种拜金套餐 https://t.co/MBGWZ3pLQ0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2047278609648566272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGllDGxbwAAEpsr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2047278609652731904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGllDGybUAAfvqc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047278609648566272",
+            "3_2047278609652731904"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047278652413645241",
+        "created_at": "2026-04-23T11:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047278652413645241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MBGWZ3pLQ0",
+              "end": 40,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2047278652413645241/photo/1",
+              "media_key": "3_2047278609648566272",
+              "start": 17,
+              "url": "https://t.co/MBGWZ3pLQ0"
+            },
+            {
+              "display_url": "pic.x.com/MBGWZ3pLQ0",
+              "end": 40,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2047278652413645241/photo/1",
+              "media_key": "3_2047278609652731904",
+              "start": 17,
+              "url": "https://t.co/MBGWZ3pLQ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047278652413645241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢我就要每天请我吃这种拜金套餐 https://t.co/MBGWZ3pLQ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2047196207223910858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11664,
+          "following_count": 4947,
+          "like_count": 87919,
+          "listed_count": 23,
+          "media_count": 2157,
+          "tweet_count": 19371
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

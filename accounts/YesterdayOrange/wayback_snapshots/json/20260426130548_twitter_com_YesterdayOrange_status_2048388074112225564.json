@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2047286760569532798",
+    "created_at": "2026-04-26T13:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048388074112225564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2023680174211166211",
+          "start": 0,
+          "username": "Alphiric326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048388074112225564",
+    "in_reply_to_user_id": "2023680174211166211",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047286760569532798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alphiric326 互关喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047286756802981888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlsdVSacAAw4jN.jpg",
+        "width": 497
+      },
+      {
+        "height": 96,
+        "media_key": "3_2047286754424860673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlsdMbbMAE_Tu7.png",
+        "width": 96
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2047286760569532798",
+        "created_at": "2026-04-26T13:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048388074112225564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023680174211166211",
+              "start": 0,
+              "username": "Alphiric326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048388074112225564",
+        "in_reply_to_user_id": "2023680174211166211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047286760569532798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alphiric326 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047286756802981888",
+            "3_2047286754424860673"
+          ]
+        },
+        "author_id": "2023680174211166211",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047286760569532798",
+        "created_at": "2026-04-23T12:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047286760569532798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sMb9dqdwze",
+              "end": 42,
+              "expanded_url": "https://x.com/Alphiric326/status/2047286760569532798/photo/1",
+              "media_key": "3_2047286756802981888",
+              "start": 19,
+              "url": "https://t.co/sMb9dqdwze"
+            },
+            {
+              "display_url": "pic.x.com/sMb9dqdwze",
+              "end": 42,
+              "expanded_url": "https://x.com/Alphiric326/status/2047286760569532798/photo/1",
+              "media_key": "3_2047286754424860673",
+              "start": 19,
+              "url": "https://t.co/sMb9dqdwze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047286760569532798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5757,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "100粉丝纪念～欢迎来看我的自介喵～ https://t.co/sMb9dqdwze"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2048283586449797503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11785,
+          "following_count": 4988,
+          "like_count": 88429,
+          "listed_count": 23,
+          "media_count": 2173,
+          "tweet_count": 19468
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-17T08:45:38.000Z",
+        "description": "China🇨🇳 | 19 | He/Him \n 🚫 Politics / 🚫 NSFW",
+        "id": "2023680174211166211",
+        "location": "The Dark Side Of The Net",
+        "name": "αψρικ",
+        "pinned_tweet_id": "2047286760569532798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023684242920939520/EtMDpq6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 57,
+          "like_count": 841,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1752
+        },
+        "username": "Alphiric326",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045361629442068480"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2045361645430648962",
+    "created_at": "2026-04-18T04:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T05:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045361645430648962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1990236783217709056",
+          "start": 8,
+          "username": "RickyMtF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rb2ugx1Hse",
+          "end": 41,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2045361645430648962/photo/1",
+          "media_key": "3_2045361629442068480",
+          "start": 18,
+          "url": "https://t.co/rb2ugx1Hse"
+        },
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2045359904920416539",
+          "start": 42,
+          "url": "https://t.co/5CfVDjx31j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045361645430648962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045359904920416539",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被爱了，呜呜。\n@RickyMtF https://t.co/rb2ugx1Hse https://t.co/5CfVDjx31j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2045361629442068480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKVkLAb0AAFHR-.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045361629442068480"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2045361645430648962",
+        "created_at": "2026-04-18T04:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045361645430648962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1990236783217709056",
+              "start": 8,
+              "username": "RickyMtF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rb2ugx1Hse",
+              "end": 41,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2045361645430648962/photo/1",
+              "media_key": "3_2045361629442068480",
+              "start": 18,
+              "url": "https://t.co/rb2ugx1Hse"
+            },
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2045359904920416539",
+              "start": 42,
+              "url": "https://t.co/5CfVDjx31j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045361645430648962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045359904920416539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被爱了，呜呜。\n@RickyMtF https://t.co/rb2ugx1Hse https://t.co/5CfVDjx31j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2045359904920416539",
+        "created_at": "2026-04-18T04:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045359904920416539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045359904920416539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中午想点麦当劳的安格斯厚牛堡但是买不起😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2045231864064139330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11511,
+          "following_count": 4868,
+          "like_count": 86888,
+          "listed_count": 21,
+          "media_count": 2117,
+          "tweet_count": 19143
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-17T01:53:42.000Z",
+        "description": "生产日期12.3.2011|无证含糖|MtF|Hrt 3.5.2026",
+        "id": "1990236783217709056",
+        "location": "广东 深圳",
+        "name": "Ricky🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041466717013258240/r5_O255Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 375,
+          "like_count": 1374,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 87
+        },
+        "username": "RickyMtF",
+        "verified": true
+      }
+    ]
+  }
+}

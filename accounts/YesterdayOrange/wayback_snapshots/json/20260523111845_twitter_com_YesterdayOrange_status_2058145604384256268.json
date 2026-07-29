@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2058145604384256268",
+    "created_at": "2026-05-23T11:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058145604384256268"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058145604384256268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点怀念大一结尾的样子，一个月不上课只准备一个小小期末考试，因为只有一个数学所以心安理得玩，因为还有期末考试所以心安理得不做别的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2058145604384256268",
+        "created_at": "2026-05-23T11:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058145604384256268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058145604384256268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点怀念大一结尾的样子，一个月不上课只准备一个小小期末考试，因为只有一个数学所以心安理得玩，因为还有期末考试所以心安理得不做别的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2057128877051588914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12042,
+          "following_count": 5078,
+          "like_count": 92081,
+          "listed_count": 21,
+          "media_count": 2261,
+          "tweet_count": 20058
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

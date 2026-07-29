@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1996432190482403614",
+    "created_at": "2025-12-04T14:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T15:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996590609948172447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1848629599548436480",
+          "start": 0,
+          "username": "slime1938"
+        },
+        {
+          "end": 27,
+          "id": "1148942714043375619",
+          "start": 11,
+          "username": "RAtmkb01DrMF6TJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996590609948172447",
+    "in_reply_to_user_id": "1848629599548436480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996590349750575482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@slime1938 @RAtmkb01DrMF6TJ 我也玩猫咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1996432190482403614",
+        "created_at": "2025-12-04T14:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T15:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996590609948172447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1848629599548436480",
+              "start": 0,
+              "username": "slime1938"
+            },
+            {
+              "end": 27,
+              "id": "1148942714043375619",
+              "start": 11,
+              "username": "RAtmkb01DrMF6TJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996590609948172447",
+        "in_reply_to_user_id": "1848629599548436480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996590349750575482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slime1938 @RAtmkb01DrMF6TJ 我也玩猫咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848629599548436480",
+        "conversation_id": "1996432190482403614",
+        "created_at": "2025-12-04T14:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T15:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996590349750575482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1148942714043375619",
+              "start": 0,
+              "username": "RAtmkb01DrMF6TJ"
+            },
+            {
+              "end": 33,
+              "id": "1788485889225834496",
+              "start": 17,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996590349750575482",
+        "in_reply_to_user_id": "1148942714043375619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996526077427306530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RAtmkb01DrMF6TJ @YesterdayOrange 兄…兄弟，你喜好和我完全一致(特別是星界邊境，有點冷門)\n那個，你有玩FU(Frackin' Universe)嗎 (/^▽^)/"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1996226972650004822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9458,
+          "following_count": 3394,
+          "like_count": 67853,
+          "listed_count": 16,
+          "media_count": 1456,
+          "tweet_count": 15601
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T07:37:10.000Z",
+        "description": "「鏡子是我最好的朋友，當我哭泣時，它不會嘲笑我。」 - 查理卓別林",
+        "id": "1848629599548436480",
+        "name": "恩惠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925894853172273152/sHAsFg4W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 49,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "username": "slime1938",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-10T13:11:04.000Z",
+        "description": "很宅",
+        "id": "1148942714043375619",
+        "name": "汪子峻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1372378090911928323/wQX7a5yd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 7212,
+          "like_count": 37937,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 1705
+        },
+        "username": "RAtmkb01DrMF6TJ",
+        "verified": false
+      }
+    ]
+  }
+}

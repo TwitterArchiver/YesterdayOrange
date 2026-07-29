@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2024334411605692811",
+    "created_at": "2026-02-19T04:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T05:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024334411605692811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshino_iroha1…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/hoshino_iroha10/status/2024334136673210547",
+          "start": 3,
+          "url": "https://t.co/cHuHZf8mmv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024334411605692811",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024334136673210547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "👍👍 https://t.co/cHuHZf8mmv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2024334411605692811",
+        "created_at": "2026-02-19T04:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024334411605692811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshino_iroha1…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/hoshino_iroha10/status/2024334136673210547",
+              "start": 3,
+              "url": "https://t.co/cHuHZf8mmv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024334411605692811",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024334136673210547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "👍👍 https://t.co/cHuHZf8mmv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800905994186432512",
+        "conversation_id": "2024331656556109953",
+        "created_at": "2026-02-19T04:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024334136673210547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024334136673210547",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024331656556109953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 舞萌不就是对象吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2024122058007793948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10684,
+          "following_count": 4233,
+          "like_count": 77563,
+          "listed_count": 17,
+          "media_count": 1822,
+          "tweet_count": 17466
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T15:00:31.000Z",
+        "description": "",
+        "id": "1800905994186432512",
+        "location": "秦城监狱",
+        "name": "星野いろは",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006336432189964288/oGJl45Xx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 559,
+          "like_count": 22689,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 460
+        },
+        "username": "Hoshino_Iroha10",
+        "verified": false
+      }
+    ]
+  }
+}

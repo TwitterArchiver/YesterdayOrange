@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2044836389410553994",
+    "created_at": "2026-04-18T02:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T03:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045322521432797221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1990236783217709056",
+          "start": 0,
+          "username": "RickyMtF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045322521432797221",
+    "in_reply_to_user_id": "1990236783217709056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044836389410553994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RickyMtF 我要🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2044836389410553994",
+        "created_at": "2026-04-18T02:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T03:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045322521432797221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1990236783217709056",
+              "start": 0,
+              "username": "RickyMtF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045322521432797221",
+        "in_reply_to_user_id": "1990236783217709056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044836389410553994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RickyMtF 我要🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990236783217709056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2044836389410553994",
+        "created_at": "2026-04-16T17:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:50:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044835857673449597",
+          "2044836389410553994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044836389410553994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4045,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 69,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "100fo抽奖\n一等奖：120元（一位）\n二等奖：45元（两位）\n三等奖：10元（三位）\n参与条件：转发点赞评论fo\n4月20日开奖\n用grok开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2045231864064139330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11504,
+          "following_count": 4860,
+          "like_count": 86841,
+          "listed_count": 21,
+          "media_count": 2114,
+          "tweet_count": 19119
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-17T01:53:42.000Z",
+        "description": "生产日期12.3.2011|无证含糖|MtF|Hrt 3.5.2026",
+        "id": "1990236783217709056",
+        "location": "广东 深圳",
+        "name": "Ricky🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041466717013258240/r5_O255Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 373,
+          "like_count": 1315,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 73
+        },
+        "username": "RickyMtF",
+        "verified": true
+      }
+    ]
+  }
+}

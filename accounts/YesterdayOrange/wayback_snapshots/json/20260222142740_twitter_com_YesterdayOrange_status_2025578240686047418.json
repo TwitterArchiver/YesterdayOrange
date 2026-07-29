@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025578231722848257"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2025578240686047418",
+    "created_at": "2026-02-22T14:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T15:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025578240686047418"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cqIPEDLRRe",
+          "end": 50,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2025578240686047418/photo/1",
+          "media_key": "3_2025578231722848257",
+          "start": 27,
+          "url": "https://t.co/cqIPEDLRRe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025578240686047418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "儿子从普通班副班长调到尖子班当纪律委员，是升还是降？ https://t.co/cqIPEDLRRe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 234,
+        "media_key": "3_2025578231722848257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxMq3aasAEOOEU.jpg",
+        "width": 522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025578231722848257"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2025578240686047418",
+        "created_at": "2026-02-22T14:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025578240686047418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqIPEDLRRe",
+              "end": 50,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2025578240686047418/photo/1",
+              "media_key": "3_2025578231722848257",
+              "start": 27,
+              "url": "https://t.co/cqIPEDLRRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025578240686047418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "儿子从普通班副班长调到尖子班当纪律委员，是升还是降？ https://t.co/cqIPEDLRRe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2025067709323771960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10840,
+          "following_count": 4311,
+          "like_count": 79127,
+          "listed_count": 19,
+          "media_count": 1857,
+          "tweet_count": 17660
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

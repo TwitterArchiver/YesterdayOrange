@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1984091390071218535",
+    "created_at": "2025-10-31T09:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T10:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984185112947568891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1833729612704346112",
+          "start": 0,
+          "username": "AyaMinasee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984185112947568891",
+    "in_reply_to_user_id": "1833729612704346112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984184476449296635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyaMinasee 好了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1984091390071218535",
+        "created_at": "2025-10-31T09:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T10:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984185112947568891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1833729612704346112",
+              "start": 0,
+              "username": "AyaMinasee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984185112947568891",
+        "in_reply_to_user_id": "1833729612704346112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984184476449296635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyaMinasee 好了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833729612704346112",
+        "conversation_id": "1984091390071218535",
+        "created_at": "2025-10-31T09:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T10:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984184476449296635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984184476449296635",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984091390071218535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 1🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1983909096815522015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7278,
+          "following_count": 3025,
+          "like_count": 60063,
+          "listed_count": 14,
+          "media_count": 1208,
+          "tweet_count": 14165
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T04:49:55.000Z",
+        "description": "含糖🏳️‍⚧️｜女同｜gray-ace｜INFP-T｜HRT：18/10/7｜喜歡讀各種書籍｜喜歡寫幻想輕小說｜正在學電繪｜有自己的美學觀｜精神潔癖｜要永遠做個溫柔的人｜嚴於律己潔身自好｜希望有一天能遇到自己的愛情｜會做一個好傾聽者｜貓貓可以找我聊天，其他勿擾｜偶爾會發碎碎念｜精神永遠17歲｜可以叫我Aya或彩｜",
+        "id": "1833729612704346112",
+        "location": "アヤのアトリエ～永夜の光の錬金術師～",
+        "name": "水瀬アヤ2nd🍥",
+        "pinned_tweet_id": "1983856648348373237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983467741903536128/fkK8baff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 32,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "AyaMinasee",
+        "verified": false
+      }
+    ]
+  }
+}

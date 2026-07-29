@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2064629103635165522",
+    "created_at": "2026-06-10T08:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064629103635165522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hshdhhd7ofy/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/hshdhhd7ofy/status/2064586779144179975",
+          "start": 21,
+          "url": "https://t.co/KVAdme16rr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064629103635165522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064586779144179975",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果我一百朋友了就建个QQ群大家一起聊天 https://t.co/KVAdme16rr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2064629103635165522",
+        "created_at": "2026-06-10T08:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064629103635165522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hshdhhd7ofy/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/hshdhhd7ofy/status/2064586779144179975",
+              "start": 21,
+              "url": "https://t.co/KVAdme16rr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064629103635165522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064586779144179975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果我一百朋友了就建个QQ群大家一起聊天 https://t.co/KVAdme16rr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2064586779144179975",
+        "created_at": "2026-06-10T05:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064586779144179975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064586779144179975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 483,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我一百fo了就建个QQ群大家一起聊天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2064378484663992607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12168,
+          "following_count": 5133,
+          "like_count": 93989,
+          "listed_count": 21,
+          "media_count": 2298,
+          "tweet_count": 20381
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "07，新西兰留学生，玩火影王者，想以火影为主，全天在线，网瘾大，互fo聊天",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2064586285638136085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 94,
+          "like_count": 2521,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 370
+        },
+        "username": "Hshdhhd7ofy",
+        "verified": true
+      }
+    ]
+  }
+}

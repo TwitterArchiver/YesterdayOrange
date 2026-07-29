@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2054367091843866648",
+    "created_at": "2026-05-14T07:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054829668222783585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1935317436917751808",
+          "start": 0,
+          "username": "Kizuna_no_Gei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054829668222783585",
+    "in_reply_to_user_id": "1935317436917751808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054829070085665047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Kizuna_no_Gei 贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2054367091843866648",
+        "created_at": "2026-05-14T07:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054829668222783585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1935317436917751808",
+              "start": 0,
+              "username": "Kizuna_no_Gei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054829668222783585",
+        "in_reply_to_user_id": "1935317436917751808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054829070085665047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Kizuna_no_Gei 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935317436917751808",
+        "conversation_id": "2054367091843866648",
+        "created_at": "2026-05-14T07:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054829070085665047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054829070085665047",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054367091843866648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@YesterdayOrange ☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2054258784231645579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11976,
+          "following_count": 5020,
+          "like_count": 90792,
+          "listed_count": 22,
+          "media_count": 2232,
+          "tweet_count": 19902
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-18T12:43:47.000Z",
+        "description": "Мой Харошка@c_upx7/高中生/后朋/民谣/特摄/ACG/酒蒙子/不键政/自由平等民主科学/日本語勉強中/希望认识所有国家的人/暂不必担心生死",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 11,
+                "username": "c_upx7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kizuna_no_Gei",
+                "end": 23,
+                "expanded_url": "http://t.me/Kizuna_no_Gei",
+                "start": 0,
+                "url": "https://t.co/xC2wyeC0BT"
+              }
+            ]
+          }
+        },
+        "id": "1935317436917751808",
+        "location": "Shanghai.PRC🇨🇳Main.ROC🇹🇼",
+        "name": "☦︎絆の芸⳩",
+        "pinned_tweet_id": "2049676248436085229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001871359006429184/mzGA0v0a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 185,
+          "like_count": 2448,
+          "listed_count": 1,
+          "media_count": 201,
+          "tweet_count": 3230
+        },
+        "url": "https://t.co/xC2wyeC0BT",
+        "username": "Kizuna_no_Gei",
+        "verified": false
+      }
+    ]
+  }
+}

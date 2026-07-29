@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2001946007471583301",
+    "created_at": "2025-12-19T09:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T10:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001951037071278534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1031743711737040897",
+          "start": 0,
+          "username": "LittleQiKitty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001951037071278534",
+    "in_reply_to_user_id": "1031743711737040897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001948655889313891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LittleQiKitty 但你有主人了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2001946007471583301",
+        "created_at": "2025-12-19T09:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T10:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001951037071278534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1031743711737040897",
+              "start": 0,
+              "username": "LittleQiKitty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001951037071278534",
+        "in_reply_to_user_id": "1031743711737040897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001948655889313891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LittleQiKitty 但你有主人了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1031743711737040897",
+        "conversation_id": "2001946007471583301",
+        "created_at": "2025-12-19T09:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T10:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001948655889313891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001948655889313891",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001946007471583301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2000095705998983445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9530,
+          "following_count": 3442,
+          "like_count": 68769,
+          "listed_count": 16,
+          "media_count": 1518,
+          "tweet_count": 15866
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-21T03:24:04.000Z",
+        "description": "互fo 无糖 随时翻车 可以找我聊天 ｜可叫我：祈 / Qee / Kiara ｜唔…主人好厉害…所以是你嘛 ｜ Whatsapp纯绿58，微信纯绿38，QQ可调戏28，TG18，取累计最大值",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2lZzGualXH40N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2lZzGualXH40NDQ9",
+                "start": 0,
+                "url": "https://t.co/6DDlaD4dyi"
+              }
+            ]
+          }
+        },
+        "id": "1031743711737040897",
+        "location": "💕Just by your side💕",
+        "name": "Qee Cat",
+        "pinned_tweet_id": "2001249873061142989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000209374351163392/Y690dLwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 617,
+          "like_count": 473,
+          "listed_count": 2,
+          "media_count": 344,
+          "tweet_count": 2935
+        },
+        "url": "https://t.co/6DDlaD4dyi",
+        "username": "LittleQiKitty",
+        "verified": true
+      }
+    ]
+  }
+}

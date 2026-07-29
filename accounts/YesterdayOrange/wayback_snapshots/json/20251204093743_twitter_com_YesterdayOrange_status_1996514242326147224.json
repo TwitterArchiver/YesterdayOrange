@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1996514242326147224",
+    "created_at": "2025-12-04T09:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T10:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996514242326147224"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1996514242326147224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "计算机男和我聊天需要准备：\n\n技术栈审计报告： 需至少连续三年以上在LeetCode/ACM/Kaggle竞赛履历，包含但不限于：ACM区域赛金牌、Kaggle Master、Codeforces红名（注：培训班批量产出项目除外，培训班out）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1996514242326147224",
+        "created_at": "2025-12-04T09:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T10:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996514242326147224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996514242326147224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "计算机男和我聊天需要准备：\n\n技术栈审计报告： 需至少连续三年以上在LeetCode/ACM/Kaggle竞赛履历，包含但不限于：ACM区域赛金牌、Kaggle Master、Codeforces红名（注：培训班批量产出项目除外，培训班out）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1996226972650004822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9444,
+          "following_count": 3388,
+          "like_count": 67839,
+          "listed_count": 16,
+          "media_count": 1456,
+          "tweet_count": 15596
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

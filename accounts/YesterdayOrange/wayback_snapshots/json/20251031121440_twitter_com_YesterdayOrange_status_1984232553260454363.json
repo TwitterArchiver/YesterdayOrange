@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1984232553260454363",
+    "created_at": "2025-10-31T12:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T13:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984232553260454363"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liu_lu43456/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/liu_lu43456/status/1984228960054767643",
+          "start": 5,
+          "url": "https://t.co/aRvg505M7e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984232553260454363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984228960054767643",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个不错 https://t.co/aRvg505M7e"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1984232553260454363",
+        "created_at": "2025-10-31T12:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984232553260454363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liu_lu43456/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/liu_lu43456/status/1984228960054767643",
+              "start": 5,
+              "url": "https://t.co/aRvg505M7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984232553260454363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984228960054767643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个不错 https://t.co/aRvg505M7e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912916776519954432",
+        "conversation_id": "1983909096815522015",
+        "created_at": "2025-10-31T12:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984228960054767643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984228960054767643",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983909096815522015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange Doro抱着热热的卡布奇诺坐在街边的咖啡屋里，桌子上摆满了欧润吉做成的甜品\nDoro最喜欢的还是那颗原原本本的，普普通通的欧润吉\n人们没见到Doro，但是人们都知道Doro过上了好生活，不缺欧润吉的好生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1983909096815522015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7282,
+          "following_count": 3025,
+          "like_count": 60133,
+          "listed_count": 14,
+          "media_count": 1211,
+          "tweet_count": 14178
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T17:11:35.000Z",
+        "description": "MBTI:INTP-T/5w4/戒OD💊/双相/泛性恋，智性恋/负面情绪upup/自伤/会回关，没回关叫我一下/",
+        "id": "1912916776519954432",
+        "location": "石家庄",
+        "name": "spring小鹿＃毕宿五",
+        "pinned_tweet_id": "1981395554484834380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984160958798065664/bDaDcyH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 77,
+          "like_count": 204,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 478
+        },
+        "username": "liu_lu43456",
+        "verified": false
+      }
+    ]
+  }
+}

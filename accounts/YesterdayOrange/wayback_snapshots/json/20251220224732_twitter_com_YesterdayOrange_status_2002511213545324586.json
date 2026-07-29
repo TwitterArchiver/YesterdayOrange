@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2002511213545324586",
+    "created_at": "2025-12-20T22:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T23:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002511213545324586"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2002511213545324586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正常的，愿意去搞科研的肯定是少数，现在的中学生肯定是想当网红，十年前想当歌手，二十年前想当画家赌赢一张船票和富家女谈恋爱，这些都是常态，正因为常态的存在才显得他们伟大\n\n看到这段言论，你有什么感想？\n\n今天在一个评论区看到的，一眼疫情前的，现在大家没那么有希望。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2002511213545324586",
+        "created_at": "2025-12-20T22:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T23:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002511213545324586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002511213545324586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正常的，愿意去搞科研的肯定是少数，现在的中学生肯定是想当网红，十年前想当歌手，二十年前想当画家赌赢一张船票和富家女谈恋爱，这些都是常态，正因为常态的存在才显得他们伟大\n\n看到这段言论，你有什么感想？\n\n今天在一个评论区看到的，一眼疫情前的，现在大家没那么有希望。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2002014266594050433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9528,
+          "following_count": 3443,
+          "like_count": 68829,
+          "listed_count": 15,
+          "media_count": 1520,
+          "tweet_count": 15883
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

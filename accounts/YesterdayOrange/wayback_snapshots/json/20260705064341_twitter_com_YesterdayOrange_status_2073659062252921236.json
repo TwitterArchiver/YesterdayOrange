@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2073659062252921236",
+    "created_at": "2026-07-05T06:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073659062252921236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/texiuszhichuan…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/texiuszhichuan/status/2073339995243655429",
+          "start": 19,
+          "url": "https://t.co/b2e7SwJckA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073659062252921236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073339995243655429",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么我一万多fo没人给我打赏，紫砂了 https://t.co/b2e7SwJckA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073339988771831808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMX7vBlbgAAKQF8.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2073659062252921236",
+        "created_at": "2026-07-05T06:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073659062252921236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/texiuszhichuan…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/texiuszhichuan/status/2073339995243655429",
+              "start": 19,
+              "url": "https://t.co/b2e7SwJckA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073659062252921236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073339995243655429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么我一万多fo没人给我打赏，紫砂了 https://t.co/b2e7SwJckA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073339988771831808"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2073339995243655429",
+        "created_at": "2026-07-04T09:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073339995243655429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gvty6Y1H1r",
+              "end": 46,
+              "expanded_url": "https://x.com/Texiuszhichuan/status/2073339995243655429/photo/1",
+              "media_key": "3_2073339988771831808",
+              "start": 23,
+              "url": "https://t.co/Gvty6Y1H1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073339995243655429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1386,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你的打赏捏，不过别叫我妈妈，我好歹是男的 https://t.co/Gvty6Y1H1r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2073281493804470508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12196,
+          "following_count": 5169,
+          "like_count": 95102,
+          "listed_count": 20,
+          "media_count": 2345,
+          "tweet_count": 20682
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2072136983636578414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 355,
+          "like_count": 17463,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1030
+        },
+        "url": "",
+        "username": "Texiuszhichuan",
+        "verified": true
+      }
+    ]
+  }
+}

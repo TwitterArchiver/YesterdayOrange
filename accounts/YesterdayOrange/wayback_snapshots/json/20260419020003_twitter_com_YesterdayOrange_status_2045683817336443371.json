@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2045683817336443371",
+    "created_at": "2026-04-19T02:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T03:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045683817336443371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/5yqp44gr44gm/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/5yqp44gr44gm/status/2045649304946421962",
+          "start": 7,
+          "url": "https://t.co/HfZ2VzdhIp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045683817336443371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045649304946421962",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "学计算机学的 https://t.co/HfZ2VzdhIp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2045683817336443371",
+        "created_at": "2026-04-19T02:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045683817336443371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/5yqp44gr44gm/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/5yqp44gr44gm/status/2045649304946421962",
+              "start": 7,
+              "url": "https://t.co/HfZ2VzdhIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045683817336443371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045649304946421962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学计算机学的 https://t.co/HfZ2VzdhIp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "973963937594056705",
+        "conversation_id": "2045515298674266418",
+        "created_at": "2026-04-18T23:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T00:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045649304946421962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045649304946421962",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045515298674266418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange new一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2045231864064139330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11540,
+          "following_count": 4869,
+          "like_count": 87076,
+          "listed_count": 21,
+          "media_count": 2124,
+          "tweet_count": 19169
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-14T16:47:52.000Z",
+        "description": "对了 我可以吃紫菜",
+        "id": "973963937594056705",
+        "name": "沙砾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1482953841616515077/2qDNABmm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 207,
+          "like_count": 10981,
+          "listed_count": 1,
+          "media_count": 471,
+          "tweet_count": 8463
+        },
+        "username": "5Yqp44GR44Gm",
+        "verified": false
+      }
+    ]
+  }
+}

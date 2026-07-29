@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1994286526692516045",
+    "created_at": "2025-11-28T06:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T07:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994295711203250349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1682344543075852288",
+          "start": 0,
+          "username": "xhun241736"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994295711203250349",
+    "in_reply_to_user_id": "1682344543075852288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994291612164452509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhun241736 现在呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1994286526692516045",
+        "created_at": "2025-11-28T06:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994295711203250349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1682344543075852288",
+              "start": 0,
+              "username": "xhun241736"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994295711203250349",
+        "in_reply_to_user_id": "1682344543075852288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994291612164452509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhun241736 现在呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682344543075852288",
+        "conversation_id": "1994286526692516045",
+        "created_at": "2025-11-28T06:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T07:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994291612164452509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994291612164452509",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994286526692516045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我以前可是带师😎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1994073228369592563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9274,
+          "following_count": 3375,
+          "like_count": 67264,
+          "listed_count": 15,
+          "media_count": 1425,
+          "tweet_count": 15469
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T10:59:38.000Z",
+        "description": "神爱世人取向，不会说话，不想打扰别人，爱你们的一只非人之物\n公元前8年/7/17  173/54kg 非常理的存在\n我，一无所有的来到这个世界，也该一无所有的离开！对不对？\n爱你们",
+        "id": "1682344543075852288",
+        "location": "短暂宁静之地",
+        "name": "哈基雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992616253664661504/HIb5YJzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 44,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 175
+        },
+        "username": "xhun241736",
+        "verified": false
+      }
+    ]
+  }
+}

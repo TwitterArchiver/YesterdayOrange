@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2070731132266799354",
+    "created_at": "2026-06-27T06:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070751440956686557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "887088393594601472",
+          "start": 0,
+          "username": "zcjrony"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070751440956686557",
+    "in_reply_to_user_id": "887088393594601472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070731132266799354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zcjrony 可以舔手吗🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2070731118987657216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLy2-0SbQAAUKeo.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2070731132266799354",
+        "created_at": "2026-06-27T06:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070751440956686557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "887088393594601472",
+              "start": 0,
+              "username": "zcjrony"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070751440956686557",
+        "in_reply_to_user_id": "887088393594601472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070731132266799354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zcjrony 可以舔手吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070731118987657216"
+          ]
+        },
+        "author_id": "887088393594601472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070731132266799354",
+        "created_at": "2026-06-27T04:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070731132266799354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OG6a1ArTmx",
+              "end": 23,
+              "expanded_url": "https://x.com/zcjrony/status/2070731132266799354/photo/1",
+              "media_key": "3_2070731118987657216",
+              "start": 0,
+              "url": "https://t.co/OG6a1ArTmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070731132266799354",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OG6a1ArTmx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2069728968174178357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12164,
+          "following_count": 5133,
+          "like_count": 94684,
+          "listed_count": 20,
+          "media_count": 2332,
+          "tweet_count": 20568
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-17T23:15:29.000Z",
+        "description": "I love all kinds of transport and stories~\n\nMLP/Nichijou/Aviation Geek/Railfan/use 🇨🇳 & 🇬🇧/studying 🇯🇵 & 🇫🇷",
+        "id": "887088393594601472",
+        "location": "Beijing",
+        "name": "zcjrony",
+        "pinned_tweet_id": "1880650733785415760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1114149419983736832/j_8AIluv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 1073,
+          "like_count": 56765,
+          "listed_count": 2,
+          "media_count": 976,
+          "tweet_count": 4045
+        },
+        "url": "",
+        "username": "zcjrony",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1986838054192259402",
+    "created_at": "2025-11-08T04:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T05:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987011610897228020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1941758931166277632",
+          "start": 0,
+          "username": "xushehua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987011610897228020",
+    "in_reply_to_user_id": "1941758931166277632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987009442588860537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xushehua 这句话意思是“我”其实不懂哲学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1986838054192259402",
+        "created_at": "2025-11-08T04:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T05:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987011610897228020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1941758931166277632",
+              "start": 0,
+              "username": "xushehua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987011610897228020",
+        "in_reply_to_user_id": "1941758931166277632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987009442588860537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xushehua 这句话意思是“我”其实不懂哲学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941758931166277632",
+        "conversation_id": "1986838054192259402",
+        "created_at": "2025-11-08T04:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T05:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987009442588860537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987009442588860537",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986838054192259402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我就说维特根斯坦不像是会起&lt;美好的每一天&gt;这种名字的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1986838054192259402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7923,
+          "following_count": 3110,
+          "like_count": 62573,
+          "listed_count": 15,
+          "media_count": 1286,
+          "tweet_count": 14523
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-06T07:19:49.000Z",
+        "description": "hrt2025/11/1\n好无聊，可以找我聊天嘛\n如果泥惹毛我了，我就会变的毛茸茸的",
+        "id": "1941758931166277632",
+        "location": "长春",
+        "name": "aliez",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981167198786777088/8PMVuzMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 60,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 35
+        },
+        "username": "xushehua",
+        "verified": false
+      }
+    ]
+  }
+}

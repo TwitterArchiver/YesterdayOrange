@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1995650842956021938",
+    "created_at": "2025-12-02T08:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T09:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995774200032940061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1520455944395657216",
+          "start": 0,
+          "username": "Amy90450117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995774200032940061",
+    "in_reply_to_user_id": "1520455944395657216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995773786936017320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amy90450117 四岁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1995650842956021938",
+        "created_at": "2025-12-02T08:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995774200032940061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1520455944395657216",
+              "start": 0,
+              "username": "Amy90450117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995774200032940061",
+        "in_reply_to_user_id": "1520455944395657216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995773786936017320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amy90450117 四岁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520455944395657216",
+        "conversation_id": "1995650842956021938",
+        "created_at": "2025-12-02T08:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995773786936017320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995773786936017320",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995650842956021938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 其实家里有小孩的都知道 小孩下手是真他妈的重 我记得几年前我弟在我躺着的时候一手勒我项链一手抓我头发 就那一次我让他体会了一下苍蝇拍是什么滋味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1995315140724748766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9434,
+          "following_count": 3385,
+          "like_count": 67746,
+          "listed_count": 16,
+          "media_count": 1451,
+          "tweet_count": 15574
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T17:32:31.000Z",
+        "description": "推止于推 纯发泄 特别爱钱的一个人 妹子跟我扩列不用🚪",
+        "id": "1520455944395657216",
+        "location": "🚪188/520/1314 男的过🚪私信",
+        "name": "扁扁.",
+        "pinned_tweet_id": "1957820813899403761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957778322693484544/-3YJfYtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 109,
+          "like_count": 5992,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 231
+        },
+        "username": "Amy90450117",
+        "verified": false
+      }
+    ]
+  }
+}

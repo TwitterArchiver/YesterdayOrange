@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2034473224529236271",
+    "created_at": "2026-03-19T03:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T04:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034473224529236271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/devil7x_x/stat…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/devil7x_x/status/2034264584639729857",
+          "start": 146,
+          "url": "https://t.co/sm1AgTc1oR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034473224529236271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034264584639729857",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的很喜欢黏人的笨蛋小狗\n一会不回消息就给我说想我了\n会跟我分享细碎的日常\n会每天跟我说好多好多话\n什么事都想告诉我\n今天吃了什么做了什么\n每次跟他聊天都好开心\n每次生气的时候不到三秒就会被逗笑他不会聊着聊着就不见人影\n会跟我报备要去做什么了\n事事有回应件件有着落\n超级喜欢黏我的笨蛋小狗 https://t.co/sm1AgTc1oR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2034473224529236271",
+        "created_at": "2026-03-19T03:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T04:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034473224529236271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/devil7x_x/stat…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/devil7x_x/status/2034264584639729857",
+              "start": 146,
+              "url": "https://t.co/sm1AgTc1oR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034473224529236271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034264584639729857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的很喜欢黏人的笨蛋小狗\n一会不回消息就给我说想我了\n会跟我分享细碎的日常\n会每天跟我说好多好多话\n什么事都想告诉我\n今天吃了什么做了什么\n每次跟他聊天都好开心\n每次生气的时候不到三秒就会被逗笑他不会聊着聊着就不见人影\n会跟我报备要去做什么了\n事事有回应件件有着落\n超级喜欢黏我的笨蛋小狗 https://t.co/sm1AgTc1oR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580952439347634176",
+        "conversation_id": "2034264584639729857",
+        "created_at": "2026-03-18T13:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T14:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034264584639729857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034264584639729857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 15665,
+          "like_count": 369,
+          "quote_count": 8,
+          "reply_count": 8,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很喜欢黏人的笨蛋小狗\n一会不回消息就给我说想我了\n会跟我分享细碎的日常\n会每天跟我说好多好多话\n什么事都想告诉我\n今天吃了什么做了什么\n每次跟他聊天都好开心\n每次生气的时候不到三秒就会被逗笑他不会聊着聊着就不见人影\n会跟我报备要去做什么了\n事事有回应件件有着落\n超级喜欢黏我的笨蛋小狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2033924730877837630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11317,
+          "following_count": 4643,
+          "like_count": 82653,
+          "listed_count": 20,
+          "media_count": 1958,
+          "tweet_count": 18383
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-14T16:03:37.000Z",
+        "description": "4i不1i｜s&dom｜置顶自辨｜Me：@Angel7x_X",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "Angel7x_X"
+              }
+            ]
+          }
+        },
+        "id": "1580952439347634176",
+        "location": "盗我图的替我消灾",
+        "name": "Devil",
+        "pinned_tweet_id": "2034178078847733919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978365521205825536/yq-UIb2T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19475,
+          "following_count": 278,
+          "like_count": 12548,
+          "listed_count": 38,
+          "media_count": 32,
+          "tweet_count": 3417
+        },
+        "username": "Devil7x_X",
+        "verified": false
+      }
+    ]
+  }
+}

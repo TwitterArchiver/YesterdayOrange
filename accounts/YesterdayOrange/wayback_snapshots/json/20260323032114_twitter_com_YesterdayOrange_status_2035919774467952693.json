@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035919757548118016"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2035919774467952693",
+    "created_at": "2026-03-23T03:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T04:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035919774467952693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JxujqYqkIn",
+          "end": 150,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2035919774467952693/photo/1",
+          "media_key": "3_2035919757548118016",
+          "start": 127,
+          "url": "https://t.co/JxujqYqkIn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035919774467952693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这么说，我只要活着，就相当于\n\nICU+全套抗生素（免疫）250w/年\n\n假肢+人工关节（运动）25w/年\n\n人工心，人工肺，人工肝，人工肾（透析）800w/年\n\n脑机接口+康复治疗70w/年\n\n合计年薪1145w，我原来这么值钱，这还上鸡毛的班啊😃😃 https://t.co/JxujqYqkIn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2035919757548118016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEEKO5Pa4AAYK13.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035919757548118016"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2035919774467952693",
+        "created_at": "2026-03-23T03:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T04:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035919774467952693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JxujqYqkIn",
+              "end": 150,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2035919774467952693/photo/1",
+              "media_key": "3_2035919757548118016",
+              "start": 127,
+              "url": "https://t.co/JxujqYqkIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035919774467952693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么说，我只要活着，就相当于\n\nICU+全套抗生素（免疫）250w/年\n\n假肢+人工关节（运动）25w/年\n\n人工心，人工肺，人工肝，人工肾（透析）800w/年\n\n脑机接口+康复治疗70w/年\n\n合计年薪1145w，我原来这么值钱，这还上鸡毛的班啊😃😃 https://t.co/JxujqYqkIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2034816663066222935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11387,
+          "following_count": 4764,
+          "like_count": 83819,
+          "listed_count": 20,
+          "media_count": 1989,
+          "tweet_count": 18569
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2056279911946719232"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2056279912835887321",
+    "created_at": "2026-05-18T07:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056279912835887321"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056279912835887321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家更希望我写doro小故事（比如之前写的那种）还是传统的“结局”"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-05-19T07:45:09.000Z",
+        "id": "2056279911946719232",
+        "options": [
+          {
+            "label": "小故事",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "结局",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2056279911946719232"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2056279912835887321",
+        "created_at": "2026-05-18T07:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056279912835887321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056279912835887321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家更希望我写doro小故事（比如之前写的那种）还是传统的“结局”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2054845995012509696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12052,
+          "following_count": 5063,
+          "like_count": 91498,
+          "listed_count": 22,
+          "media_count": 2247,
+          "tweet_count": 19986
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

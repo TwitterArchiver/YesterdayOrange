@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2064883817849254291",
+    "created_at": "2026-06-11T06:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064964745334280327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1904714528337911810",
+          "start": 0,
+          "username": "xawmkakkak67868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064964745334280327",
+    "in_reply_to_user_id": "1904714528337911810",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064946971945906184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xawmkakkak67868 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2064883817849254291",
+        "created_at": "2026-06-11T06:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064964745334280327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1904714528337911810",
+              "start": 0,
+              "username": "xawmkakkak67868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064964745334280327",
+        "in_reply_to_user_id": "1904714528337911810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064946971945906184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xawmkakkak67868 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904714528337911810",
+        "conversation_id": "2064883817849254291",
+        "created_at": "2026-06-11T05:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T06:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064946971945906184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064946971945906184",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064883817849254291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 纯爱神作 樱之诗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2064883817849254291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12167,
+          "following_count": 5134,
+          "like_count": 94050,
+          "listed_count": 21,
+          "media_count": 2299,
+          "tweet_count": 20401
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-26T01:58:44.000Z",
+        "description": "。。\n感兴趣的是VECALOID&IDV&cs2&vct\n来自中国大陆。IT。留学生。\nCN/EN/DE",
+        "id": "1904714528337911810",
+        "location": "？",
+        "name": "某不科学的LLM。？",
+        "pinned_tweet_id": "2063921842281480358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064934813614972928/Img5iYm1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 52,
+          "like_count": 522,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 664
+        },
+        "username": "xawmkakkak67868",
+        "verified": false
+      }
+    ]
+  }
+}

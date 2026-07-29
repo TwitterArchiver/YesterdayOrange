@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015375006575050752"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2015375019623461174",
+    "created_at": "2026-01-25T10:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T11:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015375019623461174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UopjM0dTsT",
+          "end": 138,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2015375019623461174/photo/1",
+          "media_key": "3_2015375006575050752",
+          "start": 115,
+          "url": "https://t.co/UopjM0dTsT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015375019623461174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "归纳一下，老一辈的说教有以下特征：\n\n1，正确的废话\n\n2，要求你具备某种能力，却不教具体实现方法\n\n3，结果导向严重，忽略主观和客观因素\n\n4，以偏概全\n\n5，在说教对应的事件中没有成功案例\n\n6，提供的建议不适用于现在的时代 https://t.co/UopjM0dTsT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015375006575050752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gM4_wbQAAAekw.jpg",
+        "width": 929
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015375006575050752"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2015375019623461174",
+        "created_at": "2026-01-25T10:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015375019623461174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UopjM0dTsT",
+              "end": 138,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2015375019623461174/photo/1",
+              "media_key": "3_2015375006575050752",
+              "start": 115,
+              "url": "https://t.co/UopjM0dTsT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015375019623461174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "归纳一下，老一辈的说教有以下特征：\n\n1，正确的废话\n\n2，要求你具备某种能力，却不教具体实现方法\n\n3，结果导向严重，忽略主观和客观因素\n\n4，以偏概全\n\n5，在说教对应的事件中没有成功案例\n\n6，提供的建议不适用于现在的时代 https://t.co/UopjM0dTsT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2014686382502117540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10075,
+          "following_count": 3737,
+          "like_count": 73464,
+          "listed_count": 15,
+          "media_count": 1684,
+          "tweet_count": 16731
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

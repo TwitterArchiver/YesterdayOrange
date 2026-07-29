@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2081004512224104733",
+    "created_at": "2026-07-25T13:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081004512224104733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2064373620118368256",
+          "start": 3,
+          "username": "perimetranger"
+        },
+        {
+          "end": 35,
+          "id": "1788485889225834496",
+          "start": 19,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081004512224104733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081004397182521543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @perimetranger: @YesterdayOrange 我也经常想，如果我没有抑郁过，我现在一定更加开朗更加幸福，可是那个抑郁过的我也是我，在那样的境遇下，抑郁几乎是我的必然结果🥺我可能永远没法很幸福，又或者现在的我就是已经足够幸福的我了。不管怎么样，能够坚强地…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2081004512224104733",
+        "created_at": "2026-07-25T13:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081004512224104733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2064373620118368256",
+              "start": 3,
+              "username": "perimetranger"
+            },
+            {
+              "end": 35,
+              "id": "1788485889225834496",
+              "start": 19,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081004512224104733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081004397182521543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @perimetranger: @YesterdayOrange 我也经常想，如果我没有抑郁过，我现在一定更加开朗更加幸福，可是那个抑郁过的我也是我，在那样的境遇下，抑郁几乎是我的必然结果🥺我可能永远没法很幸福，又或者现在的我就是已经足够幸福的我了。不管怎么样，能够坚强地…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064373620118368256",
+        "conversation_id": "2080994161420021816",
+        "created_at": "2026-07-25T13:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081004397182521543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081004397182521543",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080994161420021816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我也经常想，如果我没有抑郁过，我现在一定更加开朗更加幸福，可是那个抑郁过的我也是我，在那样的境遇下，抑郁几乎是我的必然结果🥺我可能永远没法很幸福，又或者现在的我就是已经足够幸福的我了。不管怎么样，能够坚强地活到现在也很棒了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2080247998165197048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12265,
+          "following_count": 5280,
+          "like_count": 97460,
+          "listed_count": 21,
+          "media_count": 2434,
+          "tweet_count": 21090
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-09T15:48:03.000Z",
+        "description": "oublié, c’est幸せ|亲爱的，我还没来得及体面地消失。。。|前世@etrangerperim|璃月北方人|枫丹打工ing|日本語上手存疑| français苦手 梦想是30岁有存款和开里推的身材（实则没几年了)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "etrangerperim"
+              }
+            ]
+          }
+        },
+        "id": "2064373620118368256",
+        "location": "枫丹-苍晶区",
+        "name": "DeuxiemeMiracle",
+        "pinned_tweet_id": "2064483737190961396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068755087854379008/BEMVpBRG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 688,
+          "like_count": 5146,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 860
+        },
+        "url": "",
+        "username": "perimetranger",
+        "verified": false
+      }
+    ]
+  }
+}

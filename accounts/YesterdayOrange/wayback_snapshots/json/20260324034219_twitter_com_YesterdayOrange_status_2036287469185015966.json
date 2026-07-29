@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2036287469185015966",
+    "created_at": "2026-03-24T03:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T04:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036287469185015966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OttawaCuteFace…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/OttawaCuteFace/status/2036287166033305928",
+          "start": 13,
+          "url": "https://t.co/p6PeN3sWJO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036287469185015966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036287166033305928",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赛博投票还犹豫，一眼内向 https://t.co/p6PeN3sWJO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2036287469185015966",
+        "created_at": "2026-03-24T03:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036287469185015966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OttawaCuteFace…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/OttawaCuteFace/status/2036287166033305928",
+              "start": 13,
+              "url": "https://t.co/p6PeN3sWJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036287469185015966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036287166033305928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赛博投票还犹豫，一眼内向 https://t.co/p6PeN3sWJO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785728758122774528",
+        "conversation_id": "2036282759237476715",
+        "created_at": "2026-03-24T03:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036287166033305928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036287166033305928",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036282759237476715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 介于两者之间算什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2034816663066222935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11396,
+          "following_count": 4791,
+          "like_count": 84015,
+          "listed_count": 20,
+          "media_count": 1997,
+          "tweet_count": 18617
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-01T17:51:38.000Z",
+        "description": "非纯粹无脑粉红|左中上|岁静派|愿世界没有战争|人人平等|和睦相处|轻/中度抑郁/焦虑|16|双性恋|可互fo（会查成分）",
+        "id": "1785728758122774528",
+        "location": "渥太华",
+        "name": "渥太华帅脸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024759395058667522/gMAyfrYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 872,
+          "like_count": 25116,
+          "listed_count": 4,
+          "media_count": 121,
+          "tweet_count": 3454
+        },
+        "username": "OttawaCuteFace",
+        "verified": false
+      }
+    ]
+  }
+}

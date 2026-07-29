@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2064429487941726312",
+    "created_at": "2026-06-09T19:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T20:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064429487941726312"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shimokita_1204…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/shimokita_1204/status/2064425132169584848",
+          "start": 6,
+          "url": "https://t.co/NipurPo1sv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064429487941726312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064425132169584848",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不会乐器 https://t.co/NipurPo1sv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2064429487941726312",
+        "created_at": "2026-06-09T19:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064429487941726312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shimokita_1204…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/shimokita_1204/status/2064425132169584848",
+              "start": 6,
+              "url": "https://t.co/NipurPo1sv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064429487941726312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064425132169584848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不会乐器 https://t.co/NipurPo1sv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901858008210219008",
+        "conversation_id": "2064378066449903874",
+        "created_at": "2026-06-09T19:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064425132169584848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064425132169584848",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064378066449903874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 29"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2064378484663992607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12165,
+          "following_count": 5134,
+          "like_count": 93964,
+          "listed_count": 21,
+          "media_count": 2298,
+          "tweet_count": 20369
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-18T04:47:49.000Z",
+        "description": "偶尔上推/有对象/非二元or性别流动/无自杀倾向 有负能 有NSFW内容（较少量）/会ban看黄推/互fo请私信",
+        "id": "1901858008210219008",
+        "name": "下北（可以找我互fo）",
+        "pinned_tweet_id": "1907846041032077774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056337621564133376/6XRRjKfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 348,
+          "like_count": 2141,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 2828
+        },
+        "username": "shimokita_1204",
+        "verified": false
+      }
+    ]
+  }
+}

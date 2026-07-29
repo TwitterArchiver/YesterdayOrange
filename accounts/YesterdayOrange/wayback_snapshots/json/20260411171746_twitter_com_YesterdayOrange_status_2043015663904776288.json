@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2042832502281388215",
+    "created_at": "2026-04-11T17:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T18:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043015663904776288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1652200117494231043",
+          "start": 0,
+          "username": "OuO_QwQg"
+        },
+        {
+          "end": 24,
+          "id": "1997013141268705280",
+          "start": 10,
+          "username": "minowagin2952"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043015663904776288",
+    "in_reply_to_user_id": "1652200117494231043",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043015563941941456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuO_QwQg @minowagin2952 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2042832502281388215",
+        "created_at": "2026-04-11T17:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043015663904776288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1652200117494231043",
+              "start": 0,
+              "username": "OuO_QwQg"
+            },
+            {
+              "end": 24,
+              "id": "1997013141268705280",
+              "start": 10,
+              "username": "minowagin2952"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043015663904776288",
+        "in_reply_to_user_id": "1652200117494231043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043015563941941456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO_QwQg @minowagin2952 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2042832502281388215",
+        "created_at": "2026-04-11T17:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T18:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043015563941941456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997013141268705280",
+              "start": 0,
+              "username": "minowagin2952"
+            },
+            {
+              "end": 31,
+              "id": "1788485889225834496",
+              "start": 15,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043015563941941456",
+        "in_reply_to_user_id": "1997013141268705280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042846622946660468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minowagin2952 @YesterdayOrange 亲亲你的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2042829099903914029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11389,
+          "following_count": 4790,
+          "like_count": 85620,
+          "listed_count": 20,
+          "media_count": 2064,
+          "tweet_count": 18902
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜匿名箱 https://t.co/TsKHcf6fRX\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 91,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 68,
+                "url": "https://t.co/TsKHcf6fRX"
+              },
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 129,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 106,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2020621499112272132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027768091149840384/B-OhTElb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 57,
+          "like_count": 6485,
+          "listed_count": 3,
+          "media_count": 213,
+          "tweet_count": 2462
+        },
+        "username": "OuO_QwQg",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T18:40:29.000Z",
+        "description": "淡推中\n本人是：黄左，左逼，👊🇺🇸🔥， 本人是：殖人/殖畜/大殖子/反贼/支黑",
+        "id": "1997013141268705280",
+        "name": "美樹さやか🇺🇦🇵🇸",
+        "pinned_tweet_id": "2034687635554209907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024507724025700353/hsIXV17F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 1216,
+          "like_count": 12348,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 4829
+        },
+        "username": "minowagin2952",
+        "verified": false
+      }
+    ]
+  }
+}

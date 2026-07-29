@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990672012961079296"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "1990672020603089068",
+    "created_at": "2025-11-18T06:42:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T07:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990672020603089068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t4sNxsfsX7",
+          "end": 39,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1990672020603089068/photo/1",
+          "media_key": "3_1990672012961079296",
+          "start": 16,
+          "url": "https://t.co/t4sNxsfsX7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990672020603089068",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想看看我是多少人的好感列🥺🥺 https://t.co/t4sNxsfsX7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1990672012961079296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BJphTbYAAvnXX.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990672012961079296"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1990672020603089068",
+        "created_at": "2025-11-18T06:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T07:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990672020603089068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t4sNxsfsX7",
+              "end": 39,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1990672020603089068/photo/1",
+              "media_key": "3_1990672012961079296",
+              "start": 16,
+              "url": "https://t.co/t4sNxsfsX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990672020603089068",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想看看我是多少人的好感列🥺🥺 https://t.co/t4sNxsfsX7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1990672020603089068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8300,
+          "following_count": 3251,
+          "like_count": 65074,
+          "listed_count": 14,
+          "media_count": 1356,
+          "tweet_count": 14917
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

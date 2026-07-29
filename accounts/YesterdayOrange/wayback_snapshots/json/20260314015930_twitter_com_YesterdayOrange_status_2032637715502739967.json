@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2032637706182996230",
+    "created_at": "2026-03-14T01:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T02:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032637715502739967"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032637715502739967",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032637709895041281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "15.子弹到底还要飞，多久才能变成和平的白鸽？\n…😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2032637706182996230",
+        "created_at": "2026-03-14T01:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T02:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032637715502739967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032637715502739967",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032637709895041281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "15.子弹到底还要飞，多久才能变成和平的白鸽？\n…😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2032637706182996230",
+        "created_at": "2026-03-14T01:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T02:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032637709895041281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032637709895041281",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032637706182996230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8.曾经向往自由的少年，又去向了何处？\n9.我曾经有两个朋友，一个像向日葵般温暖，一个像铃兰花般浪漫\n10.从某种角度上来看，最像向日葵的不是洋甘菊，而是牡丹\n11.日不落，是日落前最大的谎言\n12.利益至上，资本为王\n13.达瓦里氏，你是最令我骄傲的学生\n14.自己养大的孩子，自然有我的影子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2032475741741551981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11061,
+          "following_count": 4454,
+          "like_count": 81352,
+          "listed_count": 20,
+          "media_count": 1926,
+          "tweet_count": 18063
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

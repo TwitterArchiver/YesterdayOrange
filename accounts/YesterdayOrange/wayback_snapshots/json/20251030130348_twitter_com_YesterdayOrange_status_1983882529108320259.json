@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1983881467253158072",
+    "created_at": "2025-10-30T13:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T14:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983882529108320259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952993357611094016",
+          "start": 0,
+          "username": "zyy1870813"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983882529108320259",
+    "in_reply_to_user_id": "1952993357611094016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983881877556752397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyy1870813 好啊，什么时候结婚？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1983881467253158072",
+        "created_at": "2025-10-30T13:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T14:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983882529108320259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952993357611094016",
+              "start": 0,
+              "username": "zyy1870813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983882529108320259",
+        "in_reply_to_user_id": "1952993357611094016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983881877556752397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyy1870813 好啊，什么时候结婚？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952993357611094016",
+        "conversation_id": "1983881467253158072",
+        "created_at": "2025-10-30T13:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T14:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983881877556752397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983881877556752397",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983881467253158072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 那你跟我结芬就解决了🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1983562573929947411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7208,
+          "following_count": 3005,
+          "like_count": 59624,
+          "listed_count": 14,
+          "media_count": 1203,
+          "tweet_count": 14131
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T07:21:26.000Z",
+        "description": "🇨🇳英德日語言學本科在讀、TEM4/B1/N3等級。\n愛好:美食/旅行/コーデ /歴史を読むこと/ACG/軍事/それに奇幻科幻です。顔面偏差値、ブス不安。\n已經旅遊🇯🇵🇺🇸🇲🇽🇧🇿🇫🇯🇱🇰/🇭🇰🇹🇼。\n保守社會主義/🇨🇳🇰🇵🇰🇷🇯🇵漢中心東亞團结/建制。",
+        "id": "1952993357611094016",
+        "location": "北京",
+        "name": "zyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956399417965309954/sRJ6VHV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 71,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 152
+        },
+        "username": "zyy1870813",
+        "verified": false
+      }
+    ]
+  }
+}

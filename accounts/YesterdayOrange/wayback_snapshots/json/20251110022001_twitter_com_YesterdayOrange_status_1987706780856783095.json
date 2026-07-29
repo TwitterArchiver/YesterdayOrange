@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1987092132981871099",
+    "created_at": "2025-11-10T02:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T03:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987706780856783095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1407946975127883777",
+          "start": 0,
+          "username": "brandon94623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987706780856783095",
+    "in_reply_to_user_id": "1407946975127883777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987660978419634591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brandon94623 清华结局？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1987092132981871099",
+        "created_at": "2025-11-10T02:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T03:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987706780856783095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1407946975127883777",
+              "start": 0,
+              "username": "brandon94623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987706780856783095",
+        "in_reply_to_user_id": "1407946975127883777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987660978419634591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brandon94623 清华结局？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407946975127883777",
+        "conversation_id": "1987092132981871099",
+        "created_at": "2025-11-09T23:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T00:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987660978419634591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987660978419634591",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987092132981871099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 沒玩\n但現實最好的結局大概是失戀後……你知道的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1987539889324523537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8068,
+          "following_count": 3176,
+          "like_count": 63329,
+          "listed_count": 15,
+          "media_count": 1299,
+          "tweet_count": 14619
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-24T06:21:42.000Z",
+        "description": "大學生跟檔案玩家一個，主要在discord活動，反對中共，廣義的民主社會主義者，要互跟的話可以私訊\nbluesky：https://t.co/t56HRVw1A3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/brando…",
+                "end": 81,
+                "expanded_url": "https://bsky.app/profile/brandon-yu.bsky.social",
+                "start": 58,
+                "url": "https://t.co/t56HRVw1A3"
+              }
+            ]
+          }
+        },
+        "id": "1407946975127883777",
+        "location": "Taiwan",
+        "name": "榨甘蔗救台灣🇹🇼",
+        "pinned_tweet_id": "1949869235158601807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850879781572866048/C4t9EMan_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 248,
+          "like_count": 8702,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 3225
+        },
+        "username": "brandon94623",
+        "verified": false
+      }
+    ]
+  }
+}

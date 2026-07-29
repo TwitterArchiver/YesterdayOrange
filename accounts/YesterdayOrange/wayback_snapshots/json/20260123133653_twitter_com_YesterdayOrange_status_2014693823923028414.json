@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2014650136790761877",
+    "created_at": "2026-01-23T13:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T14:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014693823923028414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1596801061775294465",
+          "start": 0,
+          "username": "wsjzykt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014693823923028414",
+    "in_reply_to_user_id": "1596801061775294465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014693200750150097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsjzykt 摸摸头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2014650136790761877",
+        "created_at": "2026-01-23T13:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T14:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014693823923028414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1596801061775294465",
+              "start": 0,
+              "username": "wsjzykt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014693823923028414",
+        "in_reply_to_user_id": "1596801061775294465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014693200750150097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsjzykt 摸摸头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596801061775294465",
+        "conversation_id": "2014650136790761877",
+        "created_at": "2026-01-23T13:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T14:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014693200750150097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014693200750150097",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014650136790761877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange +3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2012954429889163654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10072,
+          "following_count": 3737,
+          "like_count": 73381,
+          "listed_count": 15,
+          "media_count": 1678,
+          "tweet_count": 16707
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T09:40:25.000Z",
+        "description": "世界超一流屍體橫陳",
+        "id": "1596801061775294465",
+        "location": "移動墓地",
+        "name": "八百里加急活死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800859407007490048/DhmwZzM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 490,
+          "like_count": 6625,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 960
+        },
+        "username": "wsjzykt",
+        "verified": false
+      }
+    ]
+  }
+}

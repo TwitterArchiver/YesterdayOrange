@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1992078252379451833",
+    "created_at": "2025-11-23T04:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T05:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992455829006725327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1739613832837038081",
+          "start": 0,
+          "username": "qngfnghu518492"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992455829006725327",
+    "in_reply_to_user_id": "1739613832837038081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992337657125576844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngfnghu518492 好的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1992078252379451833",
+        "created_at": "2025-11-23T04:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992455829006725327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1739613832837038081",
+              "start": 0,
+              "username": "qngfnghu518492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992455829006725327",
+        "in_reply_to_user_id": "1739613832837038081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992337657125576844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngfnghu518492 好的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739613832837038081",
+        "conversation_id": "1992078252379451833",
+        "created_at": "2025-11-22T21:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T22:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992337657125576844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992337657125576844",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992078252379451833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1992265923588440242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8717,
+          "following_count": 3276,
+          "like_count": 65958,
+          "listed_count": 14,
+          "media_count": 1379,
+          "tweet_count": 15080
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T11:47:59.000Z",
+        "description": "一个来自中国🇨🇳的高中生。时不时进行一些汉化翻译或分享一下日常\nB站UID:398786186",
+        "id": "1739613832837038081",
+        "name": "晴楓惠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913242117113364480/mqX520TU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 302,
+          "like_count": 10742,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 465
+        },
+        "username": "qngfnghu518492",
+        "verified": false
+      }
+    ]
+  }
+}

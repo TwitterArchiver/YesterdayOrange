@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2013485369870750121",
+    "created_at": "2026-01-20T05:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T06:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013487547792662568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1500469895464554499",
+          "start": 0,
+          "username": "GloryUhk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013487547792662568",
+    "in_reply_to_user_id": "1500469895464554499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013485369870750121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GloryUhk 然后怎么样了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2013485369870750121",
+        "created_at": "2026-01-20T05:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T06:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013487547792662568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1500469895464554499",
+              "start": 0,
+              "username": "GloryUhk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013487547792662568",
+        "in_reply_to_user_id": "1500469895464554499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013485369870750121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GloryUhk 然后怎么样了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500469895464554499",
+        "conversation_id": "2013485369870750121",
+        "created_at": "2026-01-20T05:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T06:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013485369870750121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/2013483588302299250",
+              "start": 20,
+              "url": "https://t.co/dzqJdEkb9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013485369870750121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013483588302299250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不敢笑，因为我妈真投出去合伙了个酒吧😓 https://t.co/dzqJdEkb9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2012954429889163654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10042,
+          "following_count": 3726,
+          "like_count": 73207,
+          "listed_count": 15,
+          "media_count": 1671,
+          "tweet_count": 16678
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-06T13:54:47.000Z",
+        "description": "😇自己露脸的照片会限时发😘\n🥵看心情可能会发自己擦边的照😜\n🌍生活在艾尔迪亚帝国的外国居民 👫\n👶清美抱过小时候的我 🤗\n🛒Ackerman Road上的那家Aldi超棒 🏪\n🎉前年参加了希甘希娜区Mardi Gras队伍🏳️‍🌈\n❤️毕竟自己以前也是xnh🤗\n⛪周日会去城墙教教堂蹭饭 🍲",
+        "id": "1500469895464554499",
+        "location": "Shiganshina, PRD, 842137",
+        "name": "🧱李泥特🧑‍🏫",
+        "pinned_tweet_id": "1975232427649040878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002328096163221504/8aH-sWFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 2021,
+          "like_count": 2905,
+          "listed_count": 2,
+          "media_count": 344,
+          "tweet_count": 1263
+        },
+        "username": "GloryUhk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2004901800768667739",
+    "created_at": "2025-12-27T14:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T15:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004928386414838154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1539097981672050688",
+          "start": 0,
+          "username": "TesQ1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004928386414838154",
+    "in_reply_to_user_id": "1539097981672050688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004927867193372680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TesQ1x 私信你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2004901800768667739",
+        "created_at": "2025-12-27T14:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T15:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004928386414838154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1539097981672050688",
+              "start": 0,
+              "username": "TesQ1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004928386414838154",
+        "in_reply_to_user_id": "1539097981672050688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004927867193372680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TesQ1x 私信你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1539097981672050688",
+        "conversation_id": "2004901800768667739",
+        "created_at": "2025-12-27T14:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T15:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004927867193372680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004927867193372680",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004927736738107779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 用什么语言写，python吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2004818734368936222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9691,
+          "following_count": 3556,
+          "like_count": 69646,
+          "listed_count": 16,
+          "media_count": 1544,
+          "tweet_count": 16037
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-21T04:09:06.000Z",
+        "description": "你好，这里是木唐 | 没有主义，没有阵营，只站在“人”的这边 | Linux、Android开发者 | 业余写手",
+        "id": "1539097981672050688",
+        "location": "朝鲜民主主义人民共和国",
+        "name": "木糖猫",
+        "pinned_tweet_id": "2003451278823969190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001280160717561856/aMQlyxZh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 35,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 571
+        },
+        "username": "TesQ1x",
+        "verified": false
+      }
+    ]
+  }
+}

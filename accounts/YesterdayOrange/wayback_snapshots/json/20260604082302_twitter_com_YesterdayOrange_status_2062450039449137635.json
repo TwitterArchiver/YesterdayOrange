@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2062450039449137635",
+    "created_at": "2026-06-04T08:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062450039449137635"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062450039449137635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我给大家道歉了，对不起了骗了你们。假装自己是一个大学生好累啊，为了瞒着你们不被发现我每天都要装作自己在上大学的样子，其实我今年才8岁，平时上网用的是电话手表。现在决定把这个事情说出来是因为我知道错了，希望大家看在我是一个可爱的孩子的份上，在6.1儿童节上给发红包，谢谢可爱的哥哥姐姐们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2062450039449137635",
+        "created_at": "2026-06-04T08:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062450039449137635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062450039449137635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我给大家道歉了，对不起了骗了你们。假装自己是一个大学生好累啊，为了瞒着你们不被发现我每天都要装作自己在上大学的样子，其实我今年才8岁，平时上网用的是电话手表。现在决定把这个事情说出来是因为我知道错了，希望大家看在我是一个可爱的孩子的份上，在6.1儿童节上给发红包，谢谢可爱的哥哥姐姐们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2061985237773717733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12098,
+          "following_count": 5112,
+          "like_count": 93189,
+          "listed_count": 21,
+          "media_count": 2277,
+          "tweet_count": 20235
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

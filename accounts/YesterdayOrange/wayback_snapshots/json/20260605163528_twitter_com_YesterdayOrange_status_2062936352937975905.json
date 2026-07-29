@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2062936352937975905",
+    "created_at": "2026-06-05T16:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062936352937975905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2062796473314799809",
+          "start": 21,
+          "url": "https://t.co/A5MMLP6uiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062936352937975905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062796473314799809",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是个回忆啦（x）\n我怎么可能真的这么小 https://t.co/A5MMLP6uiH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2062936352937975905",
+        "created_at": "2026-06-05T16:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062936352937975905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2062796473314799809",
+              "start": 21,
+              "url": "https://t.co/A5MMLP6uiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062936352937975905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062796473314799809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是个回忆啦（x）\n我怎么可能真的这么小 https://t.co/A5MMLP6uiH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2062796473314799809",
+        "created_at": "2026-06-05T07:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062796473314799809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062796473314799809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1364,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快中考了，感觉挺焦虑的。\n我语文一直不好，作文一直背模板，阅读也只能“表达了作者xx的情感”，“具有承上启下的作用”。\n数学物理英语都还可以。\n我政治历史一直都是满分，物理化学不太行，不过父母说学文科找不到工作，政治历史成绩没有意义。\n还有半个月考试了，我不知道要怎么办。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2062796473314799809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12094,
+          "following_count": 5110,
+          "like_count": 93389,
+          "listed_count": 21,
+          "media_count": 2282,
+          "tweet_count": 20268
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

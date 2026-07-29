@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1993204879674999224",
+    "created_at": "2025-11-26T00:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T01:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993480639446954239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1932106642939891712",
+          "start": 0,
+          "username": "OwOiil25086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993480639446954239",
+    "in_reply_to_user_id": "1932106642939891712",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993447506576134498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OwOiil25086 0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1993204879674999224",
+        "created_at": "2025-11-26T00:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T01:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993480639446954239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932106642939891712",
+              "start": 0,
+              "username": "OwOiil25086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993480639446954239",
+        "in_reply_to_user_id": "1932106642939891712",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993447506576134498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OwOiil25086 0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932106642939891712",
+        "conversation_id": "1993204879674999224",
+        "created_at": "2025-11-25T22:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T23:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993447506576134498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993447506576134498",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993204879674999224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 单簧管"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1992956304256852427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9000,
+          "following_count": 3309,
+          "like_count": 66719,
+          "listed_count": 14,
+          "media_count": 1402,
+          "tweet_count": 15290
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T16:05:09.000Z",
+        "description": "絨ㄡˇ印：\n你选择了存活。那么，就代表着你需要失去一些东西，虽然能够承载你的生命，但却无法挽留你的记忆      \n                                           \n听好，我并没有要求我该怎麽做，成为谁。并不需要。\n无论我做出什麽选择。\n那都是一个新的「开始」\n我是这麽相信的。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/",
+                "start": 0,
+                "url": "https://t.co/fzn2FqocWZ"
+              }
+            ]
+          }
+        },
+        "id": "1932106642939891712",
+        "location": "金钱的牢笼",
+        "name": "虐殺式情愛",
+        "pinned_tweet_id": "1956392870732353952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991031353895518208/H_t_KFoF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 264,
+          "like_count": 4147,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/fzn2FqocWZ",
+        "username": "OwOiil25086",
+        "verified": false
+      }
+    ]
+  }
+}

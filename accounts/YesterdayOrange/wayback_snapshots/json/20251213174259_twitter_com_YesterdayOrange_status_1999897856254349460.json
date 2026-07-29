@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1996788450033541612",
+    "created_at": "2025-12-13T17:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T18:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999897856254349460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1984903197014855680",
+          "start": 0,
+          "username": "cuzyxd_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999897856254349460",
+    "in_reply_to_user_id": "1984903197014855680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996788450033541612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuzyxd_ 什么学校"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1798,
+        "media_key": "3_1996788442051796992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7YEgjQaYAAVaF5.jpg",
+        "width": 1234
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1996788450033541612",
+        "created_at": "2025-12-13T17:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T18:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999897856254349460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1984903197014855680",
+              "start": 0,
+              "username": "cuzyxd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999897856254349460",
+        "in_reply_to_user_id": "1984903197014855680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996788450033541612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuzyxd_ 什么学校"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996788442051796992"
+          ]
+        },
+        "author_id": "1984903197014855680",
+        "conversation_id": "1996788450033541612",
+        "created_at": "2025-12-05T03:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T04:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996788450033541612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PXi18pxPRI",
+              "end": 67,
+              "expanded_url": "https://x.com/cuzyxd_/status/1996788450033541612/photo/1",
+              "media_key": "3_1996788442051796992",
+              "start": 44,
+              "url": "https://t.co/PXi18pxPRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996788450033541612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们学校原来有这么多活不起的人a，偷外卖的现象已经猖獗到骑手都要提醒抓紧取外卖了... https://t.co/PXi18pxPRI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1999463741214327098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9447,
+          "following_count": 3410,
+          "like_count": 68531,
+          "listed_count": 16,
+          "media_count": 1503,
+          "tweet_count": 15794
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T08:39:47.000Z",
+        "description": "English/中文",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cuzy99832",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cuzy99832",
+                "start": 0,
+                "url": "https://t.co/7ae9EHaEvk"
+              }
+            ]
+          }
+        },
+        "id": "1984903197014855680",
+        "location": "➡️",
+        "name": "CuzyXD",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992634584278982656/6xgK4yKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 123,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 132
+        },
+        "url": "https://t.co/7ae9EHaEvk",
+        "username": "cuzyxd_",
+        "verified": false
+      }
+    ]
+  }
+}

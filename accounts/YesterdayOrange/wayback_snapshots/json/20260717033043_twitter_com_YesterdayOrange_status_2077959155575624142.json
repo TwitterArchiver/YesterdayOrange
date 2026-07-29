@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2077959155575624142",
+    "created_at": "2026-07-17T03:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077959155575624142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jilianmeing/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/jilianmeing/status/2077893229622821028",
+          "start": 3,
+          "url": "https://t.co/pbLjZuHngH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077959155575624142",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077893229622821028",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "祝福 https://t.co/pbLjZuHngH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2077959155575624142",
+        "created_at": "2026-07-17T03:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077959155575624142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jilianmeing/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/jilianmeing/status/2077893229622821028",
+              "start": 3,
+              "url": "https://t.co/pbLjZuHngH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077959155575624142",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077893229622821028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "祝福 https://t.co/pbLjZuHngH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974036716727201792",
+        "conversation_id": "2077893229622821028",
+        "created_at": "2026-07-16T23:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T00:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077893229622821028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077893229622821028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们能不能突然都像中邪了向上天祈求洋葱头被前四个志愿录取"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2075657040111018244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12179,
+          "following_count": 5192,
+          "like_count": 95983,
+          "listed_count": 20,
+          "media_count": 2375,
+          "tweet_count": 20893
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-03T09:00:31.000Z",
+        "description": "我的姐姐@miaowuqvq @kumatamasan\n@zbc107024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "miaowuqvq"
+              },
+              {
+                "end": 27,
+                "start": 15,
+                "username": "kumatamasan"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "zbc107024"
+              }
+            ]
+          }
+        },
+        "id": "1974036716727201792",
+        "location": "我还有好多话想说",
+        "name": "我削下来的洋葱头怎么被人装上了齐刘海",
+        "pinned_tweet_id": "2035581763452641526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997361860912558080/dMZhlN0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 485,
+          "like_count": 49429,
+          "listed_count": 5,
+          "media_count": 1239,
+          "tweet_count": 18473
+        },
+        "url": "",
+        "username": "jilianmeing",
+        "verified": false
+      }
+    ]
+  }
+}

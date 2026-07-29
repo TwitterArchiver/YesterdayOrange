@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2037718198838288765",
+    "created_at": "2026-03-28T07:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T08:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037791789235745090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1886965038608736256",
+          "start": 0,
+          "username": "yangyang200413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037791789235745090",
+    "in_reply_to_user_id": "1886965038608736256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037746943452229921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangyang200413 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2037718198838288765",
+        "created_at": "2026-03-28T07:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037791789235745090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1886965038608736256",
+              "start": 0,
+              "username": "yangyang200413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037791789235745090",
+        "in_reply_to_user_id": "1886965038608736256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037746943452229921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangyang200413 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886965038608736256",
+        "conversation_id": "2037718198838288765",
+        "created_at": "2026-03-28T04:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037746943452229921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037746943452229921",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037718198838288765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 男娘可以吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2036351762710639004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11430,
+          "following_count": 4797,
+          "like_count": 84568,
+          "listed_count": 20,
+          "media_count": 2014,
+          "tweet_count": 18696
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-05T02:28:34.000Z",
+        "description": "先说爱的先不爱，后动心的不死心",
+        "id": "1886965038608736256",
+        "location": "维爱",
+        "name": "yangyang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036389650022146048/4C5Gkl0k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 30,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 146
+        },
+        "username": "yangyang200413",
+        "verified": false
+      }
+    ]
+  }
+}

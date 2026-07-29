@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1986597498874699844",
+    "created_at": "2025-11-07T19:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T20:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986884741027733547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1748446806806249472",
+          "start": 0,
+          "username": "meowinout"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986884741027733547",
+    "in_reply_to_user_id": "1748446806806249472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986883355309388099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meowinout 宝宝好厉害！！！\n我喜欢你！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1986597498874699844",
+        "created_at": "2025-11-07T19:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T20:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986884741027733547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1748446806806249472",
+              "start": 0,
+              "username": "meowinout"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986884741027733547",
+        "in_reply_to_user_id": "1748446806806249472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986883355309388099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meowinout 宝宝好厉害！！！\n我喜欢你！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748446806806249472",
+        "conversation_id": "1986597498874699844",
+        "created_at": "2025-11-07T19:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T20:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986883355309388099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986883355309388099",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986882649500360814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 因为疫情文章没发出来。领域内国内top 2读研，艰难毕业了。准备出国读博"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1986838054192259402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7899,
+          "following_count": 3116,
+          "like_count": 62806,
+          "listed_count": 15,
+          "media_count": 1286,
+          "tweet_count": 14518
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T20:46:57.000Z",
+        "description": "Stage photographer, keyboard player, family cooker. 从不营业/碎碎念专用",
+        "id": "1748446806806249472",
+        "location": "Shanghai",
+        "name": "MeowIJK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955137308115746816/KiNwrYZ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 16,
+          "like_count": 1942,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 854
+        },
+        "username": "meowinout",
+        "verified": false
+      }
+    ]
+  }
+}

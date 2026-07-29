@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2043638950334783615",
+    "created_at": "2026-04-13T12:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043666024411828502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843519961647722497",
+          "start": 0,
+          "username": "artstudent231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043666024411828502",
+    "in_reply_to_user_id": "1843519961647722497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043665699630186988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@artstudent231 这是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2043665681548562433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyPHAxb0AEJc5y.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2043638950334783615",
+        "created_at": "2026-04-13T12:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043666024411828502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843519961647722497",
+              "start": 0,
+              "username": "artstudent231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043666024411828502",
+        "in_reply_to_user_id": "1843519961647722497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043665699630186988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@artstudent231 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043665681548562433"
+          ]
+        },
+        "author_id": "1843519961647722497",
+        "conversation_id": "2043638950334783615",
+        "created_at": "2026-04-13T12:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043665699630186988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6cKsZP7ve6",
+              "end": 53,
+              "expanded_url": "https://x.com/artstudent231/status/2043665699630186988/photo/1",
+              "media_key": "3_2043665681548562433",
+              "start": 30,
+              "url": "https://t.co/6cKsZP7ve6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043665699630186988",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043638950334783615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 这个可以咩(〃'▽'〃) https://t.co/6cKsZP7ve6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2043569353350914261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11433,
+          "following_count": 4821,
+          "like_count": 86135,
+          "listed_count": 20,
+          "media_count": 2085,
+          "tweet_count": 18984
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-08T05:13:14.000Z",
+        "description": "05/ENFP🌟/水瓶♒/坐标江苏南京，大学生🧑‍🎓一枚\n关于我推(*´▽`*)：\n偶像大师💫-樋口円香/浅仓透/双叶杏/藤田琴音\n邦邦✨-千早爱音/祐天寺若麦/高松灯/要乐奈/宇田川亚子\n怪奇物语👻-Steve/Dustin\nQQ扩列👀：2811129660\n欢迎各位老师来玩，喵（〜^∇^)〜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/artstudent0501…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/artstudent050126/",
+                "start": 0,
+                "url": "https://t.co/M037mmtJCu"
+              }
+            ]
+          }
+        },
+        "id": "1843519961647722497",
+        "location": "新エリー都",
+        "name": "卷心菜爱吃蛋包饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041733669900185600/n6b75LO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 3676,
+          "like_count": 10777,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 1798
+        },
+        "url": "https://t.co/M037mmtJCu",
+        "username": "artstudent231",
+        "verified": true
+      }
+    ]
+  }
+}

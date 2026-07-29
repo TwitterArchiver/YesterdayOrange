@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049521510319345664"
+      ],
+      "media_source_tweet_id": [
+        "2049521514345795703"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2049700793373376882",
+    "created_at": "2026-04-30T04:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T05:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049700793373376882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2048392833841700865",
+          "start": 3,
+          "username": "NambaNanami2778"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/36aOIlg6TO",
+          "end": 55,
+          "expanded_url": "https://x.com/NambaNanami2778/status/2049521514345795703/photo/1",
+          "media_key": "3_2049521510319345664",
+          "start": 32,
+          "url": "https://t.co/36aOIlg6TO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049700793373376882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049521514345795703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NambaNanami2778: 可以祝我生日快乐吗🥹 https://t.co/36aOIlg6TO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 447,
+        "media_key": "3_2049521510319345664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFc9G4bUAA_SzP.jpg",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049521510319345664"
+          ],
+          "media_source_tweet_id": [
+            "2049521514345795703"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2049700793373376882",
+        "created_at": "2026-04-30T04:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049700793373376882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2048392833841700865",
+              "start": 3,
+              "username": "NambaNanami2778"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/36aOIlg6TO",
+              "end": 55,
+              "expanded_url": "https://x.com/NambaNanami2778/status/2049521514345795703/photo/1",
+              "media_key": "3_2049521510319345664",
+              "start": 32,
+              "url": "https://t.co/36aOIlg6TO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049700793373376882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049521514345795703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NambaNanami2778: 可以祝我生日快乐吗🥹 https://t.co/36aOIlg6TO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049521510319345664"
+          ]
+        },
+        "author_id": "2048392833841700865",
+        "conversation_id": "2049521514345795703",
+        "created_at": "2026-04-29T16:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049521514345795703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/36aOIlg6TO",
+              "end": 34,
+              "expanded_url": "https://x.com/NambaNanami2778/status/2049521514345795703/photo/1",
+              "media_key": "3_2049521510319345664",
+              "start": 11,
+              "url": "https://t.co/36aOIlg6TO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049521514345795703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1819,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以祝我生日快乐吗🥹 https://t.co/36aOIlg6TO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2049528095464657383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11859,
+          "following_count": 4965,
+          "like_count": 89070,
+          "listed_count": 23,
+          "media_count": 2191,
+          "tweet_count": 19627
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-26T13:24:52.000Z",
+        "description": "我觉得我的腿超好看🤗",
+        "id": "2048392833841700865",
+        "name": "南波七海 | Namba Nanami | ナンバ・ナナミ |",
+        "pinned_tweet_id": "2048788682308792577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048401767986352129/_C7GxYkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 80,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 33
+        },
+        "username": "NambaNanami2778",
+        "verified": true
+      }
+    ]
+  }
+}

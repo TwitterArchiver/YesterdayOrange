@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049335821355077632",
+        "3_2049335929769451520"
+      ],
+      "media_source_tweet_id": [
+        "2049336140164128807",
+        "2049336140164128807"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2049359697497801131",
+    "created_at": "2026-04-29T05:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T06:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049359697497801131"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "牢A"
+        },
+        {
+          "end": 36,
+          "start": 33,
+          "tag": "封禁"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "消失"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "塌房"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "曝光"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037780326194331648",
+          "start": 3,
+          "username": "TideSentinel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bq1TNCIzLX",
+          "end": 72,
+          "expanded_url": "https://x.com/TideSentinel/status/2049336140164128807/photo/1",
+          "media_key": "3_2049335821355077632",
+          "start": 49,
+          "url": "https://t.co/Bq1TNCIzLX"
+        },
+        {
+          "display_url": "pic.x.com/Bq1TNCIzLX",
+          "end": 72,
+          "expanded_url": "https://x.com/TideSentinel/status/2049336140164128807/photo/1",
+          "media_key": "3_2049335929769451520",
+          "start": 49,
+          "url": "https://t.co/Bq1TNCIzLX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049359697497801131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049336140164128807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TideSentinel: 平台监控关键词检索:\n#牢A #封禁 #消失 #塌房 #曝光 https://t.co/Bq1TNCIzLX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1055,
+        "media_key": "3_2049335821355077632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHC0EllaUAAKqpD.jpg",
+        "width": 719
+      },
+      {
+        "height": 1041,
+        "media_key": "3_2049335929769451520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHC0K5daYAANyaB.jpg",
+        "width": 738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049335821355077632",
+            "3_2049335929769451520"
+          ],
+          "media_source_tweet_id": [
+            "2049336140164128807",
+            "2049336140164128807"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2049359697497801131",
+        "created_at": "2026-04-29T05:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049359697497801131"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "牢A"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "封禁"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "消失"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "塌房"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "曝光"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037780326194331648",
+              "start": 3,
+              "username": "TideSentinel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bq1TNCIzLX",
+              "end": 72,
+              "expanded_url": "https://x.com/TideSentinel/status/2049336140164128807/photo/1",
+              "media_key": "3_2049335821355077632",
+              "start": 49,
+              "url": "https://t.co/Bq1TNCIzLX"
+            },
+            {
+              "display_url": "pic.x.com/Bq1TNCIzLX",
+              "end": 72,
+              "expanded_url": "https://x.com/TideSentinel/status/2049336140164128807/photo/1",
+              "media_key": "3_2049335929769451520",
+              "start": 49,
+              "url": "https://t.co/Bq1TNCIzLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049359697497801131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049336140164128807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TideSentinel: 平台监控关键词检索:\n#牢A #封禁 #消失 #塌房 #曝光 https://t.co/Bq1TNCIzLX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049335821355077632",
+            "3_2049335929769451520"
+          ]
+        },
+        "author_id": "2037780326194331648",
+        "conversation_id": "2049336140164128807",
+        "created_at": "2026-04-29T03:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049336140164128807"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "牢A"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "封禁"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "消失"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "塌房"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "曝光"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bq1TNCIzLX",
+              "end": 54,
+              "expanded_url": "https://x.com/TideSentinel/status/2049336140164128807/photo/1",
+              "media_key": "3_2049335821355077632",
+              "start": 31,
+              "url": "https://t.co/Bq1TNCIzLX"
+            },
+            {
+              "display_url": "pic.x.com/Bq1TNCIzLX",
+              "end": 54,
+              "expanded_url": "https://x.com/TideSentinel/status/2049336140164128807/photo/1",
+              "media_key": "3_2049335929769451520",
+              "start": 31,
+              "url": "https://t.co/Bq1TNCIzLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049336140164128807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "平台监控关键词检索:\n#牢A #封禁 #消失 #塌房 #曝光 https://t.co/Bq1TNCIzLX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2048959571394511106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11860,
+          "following_count": 4962,
+          "like_count": 88901,
+          "listed_count": 23,
+          "media_count": 2187,
+          "tweet_count": 19590
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-28T06:36:47.000Z",
+        "description": "🌊 潮汐 (Tide)｜对抗国内外信息封锁 · 公开舆情跨平台监控工具\n\nTelegram ： @Tide_Sentinel\n官网：https://t.co/Md4g8WV7wM\nGithub：https://t.co/wNEv0TzIf6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "Tide_Sentinel"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tide-sentinel.online",
+                "end": 89,
+                "expanded_url": "http://www.tide-sentinel.online",
+                "start": 66,
+                "url": "https://t.co/Md4g8WV7wM"
+              },
+              {
+                "display_url": "github.com/TideSentinel/t…",
+                "end": 120,
+                "expanded_url": "http://github.com/TideSentinel/tide-sentinel",
+                "start": 97,
+                "url": "https://t.co/wNEv0TzIf6"
+              }
+            ]
+          }
+        },
+        "id": "2037780326194331648",
+        "name": "潮汐 Tide",
+        "pinned_tweet_id": "2049327569359802674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041851636298190848/lAkzI0_C_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 63,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 148
+        },
+        "username": "TideSentinel",
+        "verified": true
+      }
+    ]
+  }
+}

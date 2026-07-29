@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2077052628891246846",
+    "created_at": "2026-07-14T15:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T16:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077052628891246846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1560570561960374272",
+          "start": 3,
+          "username": "ChinaDDLS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077052628891246846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076198847953691051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChinaDDLS: 你们能收到好多互动的推特是从哪下载的？😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2077052628891246846",
+        "created_at": "2026-07-14T15:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077052628891246846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560570561960374272",
+              "start": 3,
+              "username": "ChinaDDLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077052628891246846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076198847953691051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChinaDDLS: 你们能收到好多互动的推特是从哪下载的？😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560570561960374272",
+        "conversation_id": "2076198847953691051",
+        "created_at": "2026-07-12T06:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076198847953691051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076198847953691051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们能收到好多互动的推特是从哪下载的？😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2075657040111018244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12185,
+          "following_count": 5192,
+          "like_count": 95637,
+          "listed_count": 20,
+          "media_count": 2367,
+          "tweet_count": 20832
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-19T10:13:30.000Z",
+        "description": "一个来自中国🇨🇳的coser，08 很高兴认识你们，希望和你们交朋友！！！✌︎ ॑꒳ ॑✌︎\n来都来了，点个关注吧",
+        "id": "1560570561960374272",
+        "location": "0.01km",
+        "name": "ChinaDD老师🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069720309515886593/UirEmi_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 506,
+          "like_count": 2459,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "ChinaDDLS",
+        "verified": true
+      }
+    ]
+  }
+}

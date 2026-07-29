@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2008549599116747165",
+    "created_at": "2026-01-06T14:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T15:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008549599116747165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yukimi611613/s…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/yukimi611613/status/2007118866569400424",
+          "start": 55,
+          "url": "https://t.co/ZWpojKk7nO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008549599116747165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007118866569400424",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "社交。。好难。。好想哭。。但是还是要逼着自己去做。。我不想让自己一直被困在原地，一直绝望的望着触碰不到的远处 https://t.co/ZWpojKk7nO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2008549599116747165",
+        "created_at": "2026-01-06T14:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T15:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008549599116747165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yukimi611613/s…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/yukimi611613/status/2007118866569400424",
+              "start": 55,
+              "url": "https://t.co/ZWpojKk7nO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008549599116747165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007118866569400424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "社交。。好难。。好想哭。。但是还是要逼着自己去做。。我不想让自己一直被困在原地，一直绝望的望着触碰不到的远处 https://t.co/ZWpojKk7nO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983786604948013056",
+        "conversation_id": "2007118866569400424",
+        "created_at": "2026-01-02T15:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007118866569400424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007118866569400424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "社交。。好难。。好想哭。。但是还是要逼着自己去做。。我不想让自己一直被困在原地，一直绝望的望着触碰不到的远处"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2008129415814037573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9890,
+          "following_count": 3667,
+          "like_count": 71762,
+          "listed_count": 17,
+          "media_count": 1624,
+          "tweet_count": 16444
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T06:42:58.000Z",
+        "description": "碎碎念。",
+        "id": "1983786604948013056",
+        "name": "yukimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983786857965219848/NVinfonG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 12,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 208
+        },
+        "username": "yukimi611613",
+        "verified": false
+      }
+    ]
+  }
+}

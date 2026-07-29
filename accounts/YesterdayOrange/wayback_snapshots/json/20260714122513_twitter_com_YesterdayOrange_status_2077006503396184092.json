@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2077006503396184092",
+    "created_at": "2026-07-14T12:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T13:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077006503396184092"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4rulq/status/2…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/4rulq/status/2076939485674451272",
+          "start": 11,
+          "url": "https://t.co/qXFciwWZmv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077006503396184092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076939485674451272",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有多少人也没有人陪我 https://t.co/qXFciwWZmv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2077006503396184092",
+        "created_at": "2026-07-14T12:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077006503396184092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4rulq/status/2…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/4rulq/status/2076939485674451272",
+              "start": 11,
+              "url": "https://t.co/qXFciwWZmv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077006503396184092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076939485674451272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有多少人也没有人陪我 https://t.co/qXFciwWZmv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035668415231492096",
+        "conversation_id": "2076939485674451272",
+        "created_at": "2026-07-14T07:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076939485674451272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xfurina_/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/xfurina_/status/2076731930293547401",
+              "start": 12,
+              "url": "https://t.co/NxRpvQcQl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076939485674451272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 456,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076731930293547401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "為什麼桓台沒有xyn😭 https://t.co/NxRpvQcQl4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2075657040111018244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12182,
+          "following_count": 5186,
+          "like_count": 95601,
+          "listed_count": 20,
+          "media_count": 2367,
+          "tweet_count": 20821
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "請叫我いいちゃん喵～\n臺、日推\n繁體中國語、日本語\n請多多關照喵🐱～\nmtf；家長反對無效\n曾經的hrt紀錄：since2026/5/6～2026/5/13（國補+螺內脂）已斷糖\n2007～未知（？\n職業樂手\n電子產品維修與銷售\n插畫、寫程式 （探索ing）\n免費的心理委員 \n中焦重抑\n不建政喵\n官方：@mapo_q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 152,
+                "username": "mapo_q"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "location": "日本東京、臺灣臺北",
+        "name": "いいちゃん🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2068341924051013979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 903,
+          "like_count": 3734,
+          "listed_count": 4,
+          "media_count": 114,
+          "tweet_count": 3446
+        },
+        "url": "",
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}

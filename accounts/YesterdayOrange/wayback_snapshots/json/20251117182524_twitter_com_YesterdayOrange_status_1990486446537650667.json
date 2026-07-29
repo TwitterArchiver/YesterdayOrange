@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1990485745317085478",
+    "created_at": "2025-11-17T18:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T19:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990486446537650667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1783362552501829632",
+          "start": 0,
+          "username": "Sharolf893"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990486446537650667",
+    "in_reply_to_user_id": "1783362552501829632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990485745317085478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sharolf893 什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1990485745317085478",
+        "created_at": "2025-11-17T18:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T19:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990486446537650667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1783362552501829632",
+              "start": 0,
+              "username": "Sharolf893"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990486446537650667",
+        "in_reply_to_user_id": "1783362552501829632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990485745317085478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sharolf893 什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783362552501829632",
+        "conversation_id": "1990485745317085478",
+        "created_at": "2025-11-17T18:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T19:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990485745317085478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990485745317085478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又浪费了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1990436775446393256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8298,
+          "following_count": 3252,
+          "like_count": 64987,
+          "listed_count": 14,
+          "media_count": 1347,
+          "tweet_count": 14891
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T05:09:10.000Z",
+        "description": "为什么我地球online的难度是魑魅魍魉‌级?",
+        "id": "1783362552501829632",
+        "location": "浣熊市 市立大学",
+        "name": "UNknow.893",
+        "pinned_tweet_id": "1987717968068063731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990113727027220480/QmKxdlb3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 397,
+          "like_count": 5238,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 2539
+        },
+        "username": "Sharolf893",
+        "verified": false
+      }
+    ]
+  }
+}

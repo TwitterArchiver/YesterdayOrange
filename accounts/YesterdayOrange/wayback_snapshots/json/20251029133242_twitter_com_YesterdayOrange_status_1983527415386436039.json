@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1983482451520578010",
+    "created_at": "2025-10-29T13:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T14:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983527415386436039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1667139000522641408",
+          "start": 0,
+          "username": "tucaodashen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983527415386436039",
+    "in_reply_to_user_id": "1667139000522641408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983527208275812406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tucaodashen 互fo喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1983482451520578010",
+        "created_at": "2025-10-29T13:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983527415386436039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667139000522641408",
+              "start": 0,
+              "username": "tucaodashen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983527415386436039",
+        "in_reply_to_user_id": "1667139000522641408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983527208275812406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tucaodashen 互fo喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667139000522641408",
+        "conversation_id": "1983482451520578010",
+        "created_at": "2025-10-29T13:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983527208275812406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983527208275812406",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983482451520578010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1983208821230072160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7073,
+          "following_count": 2929,
+          "like_count": 59157,
+          "listed_count": 14,
+          "media_count": 1190,
+          "tweet_count": 14060
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T11:58:17.000Z",
+        "description": "🇨🇳 Chinese Mainland | English\nBilibili uploader & Dumb animator",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tucaodashen.top",
+                "end": 23,
+                "expanded_url": "http://tucaodashen.top",
+                "start": 0,
+                "url": "https://t.co/mI1fAmBMb7"
+              }
+            ]
+          }
+        },
+        "id": "1667139000522641408",
+        "name": "Tucaodashen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918314460999237636/4JYmA_ar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 121,
+          "like_count": 842,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/mI1fAmBMb7",
+        "username": "tucaodashen",
+        "verified": false
+      }
+    ]
+  }
+}

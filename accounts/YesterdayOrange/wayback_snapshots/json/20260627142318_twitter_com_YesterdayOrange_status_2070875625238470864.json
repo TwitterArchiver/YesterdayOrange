@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2070743398152335791",
+    "created_at": "2026-06-27T14:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T15:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070875625238470864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813768883540725760",
+          "start": 0,
+          "username": "ye_and_yae"
+        },
+        {
+          "end": 23,
+          "id": "1907071235777081344",
+          "start": 12,
+          "username": "Lyx1877174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070875625238470864",
+    "in_reply_to_user_id": "1813768883540725760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070743398152335791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye_and_yae @Lyx1877174 摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2070743390627704832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzCJHtaMAA9E_p.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2070743390657110016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzCJH0a4AArCB-.jpg",
+        "width": 1200
+      },
+      {
+        "height": 800,
+        "media_key": "3_2070743390644543488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzCJHxbIAAY_j0.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2070743398152335791",
+        "created_at": "2026-06-27T14:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070875625238470864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            },
+            {
+              "end": 23,
+              "id": "1907071235777081344",
+              "start": 12,
+              "username": "Lyx1877174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070875625238470864",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070743398152335791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae @Lyx1877174 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070743390627704832",
+            "3_2070743390657110016",
+            "3_2070743390644543488"
+          ]
+        },
+        "author_id": "1813768883540725760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2070743398152335791",
+        "created_at": "2026-06-27T05:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070743398152335791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9mPYoseg7",
+              "end": 160,
+              "expanded_url": "https://x.com/ye_and_yae/status/2070743398152335791/photo/1",
+              "media_key": "3_2070743390627704832",
+              "start": 137,
+              "url": "https://t.co/p9mPYoseg7"
+            },
+            {
+              "display_url": "pic.x.com/p9mPYoseg7",
+              "end": 160,
+              "expanded_url": "https://x.com/ye_and_yae/status/2070743398152335791/photo/1",
+              "media_key": "3_2070743390657110016",
+              "start": 137,
+              "url": "https://t.co/p9mPYoseg7"
+            },
+            {
+              "display_url": "pic.x.com/p9mPYoseg7",
+              "end": 160,
+              "expanded_url": "https://x.com/ye_and_yae/status/2070743398152335791/photo/1",
+              "media_key": "3_2070743390644543488",
+              "start": 137,
+              "url": "https://t.co/p9mPYoseg7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070743398152335791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2462,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 55,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "1000粉的抽奖来喽\n一等奖一名  辉夜姬中点点毛绒玩偶一个\n二等奖两名  小孩姐武使灯立牌一个\n三等奖三名  粉白蓝编织手环一个\n关注+点赞+评论参与抽奖哦\n参与截止到7月1日中午12点，7月1日下午由grok开奖\n奖品如图\n（都是便宜的东西，毕竟主包也没钱不要嫌弃呀） https://t.co/p9mPYoseg7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2069728968174178357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12173,
+          "following_count": 5138,
+          "like_count": 94703,
+          "listed_count": 20,
+          "media_count": 2333,
+          "tweet_count": 20582
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "09/01/26 炸柜26/06/09 有时含糖   喜欢航天（不是三角洲那个啦！） 和二次元\n喜欢画画 正在学日语喜欢电子产品  正在vibe自己的网页 \nmaster @yesterdayorange\n大好き @gcjl9188\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "yesterdayorange"
+              },
+              {
+                "end": 116,
+                "start": 107,
+                "username": "gcjl9188"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "location": "Starbase TX",
+        "name": "🚀爱晔🍥",
+        "pinned_tweet_id": "2069760833060811231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056435388680716288/GYePUBtd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 1033,
+          "like_count": 6030,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 3282
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T14:03:19.000Z",
+        "description": "MtF! 🏳️‍⚧️ | 生产日期 01.31.2012 | 无证🍥 2025.10.2 | INTJ | 179 | Pan | 上海 | 一点点计算机? | 精神疾病有我也不知道) | 三好学生 - 不抽烟 不喝酒 不od | 还活着 | 我的家长最好不在这里盯着我  | 同类互fo | 背景图片侵权了吗?",
+        "id": "1907071235777081344",
+        "location": "New Jersey, USA",
+        "name": "theObviousNewBirth🍥🏳️‍🌈🏳️‍⚧️🇺🇦🇹🇼🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013233402472787968/tZB0bFhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 448,
+          "like_count": 3072,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "Lyx1877174",
+        "verified": false
+      }
+    ]
+  }
+}

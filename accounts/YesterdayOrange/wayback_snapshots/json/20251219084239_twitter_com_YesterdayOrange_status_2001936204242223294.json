@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2001584600943071496",
+    "created_at": "2025-12-19T08:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T09:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001936204242223294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1482022601295806464",
+          "start": 0,
+          "username": "Iamacatfuck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001936204242223294",
+    "in_reply_to_user_id": "1482022601295806464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001934835049460200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iamacatfuck 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2001584600943071496",
+        "created_at": "2025-12-19T08:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T09:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001936204242223294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1482022601295806464",
+              "start": 0,
+              "username": "Iamacatfuck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001936204242223294",
+        "in_reply_to_user_id": "1482022601295806464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001934835049460200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iamacatfuck 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482022601295806464",
+        "conversation_id": "2001584600943071496",
+        "created_at": "2025-12-19T08:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T09:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001934835049460200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001934835049460200",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001584600943071496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2000095705998983445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9530,
+          "following_count": 3442,
+          "like_count": 68767,
+          "listed_count": 16,
+          "media_count": 1518,
+          "tweet_count": 15864
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T16:11:47.000Z",
+        "description": "我希望我的生活是平淡的，我厌倦了别人说我会有出息，大家的期待让我很无力",
+        "id": "1482022601295806464",
+        "location": "I wish I were a cat",
+        "name": "猫祝(暗黑)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760746510885720064/IMqNk-qc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 180,
+          "like_count": 1005,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 600
+        },
+        "username": "Iamacatfuck",
+        "verified": false
+      }
+    ]
+  }
+}

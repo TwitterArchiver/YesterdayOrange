@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1991742148677628223",
+    "created_at": "2025-11-21T05:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T06:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991742148677628223"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/my1babyz1/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/my1babyz1/status/1991741880892289225",
+          "start": 4,
+          "url": "https://t.co/yERBFtXuii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991742148677628223",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991741880892289225",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也是 https://t.co/yERBFtXuii"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1991742148677628223",
+        "created_at": "2025-11-21T05:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T06:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991742148677628223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/my1babyz1/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/my1babyz1/status/1991741880892289225",
+              "start": 4,
+              "url": "https://t.co/yERBFtXuii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991742148677628223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991741880892289225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是 https://t.co/yERBFtXuii"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937102992412667904",
+        "conversation_id": "1991729937011904863",
+        "created_at": "2025-11-21T05:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T06:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991741880892289225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991741880892289225",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991729937011904863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 用一整张纸写一个人的名字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1991490595140038900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8486,
+          "following_count": 3268,
+          "like_count": 65509,
+          "listed_count": 14,
+          "media_count": 1368,
+          "tweet_count": 15011
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T10:58:45.000Z",
+        "description": "",
+        "id": "1937102992412667904",
+        "name": "11",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945098842115899392/2u9Gno5Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 6,
+          "like_count": 593,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 114
+        },
+        "username": "My1babyz1",
+        "verified": false
+      }
+    ]
+  }
+}

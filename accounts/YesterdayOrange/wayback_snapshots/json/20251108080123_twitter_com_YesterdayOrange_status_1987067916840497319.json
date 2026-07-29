@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1987067916840497319",
+    "created_at": "2025-11-08T08:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T09:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987067916840497319"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987067916840497319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "奥匈帝国一位探险家来到一座食人族占领的岛屿，跟当地食人族说：欧洲现在打得可凶了，每天都死好几万人。\n\n食人族表示惊叹：每天死几万人，吃都吃不完吧！\n\n探险家愤怒地说：我们打仗杀人不是为了吃人。\n\n食人族表示：那更可怕了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1987067916840497319",
+        "created_at": "2025-11-08T08:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T09:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987067916840497319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987067916840497319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奥匈帝国一位探险家来到一座食人族占领的岛屿，跟当地食人族说：欧洲现在打得可凶了，每天都死好几万人。\n\n食人族表示惊叹：每天死几万人，吃都吃不完吧！\n\n探险家愤怒地说：我们打仗杀人不是为了吃人。\n\n食人族表示：那更可怕了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1987031603093389780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7933,
+          "following_count": 3111,
+          "like_count": 62648,
+          "listed_count": 15,
+          "media_count": 1289,
+          "tweet_count": 14537
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

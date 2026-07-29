@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1993254176336625830",
+    "created_at": "2025-11-25T14:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T15:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993333801427279876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "898798987628630016",
+          "start": 0,
+          "username": "aoku1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993333801427279876",
+    "in_reply_to_user_id": "898798987628630016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993333627195998690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoku1 现在也可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1993254176336625830",
+        "created_at": "2025-11-25T14:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993333801427279876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "898798987628630016",
+              "start": 0,
+              "username": "aoku1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993333801427279876",
+        "in_reply_to_user_id": "898798987628630016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993333627195998690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoku1 现在也可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "898798987628630016",
+        "conversation_id": "1993254176336625830",
+        "created_at": "2025-11-25T14:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993333627195998690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993333627195998690",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993254176336625830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 一定每晚都抱著你睡覺，然後臉頰蹭蹭，早上起來後再把你抱得緊緊的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1992956304256852427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8914,
+          "following_count": 3302,
+          "like_count": 66645,
+          "listed_count": 14,
+          "media_count": 1401,
+          "tweet_count": 15257
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-19T06:49:12.000Z",
+        "description": "滾開，想要傳承你們自己也有，還比我更好，我真是瘋了才會想要給你們。",
+        "id": "898798987628630016",
+        "name": "炎杯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1146615484911169536/XX0zFBrY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 60,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 95
+        },
+        "username": "aoku1",
+        "verified": false
+      }
+    ]
+  }
+}

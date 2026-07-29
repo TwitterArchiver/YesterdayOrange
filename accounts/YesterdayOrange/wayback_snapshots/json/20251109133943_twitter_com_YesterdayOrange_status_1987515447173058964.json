@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1987515447173058964",
+    "created_at": "2025-11-09T13:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T14:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987515447173058964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nacytried/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/nacytried/status/1987479554181726670",
+          "start": 8,
+          "url": "https://t.co/L0zXx0nh2j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987515447173058964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987479554181726670",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家去问问喵w https://t.co/L0zXx0nh2j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1987515447173058964",
+        "created_at": "2025-11-09T13:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T14:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987515447173058964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nacytried/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/nacytried/status/1987479554181726670",
+              "start": 8,
+              "url": "https://t.co/L0zXx0nh2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987515447173058964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987479554181726670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家去问问喵w https://t.co/L0zXx0nh2j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609919452988178440",
+        "conversation_id": "1987479554181726670",
+        "created_at": "2025-11-09T11:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T12:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987479554181726670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/1987096485062967515",
+              "start": 20,
+              "url": "https://t.co/TH3W6JA09L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987479554181726670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987096485062967515",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也玩ww没人问的话我就自己选了两个答 https://t.co/TH3W6JA09L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1987221844915900436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8048,
+          "following_count": 3174,
+          "like_count": 63210,
+          "listed_count": 15,
+          "media_count": 1298,
+          "tweet_count": 14610
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T14:28:21.000Z",
+        "description": "低人气主播喵梦亲～穿搭/日常分享=(^.^)=",
+        "id": "1609919452988178440",
+        "location": "Taiwan",
+        "name": "喵梦亲真的很想爆红",
+        "pinned_tweet_id": "1986423772413677571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982472115900014592/cinKYJoX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 27,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 103
+        },
+        "username": "Nacytried",
+        "verified": false
+      }
+    ]
+  }
+}

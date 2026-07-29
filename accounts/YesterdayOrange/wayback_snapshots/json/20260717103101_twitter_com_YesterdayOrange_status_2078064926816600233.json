@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2078064926816600233",
+    "created_at": "2026-07-17T10:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T11:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078064926816600233"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078064926816600233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "传说有个魔仙堡\n有个女王不得了\n每个魔仙得她指导\n都盼望世界更美好\n变大变小真的奇妙\n一个咒语一个符号\n一不小心 就会一团糟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2078064926816600233",
+        "created_at": "2026-07-17T10:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078064926816600233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078064926816600233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "传说有个魔仙堡\n有个女王不得了\n每个魔仙得她指导\n都盼望世界更美好\n变大变小真的奇妙\n一个咒语一个符号\n一不小心 就会一团糟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2075657040111018244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12177,
+          "following_count": 5190,
+          "like_count": 96040,
+          "listed_count": 20,
+          "media_count": 2379,
+          "tweet_count": 20908
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

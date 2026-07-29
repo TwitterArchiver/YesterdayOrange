@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1986015087719817556",
+    "created_at": "2025-11-05T12:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T13:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986050953955758580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1714870542929653760",
+          "start": 0,
+          "username": "shishikami22351"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986050953955758580",
+    "in_reply_to_user_id": "1714870542929653760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986050083906048285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shishikami22351 我大三了，已经在焦虑找工作了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1986015087719817556",
+        "created_at": "2025-11-05T12:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T13:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986050953955758580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1714870542929653760",
+              "start": 0,
+              "username": "shishikami22351"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986050953955758580",
+        "in_reply_to_user_id": "1714870542929653760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986050083906048285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shishikami22351 我大三了，已经在焦虑找工作了😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714870542929653760",
+        "conversation_id": "1986015087719817556",
+        "created_at": "2025-11-05T12:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T13:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986050083906048285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986050083906048285",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986048563068150035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 其实感觉编程语言都是虚的，计算机还是看数据结构和算法，要是对计算机感兴趣可以优先看看这些（？就开发来看编程语言大部分差距在语法层面，学会一门之后再上手其他的语言会轻松不少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1985736420343050383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7688,
+          "following_count": 3087,
+          "like_count": 61798,
+          "listed_count": 14,
+          "media_count": 1265,
+          "tweet_count": 14415
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T05:06:22.000Z",
+        "description": "学计算机学的🤓☝\n前端技术宅/后端技术彩笔/编程主流语言都会一点（那么代价是什么呢？\n03老登（orz\ncsgo dota2 lol以及steam杂七杂八游戏都玩（成分复杂说是🤤\n窥视别人幸福的鼠鼠罢了🥹\n开学了是南京人，放假了是北京人😈",
+        "id": "1714870542929653760",
+        "location": "127.0.0.1",
+        "name": "shishikami",
+        "pinned_tweet_id": "1953476374636732523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906349267557679104/3orn-3K3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 41,
+          "like_count": 367,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 203
+        },
+        "username": "shishikami22351",
+        "verified": false
+      }
+    ]
+  }
+}

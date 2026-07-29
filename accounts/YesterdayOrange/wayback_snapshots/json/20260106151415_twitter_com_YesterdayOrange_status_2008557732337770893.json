@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2008557731066900484"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2008557732337770893",
+    "created_at": "2026-01-06T15:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T16:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008557732337770893"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008557732337770893",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 297,
+      "like_count": 10,
+      "quote_count": 0,
+      "reply_count": 5,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你是大多数人吗？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-01-07T15:14:14.000Z",
+        "id": "2008557731066900484",
+        "options": [
+          {
+            "label": "我是大多数人",
+            "position": 1,
+            "votes": 29
+          },
+          {
+            "label": "我是小部分人",
+            "position": 2,
+            "votes": 31
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2008557731066900484"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2008557732337770893",
+        "created_at": "2026-01-06T15:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008557732337770893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008557732337770893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你是大多数人吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2008564800843112913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9896,
+          "following_count": 3667,
+          "like_count": 71784,
+          "listed_count": 17,
+          "media_count": 1624,
+          "tweet_count": 16448
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2027388312777113863",
+    "created_at": "2026-02-27T19:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T20:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027466586949591285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1895721925797953536",
+          "start": 0,
+          "username": "San_lao159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027466586949591285",
+    "in_reply_to_user_id": "1895721925797953536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027426056853176545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@San_lao159 互关喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "16_2027426043867566080",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCLdPsEaEAAiQvJ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCLdPsEaEAAiQvJ.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2027388312777113863",
+        "created_at": "2026-02-27T19:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T20:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027466586949591285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1895721925797953536",
+              "start": 0,
+              "username": "San_lao159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027466586949591285",
+        "in_reply_to_user_id": "1895721925797953536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027426056853176545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@San_lao159 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2027426043867566080"
+          ]
+        },
+        "author_id": "1895721925797953536",
+        "conversation_id": "2027388312777113863",
+        "created_at": "2026-02-27T16:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027426056853176545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Z2vQ9D1nD",
+              "end": 40,
+              "expanded_url": "https://x.com/San_lao159/status/2027426056853176545/photo/1",
+              "media_key": "16_2027426043867566080",
+              "start": 17,
+              "url": "https://t.co/7Z2vQ9D1nD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027426056853176545",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027388312777113863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange https://t.co/7Z2vQ9D1nD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2026270503917277418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10864,
+          "following_count": 4350,
+          "like_count": 79763,
+          "listed_count": 20,
+          "media_count": 1881,
+          "tweet_count": 17785
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-01T06:25:12.000Z",
+        "description": "",
+        "id": "1895721925797953536",
+        "name": "叁老",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895722065610883074/rcmIEA12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 47,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 50
+        },
+        "username": "San_lao159",
+        "verified": false
+      }
+    ]
+  }
+}

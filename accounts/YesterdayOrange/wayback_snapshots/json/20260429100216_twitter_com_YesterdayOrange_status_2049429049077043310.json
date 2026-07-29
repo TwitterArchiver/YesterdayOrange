@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049429029279985664"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2049429049077043310",
+    "created_at": "2026-04-29T10:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049429049077043310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5XEzQu9lPn",
+          "end": 123,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2049429049077043310/photo/1",
+          "media_key": "3_2049429029279985664",
+          "start": 100,
+          "url": "https://t.co/5XEzQu9lPn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049429049077043310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我让儿子跟成绩不好的断绝来往，他反问我：「你成绩也不好，难道我们要断绝关系？」我该怎么办呢？\n我气得当场甩了他一巴掌。他现在已经三四天不和我说话。很伤心，我明明是为了他好，结果他还这样，父母太难了。 https://t.co/5XEzQu9lPn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_2049429029279985664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEI2AKbcAANjJi.jpg",
+        "width": 1484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049429029279985664"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2049429049077043310",
+        "created_at": "2026-04-29T10:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049429049077043310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XEzQu9lPn",
+              "end": 123,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2049429049077043310/photo/1",
+              "media_key": "3_2049429029279985664",
+              "start": 100,
+              "url": "https://t.co/5XEzQu9lPn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049429049077043310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我让儿子跟成绩不好的断绝来往，他反问我：「你成绩也不好，难道我们要断绝关系？」我该怎么办呢？\n我气得当场甩了他一巴掌。他现在已经三四天不和我说话。很伤心，我明明是为了他好，结果他还这样，父母太难了。 https://t.co/5XEzQu9lPn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2048959571394511106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11859,
+          "following_count": 4967,
+          "like_count": 88937,
+          "listed_count": 23,
+          "media_count": 2190,
+          "tweet_count": 19606
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

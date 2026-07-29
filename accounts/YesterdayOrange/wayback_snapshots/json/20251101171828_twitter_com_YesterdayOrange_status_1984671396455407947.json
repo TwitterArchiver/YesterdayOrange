@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1984538602265813130",
+    "created_at": "2025-11-01T17:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T18:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984671396455407947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900447579030388736",
+          "start": 0,
+          "username": "Snow_YuKi_OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984671396455407947",
+    "in_reply_to_user_id": "1900447579030388736",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984669401464111398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_YuKi_OvO 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1984538602265813130",
+        "created_at": "2025-11-01T17:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984671396455407947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900447579030388736",
+              "start": 0,
+              "username": "Snow_YuKi_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984671396455407947",
+        "in_reply_to_user_id": "1900447579030388736",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984669401464111398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_YuKi_OvO 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900447579030388736",
+        "conversation_id": "1984538602265813130",
+        "created_at": "2025-11-01T17:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984669401464111398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984669401464111398",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984538602265813130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 豆汁（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1984642176056541222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7391,
+          "following_count": 3041,
+          "like_count": 60785,
+          "listed_count": 14,
+          "media_count": 1224,
+          "tweet_count": 14239
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T07:23:12.000Z",
+        "description": "药娘(MTF)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/過去の私@yuki520owo/♡@bushinamekeaid1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 91,
+                "username": "yuki520owo"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "bushinamekeaid1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/rnRVd1OwwW"
+              }
+            ]
+          }
+        },
+        "id": "1900447579030388736",
+        "location": "東京 新宿区",
+        "name": "雨露霜雪（千雪转生.ver）🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1971739465036321095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971738586300272640/ee7bxqxi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4118,
+          "following_count": 73,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/rnRVd1OwwW",
+        "username": "Snow_YuKi_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1999069425157513368",
+    "created_at": "2025-12-11T10:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T11:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999069425157513368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mengxi969/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/mengxi969/status/1998770635347222830",
+          "start": 8,
+          "url": "https://t.co/jzjr8cxzAo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999069425157513368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998770635347222830",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好高级，好羡慕 https://t.co/jzjr8cxzAo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1999069425157513368",
+        "created_at": "2025-12-11T10:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999069425157513368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengxi969/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/mengxi969/status/1998770635347222830",
+              "start": 8,
+              "url": "https://t.co/jzjr8cxzAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999069425157513368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998770635347222830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好高级，好羡慕 https://t.co/jzjr8cxzAo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488080791125237760",
+        "conversation_id": "1998770635347222830",
+        "created_at": "2025-12-10T15:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T16:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998770635347222830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "面基",
+              "display_url": "cal.com/zhuhongrui/mee…",
+              "end": 41,
+              "expanded_url": "https://cal.com/zhuhongrui/meetinlife",
+              "start": 18,
+              "status": 200,
+              "title": "面基 | Hongrui Zhu | Cal.com",
+              "unwound_url": "https://cal.com/zhuhongrui/meetinlife",
+              "url": "https://t.co/MLxPwf2At4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998770635347222830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 891,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在可以在 Cal 上预约线下面基\nhttps://t.co/MLxPwf2At4\n具体限制可在网页中查看\n需要进行资质审核，不太愿意面的我会拒，抱歉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1997998050275717160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9473,
+          "following_count": 3407,
+          "like_count": 68367,
+          "listed_count": 16,
+          "media_count": 1492,
+          "tweet_count": 15745
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "14 y.r. / Full-Stack / CTFer / Student / 负能 @ch3rryzhu\n\n👀 Work for @nexaorion @LankoZone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "nexaorion"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "LankoZone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/AITe11Alh9"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 2671,
+          "like_count": 70812,
+          "listed_count": 4,
+          "media_count": 742,
+          "tweet_count": 4877
+        },
+        "url": "https://t.co/AITe11Alh9",
+        "username": "MengXi969",
+        "verified": true
+      }
+    ]
+  }
+}

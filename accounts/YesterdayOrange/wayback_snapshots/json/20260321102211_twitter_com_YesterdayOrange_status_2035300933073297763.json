@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035289052975648768"
+      ],
+      "media_source_tweet_id": [
+        "2035289055517364394"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2035300933073297763",
+    "created_at": "2026-03-21T10:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T11:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035300933073297763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2030211001820573696",
+          "start": 3,
+          "username": "NambaNanam_1145"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aIDCa3oR3S",
+          "end": 60,
+          "expanded_url": "https://x.com/NambaNanam_1145/status/2035289055517364394/photo/1",
+          "media_key": "3_2035289052975648768",
+          "start": 37,
+          "url": "https://t.co/aIDCa3oR3S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035300933073297763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035289055517364394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NambaNanam_1145: 不想再撑着了\n有人路过可以随意 https://t.co/aIDCa3oR3S"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2035300933073297763].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2035300933073297763",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2035300933073297763"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2035289052975648768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7MnDna0AACsUK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035289052975648768"
+          ]
+        },
+        "author_id": "2030211001820573696",
+        "conversation_id": "2035289055517364394",
+        "created_at": "2026-03-21T09:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T10:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035289055517364394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aIDCa3oR3S",
+              "end": 39,
+              "expanded_url": "https://x.com/NambaNanam_1145/status/2035289055517364394/photo/1",
+              "media_key": "3_2035289052975648768",
+              "start": 16,
+              "url": "https://t.co/aIDCa3oR3S"
+            },
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/2034954143115485288",
+              "start": 40,
+              "url": "https://t.co/agr7JC3tjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035289055517364394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034954143115485288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不想再撑着了\n有人路过可以随意 https://t.co/aIDCa3oR3S https://t.co/agr7JC3tjp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2034816663066222935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11332,
+          "following_count": 4696,
+          "like_count": 83317,
+          "listed_count": 20,
+          "media_count": 1976,
+          "tweet_count": 18503
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-07T09:17:04.000Z",
+        "description": "😚 叫我NN就好了\n🫣 偶尔碎碎念，偶尔害羞，偶尔突然大胆\n🚪 关注我涩涩账号应该我给你 2778的门槛\n😈 看多了大家的作品，也开始努力生产 🔞的内容了\n📸 还在学习怎么把自己拍得更好看\n🙈 哎呀，NN除了涩涩真的不做别的吗？",
+        "id": "2030211001820573696",
+        "location": "Near you 27.78 m",
+        "name": "Namba Nanami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034890365921370116/zuDRRd_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 95,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 239
+        },
+        "username": "NambaNanam_1145",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2037194914652708943",
+    "created_at": "2026-03-26T15:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T16:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037194914652708943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/niesen_3d9/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/niesen_3d9/status/2037166732562092151",
+          "start": 2,
+          "url": "https://t.co/dX6CGwGy4t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037194914652708943",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037166732562092151",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "👍 https://t.co/dX6CGwGy4t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2037194914652708943",
+        "created_at": "2026-03-26T15:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037194914652708943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/niesen_3d9/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/niesen_3d9/status/2037166732562092151",
+              "start": 2,
+              "url": "https://t.co/dX6CGwGy4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037194914652708943",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037166732562092151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "👍 https://t.co/dX6CGwGy4t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822926317823905792",
+        "conversation_id": "2037158215662919797",
+        "created_at": "2026-03-26T13:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037166732562092151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037166732562092151",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037158215662919797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我会一直陪着你，直到我死去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2036351762710639004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11421,
+          "following_count": 4794,
+          "like_count": 84430,
+          "listed_count": 20,
+          "media_count": 2007,
+          "tweet_count": 18667
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-12T09:21:30.000Z",
+        "description": "宁宁可爱捏🥰 02.17丨高一牲丨沾点pjsk丨音游丨codm丨巅峰极速丨ACG丨💚非常非常非常非常非常害怕虫子aa 月抛补药找我a",
+        "id": "1822926317823905792",
+        "location": "＜1km",
+        "name": "涅槮Nies",
+        "pinned_tweet_id": "2026561449783669121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969360912684548096/SFjpBzH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 302,
+          "like_count": 12903,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 776
+        },
+        "username": "Niesen_3D9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995882399306317825",
+        "3_1995882399276957702"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "1995882410572218737",
+    "created_at": "2025-12-02T15:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T16:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995882410572218737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wQYScLr2ZA",
+          "end": 86,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1995882410572218737/photo/1",
+          "media_key": "3_1995882399306317825",
+          "start": 63,
+          "url": "https://t.co/wQYScLr2ZA"
+        },
+        {
+          "display_url": "pic.x.com/wQYScLr2ZA",
+          "end": 86,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1995882410572218737/photo/1",
+          "media_key": "3_1995882399276957702",
+          "start": 63,
+          "url": "https://t.co/wQYScLr2ZA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995882410572218737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说白了，现在的“健全人”是不存在爱情的，在后现代社会的规训下它们早就对“爱情”祛魅了，只是把你当成ATM和カエ。\n如何评价？ https://t.co/wQYScLr2ZA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995882399306317825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7LMd7AbgAEEvHx.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1995882399276957702",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7LMd65bgAY3mmK.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995882399306317825",
+            "3_1995882399276957702"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1995882410572218737",
+        "created_at": "2025-12-02T15:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T16:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995882410572218737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wQYScLr2ZA",
+              "end": 86,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1995882410572218737/photo/1",
+              "media_key": "3_1995882399306317825",
+              "start": 63,
+              "url": "https://t.co/wQYScLr2ZA"
+            },
+            {
+              "display_url": "pic.x.com/wQYScLr2ZA",
+              "end": 86,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1995882410572218737/photo/1",
+              "media_key": "3_1995882399276957702",
+              "start": 63,
+              "url": "https://t.co/wQYScLr2ZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995882410572218737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说白了，现在的“健全人”是不存在爱情的，在后现代社会的规训下它们早就对“爱情”祛魅了，只是把你当成ATM和カエ。\n如何评价？ https://t.co/wQYScLr2ZA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1995315140724748766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9442,
+          "following_count": 3385,
+          "like_count": 67763,
+          "listed_count": 16,
+          "media_count": 1453,
+          "tweet_count": 15578
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

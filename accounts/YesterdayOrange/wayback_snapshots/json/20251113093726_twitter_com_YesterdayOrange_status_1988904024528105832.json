@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1988840363369410676",
+    "created_at": "2025-11-13T09:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T10:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988904024528105832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1797460239392083968",
+          "start": 0,
+          "username": "boredman2005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988904024528105832",
+    "in_reply_to_user_id": "1797460239392083968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988903492337951174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boredman2005 玩游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1988840363369410676",
+        "created_at": "2025-11-13T09:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T10:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988904024528105832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797460239392083968",
+              "start": 0,
+              "username": "boredman2005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988904024528105832",
+        "in_reply_to_user_id": "1797460239392083968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988903492337951174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boredman2005 玩游戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797460239392083968",
+        "conversation_id": "1988840363369410676",
+        "created_at": "2025-11-13T09:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T10:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988903492337951174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988903492337951174",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988840363369410676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 52"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1988520564370161874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8173,
+          "following_count": 3212,
+          "like_count": 64180,
+          "listed_count": 14,
+          "media_count": 1328,
+          "tweet_count": 14784
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T02:48:19.000Z",
+        "description": "自由不是想做什么，就做什么；自由是教你不想做什么，就可以不做什么。\n----- 康德",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=xvFZjo…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?v=xvFZjo5PgG0",
+                "start": 0,
+                "url": "https://t.co/z9EGDVGnrJ"
+              }
+            ]
+          }
+        },
+        "id": "1797460239392083968",
+        "location": "Sydney, NSW, Australia",
+        "name": "悉尼懒人（不要互fo）",
+        "pinned_tweet_id": "1962006933910724908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981726741107204096/Ih9VRyuT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 63,
+          "like_count": 316,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/z9EGDVGnrJ",
+        "username": "boredman2005",
+        "verified": false
+      }
+    ]
+  }
+}

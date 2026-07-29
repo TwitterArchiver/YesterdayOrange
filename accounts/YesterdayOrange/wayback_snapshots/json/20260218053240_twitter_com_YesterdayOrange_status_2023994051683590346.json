@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2023994051683590346",
+    "created_at": "2026-02-18T05:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T06:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023994051683590346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tingdavid6/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/tingdavid6/status/2023993701530563062",
+          "start": 8,
+          "url": "https://t.co/61y7rJKPgL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023994051683590346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023993701530563062",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是后现代👍 https://t.co/61y7rJKPgL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2023994051683590346",
+        "created_at": "2026-02-18T05:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023994051683590346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingdavid6/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/tingdavid6/status/2023993701530563062",
+              "start": 8,
+              "url": "https://t.co/61y7rJKPgL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023994051683590346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023993701530563062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是后现代👍 https://t.co/61y7rJKPgL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613066923801202689",
+        "conversation_id": "2023648573376860232",
+        "created_at": "2026-02-18T05:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023993701530563062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023993701530563062",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023648573376860232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我记得他好像是因为自己想不开了，想寻个解脱所以才上战场的，评论区的有些人可能是误解了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2023736766814117914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10665,
+          "following_count": 4218,
+          "like_count": 77315,
+          "listed_count": 17,
+          "media_count": 1813,
+          "tweet_count": 17425
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T06:55:12.000Z",
+        "description": "用骄傲对待骄傲的前额，\n用善良对待善良的心肠：\n这是我一生永恒的规律，\n只有采摘玫瑰才弯下脊梁。",
+        "id": "1613066923801202689",
+        "location": "Sapporo City Atsubetsu Ward",
+        "name": "ting David",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966948242643660800/kVOAWdFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 869,
+          "like_count": 4661,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 1019
+        },
+        "username": "tingDavid6",
+        "verified": false
+      }
+    ]
+  }
+}

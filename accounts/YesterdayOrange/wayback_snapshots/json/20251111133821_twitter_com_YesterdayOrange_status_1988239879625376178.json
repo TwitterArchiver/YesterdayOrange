@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1988239563274547245",
+    "created_at": "2025-11-11T13:38:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T14:38:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988239879625376178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1980159705516544000",
+          "start": 0,
+          "username": "N3konut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988239879625376178",
+    "in_reply_to_user_id": "1980159705516544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988239563274547245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3konut 谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1988239563274547245",
+        "created_at": "2025-11-11T13:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T14:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988239879625376178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1980159705516544000",
+              "start": 0,
+              "username": "N3konut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988239879625376178",
+        "in_reply_to_user_id": "1980159705516544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988239563274547245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3konut 谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980159705516544000",
+        "conversation_id": "1988239563274547245",
+        "created_at": "2025-11-11T13:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T14:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988239563274547245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/1988074338877362668",
+              "start": 143,
+              "url": "https://t.co/h2QG3U3N5b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988239563274547245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988074338877362668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠🍊老师快及时止损\n\n你不需要别人的认可啊啊啊千万不要坠入弗洛伊德的陷阱🥹你有自己聪明的方式，你值得被爱并且应当时刻被爱。如果别人不懂得赏识那是你值得更好的欣赏者，至少你要有你自己呀🥹\n\n我特别喜欢一句话：这个世界很美好，它值得看到你这样的明星🌟\n\n你属于更大的舞台，不要被影响呀🥰 https://t.co/h2QG3U3N5b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1987852149121012136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8149,
+          "following_count": 3192,
+          "like_count": 63832,
+          "listed_count": 14,
+          "media_count": 1312,
+          "tweet_count": 14693
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T06:31:04.000Z",
+        "description": "",
+        "id": "1980159705516544000",
+        "location": "Lovefest",
+        "name": "💜🥥猫猫椰🇲🇾🇲🇴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980434002122084352/4LcZWfwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 21,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 324
+        },
+        "username": "N3konut",
+        "verified": false
+      }
+    ]
+  }
+}

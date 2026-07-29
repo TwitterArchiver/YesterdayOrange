@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1987096485062967515",
+    "created_at": "2025-11-08T10:42:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T11:42:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987108550120997307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1901858008210219008",
+          "start": 0,
+          "username": "shimokita_1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987108550120997307",
+    "in_reply_to_user_id": "1901858008210219008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987097438189199735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shimokita_1204 不知道；玩游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1987096485062967515",
+        "created_at": "2025-11-08T10:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987108550120997307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1901858008210219008",
+              "start": 0,
+              "username": "shimokita_1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987108550120997307",
+        "in_reply_to_user_id": "1901858008210219008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987097438189199735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shimokita_1204 不知道；玩游戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901858008210219008",
+        "conversation_id": "1987096485062967515",
+        "created_at": "2025-11-08T09:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T10:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987097438189199735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987097438189199735",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987096485062967515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 12 52"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1987031603093389780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7944,
+          "following_count": 3117,
+          "like_count": 62737,
+          "listed_count": 15,
+          "media_count": 1290,
+          "tweet_count": 14550
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T04:47:49.000Z",
+        "description": "偶尔上推/生理女非二元（？）/有对象了/无自杀倾向 有负能/会ban看黄推/互fo请私信",
+        "id": "1901858008210219008",
+        "name": "下北（可以找我互fo）",
+        "pinned_tweet_id": "1907846041032077774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970532651372339200/becZN-79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 327,
+          "like_count": 1914,
+          "listed_count": 1,
+          "media_count": 376,
+          "tweet_count": 2193
+        },
+        "username": "shimokita_1204",
+        "verified": false
+      }
+    ]
+  }
+}

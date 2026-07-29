@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2020442910529921252",
+    "created_at": "2026-02-08T10:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T11:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020442910529921252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/syamei_ayaya/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/syamei_ayaya/status/2020442618765750755",
+          "start": 7,
+          "url": "https://t.co/OBHQSCDGCL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020442910529921252",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020442618765750755",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "111可以的 https://t.co/OBHQSCDGCL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2020442910529921252",
+        "created_at": "2026-02-08T10:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T11:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020442910529921252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/syamei_ayaya/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/syamei_ayaya/status/2020442618765750755",
+              "start": 7,
+              "url": "https://t.co/OBHQSCDGCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020442910529921252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020442618765750755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "111可以的 https://t.co/OBHQSCDGCL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563475327829286914",
+        "conversation_id": "2020434390900441113",
+        "created_at": "2026-02-08T10:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T11:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020442618765750755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020442618765750755",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020434390900441113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 文明6吗？111主播真的来吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2017875249245917244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10199,
+          "following_count": 3851,
+          "like_count": 74510,
+          "listed_count": 17,
+          "media_count": 1720,
+          "tweet_count": 16937
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T10:35:54.000Z",
+        "description": "一三五雌二醇\n二四六群勃龙\n周末五号化合物",
+        "id": "1563475327829286914",
+        "location": "中南海",
+        "name": "囧季映姬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819029146259099648/-IP__zyH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 540,
+          "like_count": 12750,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2702
+        },
+        "username": "syamei_ayaya",
+        "verified": false
+      }
+    ]
+  }
+}

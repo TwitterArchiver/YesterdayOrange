@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2033958713749647462",
+    "created_at": "2026-03-17T17:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T18:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033958713749647462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1496714588918026242",
+          "start": 3,
+          "username": "using_YueCheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033958713749647462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033779629937590574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @using_YueCheng: 最近发现的一个小tips，Boss直聘遇到一些不想去的公司也要回复，而不是直接忽略，这样能刷账号活跃度，账号就能被推送给更多招聘者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2033958713749647462",
+        "created_at": "2026-03-17T17:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T18:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033958713749647462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1496714588918026242",
+              "start": 3,
+              "username": "using_YueCheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033958713749647462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033779629937590574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @using_YueCheng: 最近发现的一个小tips，Boss直聘遇到一些不想去的公司也要回复，而不是直接忽略，这样能刷账号活跃度，账号就能被推送给更多招聘者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1496714588918026242",
+        "conversation_id": "2033779629937590574",
+        "created_at": "2026-03-17T05:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T06:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033779629937590574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033779629937590574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5022,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "最近发现的一个小tips，Boss直聘遇到一些不想去的公司也要回复，而不是直接忽略，这样能刷账号活跃度，账号就能被推送给更多招聘者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2033924730877837630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11256,
+          "following_count": 4585,
+          "like_count": 82330,
+          "listed_count": 20,
+          "media_count": 1956,
+          "tweet_count": 18275
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-24T05:12:38.000Z",
+        "description": "社畜💊娘 | hrt 2023-9-3 | 笨蛋后端程序员 | 被灵活就业中",
+        "id": "1496714588918026242",
+        "location": "死信队列",
+        "name": "橘子喵🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021983581250453504/5oe_iDxu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2698,
+          "following_count": 819,
+          "like_count": 12632,
+          "listed_count": 6,
+          "media_count": 476,
+          "tweet_count": 4661
+        },
+        "username": "using_YueCheng",
+        "verified": false
+      }
+    ]
+  }
+}

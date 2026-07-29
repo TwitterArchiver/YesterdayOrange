@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988806558004965377"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1988806568641720537",
+    "created_at": "2025-11-13T03:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T04:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988806568641720537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wqqMoE4Ka7",
+          "end": 113,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1988806568641720537/photo/1",
+          "media_key": "3_1988806558004965377",
+          "start": 90,
+          "url": "https://t.co/wqqMoE4Ka7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988806568641720537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如何教育十四五岁死气沉沉的学生\n\n举行“我阳光，我快乐”为主题的阳光教育活动，设置阳光量化标准及阳光排名。不阳光的班级需要集体检讨1000字以上，并开展“百日阳光”专项攻坚行动。 https://t.co/wqqMoE4Ka7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1394,
+        "media_key": "3_1988806558004965377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5mpBwDacAE3yPs.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988806558004965377"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1988806568641720537",
+        "created_at": "2025-11-13T03:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T04:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988806568641720537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wqqMoE4Ka7",
+              "end": 113,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1988806568641720537/photo/1",
+              "media_key": "3_1988806558004965377",
+              "start": 90,
+              "url": "https://t.co/wqqMoE4Ka7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988806568641720537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何教育十四五岁死气沉沉的学生\n\n举行“我阳光，我快乐”为主题的阳光教育活动，设置阳光量化标准及阳光排名。不阳光的班级需要集体检讨1000字以上，并开展“百日阳光”专项攻坚行动。 https://t.co/wqqMoE4Ka7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1988520564370161874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8173,
+          "following_count": 3211,
+          "like_count": 64092,
+          "listed_count": 14,
+          "media_count": 1322,
+          "tweet_count": 14752
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

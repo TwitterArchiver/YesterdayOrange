@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2032732213012512826",
+    "created_at": "2026-03-14T14:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T15:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032827035664658850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1720670290706112512",
+          "start": 0,
+          "username": "IM_ZMang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032827035664658850",
+    "in_reply_to_user_id": "1720670290706112512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032826845582991847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IM_ZMang 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2032732213012512826",
+        "created_at": "2026-03-14T14:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032827035664658850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720670290706112512",
+              "start": 0,
+              "username": "IM_ZMang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032827035664658850",
+        "in_reply_to_user_id": "1720670290706112512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032826845582991847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IM_ZMang 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720670290706112512",
+        "conversation_id": "2032732213012512826",
+        "created_at": "2026-03-14T14:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032826845582991847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032826845582991847",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032732213012512826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 真的吗👅—👅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2032475741741551981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11110,
+          "following_count": 4476,
+          "like_count": 81520,
+          "listed_count": 20,
+          "media_count": 1934,
+          "tweet_count": 18102
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T05:12:38.000Z",
+        "description": "一只暗紫色哈基狼😋 ｜喜欢旅游、毛毛｜寒暑假出没于广东｜没有什么雷点，保持最基本的尊重即可😋｜暂时没有装｜",
+        "id": "1720670290706112512",
+        "location": "Your heart",
+        "name": "紫芒🔜重生",
+        "pinned_tweet_id": "2017243115187556469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722130799720574976/wlA7CSPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 217,
+          "like_count": 30607,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1001
+        },
+        "username": "IM_ZMang",
+        "verified": false
+      }
+    ]
+  }
+}

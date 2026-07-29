@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2049392475853455760",
+    "created_at": "2026-04-29T07:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T08:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049392475853455760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2044896801497509888",
+          "start": 3,
+          "username": "hasmiku520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049392475853455760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049389771076911436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hasmiku520: 对惹，咱成绩出来惹\n语文：108/150 排名：138/803\n数学：61/150 排名：606/803\n英语：125.5/150 排名：7/803\n物理：41/100 排名：696/803\n化学：67/100 排名：217/803\n技术：97/…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2049392475853455760",
+        "created_at": "2026-04-29T07:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049392475853455760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2044896801497509888",
+              "start": 3,
+              "username": "hasmiku520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049392475853455760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049389771076911436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hasmiku520: 对惹，咱成绩出来惹\n语文：108/150 排名：138/803\n数学：61/150 排名：606/803\n英语：125.5/150 排名：7/803\n物理：41/100 排名：696/803\n化学：67/100 排名：217/803\n技术：97/…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044896801497509888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2049389771076911436",
+        "created_at": "2026-04-29T07:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049389771076911436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049389771076911436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "对惹，咱成绩出来惹\n语文：108/150 排名：138/803\n数学：61/150 排名：606/803\n英语：125.5/150 排名：7/803\n物理：41/100 排名：696/803\n化学：67/100 排名：217/803\n技术：97/100 排名：1/803\n评价一下喵ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2048959571394511106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11860,
+          "following_count": 4963,
+          "like_count": 88911,
+          "listed_count": 23,
+          "media_count": 2189,
+          "tweet_count": 19595
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-16T21:53:12.000Z",
+        "description": "感谢关注喵！|2009.12.22|浙江 温州|信竞小菜喵\n高一物化技desu|关注滴咱都会回关desuwa！|家长反对党\n探索X中喵w|《云律茶馆》游戏制作喵|割手手喵w\n菜菜音游入｜ＰＪＳＫ\n不讨论政治喵~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hiroawa.top",
+                "end": 23,
+                "expanded_url": "https://hiroawa.top/",
+                "start": 0,
+                "url": "https://t.co/ZnEypkfQdT"
+              }
+            ]
+          }
+        },
+        "id": "2044896801497509888",
+        "location": "浙江省",
+        "name": "Puuki🍥",
+        "pinned_tweet_id": "2047922665277862361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044897193967190016/SOBDwJyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 210,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/ZnEypkfQdT",
+        "username": "hasmiku520",
+        "verified": false
+      }
+    ]
+  }
+}

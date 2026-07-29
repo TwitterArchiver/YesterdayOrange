@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2008165254849863936",
+    "created_at": "2026-01-05T13:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T14:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008168108813603248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1985625445577138176",
+          "start": 0,
+          "username": "whos3third"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008168108813603248",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008165254849863936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whos3third 这句话是他的🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2008165254849863936",
+        "created_at": "2026-01-05T13:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T14:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008168108813603248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1985625445577138176",
+              "start": 0,
+              "username": "whos3third"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008168108813603248",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008165254849863936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whos3third 这句话是他的🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2008165254849863936",
+        "created_at": "2026-01-05T13:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T14:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008165254849863936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008165254849863936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最好以后每天告诉我一个关于你的事情，让我了解你🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2008129415814037573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9885,
+          "following_count": 3661,
+          "like_count": 71596,
+          "listed_count": 17,
+          "media_count": 1616,
+          "tweet_count": 16411
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T08:30:02.000Z",
+        "description": "我們窮盡一生需要學會的不過是彼此擁抱...",
+        "id": "1985625445577138176",
+        "name": "who",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005965638226075648/APXlwReX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 205,
+          "like_count": 2433,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 90
+        },
+        "username": "whos3third",
+        "verified": false
+      }
+    ]
+  }
+}

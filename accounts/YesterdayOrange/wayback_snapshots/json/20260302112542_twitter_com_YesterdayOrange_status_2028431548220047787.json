@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2028396972596695455",
+    "created_at": "2026-03-02T11:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T12:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028431548220047787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804203481307242498",
+          "start": 0,
+          "username": "ranstomega96482"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028431548220047787",
+    "in_reply_to_user_id": "1804203481307242498",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028431341982044581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ranstomega96482 互关喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2028431310361096192",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCZvh5lacAAlkTl.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCZvh5lacAAlkTl.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2028396972596695455",
+        "created_at": "2026-03-02T11:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028431548220047787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804203481307242498",
+              "start": 0,
+              "username": "ranstomega96482"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028431548220047787",
+        "in_reply_to_user_id": "1804203481307242498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028431341982044581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ranstomega96482 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2028431310361096192"
+          ]
+        },
+        "author_id": "1804203481307242498",
+        "conversation_id": "2028396972596695455",
+        "created_at": "2026-03-02T11:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028431341982044581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QLhy33jh2G",
+              "end": 40,
+              "expanded_url": "https://x.com/ranstomega96482/status/2028431341982044581/photo/1",
+              "media_key": "16_2028431310361096192",
+              "start": 17,
+              "url": "https://t.co/QLhy33jh2G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028431341982044581",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028396972596695455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange https://t.co/QLhy33jh2G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2026270503917277418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10917,
+          "following_count": 4379,
+          "like_count": 79953,
+          "listed_count": 20,
+          "media_count": 1893,
+          "tweet_count": 17838
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T17:23:57.000Z",
+        "description": "",
+        "id": "1804203481307242498",
+        "name": "A1NS1R",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909614318297268225/vYNuQT_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 64,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 22
+        },
+        "username": "ranstomega96482",
+        "verified": false
+      }
+    ]
+  }
+}

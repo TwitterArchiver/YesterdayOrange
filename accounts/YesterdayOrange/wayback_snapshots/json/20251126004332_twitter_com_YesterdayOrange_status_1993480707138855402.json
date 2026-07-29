@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1993204879674999224",
+    "created_at": "2025-11-26T00:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T01:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993480707138855402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1377114572843184139",
+          "start": 0,
+          "username": "SONY846995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993480707138855402",
+    "in_reply_to_user_id": "1377114572843184139",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993405960933781672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SONY846995 0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1993204879674999224",
+        "created_at": "2025-11-26T00:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T01:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993480707138855402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1377114572843184139",
+              "start": 0,
+              "username": "SONY846995"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993480707138855402",
+        "in_reply_to_user_id": "1377114572843184139",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993405960933781672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SONY846995 0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1377114572843184139",
+        "conversation_id": "1993204879674999224",
+        "created_at": "2025-11-25T19:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T20:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993405960933781672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993405960933781672",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993204879674999224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 打戰艦世界😺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1992956304256852427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9000,
+          "following_count": 3309,
+          "like_count": 66719,
+          "listed_count": 14,
+          "media_count": 1402,
+          "tweet_count": 15292
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-31T04:24:45.000Z",
+        "description": "日更帳 / 分享日常 / 歡迎跟隨❤️ / 多數廢文 / ♂️的 /  歡迎找我打 #戰艦世界\n\n我家的銀漸層😺 @sushiching_2006 💕\n\n#廢文 #日常帳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "戰艦世界"
+              },
+              {
+                "end": 80,
+                "start": 77,
+                "tag": "廢文"
+              },
+              {
+                "end": 85,
+                "start": 81,
+                "tag": "日常帳"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "sushiching_2006"
+              }
+            ]
+          }
+        },
+        "id": "1377114572843184139",
+        "location": "台中市, 台灣",
+        "name": "SONY 🐾🍨",
+        "pinned_tweet_id": "1437803738752638980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993139243758370816/_J_hMcbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 111,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 897
+        },
+        "username": "SONY846995",
+        "verified": false
+      }
+    ]
+  }
+}

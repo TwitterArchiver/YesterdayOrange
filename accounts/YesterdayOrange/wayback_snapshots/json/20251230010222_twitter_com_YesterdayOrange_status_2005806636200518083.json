@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2005520292488298717",
+    "created_at": "2025-12-30T01:02:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T02:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005806636200518083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1644621062938804224",
+          "start": 0,
+          "username": "Emma98339068612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005806636200518083",
+    "in_reply_to_user_id": "1644621062938804224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005801569733017604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Emma98339068612 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2005520292488298717",
+        "created_at": "2025-12-30T01:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T02:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005806636200518083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644621062938804224",
+              "start": 0,
+              "username": "Emma98339068612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005806636200518083",
+        "in_reply_to_user_id": "1644621062938804224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005801569733017604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Emma98339068612 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644621062938804224",
+        "conversation_id": "2005520292488298717",
+        "created_at": "2025-12-30T00:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T01:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005801569733017604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005801569733017604",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005520292488298717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2005302435049566715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9770,
+          "following_count": 3614,
+          "like_count": 70292,
+          "listed_count": 16,
+          "media_count": 1562,
+          "tweet_count": 16151
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T08:40:24.000Z",
+        "description": "",
+        "id": "1644621062938804224",
+        "name": "Emma",
+        "pinned_tweet_id": "1866161736723943582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644621357517357056/cEjNhsV9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 1831,
+          "like_count": 88022,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 10240
+        },
+        "username": "Emma98339068612",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2053063045077950913",
+    "created_at": "2026-05-09T10:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053063045077950913"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053063045077950913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "他说他很惊喜，我居然还记得他。我问他为什么没有来找我，他说以为我已经忘了他了，毕竟好几个月不联系了。\n\n他说他尝试过搜索我的ID，不过记不清了，尽管我为了他很久很久没有改名。\n\n“那你觉得他惊喜吗？”\n\n我不知道他惊不惊喜，但我觉得我需要他惊喜。\n\n我当时，有点困惑为什么会记不住我的名字。不过我选择了接受这一点，或者说我也没什么可以接受的。\n\n然后他说，他和X高考后就因为即将异地分手了。\n\n他问我愿不愿意当他对象，我直接接受了。\n\n“那你想当我对象吗？”\n\n我说我想，我说我一直都很喜欢他，这段时间也一直在尝试找他，之前第一次断联也是我锲而不舍地努力才继续联系的。\n\n他说，那好，以后你就是我对象了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他说他很惊喜，我居然还记得他。我问他为什么没有来找我，他说以为我已经忘了他了，毕竟好几个月不联系了。\n\n他说他尝试过搜索我的ID，不过记不清了，尽管我为了他很久很久没有改名。\n\n“那你觉得他惊喜吗？”\n\n我不知道他惊不惊喜，但我觉得我需要他惊喜。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2053063045077950913",
+        "created_at": "2026-05-09T10:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053063045077950913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053063045077950913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "他说他很惊喜，我居然还记得他。我问他为什么没有来找我，他说以为我已经忘了他了，毕竟好几个月不联系了。\n\n他说他尝试过搜索我的ID，不过记不清了，尽管我为了他很久很久没有改名。\n\n“那你觉得他惊喜吗？”\n\n我不知道他惊不惊喜，但我觉得我需要他惊喜。\n\n我当时，有点困惑为什么会记不住我的名字。不过我选择了接受这一点，或者说我也没什么可以接受的。\n\n然后他说，他和X高考后就因为即将异地分手了。\n\n他问我愿不愿意当他对象，我直接接受了。\n\n“那你想当我对象吗？”\n\n我说我想，我说我一直都很喜欢他，这段时间也一直在尝试找他，之前第一次断联也是我锲而不舍地努力才继续联系的。\n\n他说，那好，以后你就是我对象了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他说他很惊喜，我居然还记得他。我问他为什么没有来找我，他说以为我已经忘了他了，毕竟好几个月不联系了。\n\n他说他尝试过搜索我的ID，不过记不清了，尽管我为了他很久很久没有改名。\n\n“那你觉得他惊喜吗？”\n\n我不知道他惊不惊喜，但我觉得我需要他惊喜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2051560833235444117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11912,
+          "following_count": 4993,
+          "like_count": 89929,
+          "listed_count": 22,
+          "media_count": 2213,
+          "tweet_count": 19788
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

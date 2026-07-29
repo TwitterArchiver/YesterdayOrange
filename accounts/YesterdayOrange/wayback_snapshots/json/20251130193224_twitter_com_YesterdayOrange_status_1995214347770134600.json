@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1994994592446648575",
+    "created_at": "2025-11-30T19:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T20:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995214347770134600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1115791758313398273",
+          "start": 0,
+          "username": "WSNDHAHah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995214347770134600",
+    "in_reply_to_user_id": "1115791758313398273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995021244497105125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WSNDHAHah 贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1994994592446648575",
+        "created_at": "2025-11-30T19:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T20:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995214347770134600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1115791758313398273",
+              "start": 0,
+              "username": "WSNDHAHah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995214347770134600",
+        "in_reply_to_user_id": "1115791758313398273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995021244497105125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WSNDHAHah 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115791758313398273",
+        "conversation_id": "1994994592446648575",
+        "created_at": "2025-11-30T06:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995021244497105125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995021244497105125",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994994592446648575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 贴贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1994073228369592563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9347,
+          "following_count": 3384,
+          "like_count": 67616,
+          "listed_count": 16,
+          "media_count": 1441,
+          "tweet_count": 15540
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T01:41:00.000Z",
+        "description": "Per aspera ad astra\n普通の中国人の女の子/\n夢は鮭を無限に供給することです/\n/普通的中国女孩，梦想是有吃不完的鲑鱼🍣🍣🍣",
+        "id": "1115791758313398273",
+        "location": "Oklahoma City, OK",
+        "name": "🐟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914745218395729920/s5lQ-J29_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 76,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 58
+        },
+        "username": "WSNDHAHah",
+        "verified": false
+      }
+    ]
+  }
+}

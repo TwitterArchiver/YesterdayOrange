@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2024829968749035697",
+    "created_at": "2026-02-21T02:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T03:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025038732626440543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1932516539531735041",
+          "start": 0,
+          "username": "apihuis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025038732626440543",
+    "in_reply_to_user_id": "1932516539531735041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024850436310888943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@apihuis 呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2024829968749035697",
+        "created_at": "2026-02-21T02:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T03:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025038732626440543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1932516539531735041",
+              "start": 0,
+              "username": "apihuis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025038732626440543",
+        "in_reply_to_user_id": "1932516539531735041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024850436310888943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@apihuis 呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932516539531735041",
+        "conversation_id": "2024829968749035697",
+        "created_at": "2026-02-20T14:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024850436310888943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024850436310888943",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024829968749035697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2024122058007793948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10739,
+          "following_count": 4287,
+          "like_count": 78326,
+          "listed_count": 19,
+          "media_count": 1839,
+          "tweet_count": 17570
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T19:13:53.000Z",
+        "description": "168  丨 46kg  丨目前是在读大一  丨喜欢碎碎念 丨喜欢有礼貌的丨如果可以我想赚一点点零花钱丨不约！！现在不线下！！不出yw丨这些都是用于🚪哥抽奖的！！",
+        "id": "1932516539531735041",
+        "location": "🚪99/188",
+        "name": "小茹纱🧋",
+        "pinned_tweet_id": "2024344585259086009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932518411135037442/mEyiSk_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10260,
+          "following_count": 3,
+          "like_count": 87,
+          "listed_count": 28,
+          "media_count": 160,
+          "tweet_count": 715
+        },
+        "username": "apihuis",
+        "verified": false
+      }
+    ]
+  }
+}

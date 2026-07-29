@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2043282829883383842",
+    "created_at": "2026-04-13T05:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T06:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043556764902457551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1817582212717629440",
+          "start": 0,
+          "username": "XIDUOXING114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043556764902457551",
+    "in_reply_to_user_id": "1817582212717629440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043544434533622004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIDUOXING114514 互关喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2043544425683705856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwg0_ebYAA-Hpw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2043282829883383842",
+        "created_at": "2026-04-13T05:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043556764902457551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817582212717629440",
+              "start": 0,
+              "username": "XIDUOXING114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043556764902457551",
+        "in_reply_to_user_id": "1817582212717629440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043544434533622004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIDUOXING114514 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043544425683705856"
+          ]
+        },
+        "author_id": "1817582212717629440",
+        "conversation_id": "2043282829883383842",
+        "created_at": "2026-04-13T04:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043544434533622004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JttYFnhtt2",
+              "end": 45,
+              "expanded_url": "https://x.com/XIDUOXING114514/status/2043544434533622004/photo/1",
+              "media_key": "3_2043544425683705856",
+              "start": 22,
+              "url": "https://t.co/JttYFnhtt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043544434533622004",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043282829883383842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 秀气型？ https://t.co/JttYFnhtt2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2043231486581833896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11424,
+          "following_count": 4813,
+          "like_count": 85984,
+          "listed_count": 21,
+          "media_count": 2077,
+          "tweet_count": 18961
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-28T15:25:53.000Z",
+        "description": "2007.8.22/東方project /mcdonalds/普通成年男性（18岁）/简中互联网不知名小人物/\n我有女朋友！/\nmaimai 14539/\nPhigros 15.73/\nArcaea 11.65/\n太鼓の達人 赤三级/\n中文🇨🇳不可，日本语🇯🇵不可，英语🇺🇸不可\n出身于中国安徽→辽宁省在住",
+        "id": "1817582212717629440",
+        "location": "中国辽宁省沈阳市浑南区/辽宁省营口市站前区",
+        "name": "サマタト",
+        "pinned_tweet_id": "1965060411830698390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038533858384396288/l9dqpO6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 2022,
+          "like_count": 24535,
+          "listed_count": 4,
+          "media_count": 1885,
+          "tweet_count": 9550
+        },
+        "username": "XIDUOXING114514",
+        "verified": false
+      }
+    ]
+  }
+}

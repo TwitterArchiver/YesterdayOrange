@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2048090257028202826",
+    "created_at": "2026-04-25T17:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048092312291659997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2046295889103441921",
+          "start": 0,
+          "username": "Xie_miaoyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048092312291659997",
+    "in_reply_to_user_id": "2046295889103441921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048091954928554418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xie_miaoyu 你不理我私信喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2048090257028202826",
+        "created_at": "2026-04-25T17:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048092312291659997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2046295889103441921",
+              "start": 0,
+              "username": "Xie_miaoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048092312291659997",
+        "in_reply_to_user_id": "2046295889103441921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048091954928554418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xie_miaoyu 你不理我私信喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046295889103441921",
+        "conversation_id": "2048090257028202826",
+        "created_at": "2026-04-25T17:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048091954928554418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048091954928554418",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048090257028202826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 那就倒——(抱)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2047196207223910858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11748,
+          "following_count": 4972,
+          "like_count": 88386,
+          "listed_count": 23,
+          "media_count": 2169,
+          "tweet_count": 19437
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-20T18:32:40.000Z",
+        "description": "「盯……」\n\n▷私は……一月一日诞生的 | 有着像猫耳的发丝的 | 社恐猫猫Nyame◁\n▷ねこ系Vtuber見習い｜Live2D・日语练习・VRChat・真实コミュ障日常◁\n▷这里是安静的小树洞，只想和中日朋友すりすり…… 偶尔碎碎念、分享社恐片段，欢迎同频的你来躲角落……◁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@drvb_nyame?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@drvb_nyame?si=rkW4s0_GpvsKSGPp",
+                "start": 0,
+                "url": "https://t.co/ZTuDjcTr2J"
+              }
+            ]
+          }
+        },
+        "id": "2046295889103441921",
+        "location": "冰箱里",
+        "name": "Nyame | コミュ障猫",
+        "pinned_tweet_id": "2048078526939902312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047657374497054720/9Z5YmAkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/ZTuDjcTr2J",
+        "username": "Xie_miaoyu",
+        "verified": false
+      }
+    ]
+  }
+}

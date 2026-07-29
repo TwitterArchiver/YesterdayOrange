@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1993475151556755554",
+    "created_at": "2025-11-26T00:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T01:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993480387893641237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1799027998223376384",
+          "start": 0,
+          "username": "icwlaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993480387893641237",
+    "in_reply_to_user_id": "1799027998223376384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993479823961080145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icwlaa 喂我吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1993475151556755554",
+        "created_at": "2025-11-26T00:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T01:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993480387893641237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1799027998223376384",
+              "start": 0,
+              "username": "icwlaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993480387893641237",
+        "in_reply_to_user_id": "1799027998223376384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993479823961080145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icwlaa 喂我吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799027998223376384",
+        "conversation_id": "1993475151556755554",
+        "created_at": "2025-11-26T00:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T01:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993479823961080145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993479823961080145",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993475151556755554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 更可怕的是，看不到尽头的早8。但是还好今天早上可以吃一个欧润吉😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1992956304256852427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9000,
+          "following_count": 3309,
+          "like_count": 66716,
+          "listed_count": 14,
+          "media_count": 1402,
+          "tweet_count": 15281
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T10:38:07.000Z",
+        "description": "",
+        "id": "1799027998223376384",
+        "name": "是加菲呀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799028792628752384/0-FAJr-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 192,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "username": "icwlaa",
+        "verified": false
+      }
+    ]
+  }
+}

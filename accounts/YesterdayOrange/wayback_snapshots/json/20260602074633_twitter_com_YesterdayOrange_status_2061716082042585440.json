@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2061659353216844087",
+    "created_at": "2026-06-02T07:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T08:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061716082042585440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1830577223289753600",
+          "start": 0,
+          "username": "wrenmist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061716082042585440",
+    "in_reply_to_user_id": "1830577223289753600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061715592504287741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wrenmist 体育课"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2061659353216844087",
+        "created_at": "2026-06-02T07:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061716082042585440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1830577223289753600",
+              "start": 0,
+              "username": "wrenmist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061716082042585440",
+        "in_reply_to_user_id": "1830577223289753600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061715592504287741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wrenmist 体育课"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830577223289753600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "2061659353216844087",
+        "created_at": "2026-06-02T07:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061715592504287741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061715592504287741",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061659353216844087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 是体质测试还是体育课的考试呢，没事的，肯定不会挂的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2061118677869887489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12075,
+          "following_count": 5104,
+          "like_count": 92944,
+          "listed_count": 21,
+          "media_count": 2274,
+          "tweet_count": 20185
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-02T12:03:27.000Z",
+        "description": "仍在继续",
+        "id": "1830577223289753600",
+        "location": "国営 海の中道海浜公園",
+        "name": "Sable Wren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047877403712888832/cMUL0vCN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 316,
+          "like_count": 1032,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 452
+        },
+        "username": "wrenmist",
+        "verified": true
+      }
+    ]
+  }
+}

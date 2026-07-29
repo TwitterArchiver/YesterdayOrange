@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995362830217084928"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995362839373173208",
+    "created_at": "2025-12-01T05:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T06:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995362839373173208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KIkYGLxUpr",
+          "end": 40,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1995362839373173208/photo/1",
+          "media_key": "3_1995362830217084928",
+          "start": 17,
+          "url": "https://t.co/KIkYGLxUpr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995362839373173208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "辈分比较大，所以礼节就延续下来了 https://t.co/KIkYGLxUpr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1928,
+        "media_key": "3_1995362830217084928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Dz7BUbgAAuwfF.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995362830217084928"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995362839373173208",
+        "created_at": "2025-12-01T05:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T06:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995362839373173208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KIkYGLxUpr",
+              "end": 40,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1995362839373173208/photo/1",
+              "media_key": "3_1995362830217084928",
+              "start": 17,
+              "url": "https://t.co/KIkYGLxUpr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995362839373173208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "辈分比较大，所以礼节就延续下来了 https://t.co/KIkYGLxUpr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1995315140724748766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9367,
+          "following_count": 3380,
+          "like_count": 67680,
+          "listed_count": 16,
+          "media_count": 1447,
+          "tweet_count": 15556
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

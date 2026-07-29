@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1988581245031469436",
+    "created_at": "2025-11-12T12:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T13:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988581245031469436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pa0m1an/status…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/pa0m1an/status/1988577117827981709",
+          "start": 20,
+          "url": "https://t.co/ajh09gJHIN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988581245031469436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988577117827981709",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是来北京要饭的😢，京✌️不要拷打我了 https://t.co/ajh09gJHIN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1988581245031469436",
+        "created_at": "2025-11-12T12:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988581245031469436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pa0m1an/status…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/pa0m1an/status/1988577117827981709",
+              "start": 20,
+              "url": "https://t.co/ajh09gJHIN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988581245031469436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988577117827981709",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是来北京要饭的😢，京✌️不要拷打我了 https://t.co/ajh09gJHIN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813952137241780224",
+        "conversation_id": "1988195287819841875",
+        "created_at": "2025-11-12T11:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988577117827981709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988577117827981709",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988195287819841875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 原来你也是京✌️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1988520564370161874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8164,
+          "following_count": 3204,
+          "like_count": 64029,
+          "listed_count": 14,
+          "media_count": 1320,
+          "tweet_count": 14736
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T15:01:27.000Z",
+        "description": "叫我泡面就行│CN│大学生│fgo\\arknight\\r6\\ペルソナ\\bangdream\\gbc\\F1＆mercedes│这个号不键政不看黄│日本語勉強中│会互fo，只要你不麦片",
+        "id": "1813952137241780224",
+        "location": "北京",
+        "name": "Pa0m1an",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814097538682933248/IFofnFXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 448,
+          "like_count": 7990,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 2154
+        },
+        "username": "Pa0m1an",
+        "verified": false
+      }
+    ]
+  }
+}

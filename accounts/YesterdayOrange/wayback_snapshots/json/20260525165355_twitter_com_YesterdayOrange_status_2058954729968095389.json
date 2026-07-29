@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2058953495005614464",
+    "created_at": "2026-05-25T16:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058954729968095389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1183920784009351168",
+          "start": 0,
+          "username": "mea_soratane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058954729968095389",
+    "in_reply_to_user_id": "1183920784009351168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058954108200223154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mea_soratane 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2058953495005614464",
+        "created_at": "2026-05-25T16:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058954729968095389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1183920784009351168",
+              "start": 0,
+              "username": "mea_soratane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058954729968095389",
+        "in_reply_to_user_id": "1183920784009351168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058954108200223154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mea_soratane 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1183920784009351168",
+        "conversation_id": "2058953495005614464",
+        "created_at": "2026-05-25T16:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058954108200223154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058954108200223154",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058953495005614464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 安安喵\n祝有个好梦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2057128877051588914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12077,
+          "following_count": 5097,
+          "like_count": 92417,
+          "listed_count": 22,
+          "media_count": 2263,
+          "tweet_count": 20105
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-15T01:41:39.000Z",
+        "description": "写小说的 | 小説を書いています",
+        "id": "1183920784009351168",
+        "location": "Tokyo Japan",
+        "name": "mea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057186735894007808/hZqS1mBa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 98,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 99
+        },
+        "username": "mea_soratane",
+        "verified": false
+      }
+    ]
+  }
+}

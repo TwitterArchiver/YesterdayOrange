@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2076490343244279850",
+    "created_at": "2026-07-13T02:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T03:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076490343244279850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/knowing_dreams…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/knowing_dreams/status/2076482291296276988",
+          "start": 15,
+          "url": "https://t.co/thF17QMUEk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076490343244279850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076482291296276988",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就是感觉自己在学历上很失败吧 https://t.co/thF17QMUEk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2076490343244279850",
+        "created_at": "2026-07-13T02:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076490343244279850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/knowing_dreams…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/knowing_dreams/status/2076482291296276988",
+              "start": 15,
+              "url": "https://t.co/thF17QMUEk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076490343244279850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076482291296276988",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是感觉自己在学历上很失败吧 https://t.co/thF17QMUEk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842108320611762178",
+        "conversation_id": "2076481145970274739",
+        "created_at": "2026-07-13T01:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076482291296276988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076482291296276988",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076481145970274739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 被毕业条件弄出阴影了吗😧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2075657040111018244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12180,
+          "following_count": 5185,
+          "like_count": 95473,
+          "listed_count": 20,
+          "media_count": 2362,
+          "tweet_count": 20790
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-04T07:44:08.000Z",
+        "description": "04/190cm/89kg/双 | 浮生若梦，为欢几何？| 生活推 · 碎碎念 · 纯清水 | 疑神疑鬼的深柜大处男 | 欢迎扩列，推止于推 | 各位看官大人能不能给孩子点点关注，球球了😣😣😣",
+        "id": "1842108320611762178",
+        "location": "群山之巅",
+        "name": "晓梦",
+        "pinned_tweet_id": "2073710072136622173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062431741814652928/ohg3kD4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 992,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 568
+        },
+        "url": "",
+        "username": "Knowing_Dreams",
+        "verified": true
+      }
+    ]
+  }
+}

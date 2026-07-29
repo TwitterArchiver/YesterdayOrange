@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985030977748705281"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "1985030987299078214",
+    "created_at": "2025-11-02T17:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T18:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985030987299078214"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7UwZjql1ti",
+          "end": 170,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1985030987299078214/photo/1",
+          "media_key": "3_1985030977748705281",
+          "start": 147,
+          "url": "https://t.co/7UwZjql1ti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985030987299078214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你失业了，所以白月光离开了你，你后悔赶走doro了。\n你开始早睡，这样可以听到她的温柔\n现在你醒了。\r你有点想她，但你很久没洗衣服了。\n现在你饿了。\n冰箱只剩下半袋干瘪的欧润吉。\n欧润吉的味道在嘴里颤抖，汁液酸苦的像生锈的时间\n正在这时，门铃声越过一串狼藉\r你打开门，刺眼的阳光从欧润吉透出来 https://t.co/7UwZjql1ti"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1985030977748705281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4w_KDjboAE6n0z.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985030977748705281"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1985030987299078214",
+        "created_at": "2025-11-02T17:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985030987299078214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7UwZjql1ti",
+              "end": 170,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1985030987299078214/photo/1",
+              "media_key": "3_1985030977748705281",
+              "start": 147,
+              "url": "https://t.co/7UwZjql1ti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985030987299078214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你失业了，所以白月光离开了你，你后悔赶走doro了。\n你开始早睡，这样可以听到她的温柔\n现在你醒了。\r你有点想她，但你很久没洗衣服了。\n现在你饿了。\n冰箱只剩下半袋干瘪的欧润吉。\n欧润吉的味道在嘴里颤抖，汁液酸苦的像生锈的时间\n正在这时，门铃声越过一串狼藉\r你打开门，刺眼的阳光从欧润吉透出来 https://t.co/7UwZjql1ti"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1984642176056541222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7487,
+          "following_count": 3044,
+          "like_count": 61187,
+          "listed_count": 14,
+          "media_count": 1232,
+          "tweet_count": 14289
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

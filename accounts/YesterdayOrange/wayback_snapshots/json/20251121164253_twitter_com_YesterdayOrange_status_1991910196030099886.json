@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1991910196030099886",
+    "created_at": "2025-11-21T16:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T17:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991910196030099886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ziantt_officia…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/ziantt_official/status/1991780570662330483",
+          "start": 16,
+          "url": "https://t.co/Tn0vDl6yBq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991910196030099886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991780570662330483",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你好厉害，我可以当你的舔狗吗🥺 https://t.co/Tn0vDl6yBq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991780567583715329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Q535FacAE6rNB.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1991910196030099886",
+        "created_at": "2025-11-21T16:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T17:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991910196030099886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ziantt_officia…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ziantt_official/status/1991780570662330483",
+              "start": 16,
+              "url": "https://t.co/Tn0vDl6yBq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991910196030099886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991780570662330483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你好厉害，我可以当你的舔狗吗🥺 https://t.co/Tn0vDl6yBq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991780567583715329"
+          ]
+        },
+        "author_id": "1689214483481452544",
+        "conversation_id": "1991780570662330483",
+        "created_at": "2025-11-21T08:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T09:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991780570662330483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9p2yEV72B",
+              "end": 30,
+              "expanded_url": "https://x.com/ZianTT_Official/status/1991780570662330483/photo/1",
+              "media_key": "3_1991780567583715329",
+              "start": 7,
+              "url": "https://t.co/G9p2yEV72B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991780570662330483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5544,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比赛奖金到手 https://t.co/G9p2yEV72B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1991897930484351162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8500,
+          "following_count": 3270,
+          "like_count": 65544,
+          "listed_count": 14,
+          "media_count": 1369,
+          "tweet_count": 15020
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T09:58:21.000Z",
+        "description": "DevOps, SRE, Cyber Security,  Web Developer | Python & GoLang & JavaScript | 17 y.o. | High School Student | LightXi Inc. | 一切随缘 顺其自然 | 也许还没翻车吧？",
+        "id": "1689214483481452544",
+        "location": "Shanghai, PRC",
+        "name": "ZianTT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990826336236285956/BZi5flJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 308,
+          "like_count": 836,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1431
+        },
+        "username": "ZianTT_Official",
+        "verified": true
+      }
+    ]
+  }
+}

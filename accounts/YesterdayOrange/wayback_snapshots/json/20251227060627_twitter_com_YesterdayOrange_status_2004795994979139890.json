@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2004443814564696079",
+    "created_at": "2025-12-27T06:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T07:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004795994979139890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1900200898716196872",
+          "start": 0,
+          "username": "Tyii_Jie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004795994979139890",
+    "in_reply_to_user_id": "1900200898716196872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004795694327234828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tyii_Jie 那互关w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2004443814564696079",
+        "created_at": "2025-12-27T06:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T07:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004795994979139890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1900200898716196872",
+              "start": 0,
+              "username": "Tyii_Jie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004795994979139890",
+        "in_reply_to_user_id": "1900200898716196872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004795694327234828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tyii_Jie 那互关w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900200898716196872",
+        "conversation_id": "2004443814564696079",
+        "created_at": "2025-12-27T06:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T07:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004795694327234828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004795694327234828",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004443814564696079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2004781078381560079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9657,
+          "following_count": 3540,
+          "like_count": 69582,
+          "listed_count": 16,
+          "media_count": 1538,
+          "tweet_count": 16011
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T15:03:01.000Z",
+        "description": "粤A 09男高 🌈side or 0.5 扩列私信~",
+        "id": "1900200898716196872",
+        "location": "粤A",
+        "name": "桀",
+        "pinned_tweet_id": "1936845941929365742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990374156161179648/dTxyffS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 191,
+          "like_count": 3957,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 302
+        },
+        "username": "Tyii_Jie",
+        "verified": false
+      }
+    ]
+  }
+}

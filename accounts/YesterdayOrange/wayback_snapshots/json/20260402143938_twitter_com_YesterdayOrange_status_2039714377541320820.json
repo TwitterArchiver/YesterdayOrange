@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2039710166703304995",
+    "created_at": "2026-04-02T14:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T15:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039714377541320820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1886449401029140485",
+          "start": 0,
+          "username": "shuanghenru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039714377541320820",
+    "in_reply_to_user_id": "1886449401029140485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039713781853626478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuanghenru 这是什么关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2039710166703304995",
+        "created_at": "2026-04-02T14:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039714377541320820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1886449401029140485",
+              "start": 0,
+              "username": "shuanghenru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039714377541320820",
+        "in_reply_to_user_id": "1886449401029140485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039713781853626478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuanghenru 这是什么关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886449401029140485",
+        "conversation_id": "2039710166703304995",
+        "created_at": "2026-04-02T14:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039713781853626478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039713781853626478",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039710166703304995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 盲猜你在长沙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2039378057040113862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11511,
+          "following_count": 4799,
+          "like_count": 84872,
+          "listed_count": 20,
+          "media_count": 2033,
+          "tweet_count": 18773
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-03T16:19:29.000Z",
+        "description": "半个家长党 有小证 互fo   双相  09年\nmtf 友跨 her/she 被动式说话  \nHRT:5.9 2025\n日语在学中/英语/中文\n玩过的游戏有:アークナイツ lost light 泰拉瑞亚kards///作息时间 固定三小时睡眠///可以找我聊天",
+        "id": "1886449401029140485",
+        "location": "第五高原",
+        "name": "霜🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952663751691255808/P0sBq0XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 766,
+          "like_count": 571,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 448
+        },
+        "username": "shuanghenru",
+        "verified": false
+      }
+    ]
+  }
+}

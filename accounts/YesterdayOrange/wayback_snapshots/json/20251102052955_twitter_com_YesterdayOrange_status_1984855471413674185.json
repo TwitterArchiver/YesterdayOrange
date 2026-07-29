@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1984855471413674185",
+    "created_at": "2025-11-02T05:29:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T06:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984855471413674185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/1984838733661909215",
+          "start": 35,
+          "url": "https://t.co/LISh1VvvT8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984855471413674185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984838733661909215",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最后我吃了统一红烧牛肉面，因为我没有北京户口，只是一个低端人口😢😭😭 https://t.co/LISh1VvvT8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1984855471413674185",
+        "created_at": "2025-11-02T05:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T06:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984855471413674185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/1984838733661909215",
+              "start": 35,
+              "url": "https://t.co/LISh1VvvT8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984855471413674185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984838733661909215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后我吃了统一红烧牛肉面，因为我没有北京户口，只是一个低端人口😢😭😭 https://t.co/LISh1VvvT8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1984838733661909215",
+        "created_at": "2025-11-02T04:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T05:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984838733661909215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984838733661909215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坐标北京，今天中午吃什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1984642176056541222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7439,
+          "following_count": 3042,
+          "like_count": 60912,
+          "listed_count": 14,
+          "media_count": 1229,
+          "tweet_count": 14265
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2006248208918556828",
+    "created_at": "2025-12-31T16:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T17:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006401510255796301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699985068721082368",
+          "start": 0,
+          "username": "RX_Xron28390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006401510255796301",
+    "in_reply_to_user_id": "1699985068721082368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006400624661762221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RX_Xron28390 我当你的舔狗可以和你在一起吗😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2006248208918556828",
+        "created_at": "2025-12-31T16:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006401510255796301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006401510255796301",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006400624661762221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 我当你的舔狗可以和你在一起吗😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699985068721082368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2006248208918556828",
+        "created_at": "2025-12-31T16:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006400624661762221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006400624661762221",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有自己房间\n有两个笔记本\n请过微积分预科的一对一\n外语上过留学预备的\n学过钢琴\n学过网球\n牙齿两颗根管\n任天堂的有一个\n家里一直请一位打扫阿姨\n全都有，母亲双本一研\n要是算上爷爷奶奶的的就好几辆了\n杭州学区房算吗\n没有诶\n每年都会有旅行计划\n目前美国留学\n长程段会坐商务\n读ing（谐音梗扣钱\n没，懒得\n现在在读私立高中\n美国国籍"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006248208918556828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 有自己房间\n有两个笔记本\n请过微积分预科的一对一\n外语上过留学预备的\n学过钢琴\n学过网球\n牙齿两颗根管\n任天堂的有一个\n家里一直请一位打扫阿姨\n全都有，母亲双本一研\n要是算上爷爷奶奶的的就好几辆了\n杭州学区房算吗\n没有诶\n每年都会有旅行计划\n目前美国留学\n长程段会坐商务\n读ing（谐音梗扣钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2006395834460475728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9829,
+          "following_count": 3640,
+          "like_count": 70746,
+          "listed_count": 16,
+          "media_count": 1581,
+          "tweet_count": 16225
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "宾洲男高/前世为德皇战死凡尔登转世的bf轮椅人 /paradox社战犯/三观矫正器🌍 Believing in peace, dialogue, and shared humanity. 相信和平、对话和人类共同体，凡尔登重新军事化ing。德皇kaiser：@sanitf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 129,
+                "username": "sanitf"
+              }
+            ]
+          }
+        },
+        "id": "1699985068721082368",
+        "location": "凡爾登，378號高地陣地，1916",
+        "name": "𝑇𝑦𝑟 𝑣𝑜𝑛 𝑉𝑒𝑟𝑑𝑢𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2006384462209142895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993498827278401536/FkldZrF0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 99,
+          "like_count": 1711,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 1387
+        },
+        "username": "RX_Xron28390",
+        "verified": true
+      }
+    ]
+  }
+}

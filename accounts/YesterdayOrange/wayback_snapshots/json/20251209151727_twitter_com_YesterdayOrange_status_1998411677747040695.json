@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1998411677747040695",
+    "created_at": "2025-12-09T15:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T16:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998411677747040695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lzj2023/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/lzj2023/status/1998335688786227496",
+          "start": 15,
+          "url": "https://t.co/ucvd5AjBOB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998411677747040695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998335688786227496",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "苍穹外卖对我来说已经很难了喵 https://t.co/ucvd5AjBOB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1998411677747040695",
+        "created_at": "2025-12-09T15:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T16:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998411677747040695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lzj2023/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/lzj2023/status/1998335688786227496",
+              "start": 15,
+              "url": "https://t.co/ucvd5AjBOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998411677747040695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998335688786227496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "苍穹外卖对我来说已经很难了喵 https://t.co/ucvd5AjBOB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "790115428852830212",
+        "conversation_id": "1998220990485291314",
+        "created_at": "2025-12-09T10:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T11:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998335688786227496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1579610428107534342",
+              "start": 0,
+              "username": "HeGuanzhong123"
+            },
+            {
+              "end": 32,
+              "id": "1788485889225834496",
+              "start": 16,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998335688786227496",
+        "in_reply_to_user_id": "1579610428107534342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1086,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998246286278189356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeGuanzhong123 @YesterdayOrange 苍穹外卖和谷粒商城表示严重不服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1997998050275717160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9489,
+          "following_count": 3425,
+          "like_count": 68301,
+          "listed_count": 16,
+          "media_count": 1484,
+          "tweet_count": 15714
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-23T08:59:32.000Z",
+        "description": "一名简中用户，技术人，开通x，看看外面的事物。",
+        "id": "790115428852830212",
+        "location": "中华人民共和国",
+        "name": "lzj2020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/826793413282496513/VFXuYE84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 735,
+          "like_count": 2650,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 1857
+        },
+        "username": "lzj2023",
+        "verified": false
+      }
+    ]
+  }
+}

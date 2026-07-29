@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2033193912601592256",
+    "created_at": "2026-03-15T14:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T15:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033193912601592256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1776581654938886144",
+          "start": 3,
+          "username": "soyasukidsu"
+        },
+        {
+          "end": 33,
+          "id": "1788485889225834496",
+          "start": 17,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033193912601592256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033102202647228430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @soyasukidsu: @YesterdayOrange 男孩低着头，像是在看什么。\n我和柴芷兰站在门口，没有马上走过去。\n店里的灯很亮，亮得有点刺眼。\n油炸机没有声音，冰柜也没有声音，整个麦当劳像是被谁按了暂停。\n“有人吗？”我喊了一声。\n没有人回答。\n柴芷兰看着那…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2033193912601592256",
+        "created_at": "2026-03-15T14:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033193912601592256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1776581654938886144",
+              "start": 3,
+              "username": "soyasukidsu"
+            },
+            {
+              "end": 33,
+              "id": "1788485889225834496",
+              "start": 17,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033193912601592256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033102202647228430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @soyasukidsu: @YesterdayOrange 男孩低着头，像是在看什么。\n我和柴芷兰站在门口，没有马上走过去。\n店里的灯很亮，亮得有点刺眼。\n油炸机没有声音，冰柜也没有声音，整个麦当劳像是被谁按了暂停。\n“有人吗？”我喊了一声。\n没有人回答。\n柴芷兰看着那…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776581654938886144",
+        "conversation_id": "2033010207463485580",
+        "created_at": "2026-03-15T08:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T09:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033102202647228430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033102202647228430",
+        "in_reply_to_user_id": "1776581654938886144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "男孩低着头，像是在看什么。\n我和柴芷兰站在门口，没有马上走过去。\n店里的灯很亮，亮得有点刺眼。\n油炸机没有声音，冰柜也没有声音，整个麦当劳像是被谁按了暂停。\n“有人吗？”我喊了一声。\n没有人回答。\n柴芷兰看着那个男孩。\n“他什么时候进来的？”\n我摇了摇头。\n我刚才明明看见门口没有人。\n男孩慢慢抬起头。\n他看起来和我们差不多大。\n“你们也来吃薯条吗？”他说。\n他的声音很轻，好像很久没有说话。\n我走过去一点。\n桌子上的薯饼还在冒一点点热气。\n“店里没人吗？”我问。\n男孩摇了摇头。\n“他们刚刚都走了。”\n“去哪了？”\n“回家。”\n我看了一眼厨房。\n灯亮着，机器也开着，但就是没有人。\n柴芷兰忽然说：\n“你是不是刚刚在公交车上？”\n男孩没有回答。\n他只是把桌子上的薯饼往我们这边推了一点。\n“吃吧。”\n他说。\n“反正他们也不会回来了。”\n我忽然觉得有点冷。\n外面的路灯透过玻璃照进来，影子拉得很长。\n我回头看了一眼门口。\n公交车站已经看不见了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033078412236165247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 男孩低着头，像是在看什么。\n我和柴芷兰站在门口，没有马上走过去。\n店里的灯很亮，亮得有点刺眼。\n油炸机没有声音，冰柜也没有声音，整个麦当劳像是被谁按了暂停。\n“有人吗？”我喊了一声。\n没有人回答。\n柴芷兰看着那个男孩。\n“他什么时候进来的？”\n我摇了摇头。\n我刚才明明看见门口没有人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2033010207463485580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11186,
+          "following_count": 4530,
+          "like_count": 81886,
+          "listed_count": 20,
+          "media_count": 1943,
+          "tweet_count": 18185
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-06T12:04:22.000Z",
+        "description": "06  |  Games  |  CN/EN/JP  |  如果你的帖子很有意思 我也会留下很有意思的回复 看到同类会互fo口牙 ᶻz ₍ _ _ ₎  ｜ China / Salt Lake City | US",
+        "id": "1776581654938886144",
+        "location": "壹世壞-珍珠世界",
+        "name": "wave",
+        "pinned_tweet_id": "2032807222083019196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028419933504520193/cbZk4e7X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 246,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 109
+        },
+        "username": "soyasukidsu",
+        "verified": true
+      }
+    ]
+  }
+}

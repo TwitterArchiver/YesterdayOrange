@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039192130950926336",
+        "3_2039192130959376384"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2039192143642915181",
+    "created_at": "2026-04-01T04:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T05:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039192143642915181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QToJ2gMQsm",
+          "end": 59,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2039192143642915181/photo/1",
+          "media_key": "3_2039192130950926336",
+          "start": 36,
+          "url": "https://t.co/QToJ2gMQsm"
+        },
+        {
+          "display_url": "pic.x.com/QToJ2gMQsm",
+          "end": 59,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2039192143642915181/photo/1",
+          "media_key": "3_2039192130959376384",
+          "start": 36,
+          "url": "https://t.co/QToJ2gMQsm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039192143642915181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如何看待牢A（斯奎奇大王）在张雪峰去世后立即官宣提供升学辅导学业规划？ https://t.co/QToJ2gMQsm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1450,
+        "media_key": "3_2039192130950926336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEyqcGIaEAA7mGd.jpg",
+        "width": 1430
+      },
+      {
+        "height": 1088,
+        "media_key": "3_2039192130959376384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEyqcGKbAAAsaWO.jpg",
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039192130950926336",
+            "3_2039192130959376384"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2039192143642915181",
+        "created_at": "2026-04-01T04:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039192143642915181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QToJ2gMQsm",
+              "end": 59,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2039192143642915181/photo/1",
+              "media_key": "3_2039192130950926336",
+              "start": 36,
+              "url": "https://t.co/QToJ2gMQsm"
+            },
+            {
+              "display_url": "pic.x.com/QToJ2gMQsm",
+              "end": 59,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2039192143642915181/photo/1",
+              "media_key": "3_2039192130959376384",
+              "start": 36,
+              "url": "https://t.co/QToJ2gMQsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039192143642915181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何看待牢A（斯奎奇大王）在张雪峰去世后立即官宣提供升学辅导学业规划？ https://t.co/QToJ2gMQsm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2038124373736083568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11491,
+          "following_count": 4798,
+          "like_count": 84789,
+          "listed_count": 20,
+          "media_count": 2024,
+          "tweet_count": 18738
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

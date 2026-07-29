@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022892797540601856",
+        "3_2022892797523824644"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2022892805799186476",
+    "created_at": "2026-02-15T04:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T05:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022892805799186476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RtlFIMBohO",
+          "end": 133,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2022892805799186476/photo/1",
+          "media_key": "3_2022892797540601856",
+          "start": 110,
+          "url": "https://t.co/RtlFIMBohO"
+        },
+        {
+          "display_url": "pic.x.com/RtlFIMBohO",
+          "end": 133,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2022892805799186476/photo/1",
+          "media_key": "3_2022892797523824644",
+          "start": 110,
+          "url": "https://t.co/RtlFIMBohO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022892805799186476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "河北一中学寒假手机封机仪式引热议，要求学生注销微信抖音账号，这种管理方式合理吗？\n寒假即将来临，河北邢台三中教育集团皓顺校区要求学生进行封手机仪式。对此网友们热议，有的支持，但也有人认为此举限制了学生自由，过于离谱等。 https://t.co/RtlFIMBohO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022892797540601856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLCSBgakAAwKWg.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022892797523824644",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLCSBcakAQ3iBK.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022892797540601856",
+            "3_2022892797523824644"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2022892805799186476",
+        "created_at": "2026-02-15T04:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022892805799186476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RtlFIMBohO",
+              "end": 133,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2022892805799186476/photo/1",
+              "media_key": "3_2022892797540601856",
+              "start": 110,
+              "url": "https://t.co/RtlFIMBohO"
+            },
+            {
+              "display_url": "pic.x.com/RtlFIMBohO",
+              "end": 133,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2022892805799186476/photo/1",
+              "media_key": "3_2022892797523824644",
+              "start": 110,
+              "url": "https://t.co/RtlFIMBohO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022892805799186476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "河北一中学寒假手机封机仪式引热议，要求学生注销微信抖音账号，这种管理方式合理吗？\n寒假即将来临，河北邢台三中教育集团皓顺校区要求学生进行封手机仪式。对此网友们热议，有的支持，但也有人认为此举限制了学生自由，过于离谱等。 https://t.co/RtlFIMBohO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2022703073089720430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10507,
+          "following_count": 4074,
+          "like_count": 76275,
+          "listed_count": 17,
+          "media_count": 1780,
+          "tweet_count": 17255
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

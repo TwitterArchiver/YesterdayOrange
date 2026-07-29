@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2047156538201231662",
+    "created_at": "2026-04-23T03:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T04:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047156538201231662"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047156538201231662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "您好，您于5月6日购买的“ 穿越回五一前 ”套餐已经生效。 现在是4月23日，由于本公司的服务发生偏差导致您多回了7天，对于这多余的天数本公司需要向您收取额外的手续费，总共50元整。 请您及时缴纳，祝您生活愉快，享受马上到来的五一假期！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2047156538201231662",
+        "created_at": "2026-04-23T03:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047156538201231662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047156538201231662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "您好，您于5月6日购买的“ 穿越回五一前 ”套餐已经生效。 现在是4月23日，由于本公司的服务发生偏差导致您多回了7天，对于这多余的天数本公司需要向您收取额外的手续费，总共50元整。 请您及时缴纳，祝您生活愉快，享受马上到来的五一假期！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2046952590198595900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11657,
+          "following_count": 4940,
+          "like_count": 87857,
+          "listed_count": 22,
+          "media_count": 2150,
+          "tweet_count": 19353
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

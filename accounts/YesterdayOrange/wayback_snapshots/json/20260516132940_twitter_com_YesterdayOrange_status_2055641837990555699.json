@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2055553129564045711",
+    "created_at": "2026-05-16T13:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055641837990555699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1509808650512216065",
+          "start": 0,
+          "username": "Wmouse_kon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055641837990555699",
+    "in_reply_to_user_id": "1509808650512216065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055638636654481812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wmouse_kon 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2055553129564045711",
+        "created_at": "2026-05-16T13:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055641837990555699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1509808650512216065",
+              "start": 0,
+              "username": "Wmouse_kon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055641837990555699",
+        "in_reply_to_user_id": "1509808650512216065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055638636654481812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wmouse_kon 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509808650512216065",
+        "conversation_id": "2055553129564045711",
+        "created_at": "2026-05-16T13:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055638636654481812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055638636654481812",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055553129564045711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 抱抱揉揉贴贴摸摸拍拍~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2054845995012509696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12045,
+          "following_count": 5056,
+          "like_count": 91302,
+          "listed_count": 22,
+          "media_count": 2241,
+          "tweet_count": 19960
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-01T08:23:42.000Z",
+        "description": "有些焦虑强迫，\n喜欢插画、游戏、音乐\n希望身边的朋友天天开心\n没人会关注电影片尾的致谢内容，除非电影本身精彩绝伦，所以我的朋友，人生最重要的是过程",
+        "id": "1509808650512216065",
+        "name": "锡鼠白茶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509809920169893888/IGbHNkOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 19,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 169
+        },
+        "username": "Wmouse_kon",
+        "verified": false
+      }
+    ]
+  }
+}

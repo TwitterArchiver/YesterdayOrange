@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1984212310089728048",
+    "created_at": "2025-11-27T02:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T03:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993871858182267315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1661463910942408720",
+          "start": 0,
+          "username": "amberhanlinyang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993871858182267315",
+    "in_reply_to_user_id": "1661463910942408720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993870803381744091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amberhanlinyang 这是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993870787816640512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6um6uPW0AAp7qo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1984212310089728048",
+        "created_at": "2025-11-27T02:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993871858182267315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1661463910942408720",
+              "start": 0,
+              "username": "amberhanlinyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993871858182267315",
+        "in_reply_to_user_id": "1661463910942408720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993870803381744091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amberhanlinyang 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993870787816640512"
+          ]
+        },
+        "author_id": "1661463910942408720",
+        "conversation_id": "1984212310089728048",
+        "created_at": "2025-11-27T02:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993870803381744091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cdQKJoiN8B",
+              "end": 47,
+              "expanded_url": "https://x.com/amberhanlinyang/status/1993870803381744091/photo/1",
+              "media_key": "3_1993870787816640512",
+              "start": 24,
+              "url": "https://t.co/cdQKJoiN8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993870803381744091",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984212310089728048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 在坎昆\n嘻嘻 https://t.co/cdQKJoiN8B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1992956304256852427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9208,
+          "following_count": 3358,
+          "like_count": 67099,
+          "listed_count": 14,
+          "media_count": 1413,
+          "tweet_count": 15408
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T20:07:41.000Z",
+        "description": "这里香蕉皮(⊙ᗜ⊙)/ESFP/是画渣",
+        "id": "1661463910942408720",
+        "name": "一只香蕉皮",
+        "pinned_tweet_id": "1661901816303595521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988119440198955014/Eigrpzo7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 135,
+          "like_count": 9270,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 1233
+        },
+        "username": "amberhanlinyang",
+        "verified": false
+      }
+    ]
+  }
+}

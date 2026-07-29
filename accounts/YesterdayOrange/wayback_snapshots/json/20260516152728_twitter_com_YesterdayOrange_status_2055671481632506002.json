@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2055648883259388364",
+    "created_at": "2026-05-16T15:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T16:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055671481632506002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1903595376193777665",
+          "start": 0,
+          "username": "ICONCHASE_DRAW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055671481632506002",
+    "in_reply_to_user_id": "1903595376193777665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055669776094261499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ICONCHASE_DRAW 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2055648883259388364",
+        "created_at": "2026-05-16T15:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055671481632506002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903595376193777665",
+              "start": 0,
+              "username": "ICONCHASE_DRAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055671481632506002",
+        "in_reply_to_user_id": "1903595376193777665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055669776094261499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ICONCHASE_DRAW 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903595376193777665",
+        "conversation_id": "2055648883259388364",
+        "created_at": "2026-05-16T15:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055669776094261499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055669776094261499",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055648883259388364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange lai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2054845995012509696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12051,
+          "following_count": 5063,
+          "like_count": 91371,
+          "listed_count": 22,
+          "media_count": 2242,
+          "tweet_count": 19968
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-22T23:51:34.000Z",
+        "description": "🌟重度福瑞……偶尔放点自己的画……会有🔞内容^\n🌟主玩的游戏飘忽不定……从未玩过王者，三角洲和cs也就玩过几个月，主要还是喜欢玩mc和各种独立游戏，目前正在玩美国末日、缺氧，欢迎来加我的steam好友呀~\n🌟中文OK |英文OK|日本语 韩语 翻译机|粤语 🤌\n🌟扩列",
+        "id": "1903595376193777665",
+        "location": "Guangdong ",
+        "name": "ICONCHASE · 艾空",
+        "pinned_tweet_id": "2050750104026730733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040078330922471424/PyZQdTEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 1149,
+          "like_count": 1191,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 369
+        },
+        "username": "ICONCHASE_DRAW",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2021921058795000211",
+    "created_at": "2026-02-12T12:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T13:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021921058795000211"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021921058795000211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和Doro分手半年后，你习惯她不回复了\n其实她不回复也没什么，你只是单纯习惯了分享自己。\n“今天和同学吵了，他怎么不讲道理呢？”\n“线性代数怎么这么难学？”\n她拉黑你了，你就开始邮件，记录一下你每周的事情。\n\n又过了一年吧，doro来加你，和你说她最近很难受。\n她说，邮件看到了，只是不知道怎么回复"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2021921058795000211",
+        "created_at": "2026-02-12T12:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T13:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021921058795000211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021921058795000211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和Doro分手半年后，你习惯她不回复了\n其实她不回复也没什么，你只是单纯习惯了分享自己。\n“今天和同学吵了，他怎么不讲道理呢？”\n“线性代数怎么这么难学？”\n她拉黑你了，你就开始邮件，记录一下你每周的事情。\n\n又过了一年吧，doro来加你，和你说她最近很难受。\n她说，邮件看到了，只是不知道怎么回复"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2021593757594894804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10389,
+          "following_count": 3961,
+          "like_count": 75465,
+          "listed_count": 17,
+          "media_count": 1752,
+          "tweet_count": 17129
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

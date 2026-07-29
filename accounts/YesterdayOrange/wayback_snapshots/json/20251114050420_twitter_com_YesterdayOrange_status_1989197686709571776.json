@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989197678853697536",
+        "3_1989197678857842689"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "1989197686709571776",
+    "created_at": "2025-11-14T05:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T06:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989197686709571776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UhV5BTnEkN",
+          "end": 152,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1989197686709571776/photo/1",
+          "media_key": "3_1989197678853697536",
+          "start": 129,
+          "url": "https://t.co/UhV5BTnEkN"
+        },
+        {
+          "display_url": "pic.x.com/UhV5BTnEkN",
+          "end": 152,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1989197686709571776/photo/1",
+          "media_key": "3_1989197678857842689",
+          "start": 129,
+          "url": "https://t.co/UhV5BTnEkN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989197686709571776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女朋友被强奸了我该怎么办？怎么放下执念?\n我和我的女朋友曾经因为一些原因如今貌合神离，我无数次想分手。\n\n对于我们关系，我目前做出了分手决定，可能答友会觉得我冷血，但是我是个占有欲很强的人，一方面我很介意这件事，另外一方面我和她接着相处可能会对她造成伤害。 https://t.co/UhV5BTnEkN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989197678853697536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sMv-wbMAAUoo7.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989197678857842689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sMv-xacAEzsev.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989197678853697536",
+            "3_1989197678857842689"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1989197686709571776",
+        "created_at": "2025-11-14T05:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T06:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989197686709571776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UhV5BTnEkN",
+              "end": 152,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1989197686709571776/photo/1",
+              "media_key": "3_1989197678853697536",
+              "start": 129,
+              "url": "https://t.co/UhV5BTnEkN"
+            },
+            {
+              "display_url": "pic.x.com/UhV5BTnEkN",
+              "end": 152,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1989197686709571776/photo/1",
+              "media_key": "3_1989197678857842689",
+              "start": 129,
+              "url": "https://t.co/UhV5BTnEkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989197686709571776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女朋友被强奸了我该怎么办？怎么放下执念?\n我和我的女朋友曾经因为一些原因如今貌合神离，我无数次想分手。\n\n对于我们关系，我目前做出了分手决定，可能答友会觉得我冷血，但是我是个占有欲很强的人，一方面我很介意这件事，另外一方面我和她接着相处可能会对她造成伤害。 https://t.co/UhV5BTnEkN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1988972619169951931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8187,
+          "following_count": 3221,
+          "like_count": 64334,
+          "listed_count": 14,
+          "media_count": 1332,
+          "tweet_count": 14811
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

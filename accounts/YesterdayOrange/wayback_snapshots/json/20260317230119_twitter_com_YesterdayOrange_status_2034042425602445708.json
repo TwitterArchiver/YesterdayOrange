@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2033908279722783009",
+    "created_at": "2026-03-17T23:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T00:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034042425602445708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1373596163723567112",
+          "start": 0,
+          "username": "AC_Aqua_Crew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034042425602445708",
+    "in_reply_to_user_id": "1373596163723567112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034001576675971376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AC_Aqua_Crew 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2033908279722783009",
+        "created_at": "2026-03-17T23:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T00:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034042425602445708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1373596163723567112",
+              "start": 0,
+              "username": "AC_Aqua_Crew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034042425602445708",
+        "in_reply_to_user_id": "1373596163723567112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034001576675971376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AC_Aqua_Crew 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373596163723567112",
+        "conversation_id": "2033908279722783009",
+        "created_at": "2026-03-17T20:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T21:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034001576675971376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034001576675971376",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033908279722783009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 要欸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2033924730877837630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11264,
+          "following_count": 4591,
+          "like_count": 82354,
+          "listed_count": 20,
+          "media_count": 1956,
+          "tweet_count": 18281
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-21T11:23:56.000Z",
+        "description": "OK: 線下(交朋友)/私訊聊天/給點陪伴 | NG: 意義不明的私訊(包括只說你好)/詐騙/外貌協會(主要是我也不好看) | 自介網頁→https://t.co/RBcKAaU4bh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "about-me.ac-for-personal.com",
+                "end": 92,
+                "expanded_url": "http://about-me.ac-for-personal.com",
+                "start": 69,
+                "url": "https://t.co/RBcKAaU4bh"
+              }
+            ]
+          }
+        },
+        "id": "1373596163723567112",
+        "location": "from tw",
+        "name": "AC(Aqua Crew)あくあクルー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679760289552805888/_4c6cgLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 100,
+          "like_count": 4264,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 74
+        },
+        "username": "AC_Aqua_Crew",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2054079741792337946",
+    "created_at": "2026-05-12T06:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054079741792337946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qishiyoushi/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/qishiyoushi/status/2054076093137891329",
+          "start": 5,
+          "url": "https://t.co/mWznlmd8wc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054079741792337946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054076093137891329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "V个朋友 https://t.co/mWznlmd8wc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2054079741792337946",
+        "created_at": "2026-05-12T06:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054079741792337946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qishiyoushi/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/qishiyoushi/status/2054076093137891329",
+              "start": 5,
+              "url": "https://t.co/mWznlmd8wc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054079741792337946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054076093137891329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "V个朋友 https://t.co/mWznlmd8wc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722555779528712192",
+        "conversation_id": "2053885837105066047",
+        "created_at": "2026-05-12T05:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T06:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054076093137891329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054076093137891329",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053885837105066047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 其实有几个好朋友陪在身边就能走出来了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2054007668105412917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11922,
+          "following_count": 4993,
+          "like_count": 90119,
+          "listed_count": 22,
+          "media_count": 2223,
+          "tweet_count": 19830
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-09T10:04:50.000Z",
+        "description": "",
+        "id": "1722555779528712192",
+        "name": "繁鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052104182988255232/ytoAOzj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 22,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "qishiyoushi",
+        "verified": false
+      }
+    ]
+  }
+}

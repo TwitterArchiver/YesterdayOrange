@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2052089816666489042",
+    "created_at": "2026-05-06T18:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T19:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052089816666489042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/quite8964/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/quite8964/status/2047956954828722191",
+          "start": 17,
+          "url": "https://t.co/cfMbMWBTgr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052089816666489042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047956954828722191",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "身边朋友一个个远离，是我做错了吗 https://t.co/cfMbMWBTgr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2052089816666489042",
+        "created_at": "2026-05-06T18:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T19:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052089816666489042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quite8964/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/quite8964/status/2047956954828722191",
+              "start": 17,
+              "url": "https://t.co/cfMbMWBTgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052089816666489042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047956954828722191",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "身边朋友一个个远离，是我做错了吗 https://t.co/cfMbMWBTgr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479696561302999042",
+        "conversation_id": "2047956954828722191",
+        "created_at": "2026-04-25T08:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047956954828722191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047956954828722191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3543,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "身边朋友一个个远离，是我做错了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2051560833235444117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11905,
+          "following_count": 4992,
+          "like_count": 89907,
+          "listed_count": 23,
+          "media_count": 2209,
+          "tweet_count": 19761
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 想要得到更多的喜欢和爱 可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "dominnicchina"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "枫糖小橘🍊",
+        "pinned_tweet_id": "2039014410736529909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10829,
+          "following_count": 3087,
+          "like_count": 33471,
+          "listed_count": 29,
+          "media_count": 645,
+          "tweet_count": 14743
+        },
+        "username": "quite8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1992920862786515444",
+    "created_at": "2025-11-24T11:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T12:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992920862786515444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tlciop/status/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/tlciop/status/1992902058765332485",
+          "start": 35,
+          "url": "https://t.co/OT3efHMGHU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992920862786515444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992902058765332485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "据我所知，PRC甚至没有婚姻权，我不清楚你说的“要求特权”是什么地方 https://t.co/OT3efHMGHU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1992920862786515444",
+        "created_at": "2025-11-24T11:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T12:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992920862786515444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tlciop/status/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/tlciop/status/1992902058765332485",
+              "start": 35,
+              "url": "https://t.co/OT3efHMGHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992920862786515444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992902058765332485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "据我所知，PRC甚至没有婚姻权，我不清楚你说的“要求特权”是什么地方 https://t.co/OT3efHMGHU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416577463279312908",
+        "conversation_id": "1992813614508683737",
+        "created_at": "2025-11-24T10:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992902058765332485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3232423830",
+              "start": 0,
+              "username": "david77785"
+            },
+            {
+              "end": 28,
+              "id": "1788485889225834496",
+              "start": 12,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992902058765332485",
+        "in_reply_to_user_id": "3232423830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992887499518284048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@david77785 @YesterdayOrange 已经从索要平权变成要求特权了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1992692916951941367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8816,
+          "following_count": 3281,
+          "like_count": 66142,
+          "listed_count": 14,
+          "media_count": 1390,
+          "tweet_count": 15144
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-18T01:56:10.000Z",
+        "description": "",
+        "id": "1416577463279312908",
+        "name": "TwilightR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901479545515257856/l-5UCb8D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 90,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 489
+        },
+        "username": "TLciop",
+        "verified": false
+      }
+    ]
+  }
+}

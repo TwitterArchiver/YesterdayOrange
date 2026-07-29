@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2036708604733280751",
+    "created_at": "2026-03-25T07:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T08:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036708604733280751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2036493264812122550",
+          "start": 56,
+          "url": "https://t.co/kTI8QKjCBK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036708604733280751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036493264812122550",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "出柜是什么很生僻的词语吗？\n我的意思是，对父亲通知了我的性取向。\n怎么好多人有这么逆天的理解方式，无语死了…… https://t.co/kTI8QKjCBK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2036708604733280751",
+        "created_at": "2026-03-25T07:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036708604733280751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2036493264812122550",
+              "start": 56,
+              "url": "https://t.co/kTI8QKjCBK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036708604733280751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036493264812122550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出柜是什么很生僻的词语吗？\n我的意思是，对父亲通知了我的性取向。\n怎么好多人有这么逆天的理解方式，无语死了…… https://t.co/kTI8QKjCBK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2036493264812122550",
+        "created_at": "2026-03-24T17:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T18:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036493264812122550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036493264812122550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6783,
+          "like_count": 84,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和父亲出柜了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2036351762710639004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11409,
+          "following_count": 4794,
+          "like_count": 84254,
+          "listed_count": 20,
+          "media_count": 2002,
+          "tweet_count": 18646
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

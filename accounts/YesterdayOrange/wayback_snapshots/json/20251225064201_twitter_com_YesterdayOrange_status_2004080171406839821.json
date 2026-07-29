@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2003863586943484375",
+    "created_at": "2025-12-25T06:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T07:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004080171406839821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1295902697594396672",
+          "start": 0,
+          "username": "Doonotdye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004080171406839821",
+    "in_reply_to_user_id": "1295902697594396672",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004040918677201177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Doonotdye 🍊🍊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2003863586943484375",
+        "created_at": "2025-12-25T06:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T07:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004080171406839821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1295902697594396672",
+              "start": 0,
+              "username": "Doonotdye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004080171406839821",
+        "in_reply_to_user_id": "1295902697594396672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004040918677201177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Doonotdye 🍊🍊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295902697594396672",
+        "conversation_id": "2003863586943484375",
+        "created_at": "2025-12-25T04:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T05:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004040918677201177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004040918677201177",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003863586943484375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 给我两个欧润吉。\n好久都没吃到过了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2003521084050837968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9583,
+          "following_count": 3468,
+          "like_count": 69163,
+          "listed_count": 15,
+          "media_count": 1532,
+          "tweet_count": 15925
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-19T01:57:46.000Z",
+        "description": "何为得幸？  “清风，骄阳，无扰事。” 可否具体？ “相离，相聚，不忘初心。” 可否再具体？ “余生有你。”",
+        "id": "1295902697594396672",
+        "location": "心房",
+        "name": "你的圈内唯一人脉（李嘉图版）",
+        "pinned_tweet_id": "1673755786256830465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1314847880914505729/yz6EY7BC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 177,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 91
+        },
+        "username": "Doonotdye",
+        "verified": false
+      }
+    ]
+  }
+}

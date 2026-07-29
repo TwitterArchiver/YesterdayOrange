@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2079236570578919792",
+    "created_at": "2026-07-20T16:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079236570578919792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liu1368941/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/liu1368941/status/2079123322512744925",
+          "start": 5,
+          "url": "https://t.co/MB12WoVO9k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079236570578919792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079123322512744925",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是我 https://t.co/MB12WoVO9k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 305,
+        "media_key": "3_2079123313763516416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqHo2EbgAAsa2A.jpg",
+        "width": 985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2079236570578919792",
+        "created_at": "2026-07-20T16:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079236570578919792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liu1368941/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/liu1368941/status/2079123322512744925",
+              "start": 5,
+              "url": "https://t.co/MB12WoVO9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079236570578919792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079123322512744925",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是我 https://t.co/MB12WoVO9k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079123313763516416"
+          ]
+        },
+        "author_id": "1763121326234185728",
+        "conversation_id": "2079123322512744925",
+        "created_at": "2026-07-20T08:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079123322512744925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EfQMIGIlmr",
+              "end": 23,
+              "expanded_url": "https://x.com/Liu1368941/status/2079123322512744925/photo/1",
+              "media_key": "3_2079123313763516416",
+              "start": 0,
+              "url": "https://t.co/EfQMIGIlmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079123322512744925",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 424,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EfQMIGIlmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2078080489244770777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12184,
+          "following_count": 5222,
+          "like_count": 96514,
+          "listed_count": 20,
+          "media_count": 2406,
+          "tweet_count": 20986
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-29T08:37:49.000Z",
+        "description": "",
+        "id": "1763121326234185728",
+        "name": "Liu.",
+        "pinned_tweet_id": "1875935123948114192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012333353681539072/3n8_8IFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 163,
+          "like_count": 45601,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 5160
+        },
+        "url": "",
+        "username": "Liu1368941",
+        "verified": false
+      }
+    ]
+  }
+}

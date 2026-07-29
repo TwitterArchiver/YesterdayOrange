@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2080696317391901101",
+    "created_at": "2026-07-25T04:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080872632619323591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2061845670915629060",
+          "start": 0,
+          "username": "HWatson2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080872632619323591",
+    "in_reply_to_user_id": "2061845670915629060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080872093496102997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HWatson2007 互关喵ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2080696317391901101",
+        "created_at": "2026-07-25T04:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080872632619323591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2061845670915629060",
+              "start": 0,
+              "username": "HWatson2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080872632619323591",
+        "in_reply_to_user_id": "2061845670915629060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080872093496102997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HWatson2007 互关喵ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061845670915629060",
+        "conversation_id": "2080696317391901101",
+        "created_at": "2026-07-25T04:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080872093496102997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080872093496102997",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080696317391901101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 感觉我是失败的做题家……我妈经常骂我高中分心搞别的事情不专心做题没考上985。\n就是物理竞赛啊什么的，高中搞了差不多两年。家里不支持，最终还是什么都没得到😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2080247998165197048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12269,
+          "following_count": 5283,
+          "like_count": 97367,
+          "listed_count": 21,
+          "media_count": 2431,
+          "tweet_count": 21082
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-02T16:24:55.000Z",
+        "description": "19 years old. Student.\n\n量化 | MEV | 趋势跟踪 | prediction market | market making | 方向不确定，仍在探索中……\n\n正在准备进入机器视觉实验室 | Machine Learning | AI Agent\n\n台湾是一个独立的国家 | 厌恶小粉红和战狼",
+        "id": "2061845670915629060",
+        "name": "Helmholtz W.",
+        "pinned_tweet_id": "2071435798751178759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069618127831453696/k2XhcWQl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 99,
+          "like_count": 6622,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1050
+        },
+        "url": "",
+        "username": "HWatson2007",
+        "verified": false
+      }
+    ]
+  }
+}

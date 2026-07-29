@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2003537213951476037",
+    "created_at": "2025-12-23T18:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T19:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003537370466123860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1943389921621999617",
+          "start": 0,
+          "username": "ming_xu64201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003537370466123860",
+    "in_reply_to_user_id": "1943389921621999617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003537213951476037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ming_xu64201 这是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003537210046398464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83-ejMXwAAHike.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2003537213951476037",
+        "created_at": "2025-12-23T18:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T19:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003537370466123860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1943389921621999617",
+              "start": 0,
+              "username": "ming_xu64201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003537370466123860",
+        "in_reply_to_user_id": "1943389921621999617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003537213951476037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming_xu64201 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003537210046398464"
+          ]
+        },
+        "author_id": "1943389921621999617",
+        "conversation_id": "2003537213951476037",
+        "created_at": "2025-12-23T18:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T19:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003537213951476037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Av1srv6aKX",
+              "end": 65,
+              "expanded_url": "https://x.com/ming_xu64201/status/2003537213951476037/photo/1",
+              "media_key": "3_2003537210046398464",
+              "start": 42,
+              "url": "https://t.co/Av1srv6aKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003537213951476037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好家伙，我还以为找了个顺直男，还把这哥们当顺直男看待聊了半天，突然冒出来这样一句。 https://t.co/Av1srv6aKX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2003521084050837968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9569,
+          "following_count": 3454,
+          "like_count": 69050,
+          "listed_count": 15,
+          "media_count": 1528,
+          "tweet_count": 15909
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T19:20:48.000Z",
+        "description": "穷鬼/家里蹲/写BL小说的腐蟑螂/靠写作养不活自己的写手",
+        "id": "1943389921621999617",
+        "name": "ゆい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973214560703352832/qOXfRZUb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 253,
+          "like_count": 304,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 273
+        },
+        "username": "ming_xu64201",
+        "verified": false
+      }
+    ]
+  }
+}

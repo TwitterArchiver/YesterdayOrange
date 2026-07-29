@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2049742650484633905",
+    "created_at": "2026-04-30T08:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049772334073176226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730504341771952128",
+          "start": 0,
+          "username": "PlayEthine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049772334073176226",
+    "in_reply_to_user_id": "1730504341771952128",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049754356346679620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PlayEthine 👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2049742650484633905",
+        "created_at": "2026-04-30T08:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049772334073176226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730504341771952128",
+              "start": 0,
+              "username": "PlayEthine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049772334073176226",
+        "in_reply_to_user_id": "1730504341771952128",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049754356346679620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PlayEthine 👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730504341771952128",
+        "conversation_id": "2049742650484633905",
+        "created_at": "2026-04-30T07:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049754356346679620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049754356346679620",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049742650484633905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我要是住北京就能一直陪你吃饭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2049528095464657383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11862,
+          "following_count": 4968,
+          "like_count": 89134,
+          "listed_count": 23,
+          "media_count": 2193,
+          "tweet_count": 19637
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-01T08:29:40.000Z",
+        "description": "小兔 舞萌 明日方舟 终末地 双相\nxp tk什么的\n极度社恐\n在京\n碎碎念\n可以叫我a酱 あ酱（桑",
+        "id": "1730504341771952128",
+        "location": "北京",
+        "name": "あかね",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044035011868012545/8vr8H2vM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 95,
+          "like_count": 1189,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 388
+        },
+        "username": "PlayEthine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2061984672566174176",
+    "created_at": "2026-06-03T01:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T02:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061984672566174176"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061984672566174176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "分班前，他问我们是不是好朋友。\n我说应该不算，然后想了很久什么才能是好朋友，最后的结论是我一直没有朋友。\n所以他也不是。\n他有点失望又有点无所谓的样子。\n教室在一楼，他当时倚在走廊的栏杆上，白色上衣，蓝色裤子，身后开了一树的话。\n分班后，我在二楼，他在四楼，我们偶尔会碰到。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2061984672566174176",
+        "created_at": "2026-06-03T01:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061984672566174176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061984672566174176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分班前，他问我们是不是好朋友。\n我说应该不算，然后想了很久什么才能是好朋友，最后的结论是我一直没有朋友。\n所以他也不是。\n他有点失望又有点无所谓的样子。\n教室在一楼，他当时倚在走廊的栏杆上，白色上衣，蓝色裤子，身后开了一树的话。\n分班后，我在二楼，他在四楼，我们偶尔会碰到。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2061118677869887489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12094,
+          "following_count": 5105,
+          "like_count": 93058,
+          "listed_count": 21,
+          "media_count": 2276,
+          "tweet_count": 20205
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

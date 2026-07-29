@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2073715960595599581",
+    "created_at": "2026-07-06T15:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074160375336177938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802943247523909632",
+          "start": 0,
+          "username": "BenBen111pp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074160375336177938",
+    "in_reply_to_user_id": "1802943247523909632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074154497681842505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BenBen111pp 绿豆汤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2073715960595599581",
+        "created_at": "2026-07-06T15:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074160375336177938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802943247523909632",
+              "start": 0,
+              "username": "BenBen111pp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074160375336177938",
+        "in_reply_to_user_id": "1802943247523909632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074154497681842505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BenBen111pp 绿豆汤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802943247523909632",
+        "conversation_id": "2073715960595599581",
+        "created_at": "2026-07-06T15:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074154497681842505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074154497681842505",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073715960595599581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 左邊那是啥呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2073281493804470508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12187,
+          "following_count": 5170,
+          "like_count": 95147,
+          "listed_count": 20,
+          "media_count": 2348,
+          "tweet_count": 20693
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-18T05:56:04.000Z",
+        "description": "不處",
+        "id": "1802943247523909632",
+        "location": "Taiwan ",
+        "name": "BenBen222pp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049527256318623744/fCuCBnpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 68,
+          "like_count": 11520,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1508
+        },
+        "url": "",
+        "username": "BenBen111pp",
+        "verified": false
+      }
+    ]
+  }
+}

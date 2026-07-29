@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2079521516405108915",
+    "created_at": "2026-07-21T10:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T11:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079521516405108915"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shawnxdowns/st…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/shawnxdowns/status/2079514455491383403",
+          "start": 42,
+          "url": "https://t.co/G7jtmiwaYI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079521516405108915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079514455491383403",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再点一份解决所有问题（x）\n但他们选择大吵一架。\n所以我觉得这个就是一点爱都没有。 https://t.co/G7jtmiwaYI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2079521516405108915",
+        "created_at": "2026-07-21T10:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079521516405108915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shawnxdowns/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/shawnxdowns/status/2079514455491383403",
+              "start": 42,
+              "url": "https://t.co/G7jtmiwaYI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079521516405108915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079514455491383403",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再点一份解决所有问题（x）\n但他们选择大吵一架。\n所以我觉得这个就是一点爱都没有。 https://t.co/G7jtmiwaYI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591065882758815744",
+        "conversation_id": "2079460868933529841",
+        "created_at": "2026-07-21T10:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079514455491383403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079514455491383403",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079460868933529841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 没必要上纲上线吧。有什么好吃的，我一般会留一半，或者吃得特别慢，这样对方就有机会吃到。但也偶尔会忘了，没想到。只要平时心里有对方，偶尔这样也没什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2079273967949697193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12239,
+          "following_count": 5233,
+          "like_count": 96793,
+          "listed_count": 21,
+          "media_count": 2408,
+          "tweet_count": 21003
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-11T13:51:17.000Z",
+        "description": "头像非本人",
+        "id": "1591065882758815744",
+        "location": "Sydney, New South Wales",
+        "name": "Shawn Downs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075924451611533312/8P2AUmOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 297,
+          "like_count": 2538,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 761
+        },
+        "url": "",
+        "username": "ShawnXDowns",
+        "verified": true
+      }
+    ]
+  }
+}

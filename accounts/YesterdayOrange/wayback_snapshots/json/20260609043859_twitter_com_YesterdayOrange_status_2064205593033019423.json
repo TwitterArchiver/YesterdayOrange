@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2064021075793694912",
+    "created_at": "2026-06-09T04:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T05:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064205593033019423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1881423530866470912",
+          "start": 0,
+          "username": "GlaucaXV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064205593033019423",
+    "in_reply_to_user_id": "1881423530866470912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064153869509374123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlaucaXV 写得不错（\n不像我只会抄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2064021075793694912",
+        "created_at": "2026-06-09T04:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064205593033019423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881423530866470912",
+              "start": 0,
+              "username": "GlaucaXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064205593033019423",
+        "in_reply_to_user_id": "1881423530866470912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064153869509374123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlaucaXV 写得不错（\n不像我只会抄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881423530866470912",
+        "conversation_id": "2064021075793694912",
+        "created_at": "2026-06-09T01:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064153869509374123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064153869509374123",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064021075793694912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 悼故梦之飘零兮，叹前尘而成烟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2063465238943670425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12146,
+          "following_count": 5129,
+          "like_count": 93825,
+          "listed_count": 21,
+          "media_count": 2294,
+          "tweet_count": 20332
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-20T19:28:35.000Z",
+        "description": "人可以摆脱过去，选择自己的活法",
+        "id": "1881423530866470912",
+        "name": "Glauca",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061344277209432064/CvuSeyrF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 38,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "GlaucaXV",
+        "verified": false
+      }
+    ]
+  }
+}

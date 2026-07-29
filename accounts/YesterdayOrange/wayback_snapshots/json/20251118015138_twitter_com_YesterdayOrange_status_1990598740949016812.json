@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990598733512519682"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "1990598740949016812",
+    "created_at": "2025-11-18T01:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T02:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990598740949016812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kCwH1SeQIn",
+          "end": 119,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1990598740949016812/photo/1",
+          "media_key": "3_1990598733512519682",
+          "start": 96,
+          "url": "https://t.co/kCwH1SeQIn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990598740949016812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么戒网瘾学校死灰复燃了\n\n教育界的转转，孩子叛逆不想养了怎么办？交给网戒学校回收了，比我自己养便宜了几万块，还能派人上门回收，当场估价，出事了还有巨额赔付，再配合生育国补，实现以旧换新。 https://t.co/kCwH1SeQIn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1492,
+        "media_key": "3_1990598733512519682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6AHAGFbMAI3KpW.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990598733512519682"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1990598740949016812",
+        "created_at": "2025-11-18T01:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T02:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990598740949016812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kCwH1SeQIn",
+              "end": 119,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1990598740949016812/photo/1",
+              "media_key": "3_1990598733512519682",
+              "start": 96,
+              "url": "https://t.co/kCwH1SeQIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990598740949016812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么戒网瘾学校死灰复燃了\n\n教育界的转转，孩子叛逆不想养了怎么办？交给网戒学校回收了，比我自己养便宜了几万块，还能派人上门回收，当场估价，出事了还有巨额赔付，再配合生育国补，实现以旧换新。 https://t.co/kCwH1SeQIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1990436775446393256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8295,
+          "following_count": 3251,
+          "like_count": 64997,
+          "listed_count": 14,
+          "media_count": 1349,
+          "tweet_count": 14897
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

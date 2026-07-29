@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2035773219828113447",
+    "created_at": "2026-03-22T17:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T18:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035773219828113447"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2035770372197691405",
+          "start": 19,
+          "url": "https://t.co/86ql3S2cKk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035773219828113447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035770372197691405",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "删完了\n主要是清QQ躺列或者已读不回 https://t.co/86ql3S2cKk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2035773219828113447",
+        "created_at": "2026-03-22T17:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T18:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035773219828113447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2035770372197691405",
+              "start": 19,
+              "url": "https://t.co/86ql3S2cKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035773219828113447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035770372197691405",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "删完了\n主要是清QQ躺列或者已读不回 https://t.co/86ql3S2cKk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2035770372197691405",
+        "created_at": "2026-03-22T17:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T18:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035770372197691405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035770372197691405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "emo就随机删除一些好友👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2034816663066222935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11375,
+          "following_count": 4759,
+          "like_count": 83748,
+          "listed_count": 20,
+          "media_count": 1987,
+          "tweet_count": 18559
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

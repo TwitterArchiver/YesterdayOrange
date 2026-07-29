@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1987413412595573035",
+    "created_at": "2025-11-10T02:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T03:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987706979020939343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1983206072245727232",
+          "start": 0,
+          "username": "Fluoxetine_OVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987706979020939343",
+    "in_reply_to_user_id": "1983206072245727232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987653547643789420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fluoxetine_OVO 真的喜欢吗🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1987413412595573035",
+        "created_at": "2025-11-10T02:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T03:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987706979020939343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1983206072245727232",
+              "start": 0,
+              "username": "Fluoxetine_OVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987706979020939343",
+        "in_reply_to_user_id": "1983206072245727232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987653547643789420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fluoxetine_OVO 真的喜欢吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983206072245727232",
+        "conversation_id": "1987413412595573035",
+        "created_at": "2025-11-09T22:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T23:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987653547643789420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987653547643789420",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987413412595573035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1987539889324523537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8068,
+          "following_count": 3176,
+          "like_count": 63337,
+          "listed_count": 15,
+          "media_count": 1299,
+          "tweet_count": 14620
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T16:16:34.000Z",
+        "description": "➕V🚪❶❽❽R，只做自己以及想做的事～个人情趣谢谢宝宝们喜欢❤️天天开心～喵",
+        "id": "1983206072245727232",
+        "location": "Izumi-shi, Osaka",
+        "name": "Fluoxetine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983206398805921792/7uFRckaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 5,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 29
+        },
+        "username": "Fluoxetine_OVO",
+        "verified": false
+      }
+    ]
+  }
+}

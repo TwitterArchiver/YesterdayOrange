@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1984658152277885261",
+    "created_at": "2025-11-01T16:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T17:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984660868425187605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3277529786",
+          "start": 0,
+          "username": "t4yeming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984660868425187605",
+    "in_reply_to_user_id": "3277529786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984660074728734951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@t4yeming 为什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1984658152277885261",
+        "created_at": "2025-11-01T16:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T17:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984660868425187605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3277529786",
+              "start": 0,
+              "username": "t4yeming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984660868425187605",
+        "in_reply_to_user_id": "3277529786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984660074728734951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@t4yeming 为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3277529786",
+        "conversation_id": "1984658152277885261",
+        "created_at": "2025-11-01T16:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T17:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984660074728734951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984660074728734951",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984659844138484151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 但是老婆我怕被关注"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1984642176056541222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7391,
+          "following_count": 3041,
+          "like_count": 60777,
+          "listed_count": 14,
+          "media_count": 1224,
+          "tweet_count": 14238
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-12T13:58:45.000Z",
+        "description": "何も言いたくないです ♂  又被限制了。。。",
+        "id": "3277529786",
+        "location": "Guangdong",
+        "name": "夜mG",
+        "pinned_tweet_id": "1501971097134125065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497252502953095169/_Q3he2uY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 4817,
+          "like_count": 207091,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 7720
+        },
+        "username": "t4yeming",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1986442992375541904",
+    "created_at": "2025-11-07T00:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T01:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986589436612911408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829345256036597760",
+          "start": 0,
+          "username": "Mazalll1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986589436612911408",
+    "in_reply_to_user_id": "1829345256036597760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986558647569399998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mazalll1024 会的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1986442992375541904",
+        "created_at": "2025-11-07T00:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T01:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986589436612911408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829345256036597760",
+              "start": 0,
+              "username": "Mazalll1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986589436612911408",
+        "in_reply_to_user_id": "1829345256036597760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986558647569399998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mazalll1024 会的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829345256036597760",
+        "conversation_id": "1986442992375541904",
+        "created_at": "2025-11-06T22:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T23:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986558647569399998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986558647569399998",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986442992375541904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 会有doro给我送橘子吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1986404979910058420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7798,
+          "following_count": 3098,
+          "like_count": 62157,
+          "listed_count": 14,
+          "media_count": 1280,
+          "tweet_count": 14482
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T02:28:06.000Z",
+        "description": "友達が好きで、人間を観察し社会的行動をりかいすることが好き\nhololive好き！",
+        "id": "1829345256036597760",
+        "name": "散★ほし 卯白いのケチャップ",
+        "pinned_tweet_id": "1985821433126404379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829345321539014656/cT_lQtnr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 125,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 88
+        },
+        "username": "Mazalll1024",
+        "verified": false
+      }
+    ]
+  }
+}

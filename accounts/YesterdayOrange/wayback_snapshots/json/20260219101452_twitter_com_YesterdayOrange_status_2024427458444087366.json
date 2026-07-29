@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024427446553247744"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2024427458444087366",
+    "created_at": "2026-02-19T10:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T11:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024427458444087366"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C1J61UxCn4",
+          "end": 77,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2024427458444087366/photo/1",
+          "media_key": "3_2024427446553247744",
+          "start": 54,
+          "url": "https://t.co/C1J61UxCn4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024427458444087366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果说美式电影总试图用英雄主义来消除对社会问题的恐惧，那么中式小品则一直用家庭伦理来安慰对国内矛盾的焦虑。 https://t.co/C1J61UxCn4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1887,
+        "media_key": "3_2024427446553247744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBg2CWlbgAAQUxq.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024427446553247744"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2024427458444087366",
+        "created_at": "2026-02-19T10:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T11:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024427458444087366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1J61UxCn4",
+              "end": 77,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2024427458444087366/photo/1",
+              "media_key": "3_2024427446553247744",
+              "start": 54,
+              "url": "https://t.co/C1J61UxCn4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024427458444087366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果说美式电影总试图用英雄主义来消除对社会问题的恐惧，那么中式小品则一直用家庭伦理来安慰对国内矛盾的焦虑。 https://t.co/C1J61UxCn4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2024122058007793948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10691,
+          "following_count": 4240,
+          "like_count": 77673,
+          "listed_count": 17,
+          "media_count": 1826,
+          "tweet_count": 17484
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

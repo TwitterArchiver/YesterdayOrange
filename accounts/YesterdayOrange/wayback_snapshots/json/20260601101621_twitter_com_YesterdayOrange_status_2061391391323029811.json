@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061391381340590080",
+        "3_2061391372243054592"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2061391391323029811",
+    "created_at": "2026-06-01T10:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T11:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061391391323029811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JyrshYZ6Hc",
+          "end": 48,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2061391391323029811/photo/1",
+          "media_key": "3_2061391381340590080",
+          "start": 25,
+          "url": "https://t.co/JyrshYZ6Hc"
+        },
+        {
+          "display_url": "pic.x.com/JyrshYZ6Hc",
+          "end": 48,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2061391391323029811/photo/1",
+          "media_key": "3_2061391372243054592",
+          "start": 25,
+          "url": "https://t.co/JyrshYZ6Hc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061391391323029811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如何看待北师大 3:59 起床学习的大学生博主？ https://t.co/JyrshYZ6Hc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1138,
+        "media_key": "3_2061391381340590080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuIiiPbkAAtx31.jpg",
+        "width": 2530
+      },
+      {
+        "height": 1259,
+        "media_key": "3_2061391372243054592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuIiAWaMAAC8Ht.jpg",
+        "width": 2530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061391381340590080",
+            "3_2061391372243054592"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2061391391323029811",
+        "created_at": "2026-06-01T10:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061391391323029811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JyrshYZ6Hc",
+              "end": 48,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2061391391323029811/photo/1",
+              "media_key": "3_2061391381340590080",
+              "start": 25,
+              "url": "https://t.co/JyrshYZ6Hc"
+            },
+            {
+              "display_url": "pic.x.com/JyrshYZ6Hc",
+              "end": 48,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2061391391323029811/photo/1",
+              "media_key": "3_2061391372243054592",
+              "start": 25,
+              "url": "https://t.co/JyrshYZ6Hc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061391391323029811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何看待北师大 3:59 起床学习的大学生博主？ https://t.co/JyrshYZ6Hc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2061118677869887489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12081,
+          "following_count": 5111,
+          "like_count": 92805,
+          "listed_count": 21,
+          "media_count": 2271,
+          "tweet_count": 20170
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2007325376960413857",
+    "created_at": "2026-01-03T06:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T07:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007333327850926255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841564916572151808",
+          "start": 0,
+          "username": "jiankong_jiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007333327850926255",
+    "in_reply_to_user_id": "1841564916572151808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007325376960413857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiankong_jiang 没有我和你一起也开心吗😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2007325376960413857",
+        "created_at": "2026-01-03T06:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T07:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007333327850926255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841564916572151808",
+              "start": 0,
+              "username": "jiankong_jiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007333327850926255",
+        "in_reply_to_user_id": "1841564916572151808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007325376960413857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiankong_jiang 没有我和你一起也开心吗😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841564916572151808",
+        "conversation_id": "2007325376960413857",
+        "created_at": "2026-01-03T05:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T06:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007325376960413857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007325376960413857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个人出来住酒店好爽，想🦌就🦌😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2007083026812145794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9865,
+          "following_count": 3649,
+          "like_count": 71176,
+          "listed_count": 17,
+          "media_count": 1594,
+          "tweet_count": 16306
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T19:44:44.000Z",
+        "description": "09/高一/0.5/infp    湖北\n如果有认识的人发现了我的推，请千万别说出去，只要不说出去，让我干什么都行，我还要维持人设，求求了🥺",
+        "id": "1841564916572151808",
+        "name": "见空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841566986696065024/UF4d8osl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 717,
+          "like_count": 13308,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 340
+        },
+        "username": "jiankong_jiang",
+        "verified": false
+      }
+    ]
+  }
+}

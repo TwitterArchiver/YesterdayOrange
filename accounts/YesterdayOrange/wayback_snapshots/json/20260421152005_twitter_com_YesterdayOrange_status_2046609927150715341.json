@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2046609927150715341",
+    "created_at": "2026-04-21T15:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046609927150715341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mark67358226/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/mark67358226/status/2046594144643223555",
+          "start": 9,
+          "url": "https://t.co/ndWHyTqlqa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046609927150715341",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046594144643223555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "糖多的会越喝越渴 https://t.co/ndWHyTqlqa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2046594141451399169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGb2h0CbMAECyKJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2046609927150715341",
+        "created_at": "2026-04-21T15:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046609927150715341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mark67358226/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/mark67358226/status/2046594144643223555",
+              "start": 9,
+              "url": "https://t.co/ndWHyTqlqa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046609927150715341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046594144643223555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "糖多的会越喝越渴 https://t.co/ndWHyTqlqa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046594141451399169"
+          ]
+        },
+        "author_id": "1519649212736049152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046594144643223555",
+        "created_at": "2026-04-21T14:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046594144643223555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nwoh6XMawa",
+              "end": 94,
+              "expanded_url": "https://x.com/Mark67358226/status/2046594144643223555/photo/1",
+              "media_key": "3_2046594141451399169",
+              "start": 71,
+              "url": "https://t.co/nwoh6XMawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046594144643223555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "話說諸君會不會遇到那種「無論如何都很渴」的情況？從吃完晚飯到現在已經幹了這麽多東西+三四個桃子+一瓶酸奶+幾口飲料，我都有點暈了，還是很渴。 https://t.co/nwoh6XMawa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2046480546080125100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11661,
+          "following_count": 4926,
+          "like_count": 87683,
+          "listed_count": 22,
+          "media_count": 2145,
+          "tweet_count": 19293
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京入🇨🇳 | 主要繁體（簡體也可），日語🇯🇵 朝鮮語🇰🇷也會一點，性取向雙，喜歡漢服、東亞文化和可愛的男孩子（小南梁也算），歡迎諸君找我聊天口牙！",
+        "id": "1519649212736049152",
+        "location": "北京市",
+        "name": "Lhn002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 61,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 296
+        },
+        "username": "Mark67358226",
+        "verified": false
+      }
+    ]
+  }
+}

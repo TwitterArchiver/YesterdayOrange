@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2048353113648885843",
+    "created_at": "2026-04-26T17:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048449987294658810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047205786951016448",
+          "start": 0,
+          "username": "tananaimaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048449987294658810",
+    "in_reply_to_user_id": "2047205786951016448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048412987791163740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tananaimaomao 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2048353113648885843",
+        "created_at": "2026-04-26T17:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048449987294658810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047205786951016448",
+              "start": 0,
+              "username": "tananaimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048449987294658810",
+        "in_reply_to_user_id": "2047205786951016448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048412987791163740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tananaimaomao 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047205786951016448",
+        "conversation_id": "2048353113648885843",
+        "created_at": "2026-04-26T14:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048412987791163740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048412987791163740",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048353113648885843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2048283586449797503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11800,
+          "following_count": 4998,
+          "like_count": 88467,
+          "listed_count": 23,
+          "media_count": 2174,
+          "tweet_count": 19477
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T06:48:04.000Z",
+        "description": "I'm 🏳️‍⚧",
+        "id": "2047205786951016448",
+        "name": "an tan🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047208620639531008/4KwCXDZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 26,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 68
+        },
+        "username": "tananaimaomao",
+        "verified": false
+      }
+    ]
+  }
+}

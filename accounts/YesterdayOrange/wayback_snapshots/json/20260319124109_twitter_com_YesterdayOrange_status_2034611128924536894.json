@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2034588356093591682",
+    "created_at": "2026-03-19T12:41:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T13:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034611128924536894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2019779505335009280",
+          "start": 0,
+          "username": "kazami0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034611128924536894",
+    "in_reply_to_user_id": "2019779505335009280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034607149004058867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kazami0721 已经收到了啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2034588356093591682",
+        "created_at": "2026-03-19T12:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034611128924536894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2019779505335009280",
+              "start": 0,
+              "username": "kazami0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034611128924536894",
+        "in_reply_to_user_id": "2019779505335009280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034607149004058867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kazami0721 已经收到了啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019779505335009280",
+        "conversation_id": "2034588356093591682",
+        "created_at": "2026-03-19T12:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034607149004058867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034607149004058867",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034588356093591682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 你就这样天天发真的能收到色图吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2033924730877837630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11332,
+          "following_count": 4671,
+          "like_count": 82848,
+          "listed_count": 20,
+          "media_count": 1960,
+          "tweet_count": 18422
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-06T14:25:51.000Z",
+        "description": "",
+        "id": "2019779505335009280",
+        "name": "灵梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024819247160197120/jMmkNE0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 9,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 64
+        },
+        "username": "kazami0721",
+        "verified": false
+      }
+    ]
+  }
+}

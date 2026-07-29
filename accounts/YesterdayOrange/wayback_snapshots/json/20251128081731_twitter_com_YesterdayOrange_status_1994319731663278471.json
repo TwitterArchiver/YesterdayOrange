@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1994286526692516045",
+    "created_at": "2025-11-28T08:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T09:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994319731663278471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976019305167810560",
+          "start": 0,
+          "username": "SuzukiNSFW"
+        },
+        {
+          "end": 23,
+          "id": "1682344543075852288",
+          "start": 12,
+          "username": "xhun241736"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994319731663278471",
+    "in_reply_to_user_id": "1976019305167810560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994311078252044648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuzukiNSFW @xhun241736 四代怎么样？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1994286526692516045",
+        "created_at": "2025-11-28T08:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994319731663278471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976019305167810560",
+              "start": 0,
+              "username": "SuzukiNSFW"
+            },
+            {
+              "end": 23,
+              "id": "1682344543075852288",
+              "start": 12,
+              "username": "xhun241736"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994319731663278471",
+        "in_reply_to_user_id": "1976019305167810560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994311078252044648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuzukiNSFW @xhun241736 四代怎么样？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976019305167810560",
+        "conversation_id": "1994286526692516045",
+        "created_at": "2025-11-28T07:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T08:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994311078252044648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1682344543075852288",
+              "start": 0,
+              "username": "xhun241736"
+            },
+            {
+              "end": 28,
+              "id": "1788485889225834496",
+              "start": 12,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994311078252044648",
+        "in_reply_to_user_id": "1682344543075852288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994291612164452509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhun241736 @YesterdayOrange 私以为暗影格斗2好过三代"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1994073228369592563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9279,
+          "following_count": 3375,
+          "like_count": 67279,
+          "listed_count": 15,
+          "media_count": 1425,
+          "tweet_count": 15474
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T20:18:25.000Z",
+        "description": "🔞NSFW Warring⚠️/叫我Suzuki或者铃木就好/QQ🚪48r VX68/09/176/56kg/0.5/INFP/不玩SM/ACG爱好/赚生活费中/接原神代肝&长期托管（免门槛）/骗子私全家/会回关感兴趣的人",
+        "id": "1976019305167810560",
+        "location": "第三新东京市",
+        "name": "铃木さん～",
+        "pinned_tweet_id": "1994119472291213423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990078900748316672/cdk9VI4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 172,
+          "like_count": 1303,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 274
+        },
+        "username": "SuzukiNSFW",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T10:59:38.000Z",
+        "description": "神爱世人取向，不会说话，不想打扰别人，爱你们的一只非人之物\n公元前8年/7/17  173/54kg 非常理的存在\n我，一无所有的来到这个世界，也该一无所有的离开！对不对？\n爱你们",
+        "id": "1682344543075852288",
+        "location": "短暂宁静之地",
+        "name": "哈基雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992616253664661504/HIb5YJzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 46,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 181
+        },
+        "username": "xhun241736",
+        "verified": false
+      }
+    ]
+  }
+}

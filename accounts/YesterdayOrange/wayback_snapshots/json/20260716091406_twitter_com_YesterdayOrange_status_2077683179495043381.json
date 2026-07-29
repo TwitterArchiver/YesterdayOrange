@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2077683179495043381",
+    "created_at": "2026-07-16T09:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T10:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077683179495043381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647229461769891842",
+          "start": 3,
+          "username": "DrilL019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077683179495043381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077682384871584056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @DrilL019: 我读过两所幼儿园，因为搬迁到城区而转到城市的幼儿园。到那时，主要是父亲送我到幼儿园，我会因为早餐（主要是稀饭，小小的我消化不了复杂的事物）吃的慢而让父亲倍感焦急。去幼儿园的路上，我们会听新闻和电台节目。\n上课是一些简单的基础内容，休息的时候，会有一些…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2077683179495043381",
+        "created_at": "2026-07-16T09:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077683179495043381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647229461769891842",
+              "start": 3,
+              "username": "DrilL019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077683179495043381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077682384871584056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @DrilL019: 我读过两所幼儿园，因为搬迁到城区而转到城市的幼儿园。到那时，主要是父亲送我到幼儿园，我会因为早餐（主要是稀饭，小小的我消化不了复杂的事物）吃的慢而让父亲倍感焦急。去幼儿园的路上，我们会听新闻和电台节目。\n上课是一些简单的基础内容，休息的时候，会有一些…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647229461769891842",
+        "conversation_id": "2077682384871584056",
+        "created_at": "2026-07-16T09:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077682384871584056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2077670184064880851",
+              "start": 139,
+              "url": "https://t.co/C4uxADZj3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077682384871584056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我读过两所幼儿园，因为搬迁到城区而转到城市的幼儿园。到那时，主要是父亲送我到幼儿园，我会因为早餐（主要是稀饭，小小的我消化不了复杂的事物）吃的慢而让父亲倍感焦急。去幼儿园的路上，我们会听新闻和电台节目。\n上课是一些简单的基础内容，休息的时候，会有一些电视节目看，以及户外活动。\n午休很安静。当然现在回忆，最早的幻听（快醒来时，耳边嘈杂）也是在那时生发的。\n大概在2013年的某个周的开始，父母亲告诉我，会带我去海南游玩一周，我不知到他们已经告知了教职工，那天一到幼儿园，就找到老师，结果发现她已经知道了。\n城里的那个幼儿园，我们班一直有两位老师，后面大概是换了一位。幼儿园认识的两三位同学，后面到了小学，大概是同班，陪了我六年——这么看，还是小学的记忆更清晰些。\n…都说成年是中位线。不过没事，来日方长。\n检票了。该上火车回家了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077670184064880851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "我读过两所幼儿园，因为搬迁到城区而转到城市的幼儿园。到那时，主要是父亲送我到幼儿园，我会因为早餐（主要是稀饭，小小的我消化不了复杂的事物）吃的慢而让父亲倍感焦急。去幼儿园的路上，我们会听新闻和电台节目。\n上课是一些简单的基础内容，休息的时候，会有一些电视节目看，以及户外活动。 https://t.co/C4uxADZj3G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2075657040111018244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12181,
+          "following_count": 5188,
+          "like_count": 95887,
+          "listed_count": 20,
+          "media_count": 2373,
+          "tweet_count": 20870
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "小号@Noakatsuki1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Noakatsuki1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "请给我钱🥺⬇️",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2073444820048392561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 1349,
+          "like_count": 22857,
+          "listed_count": 1,
+          "media_count": 987,
+          "tweet_count": 6743
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      }
+    ]
+  }
+}

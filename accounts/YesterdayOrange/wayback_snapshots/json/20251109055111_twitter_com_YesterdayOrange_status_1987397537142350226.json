@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1987096485062967515",
+    "created_at": "2025-11-09T05:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T06:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987397537142350226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973895313728684032",
+          "start": 0,
+          "username": "Rikkamsknmsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987397537142350226",
+    "in_reply_to_user_id": "1973895313728684032",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987311806273233406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikkamsknmsl 5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1987096485062967515",
+        "created_at": "2025-11-09T05:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T06:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987397537142350226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973895313728684032",
+              "start": 0,
+              "username": "Rikkamsknmsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987397537142350226",
+        "in_reply_to_user_id": "1973895313728684032",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987311806273233406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikkamsknmsl 5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973895313728684032",
+        "conversation_id": "1987096485062967515",
+        "created_at": "2025-11-09T00:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T01:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987311806273233406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987311806273233406",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987096485062967515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 77"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1987221844915900436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8029,
+          "following_count": 3151,
+          "like_count": 63019,
+          "listed_count": 15,
+          "media_count": 1292,
+          "tweet_count": 14590
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T23:38:52.000Z",
+        "description": "元垢@BrianAllen45569、@zczve42427789(原来的账号)ユイカさん(@yuika_singuiter)、あのちゃん(@aNO2mass)、竹中雄大さん(@yudai_vo)を推す(バンドはヨルシカがすき)。色々なアニメ、マンガ、ガールゲ一ムが好き\n仲良くしよう #ユイナーさんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 156,
+                "start": 143,
+                "tag": "ユイナーさんと繋がりたい"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "BrianAllen45569"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "zczve42427789"
+              },
+              {
+                "end": 62,
+                "start": 46,
+                "username": "yuika_singuiter"
+              },
+              {
+                "end": 79,
+                "start": 70,
+                "username": "aNO2mass"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "username": "yudai_vo"
+              }
+            ]
+          }
+        },
+        "id": "1973895313728684032",
+        "location": "あなたのそばに",
+        "name": "蝶々",
+        "pinned_tweet_id": "1979572166623650220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973895885206802432/mLT8CuJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 292,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 630
+        },
+        "username": "Rikkamsknmsl",
+        "verified": false
+      }
+    ]
+  }
+}

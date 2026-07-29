@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2033394283395629548",
+    "created_at": "2026-03-16T04:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T05:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033394283395629548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bungeihaku8964…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/bungeihaku8964/status/2024431643344457964",
+          "start": 21,
+          "url": "https://t.co/sr7cEvCfxp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033394283395629548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024431643344457964",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是我喜欢的类型😋\n有这种自拍建议都发给我 https://t.co/sr7cEvCfxp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2024431637753450497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBg52UBbUAESIBy.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2024431638130966528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBg52VbbwAA83Zs.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2033394283395629548",
+        "created_at": "2026-03-16T04:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033394283395629548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bungeihaku8964…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/bungeihaku8964/status/2024431643344457964",
+              "start": 21,
+              "url": "https://t.co/sr7cEvCfxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033394283395629548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024431643344457964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是我喜欢的类型😋\n有这种自拍建议都发给我 https://t.co/sr7cEvCfxp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024431637753450497",
+            "3_2024431638130966528"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2024431643344457964",
+        "created_at": "2026-02-19T10:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T11:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024431643344457964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iJSry7ycuK",
+              "end": 28,
+              "expanded_url": "https://x.com/bungeihaku8964/status/2024431643344457964/photo/1",
+              "media_key": "3_2024431637753450497",
+              "start": 5,
+              "url": "https://t.co/iJSry7ycuK"
+            },
+            {
+              "display_url": "pic.x.com/iJSry7ycuK",
+              "end": 28,
+              "expanded_url": "https://x.com/bungeihaku8964/status/2024431643344457964/photo/1",
+              "media_key": "3_2024431638130966528",
+              "start": 5,
+              "url": "https://t.co/iJSry7ycuK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024431643344457964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1215,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "鯊鯊出場 https://t.co/iJSry7ycuK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2033010207463485580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11212,
+          "following_count": 4542,
+          "like_count": 81994,
+          "listed_count": 20,
+          "media_count": 1943,
+          "tweet_count": 18196
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "生理男 無證不含糖｜🇹🇼民國97年 ｜梗圖➕建政發瘋號｜🇭🇰粵內勢力愛跨大手子🏳️‍⚧️｜雙相｜哲學社會學研究ing｜🇯🇵日語生\n｜小貓咪:@suimikax\n｜16ちゃん:@x16_46280721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "suimikax"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "x16_46280721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeinobunha…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeinobunhaku",
+                "start": 0,
+                "url": "https://t.co/1MIMTvvFf8"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "インターネット8964",
+        "name": "文芸🍁空白子🍥🇭🇰🇹🇼",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021474583161995271/frgiGN1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 508,
+          "like_count": 9282,
+          "listed_count": 7,
+          "media_count": 489,
+          "tweet_count": 2367
+        },
+        "url": "https://t.co/1MIMTvvFf8",
+        "username": "bungeihaku8964",
+        "verified": true
+      }
+    ]
+  }
+}

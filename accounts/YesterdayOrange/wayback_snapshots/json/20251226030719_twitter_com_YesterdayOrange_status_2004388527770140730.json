@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004388513782075392",
+        "3_2004388513815621632",
+        "3_2004388513836613632",
+        "3_2004388513811443712"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2004388527770140730",
+    "created_at": "2025-12-26T03:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T04:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004388527770140730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nWMxs0sNkh",
+          "end": 35,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2004388527770140730/photo/1",
+          "media_key": "3_2004388513782075392",
+          "start": 12,
+          "url": "https://t.co/nWMxs0sNkh"
+        },
+        {
+          "display_url": "pic.x.com/nWMxs0sNkh",
+          "end": 35,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2004388527770140730/photo/1",
+          "media_key": "3_2004388513815621632",
+          "start": 12,
+          "url": "https://t.co/nWMxs0sNkh"
+        },
+        {
+          "display_url": "pic.x.com/nWMxs0sNkh",
+          "end": 35,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2004388527770140730/photo/1",
+          "media_key": "3_2004388513836613632",
+          "start": 12,
+          "url": "https://t.co/nWMxs0sNkh"
+        },
+        {
+          "display_url": "pic.x.com/nWMxs0sNkh",
+          "end": 35,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2004388527770140730/photo/1",
+          "media_key": "3_2004388513811443712",
+          "start": 12,
+          "url": "https://t.co/nWMxs0sNkh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004388527770140730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ChatGPT年度总结 https://t.co/nWMxs0sNkh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_2004388513782075392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EEu8vakAAifmh.jpg",
+        "width": 1312
+      },
+      {
+        "height": 978,
+        "media_key": "3_2004388513815621632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EEu83acAAlAI1.jpg",
+        "width": 1684
+      },
+      {
+        "height": 908,
+        "media_key": "3_2004388513836613632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EEu88awAABzb1.jpg",
+        "width": 1128
+      },
+      {
+        "height": 960,
+        "media_key": "3_2004388513811443712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EEu82asAAz1GV.jpg",
+        "width": 1262
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004388513782075392",
+            "3_2004388513815621632",
+            "3_2004388513836613632",
+            "3_2004388513811443712"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2004388527770140730",
+        "created_at": "2025-12-26T03:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T04:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004388527770140730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nWMxs0sNkh",
+              "end": 35,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2004388527770140730/photo/1",
+              "media_key": "3_2004388513782075392",
+              "start": 12,
+              "url": "https://t.co/nWMxs0sNkh"
+            },
+            {
+              "display_url": "pic.x.com/nWMxs0sNkh",
+              "end": 35,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2004388527770140730/photo/1",
+              "media_key": "3_2004388513815621632",
+              "start": 12,
+              "url": "https://t.co/nWMxs0sNkh"
+            },
+            {
+              "display_url": "pic.x.com/nWMxs0sNkh",
+              "end": 35,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2004388527770140730/photo/1",
+              "media_key": "3_2004388513836613632",
+              "start": 12,
+              "url": "https://t.co/nWMxs0sNkh"
+            },
+            {
+              "display_url": "pic.x.com/nWMxs0sNkh",
+              "end": 35,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2004388527770140730/photo/1",
+              "media_key": "3_2004388513811443712",
+              "start": 12,
+              "url": "https://t.co/nWMxs0sNkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004388527770140730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ChatGPT年度总结 https://t.co/nWMxs0sNkh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2003521084050837968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9590,
+          "following_count": 3476,
+          "like_count": 69279,
+          "listed_count": 16,
+          "media_count": 1533,
+          "tweet_count": 15938
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

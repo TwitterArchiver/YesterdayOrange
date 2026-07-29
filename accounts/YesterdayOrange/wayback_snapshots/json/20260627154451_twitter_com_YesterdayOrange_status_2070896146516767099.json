@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2070353536345604320",
+    "created_at": "2026-06-27T15:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070896146516767099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2032792248333852672",
+          "start": 0,
+          "username": "l4712284471246"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070896146516767099",
+    "in_reply_to_user_id": "2032792248333852672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070891930804707707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l4712284471246 好少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2070353536345604320",
+        "created_at": "2026-06-27T15:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070896146516767099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2032792248333852672",
+              "start": 0,
+              "username": "l4712284471246"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070896146516767099",
+        "in_reply_to_user_id": "2032792248333852672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070891930804707707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l4712284471246 好少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032792248333852672",
+        "conversation_id": "2070353536345604320",
+        "created_at": "2026-06-27T15:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070891930804707707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070891930804707707",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070353536345604320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 26👁️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2069728968174178357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12176,
+          "following_count": 5139,
+          "like_count": 94717,
+          "listed_count": 20,
+          "media_count": 2333,
+          "tweet_count": 20588
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T12:13:56.000Z",
+        "description": "我不會寫簡介ㄟ，歡迎私信(畢竟很閒)，因為每週都有五天時間是住宿在學校裡面，所以說只有週五週六和週日可以回復私信的說|大號「@KOISHI514_514」\ntg聊天群💬：https://t.co/STTR2S6p5E\ndiscord聊天群💬：\nhttps://t.co/aZiJKBSD1r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "KOISHI514_514"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+v-mdMXFDP9k0O…",
+                "end": 108,
+                "expanded_url": "https://t.me/+v-mdMXFDP9k0OTll",
+                "start": 85,
+                "url": "https://t.co/STTR2S6p5E"
+              },
+              {
+                "display_url": "discord.gg/H8WXVvhKcA",
+                "end": 145,
+                "expanded_url": "https://discord.gg/H8WXVvhKcA",
+                "start": 122,
+                "url": "https://t.co/aZiJKBSD1r"
+              }
+            ]
+          }
+        },
+        "id": "2032792248333852672",
+        "name": "孔雀石",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067798163944083456/pn5U0QEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 100,
+          "like_count": 2649,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 373
+        },
+        "url": "",
+        "username": "l4712284471246",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2023068664833175786",
+    "created_at": "2026-02-15T17:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T18:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023087198510432729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1737185345673003008",
+          "start": 0,
+          "username": "MartinezWe83803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023087198510432729",
+    "in_reply_to_user_id": "1737185345673003008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023086437206552881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MartinezWe83803 我草你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2023068664833175786",
+        "created_at": "2026-02-15T17:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T18:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023087198510432729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1737185345673003008",
+              "start": 0,
+              "username": "MartinezWe83803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023087198510432729",
+        "in_reply_to_user_id": "1737185345673003008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023086437206552881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MartinezWe83803 我草你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737185345673003008",
+        "conversation_id": "2023068664833175786",
+        "created_at": "2026-02-15T17:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T18:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023086437206552881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023086437206552881",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023068664833175786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 111真给草吗哥？🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2023017545771704611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10524,
+          "following_count": 4092,
+          "like_count": 76516,
+          "listed_count": 17,
+          "media_count": 1793,
+          "tweet_count": 17288
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T18:57:55.000Z",
+        "description": "全部、忘れさせて",
+        "id": "1737185345673003008",
+        "name": "卡密小祥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904219897623937024/pBfCe-b4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 54,
+          "like_count": 1609,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 120
+        },
+        "username": "MartinezWe83803",
+        "verified": false
+      }
+    ]
+  }
+}

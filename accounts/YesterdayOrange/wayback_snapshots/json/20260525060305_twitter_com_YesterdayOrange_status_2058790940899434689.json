@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2058532630531072510",
+    "created_at": "2026-05-25T06:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T07:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058790940899434689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717455447110844416",
+          "start": 0,
+          "username": "chnghob658339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058790940899434689",
+    "in_reply_to_user_id": "1717455447110844416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058532630531072510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnghob658339 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2058532630531072510",
+        "created_at": "2026-05-25T06:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058790940899434689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717455447110844416",
+              "start": 0,
+              "username": "chnghob658339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058790940899434689",
+        "in_reply_to_user_id": "1717455447110844416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058532630531072510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnghob658339 👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717455447110844416",
+        "conversation_id": "2058532630531072510",
+        "created_at": "2026-05-24T12:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058532630531072510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058532630531072510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 357,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请多多视奸我好吗。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2057128877051588914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12068,
+          "following_count": 5083,
+          "like_count": 92357,
+          "listed_count": 22,
+          "media_count": 2263,
+          "tweet_count": 20089
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "想交朋友。想买衣服。国女国男综合特征，想见识人格缺陷集大成的可以找我聊。最近一层人生观是v曲塑造的。看过一些木柜子动画、中国古典文学和西方近现代哲学，最喜爱的作者是庾信杜甫王沂孙辛弃疾周邦彦康德黑格尔。最近新对西方政治思想史、英美道德哲学、德国私法/刑法感兴趣。物理学研究生，想学代数拓扑。想做一个功利主义的幸福者。",
+        "id": "1717455447110844416",
+        "location": "上海浦东",
+        "name": "ZhuangXuexin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036698377338105856/S0nl9gbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 37,
+          "like_count": 3083,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 488
+        },
+        "username": "chnghob658339",
+        "verified": false
+      }
+    ]
+  }
+}

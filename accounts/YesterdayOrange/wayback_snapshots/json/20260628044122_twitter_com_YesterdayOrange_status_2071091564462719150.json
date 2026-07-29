@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2071091564462719150",
+    "created_at": "2026-06-28T04:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071091564462719150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rikinkan/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/rikinkan/status/2070931839813046682",
+          "start": 4,
+          "url": "https://t.co/5pByLAgLjl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071091564462719150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070931839813046682",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我 https://t.co/5pByLAgLjl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2071091564462719150",
+        "created_at": "2026-06-28T04:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071091564462719150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rikinkan/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/rikinkan/status/2070931839813046682",
+              "start": 4,
+              "url": "https://t.co/5pByLAgLjl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071091564462719150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070931839813046682",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我 https://t.co/5pByLAgLjl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530252010213330945",
+        "conversation_id": "2070931839813046682",
+        "created_at": "2026-06-27T18:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070931839813046682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070931839813046682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么你们一个个都年纪轻轻就经历过这么多……我还在读初中高中的时候一个朋友都没见过，几乎没有去旅游过，没有人喜欢我，也没有喜欢的人，有过朋友只有一两个还马上没了，没有收到过礼物，没有给人写过信，也没有人给我写信，没有生日快乐，没有性爱经历，连打游戏联机都没有过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2069728968174178357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12174,
+          "following_count": 5141,
+          "like_count": 94773,
+          "listed_count": 20,
+          "media_count": 2334,
+          "tweet_count": 20599
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-27T18:18:16.000Z",
+        "description": "不是键政号\n🧡💛🤍🩵💙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "atlas2.vear.vip",
+                "end": 23,
+                "expanded_url": "https://atlas2.vear.vip",
+                "start": 0,
+                "url": "https://t.co/CceBRYFMkv"
+              }
+            ]
+          }
+        },
+        "id": "1530252010213330945",
+        "location": "新疆维吾尔自治区",
+        "name": "呂西安 和另外325人",
+        "pinned_tweet_id": "2051316918695666024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060407556229718016/FEbJeqRf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 38,
+          "like_count": 1804,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 2001
+        },
+        "url": "https://t.co/CceBRYFMkv",
+        "username": "rikinkan",
+        "verified": false
+      }
+    ]
+  }
+}

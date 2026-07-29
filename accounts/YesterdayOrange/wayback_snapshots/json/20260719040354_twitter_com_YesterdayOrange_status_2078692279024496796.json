@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2078692279024496796",
+    "created_at": "2026-07-19T04:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T05:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078692279024496796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yvame_rain/sta…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/yvame_rain/status/2072984526335119494",
+          "start": 55,
+          "url": "https://t.co/0wpvpawAyj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078692279024496796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072984526335119494",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想找人聊天，但是没有人跟我说话，想跟互关的人聊天，每天一个人呆在家里好孤独，不过我也讨厌学校....... https://t.co/0wpvpawAyj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2078692279024496796",
+        "created_at": "2026-07-19T04:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078692279024496796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yvame_rain/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/yvame_rain/status/2072984526335119494",
+              "start": 55,
+              "url": "https://t.co/0wpvpawAyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078692279024496796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072984526335119494",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想找人聊天，但是没有人跟我说话，想跟互关的人聊天，每天一个人呆在家里好孤独，不过我也讨厌学校....... https://t.co/0wpvpawAyj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063187473405227008",
+        "conversation_id": "2072984526335119494",
+        "created_at": "2026-07-03T10:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072984526335119494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072984526335119494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2537,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想找人聊天，但是没有人跟我说话，想跟互关的人聊天，每天一个人呆在家里好孤独，不过我也讨厌学校......."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2078080489244770777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12179,
+          "following_count": 5197,
+          "like_count": 96203,
+          "listed_count": 20,
+          "media_count": 2393,
+          "tweet_count": 20939
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关//偶尔更新",
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2067589871783588060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067229260100853760/id2JxlXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 113,
+          "like_count": 1219,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "yvame_rain",
+        "verified": true
+      }
+    ]
+  }
+}

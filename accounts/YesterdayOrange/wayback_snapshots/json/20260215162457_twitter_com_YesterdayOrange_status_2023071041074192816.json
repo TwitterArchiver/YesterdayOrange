@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2023017545771704611",
+    "created_at": "2026-02-15T16:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023071041074192816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1835678332786208768",
+          "start": 0,
+          "username": "jimohuayican"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023071041074192816",
+    "in_reply_to_user_id": "1835678332786208768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023070691101487378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jimohuayican 所以为什么要这么做呢😢，我感到很困惑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2023017545771704611",
+        "created_at": "2026-02-15T16:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023071041074192816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1835678332786208768",
+              "start": 0,
+              "username": "jimohuayican"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023071041074192816",
+        "in_reply_to_user_id": "1835678332786208768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023070691101487378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jimohuayican 所以为什么要这么做呢😢，我感到很困惑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835678332786208768",
+        "conversation_id": "2023017545771704611",
+        "created_at": "2026-02-15T16:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023070691101487378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023070691101487378",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023070336917627047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 呜呜…喵…回不了你了喵…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2023017545771704611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10520,
+          "following_count": 4088,
+          "like_count": 76491,
+          "listed_count": 17,
+          "media_count": 1793,
+          "tweet_count": 17284
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T13:53:24.000Z",
+        "description": "失心，空洞。树洞…",
+        "id": "1835678332786208768",
+        "location": "鸿园",
+        "name": "季末",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969738542516781056/Ngf2oPgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 9,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 51
+        },
+        "username": "jimohuayican",
+        "verified": false
+      }
+    ]
+  }
+}

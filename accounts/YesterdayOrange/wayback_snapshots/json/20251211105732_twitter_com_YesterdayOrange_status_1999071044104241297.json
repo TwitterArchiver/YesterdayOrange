@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1999070863682163001",
+    "created_at": "2025-12-11T10:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T11:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999071044104241297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1796573102714847233",
+          "start": 0,
+          "username": "Floatovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999071044104241297",
+    "in_reply_to_user_id": "1796573102714847233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999070863682163001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Floatovo 哪里毕业啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999070853246668800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74gWXia0AA96eC.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1999070863682163001",
+        "created_at": "2025-12-11T10:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999071044104241297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1796573102714847233",
+              "start": 0,
+              "username": "Floatovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999071044104241297",
+        "in_reply_to_user_id": "1796573102714847233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999070863682163001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Floatovo 哪里毕业啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999070853246668800"
+          ]
+        },
+        "author_id": "1796573102714847233",
+        "conversation_id": "1999070863682163001",
+        "created_at": "2025-12-11T10:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999070863682163001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bKV0nhnkhW",
+              "end": 44,
+              "expanded_url": "https://x.com/Floatovo/status/1999070863682163001/photo/1",
+              "media_key": "3_1999070853246668800",
+              "start": 21,
+              "url": "https://t.co/bKV0nhnkhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999070863682163001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "转眼间又要毕业了，好快啊，不想毕业... https://t.co/bKV0nhnkhW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1997998050275717160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9473,
+          "following_count": 3407,
+          "like_count": 68367,
+          "listed_count": 16,
+          "media_count": 1492,
+          "tweet_count": 15746
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T16:03:31.000Z",
+        "description": "",
+        "id": "1796573102714847233",
+        "name": "洛可Looco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987900249244090369/13laHljh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 145,
+          "like_count": 3069,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 39
+        },
+        "username": "Floatovo",
+        "verified": false
+      }
+    ]
+  }
+}

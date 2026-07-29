@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2001549172739338373",
+    "created_at": "2025-12-18T07:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T08:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001549172739338373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whos3third/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/whos3third/status/2001544160189530501",
+          "start": 5,
+          "url": "https://t.co/nFEWL8JRK4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001549172739338373",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001544160189530501",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也要吃 https://t.co/nFEWL8JRK4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2001544157190672384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8bpzmub0AASSMJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2001549172739338373",
+        "created_at": "2025-12-18T07:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T08:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001549172739338373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whos3third/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/whos3third/status/2001544160189530501",
+              "start": 5,
+              "url": "https://t.co/nFEWL8JRK4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001549172739338373",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001544160189530501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也要吃 https://t.co/nFEWL8JRK4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001544157190672384"
+          ]
+        },
+        "author_id": "1985625445577138176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2001544160189530501",
+        "created_at": "2025-12-18T06:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T07:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001544160189530501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0r7hqX4UAz",
+              "end": 45,
+              "expanded_url": "https://x.com/whos3third/status/2001544160189530501/photo/1",
+              "media_key": "3_2001544157190672384",
+              "start": 22,
+              "url": "https://t.co/0r7hqX4UAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001544160189530501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "期末沒考好，但還是要獎勵一下努力過的自己😋 https://t.co/0r7hqX4UAz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2000095705998983445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9502,
+          "following_count": 3414,
+          "like_count": 68636,
+          "listed_count": 16,
+          "media_count": 1515,
+          "tweet_count": 15834
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T08:30:02.000Z",
+        "description": "我們窮盡一生需要學會的不過是彼此擁抱...",
+        "id": "1985625445577138176",
+        "name": "who",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998408209762222080/aQ3mPRqz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 184,
+          "like_count": 1750,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 73
+        },
+        "username": "whos3third",
+        "verified": false
+      }
+    ]
+  }
+}

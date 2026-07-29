@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1996467554056118485",
+    "created_at": "2025-12-04T06:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T07:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996467554056118485"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1996467554056118485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我半年前去了一下雄安。\n它很安静，是一座空城，只有房产中介比较多。\n巨大的高铁站像经过了世界末日，安静和平，长满植物，堆砌着无人的科技设备。\n可能因为一切都太大，又太方正了，我有些害怕。\n我走出高铁站，孤独，漫长的公路，和一片荒原。\n车站就像沙漠中的金字塔。\n像一座巨大的纪念碑和坟墓。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1996467554056118485",
+        "created_at": "2025-12-04T06:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T07:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996467554056118485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996467554056118485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我半年前去了一下雄安。\n它很安静，是一座空城，只有房产中介比较多。\n巨大的高铁站像经过了世界末日，安静和平，长满植物，堆砌着无人的科技设备。\n可能因为一切都太大，又太方正了，我有些害怕。\n我走出高铁站，孤独，漫长的公路，和一片荒原。\n车站就像沙漠中的金字塔。\n像一座巨大的纪念碑和坟墓。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1996226972650004822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9446,
+          "following_count": 3389,
+          "like_count": 67826,
+          "listed_count": 16,
+          "media_count": 1456,
+          "tweet_count": 15594
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

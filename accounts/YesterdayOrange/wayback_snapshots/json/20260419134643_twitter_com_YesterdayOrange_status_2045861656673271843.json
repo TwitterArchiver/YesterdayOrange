@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2045700815663571031",
+    "created_at": "2026-04-19T13:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045861656673271843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587438818201767938",
+          "start": 0,
+          "username": "kurolove520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045861656673271843",
+    "in_reply_to_user_id": "1587438818201767938",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045856048888807440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurolove520 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2045700815663571031",
+        "created_at": "2026-04-19T13:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045861656673271843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587438818201767938",
+              "start": 0,
+              "username": "kurolove520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045861656673271843",
+        "in_reply_to_user_id": "1587438818201767938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045856048888807440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurolove520 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587438818201767938",
+        "conversation_id": "2045700815663571031",
+        "created_at": "2026-04-19T13:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045856048888807440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045856048888807440",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045700815663571031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 不能两个都扣吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2045231864064139330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11606,
+          "following_count": 4892,
+          "like_count": 87312,
+          "listed_count": 21,
+          "media_count": 2129,
+          "tweet_count": 19193
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-01T13:38:11.000Z",
+        "description": "缺愛到沒媽的可憐傻逼\n夢想當地雷最後發現根本沒那麼好看 只有性格像地雷一樣",
+        "id": "1587438818201767938",
+        "location": "虛擬世界",
+        "name": "52號",
+        "pinned_tweet_id": "2044072474808332767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022716500998844418/fZ8oyXDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 564,
+          "like_count": 23974,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 174
+        },
+        "username": "kurolove520",
+        "verified": false
+      }
+    ]
+  }
+}

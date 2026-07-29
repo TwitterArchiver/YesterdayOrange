@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2034303486297522262",
+    "created_at": "2026-03-18T16:18:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T17:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034303486297522262"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/arslanter13/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/arslanter13/status/2034281601564291128",
+          "start": 5,
+          "url": "https://t.co/7iMkaDAc2d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034303486297522262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034281601564291128",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我很可耻 https://t.co/7iMkaDAc2d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2034303486297522262",
+        "created_at": "2026-03-18T16:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T17:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034303486297522262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arslanter13/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/arslanter13/status/2034281601564291128",
+              "start": 5,
+              "url": "https://t.co/7iMkaDAc2d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034303486297522262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034281601564291128",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很可耻 https://t.co/7iMkaDAc2d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669305436254932993",
+        "conversation_id": "2034281601564291128",
+        "created_at": "2026-03-18T14:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034281601564291128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034281601564291128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穷很可耻吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2033924730877837630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11307,
+          "following_count": 4630,
+          "like_count": 82580,
+          "listed_count": 20,
+          "media_count": 1958,
+          "tweet_count": 18361
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-15T11:27:02.000Z",
+        "description": "借個火好嗎",
+        "id": "1669305436254932993",
+        "location": "海邊",
+        "name": "阿与华",
+        "pinned_tweet_id": "1895818045182132297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791518994018766850/PcZ6d9iA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 1448,
+          "like_count": 31110,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 2599
+        },
+        "username": "arslanter13",
+        "verified": false
+      }
+    ]
+  }
+}

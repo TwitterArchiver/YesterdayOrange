@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1992920862786515444",
+    "created_at": "2025-11-25T02:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T03:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993138782326210636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1977354624337403904",
+          "start": 0,
+          "username": "yingyao8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993138782326210636",
+    "in_reply_to_user_id": "1977354624337403904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993137624069132348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingyao8964 啊，你觉得这就已经平等了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1992920862786515444",
+        "created_at": "2025-11-25T02:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T03:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993138782326210636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1977354624337403904",
+              "start": 0,
+              "username": "yingyao8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993138782326210636",
+        "in_reply_to_user_id": "1977354624337403904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993137624069132348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingyao8964 啊，你觉得这就已经平等了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977354624337403904",
+        "conversation_id": "1992920862786515444",
+        "created_at": "2025-11-25T02:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T03:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993137624069132348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993137624069132348",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992920862786515444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange LGBTQ+可以在中国举办婚礼并同居，就算有人报警政府也不会干涉的，这不是很自由自在嘛。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1992956304256852427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8852,
+          "following_count": 3277,
+          "like_count": 66256,
+          "listed_count": 14,
+          "media_count": 1393,
+          "tweet_count": 15178
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T12:44:26.000Z",
+        "description": "所以你要逃避年轻人的欲望；要与那些以洁净的心求告主的人一同追求公义、信仰、爱心、和平。\n——提摩太后书 2:22 CSBS",
+        "id": "1977354624337403904",
+        "location": "梵蒂冈",
+        "name": "螢✝️❤️‍🔥🇻🇦",
+        "pinned_tweet_id": "1977362883626385861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977356770369843200/e-zHjbiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 644,
+          "like_count": 2387,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 238
+        },
+        "username": "yingyao8964",
+        "verified": false
+      }
+    ]
+  }
+}

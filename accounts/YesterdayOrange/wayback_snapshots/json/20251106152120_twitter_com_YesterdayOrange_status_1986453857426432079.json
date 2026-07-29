@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1986442992375541904",
+    "created_at": "2025-11-06T15:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T16:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986453857426432079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1976974397878738944",
+          "start": 0,
+          "username": "fuuko_bbbrat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986453857426432079",
+    "in_reply_to_user_id": "1976974397878738944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986452816060469401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuuko_bbbrat 先fo我喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1986442992375541904",
+        "created_at": "2025-11-06T15:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T16:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986453857426432079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1976974397878738944",
+              "start": 0,
+              "username": "fuuko_bbbrat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986453857426432079",
+        "in_reply_to_user_id": "1976974397878738944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986452816060469401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuuko_bbbrat 先fo我喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976974397878738944",
+        "conversation_id": "1986442992375541904",
+        "created_at": "2025-11-06T15:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T16:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986452816060469401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986452816060469401",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986442992375541904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 请！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1986404979910058420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7773,
+          "following_count": 3096,
+          "like_count": 62070,
+          "listed_count": 14,
+          "media_count": 1280,
+          "tweet_count": 14476
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T11:33:39.000Z",
+        "description": "我的图是p的\nhttps://t.co/a4d0FRyibu 骂我等于暗恋我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fuukobbbrat",
+                "end": 30,
+                "expanded_url": "https://ngl.link/fuukobbbrat",
+                "start": 7,
+                "url": "https://t.co/a4d0FRyibu"
+              }
+            ]
+          }
+        },
+        "id": "1976974397878738944",
+        "location": "88绿泡泡晚上聊天 不是门只是挂着你们就不会莫名私讯我了",
+        "name": "風子",
+        "pinned_tweet_id": "1977387886304534842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976976530476867584/ynHkDWuV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 49,
+          "like_count": 1242,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 344
+        },
+        "username": "fuuko_bbbrat",
+        "verified": false
+      }
+    ]
+  }
+}

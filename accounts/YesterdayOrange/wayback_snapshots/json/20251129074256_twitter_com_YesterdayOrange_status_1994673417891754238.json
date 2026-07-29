@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1994652156197310796",
+    "created_at": "2025-11-29T07:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T08:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994673417891754238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1591966132357169152",
+          "start": 0,
+          "username": "Shojokuki_04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994673417891754238",
+    "in_reply_to_user_id": "1591966132357169152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994661909447286873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shojokuki_04 fo我才可以😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1994652156197310796",
+        "created_at": "2025-11-29T07:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994673417891754238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1591966132357169152",
+              "start": 0,
+              "username": "Shojokuki_04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994673417891754238",
+        "in_reply_to_user_id": "1591966132357169152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994661909447286873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shojokuki_04 fo我才可以😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591966132357169152",
+        "conversation_id": "1994652156197310796",
+        "created_at": "2025-11-29T06:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994661909447286873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994661909447286873",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994652156197310796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 沒有我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1994073228369592563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9288,
+          "following_count": 3379,
+          "like_count": 67399,
+          "listed_count": 15,
+          "media_count": 1430,
+          "tweet_count": 15500
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-14T01:28:33.000Z",
+        "description": "台灣人 rhythm games: chunithm and arcaea. genshin&blue archive. 中文& English&日本語🆗",
+        "id": "1591966132357169152",
+        "location": "Taiwan",
+        "name": "🧥大外衣",
+        "pinned_tweet_id": "1660945895947653121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591966452210597888/lI4jwHI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 376,
+          "like_count": 3325,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 1166
+        },
+        "username": "Shojokuki_04",
+        "verified": false
+      }
+    ]
+  }
+}

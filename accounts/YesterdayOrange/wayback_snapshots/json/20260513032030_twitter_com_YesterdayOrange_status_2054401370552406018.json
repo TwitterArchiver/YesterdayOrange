@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2054401370552406018",
+    "created_at": "2026-05-13T03:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054401370552406018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/messages/compo…",
+          "end": 44,
+          "expanded_url": "https://x.com/messages/compose?recipient_id=1788485889225834496",
+          "start": 21,
+          "status": 404,
+          "unwound_url": "https://x.com/messages/compose?recipient_id=1788485889225834496",
+          "url": "https://t.co/jdP5H5uwfk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054401370552406018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你好，点击这里和我贴贴抱抱亲亲🥰\n　　↓\nhttps://t.co/jdP5H5uwfk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2054401370552406018",
+        "created_at": "2026-05-13T03:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054401370552406018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/messages/compo…",
+              "end": 44,
+              "expanded_url": "https://x.com/messages/compose?recipient_id=1788485889225834496",
+              "start": 21,
+              "status": 404,
+              "unwound_url": "https://x.com/messages/compose?recipient_id=1788485889225834496",
+              "url": "https://t.co/jdP5H5uwfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054401370552406018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好，点击这里和我贴贴抱抱亲亲🥰\n　　↓\nhttps://t.co/jdP5H5uwfk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2054258784231645579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11938,
+          "following_count": 4992,
+          "like_count": 90309,
+          "listed_count": 22,
+          "media_count": 2228,
+          "tweet_count": 19849
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

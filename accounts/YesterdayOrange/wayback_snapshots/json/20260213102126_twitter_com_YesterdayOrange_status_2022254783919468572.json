@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022254770183102464"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2022254783919468572",
+    "created_at": "2026-02-13T10:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T11:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022254783919468572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cMraDy1W62",
+          "end": 126,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2022254783919468572/photo/1",
+          "media_key": "3_2022254770183102464",
+          "start": 103,
+          "url": "https://t.co/cMraDy1W62"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022254783919468572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么是后现代（Postmodernism）？\n福柯是后现代主义者的骄傲，但他不认同这个概念，觉得这是模糊的。后现代到底是什么，一种理论还是一种思潮，还是一种无具体所指的精神？后现代的含义这些年是否有变化？ https://t.co/cMraDy1W62"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022254770183102464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBB9_8YaYAAXVhX.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022254770183102464"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2022254783919468572",
+        "created_at": "2026-02-13T10:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022254783919468572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMraDy1W62",
+              "end": 126,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2022254783919468572/photo/1",
+              "media_key": "3_2022254770183102464",
+              "start": 103,
+              "url": "https://t.co/cMraDy1W62"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022254783919468572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么是后现代（Postmodernism）？\n福柯是后现代主义者的骄傲，但他不认同这个概念，觉得这是模糊的。后现代到底是什么，一种理论还是一种思潮，还是一种无具体所指的精神？后现代的含义这些年是否有变化？ https://t.co/cMraDy1W62"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2021921058795000211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10445,
+          "following_count": 4016,
+          "like_count": 75762,
+          "listed_count": 17,
+          "media_count": 1762,
+          "tweet_count": 17182
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1999463741214327098",
+    "created_at": "2025-12-12T12:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T13:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999463741214327098"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999463741214327098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人，如果要永远留在某一天，你愿意吗？\n\n那得看是哪一天哦。\n\n那就，我们认识的那一天！\n\n那不行。\n\n为什么？\n\n因为，那样，我就看不到你的未来了。\n\n你喜欢哪一天呢？\n\n那就明天吧。\n\n因为明天还在路上，就像我们一样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1999463741214327098",
+        "created_at": "2025-12-12T12:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T13:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999463741214327098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999463741214327098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人，如果要永远留在某一天，你愿意吗？\n\n那得看是哪一天哦。\n\n那就，我们认识的那一天！\n\n那不行。\n\n为什么？\n\n因为，那样，我就看不到你的未来了。\n\n你喜欢哪一天呢？\n\n那就明天吧。\n\n因为明天还在路上，就像我们一样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1999295726791409827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9453,
+          "following_count": 3408,
+          "like_count": 68466,
+          "listed_count": 16,
+          "media_count": 1499,
+          "tweet_count": 15765
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

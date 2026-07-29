@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "2064921706259755204",
+    "created_at": "2026-06-11T04:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064921706259755204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2064903704520880130",
+          "start": 19,
+          "url": "https://t.co/dGjTL79ySq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064921706259755204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064903704520880130",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老师应该不会坏到给重修体育打59吧😨 https://t.co/dGjTL79ySq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "2064921706259755204",
+        "created_at": "2026-06-11T04:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064921706259755204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2064903704520880130",
+              "start": 19,
+              "url": "https://t.co/dGjTL79ySq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064921706259755204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064903704520880130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老师应该不会坏到给重修体育打59吧😨 https://t.co/dGjTL79ySq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2064903704520880130",
+        "created_at": "2026-06-11T02:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064903704520880130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064903704520880130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算了一下，这门课好像刚好差一分就可以及格了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2064883817849254291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12166,
+          "following_count": 5132,
+          "like_count": 94039,
+          "listed_count": 21,
+          "media_count": 2299,
+          "tweet_count": 20400
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

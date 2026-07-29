@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1983789568408301999",
+    "created_at": "2025-10-30T12:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T13:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983867948503822396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1722502113081909248",
+          "start": 0,
+          "username": "lonely0551"
+        },
+        {
+          "end": 28,
+          "id": "1422800225777897472",
+          "start": 12,
+          "username": "PhileasFogg1872"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983867948503822396",
+    "in_reply_to_user_id": "1722502113081909248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983867481136693448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lonely0551 @PhileasFogg1872 你要追我吗🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1983789568408301999",
+        "created_at": "2025-10-30T12:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983867948503822396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1722502113081909248",
+              "start": 0,
+              "username": "lonely0551"
+            },
+            {
+              "end": 28,
+              "id": "1422800225777897472",
+              "start": 12,
+              "username": "PhileasFogg1872"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983867948503822396",
+        "in_reply_to_user_id": "1722502113081909248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983867481136693448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lonely0551 @PhileasFogg1872 你要追我吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722502113081909248",
+        "conversation_id": "1983789568408301999",
+        "created_at": "2025-10-30T12:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983867481136693448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            },
+            {
+              "end": 33,
+              "id": "1422800225777897472",
+              "start": 17,
+              "username": "PhileasFogg1872"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983867481136693448",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983813794284630172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange @PhileasFogg1872 什么😧？🍊居然不是单身😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1983562573929947411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7199,
+          "following_count": 3003,
+          "like_count": 59589,
+          "listed_count": 14,
+          "media_count": 1201,
+          "tweet_count": 14124
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-09T06:31:33.000Z",
+        "description": "",
+        "id": "1722502113081909248",
+        "name": "Lonely",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939717824504819712/sbQrOm8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 607,
+          "like_count": 948,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 55
+        },
+        "username": "lonely0551",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T06:03:14.000Z",
+        "description": "ᵕ̈ Fogg ✍︎🌳 出厂日期2007 ,现在是大一🌲0.5🌴喜欢森林,草原,山脉,湖泊和海洋🚲扩列&互fo可以私信🧦",
+        "id": "1422800225777897472",
+        "location": "一片未知的深海🌊",
+        "name": "𐂂 福格🌲",
+        "pinned_tweet_id": "1981747424894095807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980430596405878784/Sxh2pt8l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 291,
+          "like_count": 51682,
+          "listed_count": 5,
+          "media_count": 1019,
+          "tweet_count": 6848
+        },
+        "username": "PhileasFogg1872",
+        "verified": false
+      }
+    ]
+  }
+}

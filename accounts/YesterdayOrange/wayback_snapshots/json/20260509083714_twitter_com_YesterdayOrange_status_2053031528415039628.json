@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2053015971980623900",
+    "created_at": "2026-05-09T08:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T09:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053031528415039628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1469205585480790016",
+          "start": 0,
+          "username": "copbacteria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053031528415039628",
+    "in_reply_to_user_id": "1469205585480790016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053029230683045958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@copbacteria 帝国时代"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2053015971980623900",
+        "created_at": "2026-05-09T08:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053031528415039628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1469205585480790016",
+              "start": 0,
+              "username": "copbacteria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053031528415039628",
+        "in_reply_to_user_id": "1469205585480790016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053029230683045958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copbacteria 帝国时代"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469205585480790016",
+        "conversation_id": "2053015971980623900",
+        "created_at": "2026-05-09T08:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053029230683045958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053029230683045958",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053015971980623900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 玩什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2051560833235444117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11913,
+          "following_count": 4993,
+          "like_count": 89922,
+          "listed_count": 22,
+          "media_count": 2213,
+          "tweet_count": 19785
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-10T07:21:37.000Z",
+        "description": "",
+        "id": "1469205585480790016",
+        "name": "iLoVEtO",
+        "pinned_tweet_id": "2031387484672897212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049879297960382464/RapwPzWs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 103
+        },
+        "username": "copbacteria",
+        "verified": false
+      }
+    ]
+  }
+}

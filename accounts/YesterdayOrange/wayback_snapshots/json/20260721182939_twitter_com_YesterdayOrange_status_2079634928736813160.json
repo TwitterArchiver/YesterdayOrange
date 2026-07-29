@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2079629277029626039",
+    "created_at": "2026-07-21T18:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T19:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079634928736813160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2079111179809509376",
+          "start": 0,
+          "username": "sgmnne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079634928736813160",
+    "in_reply_to_user_id": "2079111179809509376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079634216023716077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sgmnne 不发了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2079629277029626039",
+        "created_at": "2026-07-21T18:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079634928736813160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2079111179809509376",
+              "start": 0,
+              "username": "sgmnne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079634928736813160",
+        "in_reply_to_user_id": "2079111179809509376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079634216023716077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sgmnne 不发了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079111179809509376",
+        "conversation_id": "2079629277029626039",
+        "created_at": "2026-07-21T18:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079634216023716077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079634216023716077",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079629277029626039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 为什么我总是能收到你的私信😩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2079273967949697193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12256,
+          "following_count": 5238,
+          "like_count": 96871,
+          "listed_count": 21,
+          "media_count": 2410,
+          "tweet_count": 21015
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-20T07:49:23.000Z",
+        "description": "互fo｜友跨｜仅cd｜不od\n期待与你成为朋友喵\n生产日期：2009.07.02\n180cm 60kg",
+        "id": "2079111179809509376",
+        "name": "很想吃红豆饼ww",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079111639924674560/LqZiXVWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 10,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "sgmnne",
+        "verified": false
+      }
+    ]
+  }
+}

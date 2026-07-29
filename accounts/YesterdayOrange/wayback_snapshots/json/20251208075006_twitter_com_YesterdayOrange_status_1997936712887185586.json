@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1997672460918079715",
+    "created_at": "2025-12-08T07:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T08:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997936712887185586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1540593964289429504",
+          "start": 0,
+          "username": "Jack55113610"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997936712887185586",
+    "in_reply_to_user_id": "1540593964289429504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997672460918079715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jack55113610 哇哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1997672450268729345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kogmfaEAE_GIM.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1997672460918079715",
+        "created_at": "2025-12-08T07:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T08:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997936712887185586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1540593964289429504",
+              "start": 0,
+              "username": "Jack55113610"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997936712887185586",
+        "in_reply_to_user_id": "1540593964289429504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997672460918079715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jack55113610 哇哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997672450268729345"
+          ]
+        },
+        "author_id": "1540593964289429504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1997672460918079715",
+        "created_at": "2025-12-07T14:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T15:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997672460918079715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1997392853291745280/5VBthu36?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1997392853291745280/5VBthu36?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/A8ZJ14P6Bx"
+            },
+            {
+              "display_url": "pic.x.com/OZluaHyEQF",
+              "end": 64,
+              "expanded_url": "https://x.com/Jack55113610/status/1997672460918079715/photo/1",
+              "media_key": "3_1997672450268729345",
+              "start": 41,
+              "url": "https://t.co/OZluaHyEQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997672460918079715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/A8ZJ14P6Bx https://t.co/OZluaHyEQF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1997515899558048049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9458,
+          "following_count": 3414,
+          "like_count": 68105,
+          "listed_count": 16,
+          "media_count": 1476,
+          "tweet_count": 15684
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T07:13:49.000Z",
+        "description": "我好累 （？） 纯负面情绪垃圾站 互联网流浪汉",
+        "id": "1540593964289429504",
+        "location": "新【世界】",
+        "name": "双腿猫咪🐈",
+        "pinned_tweet_id": "1997868279231107377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989763558989549568/SSFQ-6BD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 272,
+          "like_count": 4046,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1565
+        },
+        "username": "Jack55113610",
+        "verified": false
+      }
+    ]
+  }
+}

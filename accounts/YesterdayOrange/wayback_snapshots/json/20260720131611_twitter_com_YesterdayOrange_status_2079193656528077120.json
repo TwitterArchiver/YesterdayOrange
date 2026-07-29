@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2079193656528077120",
+    "created_at": "2026-07-20T13:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079193656528077120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077388451440443392",
+          "start": 3,
+          "username": "aleaph2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079193656528077120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079159926614835470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aleaph2: tag♡\n\n┆09┆♂┆INTP┆病み垢┆気まぐれ浮上┆\n症状統合失調症\n生きるのが下手くそです(ᐡ.  ̫ .ᐡ )\n深い話も、日常の些細な話も、共有できる場所。\n気楽に絡んでください🖤*･゜ﾟ･*:.｡..｡.:*･'･*:.｡. .｡.:*･゜ﾟ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_2079159908172439553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqo663aIAEZzow.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1294,
+        "media_key": "3_2079159908436684800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqo672aMAADZw5.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2079159908415766528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqo67xbAAAa6xZ.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2079159908642308096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqo68nbwAAF9sl.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2079193656528077120",
+        "created_at": "2026-07-20T13:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079193656528077120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077388451440443392",
+              "start": 3,
+              "username": "aleaph2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079193656528077120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079159926614835470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aleaph2: tag♡\n\n┆09┆♂┆INTP┆病み垢┆気まぐれ浮上┆\n症状統合失調症\n生きるのが下手くそです(ᐡ.  ̫ .ᐡ )\n深い話も、日常の些細な話も、共有できる場所。\n気楽に絡んでください🖤*･゜ﾟ･*:.｡..｡.:*･'･*:.｡. .｡.:*･゜ﾟ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079159908172439553",
+            "3_2079159908436684800",
+            "3_2079159908415766528",
+            "3_2079159908642308096"
+          ]
+        },
+        "author_id": "2077388451440443392",
+        "conversation_id": "2079159926614835470",
+        "created_at": "2026-07-20T11:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079159926614835470"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 130,
+              "tag": "病み垢と繋がりたい"
+            },
+            {
+              "end": 148,
+              "start": 141,
+              "tag": "ネッ友募集中"
+            },
+            {
+              "end": 160,
+              "start": 149,
+              "tag": "病み垢男子と繋がりた"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k9OPd2byQM",
+              "end": 184,
+              "expanded_url": "https://x.com/aleaph2/status/2079159926614835470/photo/1",
+              "media_key": "3_2079159908172439553",
+              "start": 161,
+              "url": "https://t.co/k9OPd2byQM"
+            },
+            {
+              "display_url": "pic.x.com/k9OPd2byQM",
+              "end": 184,
+              "expanded_url": "https://x.com/aleaph2/status/2079159926614835470/photo/1",
+              "media_key": "3_2079159908436684800",
+              "start": 161,
+              "url": "https://t.co/k9OPd2byQM"
+            },
+            {
+              "display_url": "pic.x.com/k9OPd2byQM",
+              "end": 184,
+              "expanded_url": "https://x.com/aleaph2/status/2079159926614835470/photo/1",
+              "media_key": "3_2079159908415766528",
+              "start": 161,
+              "url": "https://t.co/k9OPd2byQM"
+            },
+            {
+              "display_url": "pic.x.com/k9OPd2byQM",
+              "end": 184,
+              "expanded_url": "https://x.com/aleaph2/status/2079159926614835470/photo/1",
+              "media_key": "3_2079159908642308096",
+              "start": 161,
+              "url": "https://t.co/k9OPd2byQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079159926614835470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "tag♡\n\n┆09┆♂┆INTP┆病み垢┆気まぐれ浮上┆\n症状統合失調症\n生きるのが下手くそです(ᐡ.  ̫ .ᐡ )\n深い話も、日常の些細な話も、共有できる場所。\n気楽に絡んでください🖤*･゜ﾟ･*:.｡..｡.:*･'･*:.｡. .｡.:*･゜ﾟ･*🖤\n#病み垢と繋がりたい #ネッ友募集中 #病み垢男子と繋がりた https://t.co/k9OPd2byQM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2078080489244770777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12184,
+          "following_count": 5221,
+          "like_count": 96463,
+          "listed_count": 20,
+          "media_count": 2405,
+          "tweet_count": 20976
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-15T13:45:10.000Z",
+        "description": "中国では、これを一目惚れっていうんだよ。",
+        "id": "2077388451440443392",
+        "location": "河南省",
+        "name": "アルテミス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079083392285761536/0OFDwlgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 194,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "aleaph2",
+        "verified": false
+      }
+    ]
+  }
+}

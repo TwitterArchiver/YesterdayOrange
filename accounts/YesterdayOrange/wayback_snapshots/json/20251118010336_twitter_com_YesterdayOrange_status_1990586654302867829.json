@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990586645255761926"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1990586654302867829",
+    "created_at": "2025-11-18T01:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T02:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990586654302867829"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xksiqlupj7",
+          "end": 162,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1990586654302867829/photo/1",
+          "media_key": "3_1990586645255761926",
+          "start": 139,
+          "url": "https://t.co/xksiqlupj7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990586654302867829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我教你一招☝ ，先从蓝锁，排球，咒术，巨人，芙莉莲开始看，看完了之后你基本就在快，和抖上成为一名合格的梗小鬼了 ，然后再补间谍过家家，鬼灭，无职转生，龙与虎这类拓展范围，最后你就可以尝试eva，fate这类成为最终的浓度超人了 ，见人就说:“什么?你也看番?那让我来考考你！☝ https://t.co/xksiqlupj7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1986,
+        "media_key": "3_1990586645255761926",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5_8Ad0bMAYc9uH.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990586645255761926"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1990586654302867829",
+        "created_at": "2025-11-18T01:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T02:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990586654302867829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xksiqlupj7",
+              "end": 162,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1990586654302867829/photo/1",
+              "media_key": "3_1990586645255761926",
+              "start": 139,
+              "url": "https://t.co/xksiqlupj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990586654302867829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我教你一招☝ ，先从蓝锁，排球，咒术，巨人，芙莉莲开始看，看完了之后你基本就在快，和抖上成为一名合格的梗小鬼了 ，然后再补间谍过家家，鬼灭，无职转生，龙与虎这类拓展范围，最后你就可以尝试eva，fate这类成为最终的浓度超人了 ，见人就说:“什么?你也看番?那让我来考考你！☝ https://t.co/xksiqlupj7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1990436775446393256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8294,
+          "following_count": 3251,
+          "like_count": 64998,
+          "listed_count": 14,
+          "media_count": 1348,
+          "tweet_count": 14895
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

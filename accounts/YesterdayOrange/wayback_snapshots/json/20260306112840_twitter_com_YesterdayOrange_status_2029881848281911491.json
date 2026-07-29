@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029881832758796288",
+        "3_2029881832771321856",
+        "3_2029881832746143749"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2029881848281911491",
+    "created_at": "2026-03-06T11:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T12:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029881848281911491"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nKcHrdndR3",
+          "end": 160,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2029881848281911491/photo/1",
+          "media_key": "3_2029881832758796288",
+          "start": 137,
+          "url": "https://t.co/nKcHrdndR3"
+        },
+        {
+          "display_url": "pic.x.com/nKcHrdndR3",
+          "end": 160,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2029881848281911491/photo/1",
+          "media_key": "3_2029881832771321856",
+          "start": 137,
+          "url": "https://t.co/nKcHrdndR3"
+        },
+        {
+          "display_url": "pic.x.com/nKcHrdndR3",
+          "end": 160,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2029881848281911491/photo/1",
+          "media_key": "3_2029881832746143749",
+          "start": 137,
+          "url": "https://t.co/nKcHrdndR3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029881848281911491",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前知乎上有一篇女性cosplay论我看了后惊为天人，说女性是把世界世界看作是一个大型的过家家，我当妈妈你当爸爸，猫狗当娃娃，她不是身份定位是母亲或女朋友，她只是在cos这个身份，同时也要要求别人跟她一起玩，如果别人不遵守过家家的游戏规则，即脱离了她预设的这个角色的行为。 https://t.co/nKcHrdndR3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029881832758796288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCuWxambYAA9GrQ.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029881832771321856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCuWxapagAAKiEG.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029881832746143749",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCuWxajaUAUOQos.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029881832758796288",
+            "3_2029881832771321856",
+            "3_2029881832746143749"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2029881848281911491",
+        "created_at": "2026-03-06T11:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029881848281911491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nKcHrdndR3",
+              "end": 160,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2029881848281911491/photo/1",
+              "media_key": "3_2029881832758796288",
+              "start": 137,
+              "url": "https://t.co/nKcHrdndR3"
+            },
+            {
+              "display_url": "pic.x.com/nKcHrdndR3",
+              "end": 160,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2029881848281911491/photo/1",
+              "media_key": "3_2029881832771321856",
+              "start": 137,
+              "url": "https://t.co/nKcHrdndR3"
+            },
+            {
+              "display_url": "pic.x.com/nKcHrdndR3",
+              "end": 160,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2029881848281911491/photo/1",
+              "media_key": "3_2029881832746143749",
+              "start": 137,
+              "url": "https://t.co/nKcHrdndR3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029881848281911491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前知乎上有一篇女性cosplay论我看了后惊为天人，说女性是把世界世界看作是一个大型的过家家，我当妈妈你当爸爸，猫狗当娃娃，她不是身份定位是母亲或女朋友，她只是在cos这个身份，同时也要要求别人跟她一起玩，如果别人不遵守过家家的游戏规则，即脱离了她预设的这个角色的行为。 https://t.co/nKcHrdndR3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2028629348073587063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10942,
+          "following_count": 4411,
+          "like_count": 80275,
+          "listed_count": 20,
+          "media_count": 1904,
+          "tweet_count": 17898
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1989686320063811587"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "1989686324107120738",
+    "created_at": "2025-11-15T13:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T14:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989686324107120738"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989686324107120738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在更新到day16了，大家希望doro系列继续更新吗？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2025-11-16T13:25:59.000Z",
+        "id": "1989686320063811587",
+        "options": [
+          {
+            "label": "我不喜欢看你的文章",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "我希望day30以内结束",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "我认为目前没有结束的必要",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "查看投票选项",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1989686320063811587"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1989686324107120738",
+        "created_at": "2025-11-15T13:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989686324107120738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989686324107120738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在更新到day16了，大家希望doro系列继续更新吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1989685373346426906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8234,
+          "following_count": 3246,
+          "like_count": 64684,
+          "listed_count": 14,
+          "media_count": 1334,
+          "tweet_count": 14832
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

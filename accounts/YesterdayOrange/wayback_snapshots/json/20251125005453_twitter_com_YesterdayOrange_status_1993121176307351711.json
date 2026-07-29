@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1992891049421992131",
+    "created_at": "2025-11-25T00:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T01:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993121176307351711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1581226356326617088",
+          "start": 0,
+          "username": "Furina_8620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993121176307351711",
+    "in_reply_to_user_id": "1581226356326617088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993120628250230958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Furina_8620 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1992891049421992131",
+        "created_at": "2025-11-25T00:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T01:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993121176307351711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581226356326617088",
+              "start": 0,
+              "username": "Furina_8620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993121176307351711",
+        "in_reply_to_user_id": "1581226356326617088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993120628250230958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Furina_8620 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581226356326617088",
+        "conversation_id": "1992891049421992131",
+        "created_at": "2025-11-25T00:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T01:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993120628250230958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993120628250230958",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992891049421992131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我喜欢旅行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1992956304256852427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8850,
+          "following_count": 3277,
+          "like_count": 66250,
+          "listed_count": 14,
+          "media_count": 1393,
+          "tweet_count": 15175
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T10:12:10.000Z",
+        "description": "迷子東北亞鐵路航空歷史學家旅行家/遠視主義/音樂爱好者&鋼琴业余十级/時代症候/AuADHD&MTF",
+        "id": "1581226356326617088",
+        "location": "黑塔空间站",
+        "name": "迷子萬里通",
+        "pinned_tweet_id": "1964345147820310669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982762757121261568/CUZYnYq__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 291,
+          "like_count": 5130,
+          "listed_count": 1,
+          "media_count": 321,
+          "tweet_count": 1156
+        },
+        "username": "Furina_8620",
+        "verified": false
+      }
+    ]
+  }
+}

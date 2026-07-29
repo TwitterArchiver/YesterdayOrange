@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2050173355207331991",
+    "created_at": "2026-05-01T11:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050173355207331991"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kriby_2/status…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/kriby_2/status/2038138614274720125",
+          "start": 3,
+          "url": "https://t.co/cFN2Zkktnb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050173355207331991",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038138614274720125",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看看 https://t.co/cFN2Zkktnb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3032,
+        "media_key": "3_2038138610483101696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjsRIjagAAYEgz.jpg",
+        "width": 3440
+      },
+      {
+        "height": 736,
+        "media_key": "3_2038138607408664576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjsQ9GaUAABAIm.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2050173355207331991",
+        "created_at": "2026-05-01T11:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050173355207331991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kriby_2/status…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/kriby_2/status/2038138614274720125",
+              "start": 3,
+              "url": "https://t.co/cFN2Zkktnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050173355207331991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038138614274720125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看看 https://t.co/cFN2Zkktnb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038138610483101696",
+            "3_2038138607408664576"
+          ]
+        },
+        "author_id": "1991102644988092416",
+        "conversation_id": "2038138614274720125",
+        "created_at": "2026-03-29T06:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038138614274720125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oHE6xm5lkK",
+              "end": 27,
+              "expanded_url": "https://x.com/Kriby_2/status/2038138614274720125/photo/1",
+              "media_key": "3_2038138610483101696",
+              "start": 4,
+              "url": "https://t.co/oHE6xm5lkK"
+            },
+            {
+              "display_url": "pic.x.com/oHE6xm5lkK",
+              "end": 27,
+              "expanded_url": "https://x.com/Kriby_2/status/2038138614274720125/photo/1",
+              "media_key": "3_2038138607408664576",
+              "start": 4,
+              "url": "https://t.co/oHE6xm5lkK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038138614274720125",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 340,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "=w= https://t.co/oHE6xm5lkK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2050100822965616669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11863,
+          "following_count": 4968,
+          "like_count": 89263,
+          "listed_count": 23,
+          "media_count": 2197,
+          "tweet_count": 19667
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-19T11:14:06.000Z",
+        "description": "🇨🇳|🇹🇼I🇯🇵朕躬安，已阅，卿身为封疆大吏，府内事物可自行决断，琐事不必上奏。\n偶尔会分享自己画的手绘作品，质量随缘😆😆",
+        "id": "1991102644988092416",
+        "location": "距离你50m",
+        "name": "NMSL",
+        "pinned_tweet_id": "2039031138984091907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016200092672282624/rbFVyXWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 303,
+          "like_count": 10109,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 1426
+        },
+        "username": "Kriby_2",
+        "verified": false
+      }
+    ]
+  }
+}

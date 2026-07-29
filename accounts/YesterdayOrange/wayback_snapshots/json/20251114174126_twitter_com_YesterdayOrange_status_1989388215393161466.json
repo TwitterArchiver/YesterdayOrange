@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1989388215393161466",
+    "created_at": "2025-11-14T17:41:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T18:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989388215393161466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1609919452988178440",
+          "start": 3,
+          "username": "Nacytried"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989388215393161466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989366812556103757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nacytried: 今天太忙了忘了吃饭了🥲\n\n吃个夜宵吧！吃什么呢🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1989388215393161466",
+        "created_at": "2025-11-14T17:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T18:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989388215393161466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1609919452988178440",
+              "start": 3,
+              "username": "Nacytried"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989388215393161466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989366812556103757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nacytried: 今天太忙了忘了吃饭了🥲\n\n吃个夜宵吧！吃什么呢🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609919452988178440",
+        "conversation_id": "1989366812556103757",
+        "created_at": "2025-11-14T16:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T17:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989366812556103757"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989366812556103757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天太忙了忘了吃饭了🥲\n\n吃个夜宵吧！吃什么呢🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1988972619169951931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8221,
+          "following_count": 3231,
+          "like_count": 64545,
+          "listed_count": 14,
+          "media_count": 1334,
+          "tweet_count": 14820
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T14:28:21.000Z",
+        "description": "低人气主播喵梦亲～穿搭/日常分享=(^.^)=",
+        "id": "1609919452988178440",
+        "location": "Taiwan",
+        "name": "喵梦亲真的很想爆红",
+        "pinned_tweet_id": "1986423772413677571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982472115900014592/cinKYJoX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 48,
+          "like_count": 390,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 236
+        },
+        "username": "Nacytried",
+        "verified": false
+      }
+    ]
+  }
+}

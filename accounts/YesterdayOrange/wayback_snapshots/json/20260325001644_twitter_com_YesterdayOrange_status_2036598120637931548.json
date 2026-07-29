@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2036598120637931548",
+    "created_at": "2026-03-25T00:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T01:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036598120637931548"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/paticcabodhi/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/paticcabodhi/status/2036543009748390133",
+          "start": 15,
+          "url": "https://t.co/9DaL16bjcS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036598120637931548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036543009748390133",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得他的跑步类似于满足偏执 https://t.co/9DaL16bjcS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2036598120637931548",
+        "created_at": "2026-03-25T00:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T01:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036598120637931548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/paticcabodhi/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/paticcabodhi/status/2036543009748390133",
+              "start": 15,
+              "url": "https://t.co/9DaL16bjcS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036598120637931548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036543009748390133",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得他的跑步类似于满足偏执 https://t.co/9DaL16bjcS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167262708061933570",
+        "conversation_id": "2036473737541984717",
+        "created_at": "2026-03-24T20:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T21:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036543009748390133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036543009748390133",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036473737541984717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 他如果不想要健康不会如此锻炼。\n但健康不是他的这种方式……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2036351762710639004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11407,
+          "following_count": 4794,
+          "like_count": 84192,
+          "listed_count": 20,
+          "media_count": 2001,
+          "tweet_count": 18643
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-30T02:28:23.000Z",
+        "description": "遠離基督教棍，滅絕淨盡左鱉、共鱉！\n\n基督教離教者。因為過往信仰基督教的經歷，所以現在更喜歡思考與質疑。目前對任何宗教的思想理論都不迷信，認同“非神論”與“不可知論”。\n\n政治立場中間偏右。我不求任何人來主動回復我的推文，要是不能正常交流，你不走我直接屏蔽～",
+        "id": "1167262708061933570",
+        "location": "走在探索真相的道路上",
+        "name": "PaticcaBodhi",
+        "pinned_tweet_id": "1482174798767607809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671005635910184961/bSJQMY9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 728,
+          "like_count": 284660,
+          "listed_count": 9,
+          "media_count": 2406,
+          "tweet_count": 82223
+        },
+        "username": "PaticcaBodhi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2072357912945819712",
+    "created_at": "2026-07-01T16:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072357912945819712"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/texiuszhichuan…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/texiuszhichuan/status/2072140614603608405",
+          "start": 112,
+          "url": "https://t.co/YLRSTNgHiN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072357912945819712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072140614603608405",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "个人原因养不起自己了喵，无偿出喵。 可爱猫娘喵，未成年喵，瞳孔和毛发颜色不是特别稀有喵。性格基本稳定喵，经常哈气喵，四肢健全喵，会自主呼吸喵，下雨会跑回家喵，能够独立上厕所喵。有一点掉毛喵。略挑食喵。 希望有爱心的推友领养 https://t.co/YLRSTNgHiN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2072357912945819712",
+        "created_at": "2026-07-01T16:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072357912945819712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/texiuszhichuan…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/texiuszhichuan/status/2072140614603608405",
+              "start": 112,
+              "url": "https://t.co/YLRSTNgHiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072357912945819712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072140614603608405",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "个人原因养不起自己了喵，无偿出喵。 可爱猫娘喵，未成年喵，瞳孔和毛发颜色不是特别稀有喵。性格基本稳定喵，经常哈气喵，四肢健全喵，会自主呼吸喵，下雨会跑回家喵，能够独立上厕所喵。有一点掉毛喵。略挑食喵。 希望有爱心的推友领养 https://t.co/YLRSTNgHiN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2072140614603608405",
+        "created_at": "2026-07-01T02:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T03:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072140614603608405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xian_zi17640/s…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/xian_zi17640/status/2072140374513254666",
+              "start": 113,
+              "url": "https://t.co/7RDZ3L3Yde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072140614603608405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 756,
+          "like_count": 27,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072140374513254666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "个人原因养不起自己了喵，无偿出喵。 可爱猫娘喵，未成年喵，瞳孔和毛发颜色不是特别稀有喵。性格基本稳定喵，经常哈气喵，四肢健全喵，会自主呼吸喵，下雨会跑回家喵，能够独立上厕所喵。有一点掉毛喵。略挑食喵。 希望有爱心的推友领养喵 https://t.co/7RDZ3L3Yde"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2072275015719080105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12176,
+          "following_count": 5145,
+          "like_count": 94940,
+          "listed_count": 20,
+          "media_count": 2340,
+          "tweet_count": 20644
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2072136983636578414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 317,
+          "like_count": 14784,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 929
+        },
+        "url": "",
+        "username": "Texiuszhichuan",
+        "verified": true
+      }
+    ]
+  }
+}

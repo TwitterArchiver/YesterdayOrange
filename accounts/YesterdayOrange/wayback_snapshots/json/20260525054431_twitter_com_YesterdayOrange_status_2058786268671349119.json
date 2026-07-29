@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2058786268671349119",
+    "created_at": "2026-05-25T05:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T06:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058786268671349119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2058774441350639992",
+          "start": 37,
+          "url": "https://t.co/G0WUxz1lVr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058786268671349119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058774441350639992",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我见过最抽象的应该是\n“我主页都发了你怎么不发啊，是不是长的太难看了。” https://t.co/G0WUxz1lVr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2058786268671349119",
+        "created_at": "2026-05-25T05:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058786268671349119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2058774441350639992",
+              "start": 37,
+              "url": "https://t.co/G0WUxz1lVr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058786268671349119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058774441350639992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我见过最抽象的应该是\n“我主页都发了你怎么不发啊，是不是长的太难看了。” https://t.co/G0WUxz1lVr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2058774441350639992",
+        "created_at": "2026-05-25T04:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058774441350639992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058774441350639992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚私信就要交换照片太奇怪了（x）\n我只和关系很好的人交换照片。\nNo photo no chat是谁发明的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2057128877051588914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12067,
+          "following_count": 5082,
+          "like_count": 92357,
+          "listed_count": 22,
+          "media_count": 2263,
+          "tweet_count": 20087
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1983208821230072160",
+    "created_at": "2025-10-28T16:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T17:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983209068501078397"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983209068501078397",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983208821230072160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Day1—龙华汽车站结局"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1983208821230072160",
+        "created_at": "2025-10-28T16:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T17:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983209068501078397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983209068501078397",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983208821230072160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Day1—龙华汽车站结局"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1983208821230072160",
+        "created_at": "2025-10-28T16:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T17:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983208821230072160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983208821230072160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Doro买了一盒面包，现在碎屑吃完了，她什么都没有了\n 凌晨的垃圾桶，Doro惊喜地找到一只不是很烂的欧润吉\nDoro跌跌撞撞地走到龙华汽车站。椅子早被拆掉，几个工人蹲在地上抽烟，来了一个大妈说，大通铺，有空调，20一晚\n手里还剩30块，她想起你在洛杉鸡，她决定用20买票去找你，还有10块，买欧润吉给你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1983208821230072160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6978,
+          "following_count": 2876,
+          "like_count": 58716,
+          "listed_count": 14,
+          "media_count": 1185,
+          "tweet_count": 14021
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

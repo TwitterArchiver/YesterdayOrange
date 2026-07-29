@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027938970890604544"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027938978360660383",
+    "created_at": "2026-03-01T02:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T03:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027938978360660383"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/u8Gb9GbeXB",
+          "end": 35,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2027938978360660383/photo/1",
+          "media_key": "3_2027938970890604544",
+          "start": 12,
+          "url": "https://t.co/u8Gb9GbeXB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027938978360660383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小男孩茶话会，但是禁男 https://t.co/u8Gb9GbeXB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 788,
+        "media_key": "3_2027938970890604544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCSvv-IbEAARo4u.jpg",
+        "width": 628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027938970890604544"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027938978360660383",
+        "created_at": "2026-03-01T02:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027938978360660383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u8Gb9GbeXB",
+              "end": 35,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2027938978360660383/photo/1",
+              "media_key": "3_2027938970890604544",
+              "start": 12,
+              "url": "https://t.co/u8Gb9GbeXB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027938978360660383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小男孩茶话会，但是禁男 https://t.co/u8Gb9GbeXB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2026270503917277418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10881,
+          "following_count": 4361,
+          "like_count": 79825,
+          "listed_count": 20,
+          "media_count": 1887,
+          "tweet_count": 17808
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1997713640917746045",
+    "created_at": "2025-12-07T18:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T19:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997728477437727228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1992595732474232832",
+          "start": 0,
+          "username": "SakiyaKirishima"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997728477437727228",
+    "in_reply_to_user_id": "1992595732474232832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997727380199387309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakiyaKirishima 互关～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1997713640917746045",
+        "created_at": "2025-12-07T18:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T19:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997728477437727228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992595732474232832",
+              "start": 0,
+              "username": "SakiyaKirishima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997728477437727228",
+        "in_reply_to_user_id": "1992595732474232832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997727380199387309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakiyaKirishima 互关～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992595732474232832",
+        "conversation_id": "1997713640917746045",
+        "created_at": "2025-12-07T17:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T18:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997727380199387309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997727380199387309",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997726962358620465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 因为我的大学在中美各有一个校区，而我们这些学生被给予自己选择校区的权利。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1997515899558048049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9462,
+          "following_count": 3412,
+          "like_count": 68076,
+          "listed_count": 16,
+          "media_count": 1471,
+          "tweet_count": 15668
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T14:07:52.000Z",
+        "description": "",
+        "id": "1992595732474232832",
+        "name": "Saky Kirishima",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992596093306089472/gCll_4Rq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 73,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 127
+        },
+        "username": "SakiyaKirishima",
+        "verified": false
+      }
+    ]
+  }
+}

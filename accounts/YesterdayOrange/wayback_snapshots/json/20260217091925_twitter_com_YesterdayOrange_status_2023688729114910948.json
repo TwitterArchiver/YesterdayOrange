@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2023590879769096251",
+    "created_at": "2026-02-17T09:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T10:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023688729114910948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3870784416",
+          "start": 0,
+          "username": "dr_zeqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023688729114910948",
+    "in_reply_to_user_id": "3870784416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023687514138317164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dr_zeqi 先互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2023590879769096251",
+        "created_at": "2026-02-17T09:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T10:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023688729114910948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3870784416",
+              "start": 0,
+              "username": "dr_zeqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023688729114910948",
+        "in_reply_to_user_id": "3870784416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023687514138317164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dr_zeqi 先互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3870784416",
+        "conversation_id": "2023590879769096251",
+        "created_at": "2026-02-17T09:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T10:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023687514138317164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2023687514138317164",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023590879769096251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我试试 看看会不会私信我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2023424933351842157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10611,
+          "following_count": 4186,
+          "like_count": 77005,
+          "listed_count": 17,
+          "media_count": 1807,
+          "tweet_count": 17383
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-12T15:27:33.000Z",
+        "description": "A Doctor / 毕业于北京中医药大学 / 现任环湖医院神经外科十二病区医师 / 于 2020 年在解放军总医院第五医学中心北院区微创脊柱外科进修 / 师从北京积水潭脊柱外科陆延胜 / 曾担任青大附院崂山院区脊柱外科医师 / 24年在崂山脊柱微创中心学习，成功开展微创手术解决老年颈腰椎椎间突出腰椎管狭窄等疾病",
+        "id": "3870784416",
+        "location": "San Mateo, CA",
+        "name": "dr_wang",
+        "pinned_tweet_id": "1948026208526184929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972354371401990144/ImKUMOFR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 148,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 600
+        },
+        "username": "dr_zeqi",
+        "verified": false
+      }
+    ]
+  }
+}

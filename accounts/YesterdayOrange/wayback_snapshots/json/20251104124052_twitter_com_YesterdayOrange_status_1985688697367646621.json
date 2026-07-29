@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1985688697367646621",
+    "created_at": "2025-11-04T12:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T13:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985688697367646621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gogoqu_ti_yan/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/gogoqu_ti_yan/status/1985680879759540244",
+          "start": 22,
+          "url": "https://t.co/GJzX7SCGfN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985688697367646621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985680879759540244",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我来北京讨饭的哈，问我是不是北京的我会生气 https://t.co/GJzX7SCGfN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1985688697367646621",
+        "created_at": "2025-11-04T12:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T13:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985688697367646621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gogoqu_ti_yan/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/gogoqu_ti_yan/status/1985680879759540244",
+              "start": 22,
+              "url": "https://t.co/GJzX7SCGfN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985688697367646621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985680879759540244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来北京讨饭的哈，问我是不是北京的我会生气 https://t.co/GJzX7SCGfN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857038479345016832",
+        "conversation_id": "1985649648661643613",
+        "created_at": "2025-11-04T12:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T13:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985680879759540244"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "北京",
+              "probability": 0.542,
+              "start": 20,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985680879759540244",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985649648661643613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 地道老北京？？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1985385072380477750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7610,
+          "following_count": 3083,
+          "like_count": 61573,
+          "listed_count": 14,
+          "media_count": 1253,
+          "tweet_count": 14372
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T12:31:11.000Z",
+        "description": "真，交朋友，看见了都回(˵¯͒〰¯͒˵)\n为人好色( ͡° ͜ʖ ͡°)✧",
+        "id": "1857038479345016832",
+        "location": "地球LOL",
+        "name": "飘山落雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946163967853993984/U6C6PVl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 1052,
+          "like_count": 5980,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 382
+        },
+        "username": "GOGOqu_ti_yan",
+        "verified": false
+      }
+    ]
+  }
+}

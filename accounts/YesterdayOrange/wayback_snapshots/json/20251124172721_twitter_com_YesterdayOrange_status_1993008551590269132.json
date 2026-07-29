@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1992986360186306781",
+    "created_at": "2025-11-24T17:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T18:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993008551590269132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1583118067118252032",
+          "start": 0,
+          "username": "guguHusky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993008551590269132",
+    "in_reply_to_user_id": "1583118067118252032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993008439300399581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guguHusky 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1992986360186306781",
+        "created_at": "2025-11-24T17:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T18:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993008551590269132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1583118067118252032",
+              "start": 0,
+              "username": "guguHusky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993008551590269132",
+        "in_reply_to_user_id": "1583118067118252032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993008439300399581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guguHusky 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583118067118252032",
+        "conversation_id": "1992986360186306781",
+        "created_at": "2025-11-24T17:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T18:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993008439300399581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993008439300399581",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992986360186306781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 能不能说晚安喵🍊🍊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1992956304256852427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8841,
+          "following_count": 3279,
+          "like_count": 66224,
+          "listed_count": 14,
+          "media_count": 1393,
+          "tweet_count": 15165
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T15:29:15.000Z",
+        "description": "Fire-Frost-wolf\n是furry，名字蛮中二的，这个号大概就是....大号...真的会有人关注我吗..？\n平时会发电，会发一些发电推文，也可能随机掉落猫猫或者舞萌成绩图。\n可能会出现18+的转推？\n会出现难过的文案，介意者不要关注。",
+        "id": "1583118067118252032",
+        "location": "对象肩膀上",
+        "name": "咕咕汪-awa",
+        "pinned_tweet_id": "1950217435820204258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899363916498739201/f_Z5N9jB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 1388,
+          "like_count": 226,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 416
+        },
+        "username": "guguHusky",
+        "verified": false
+      }
+    ]
+  }
+}

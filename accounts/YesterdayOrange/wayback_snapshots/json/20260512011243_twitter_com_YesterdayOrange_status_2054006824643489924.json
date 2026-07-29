@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2054006824643489924",
+    "created_at": "2026-05-12T01:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T02:11:59.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054006640631062622",
+      "2054006824643489924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2053885837105066047",
+          "start": 143,
+          "url": "https://t.co/A87GjR9jql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054006824643489924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053885837105066047",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谈的后面部分一直回避，聊天就是忙，问什么都是不知道，然后无缝衔接了一个富哥……\n富哥还专门来说我太穷了，本身就配不上那个人。\n那个人半年找我一次倒垃圾，抱怨身边的一切人和事情，然后倒完了再拉黑我。\n可能五六次吧，我和那个人分手三年多了，大概半年一次。\n而今年春节那次我第一次拉黑了他。 https://t.co/A87GjR9jql"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2053885830180294656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDeR9Ua0AA13Em.jpg",
+        "width": 798
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2054006640631062622",
+        "created_at": "2026-05-12T01:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:11:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054006640631062622",
+          "2054006824643489924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2053885837105066047",
+              "start": 132,
+              "url": "https://t.co/A87GjR9jql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054006640631062622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "谈的后面部分一直回避，聊天就是忙，问什么都是不知道，然后无缝衔接了一个富哥……\n富哥还专门来说我太穷了，本身就配不上那个人。\n然后那个人大概半年找我一次专门倒垃圾，抱怨身边的一切人和事情，然后倒完了再拉黑我。\n可能五六次吧，我和那个人分手三年多了，大概半年一次。\n而今年春节那次我第一次拉黑了他。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053885837105066047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谈的后面部分一直回避，聊天就是忙，问什么都是不知道，然后无缝衔接了一个富哥……\n富哥还专门来说我太穷了，本身就配不上那个人。\n然后那个人大概半年找我一次专门倒垃圾，抱怨身边的一切人和事情，然后倒完了再拉黑我。\n可能五六次吧，我和那个人分手三年多了，大概半年一次。 https://t.co/A87GjR9jql"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2054006824643489924",
+        "created_at": "2026-05-12T01:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:11:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054006640631062622",
+          "2054006824643489924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2053885837105066047",
+              "start": 143,
+              "url": "https://t.co/A87GjR9jql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054006824643489924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053885837105066047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谈的后面部分一直回避，聊天就是忙，问什么都是不知道，然后无缝衔接了一个富哥……\n富哥还专门来说我太穷了，本身就配不上那个人。\n那个人半年找我一次倒垃圾，抱怨身边的一切人和事情，然后倒完了再拉黑我。\n可能五六次吧，我和那个人分手三年多了，大概半年一次。\n而今年春节那次我第一次拉黑了他。 https://t.co/A87GjR9jql"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053885830180294656"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053885837105066047",
+        "created_at": "2026-05-11T17:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053885837105066047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p6Tj2U3sPP",
+              "end": 35,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2053885837105066047/photo/1",
+              "media_key": "3_2053885830180294656",
+              "start": 12,
+              "url": "https://t.co/p6Tj2U3sPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053885837105066047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9243,
+          "like_count": 152,
+          "quote_count": 5,
+          "reply_count": 24,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我前任就是这么整我的😇 https://t.co/p6Tj2U3sPP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2053885837105066047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11915,
+          "following_count": 4990,
+          "like_count": 90025,
+          "listed_count": 22,
+          "media_count": 2222,
+          "tweet_count": 19817
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2067173936501297172",
+    "created_at": "2026-06-17T10:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067198686963323004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2049155738069839872",
+          "start": 0,
+          "username": "Ice_NorthEast"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067198686963323004",
+    "in_reply_to_user_id": "2049155738069839872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067198044916097205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ice_NorthEast 那快去更新😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2067173936501297172",
+        "created_at": "2026-06-17T10:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067198686963323004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2049155738069839872",
+              "start": 0,
+              "username": "Ice_NorthEast"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067198686963323004",
+        "in_reply_to_user_id": "2049155738069839872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067198044916097205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ice_NorthEast 那快去更新😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049155738069839872",
+        "conversation_id": "2067173936501297172",
+        "created_at": "2026-06-17T10:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067198044916097205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067198044916097205",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067173936501297172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 欸呀，忘记更新了，私信回不了哦，嘿嘿🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2065839376798806044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12159,
+          "following_count": 5118,
+          "like_count": 94324,
+          "listed_count": 21,
+          "media_count": 2308,
+          "tweet_count": 20448
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-28T15:58:43.000Z",
+        "description": "",
+        "id": "2049155738069839872",
+        "location": "Hong Kong",
+        "name": "「離港之後」",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049156872708698112/rFiOhVXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 43,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 78
+        },
+        "username": "Ice_NorthEast",
+        "verified": false
+      }
+    ]
+  }
+}

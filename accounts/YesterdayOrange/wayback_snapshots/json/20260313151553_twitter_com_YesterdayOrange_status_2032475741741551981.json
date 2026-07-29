@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2032475741741551981",
+    "created_at": "2026-03-13T15:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T16:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032475741741551981"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032475741741551981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“终点站到了。”\n     司机不见了，这里只有我和柴芷兰。\n     于是我们下车了，路灯没有亮。\n     公路通向沙滩，沙滩上挂着路牌。\n     “码头。”\n     公路空荡荡的，公交车也开走好远了。\n     “我们走吧。”我拉上他。\n     “这是哪里？”\n     “我不知道，不过走吧，也许有薯条。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2032475741741551981",
+        "created_at": "2026-03-13T15:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T16:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032475741741551981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032475741741551981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“终点站到了。”\n     司机不见了，这里只有我和柴芷兰。\n     于是我们下车了，路灯没有亮。\n     公路通向沙滩，沙滩上挂着路牌。\n     “码头。”\n     公路空荡荡的，公交车也开走好远了。\n     “我们走吧。”我拉上他。\n     “这是哪里？”\n     “我不知道，不过走吧，也许有薯条。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2032050302623629575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11062,
+          "following_count": 4448,
+          "like_count": 81297,
+          "listed_count": 20,
+          "media_count": 1926,
+          "tweet_count": 18049
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

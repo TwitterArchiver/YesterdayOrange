@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2032732213012512826",
+    "created_at": "2026-03-14T14:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T15:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032821959797743926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1814173282738049024",
+          "start": 0,
+          "username": "JiMi29314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032821959797743926",
+    "in_reply_to_user_id": "1814173282738049024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032815817843528071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiMi29314 都好喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2032732213012512826",
+        "created_at": "2026-03-14T14:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032821959797743926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1814173282738049024",
+              "start": 0,
+              "username": "JiMi29314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032821959797743926",
+        "in_reply_to_user_id": "1814173282738049024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032815817843528071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiMi29314 都好喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814173282738049024",
+        "conversation_id": "2032732213012512826",
+        "created_at": "2026-03-14T13:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032815817843528071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032815817843528071",
+        "in_reply_to_user_id": "1814173282738049024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032815765662085612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 要互关！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2032475741741551981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11106,
+          "following_count": 4475,
+          "like_count": 81508,
+          "listed_count": 20,
+          "media_count": 1934,
+          "tweet_count": 18100
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-19T05:39:57.000Z",
+        "description": "- 我与春风皆过客 你携秋水揽星河 -",
+        "id": "1814173282738049024",
+        "name": "开朗der Civad",
+        "pinned_tweet_id": "2032512708558598606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032515328627060738/5mcfC0vk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 117,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 765
+        },
+        "username": "JiMi29314",
+        "verified": false
+      }
+    ]
+  }
+}

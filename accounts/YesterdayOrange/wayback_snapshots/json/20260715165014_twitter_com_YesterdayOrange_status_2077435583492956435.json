@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2077435583492956435",
+    "created_at": "2026-07-15T16:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T17:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077435583492956435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shiyiyi22/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/shiyiyi22/status/2077428426395587026",
+          "start": 24,
+          "url": "https://t.co/J0KAZl9eAO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077435583492956435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077428426395587026",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我到了大二才接受母亲不爱自己，我觉得这太难了。 https://t.co/J0KAZl9eAO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2077435583492956435",
+        "created_at": "2026-07-15T16:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077435583492956435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shiyiyi22/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/shiyiyi22/status/2077428426395587026",
+              "start": 24,
+              "url": "https://t.co/J0KAZl9eAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077435583492956435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077428426395587026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我到了大二才接受母亲不爱自己，我觉得这太难了。 https://t.co/J0KAZl9eAO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666072064481173506",
+        "conversation_id": "2077428426395587026",
+        "created_at": "2026-07-15T16:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077428426395587026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077428426395587026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实一直都在想 妈妈你真的没爱过我吗 唉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2075657040111018244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12180,
+          "following_count": 5192,
+          "like_count": 95843,
+          "listed_count": 21,
+          "media_count": 2372,
+          "tweet_count": 20861
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-06T13:18:49.000Z",
+        "description": "这里是小语/未成年女高/泛性恋/把推当朋友圈发 /170+的萌妹 体重为良子/随机掉落精修自拍ing/欢迎找我终末地扩列呀/别看了快来找我玩！",
+        "id": "1666072064481173506",
+        "location": "哥伦比亚",
+        "name": "迟迟不语",
+        "pinned_tweet_id": "2046566080244772902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066022678679728128/ZTfe4NX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 203,
+          "like_count": 3305,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 4634
+        },
+        "url": "",
+        "username": "shiyiyi22",
+        "verified": false
+      }
+    ]
+  }
+}

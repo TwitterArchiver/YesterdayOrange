@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2007341677229552085",
+    "created_at": "2026-01-04T06:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T07:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007700161355719041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841564916572151808",
+          "start": 0,
+          "username": "jiankong_jiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007700161355719041",
+    "in_reply_to_user_id": "1841564916572151808",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007502574589812780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiankong_jiang 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2007341677229552085",
+        "created_at": "2026-01-04T06:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T07:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007700161355719041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841564916572151808",
+              "start": 0,
+              "username": "jiankong_jiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007700161355719041",
+        "in_reply_to_user_id": "1841564916572151808",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007502574589812780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiankong_jiang 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841564916572151808",
+        "conversation_id": "2007341677229552085",
+        "created_at": "2026-01-03T17:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T18:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007502574589812780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007502574589812780",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007341677229552085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 喜欢你老公🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2007083026812145794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9874,
+          "following_count": 3652,
+          "like_count": 71355,
+          "listed_count": 17,
+          "media_count": 1604,
+          "tweet_count": 16368
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T19:44:44.000Z",
+        "description": "09/高一/0.5/infp    湖北\n如果有认识的人发现了我的推，请千万别说出去，只要不说出去，让我干什么都行，我还要维持人设，求求了🥺",
+        "id": "1841564916572151808",
+        "name": "见空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841566986696065024/UF4d8osl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 719,
+          "like_count": 13346,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 343
+        },
+        "username": "jiankong_jiang",
+        "verified": false
+      }
+    ]
+  }
+}

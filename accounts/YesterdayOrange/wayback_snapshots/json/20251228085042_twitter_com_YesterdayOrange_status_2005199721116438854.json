@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2005192997563138397",
+    "created_at": "2025-12-28T08:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T09:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005199721116438854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2193559340",
+          "start": 0,
+          "username": "Evf_Trotsky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005199721116438854",
+    "in_reply_to_user_id": "2193559340",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005197921084682672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evf_Trotsky 不fo我的不行😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2005192997563138397",
+        "created_at": "2025-12-28T08:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T09:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005199721116438854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2193559340",
+              "start": 0,
+              "username": "Evf_Trotsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005199721116438854",
+        "in_reply_to_user_id": "2193559340",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005197921084682672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evf_Trotsky 不fo我的不行😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2193559340",
+        "conversation_id": "2005192997563138397",
+        "created_at": "2025-12-28T08:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T09:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005197921084682672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005197921084682672",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005192997563138397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 這個貼子可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2004818734368936222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9718,
+          "following_count": 3577,
+          "like_count": 69775,
+          "listed_count": 16,
+          "media_count": 1547,
+          "tweet_count": 16065
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-14T05:13:45.000Z",
+        "description": "國際主義民革托派/烏克蘭閒散人士/飛天拉麵神教修女/德涅斯特河沿岸摩爾達維亞共和國駐華大使\nИнтернационалисты-демократы-революционеры-троцкисты/украинские бездельники/монахини FSM/посол Приднестровской Молд",
+        "id": "2193559340",
+        "location": "Одеса,Україна",
+        "name": "EvfrosiniaTC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736416271086788608/FdONySMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 83,
+          "like_count": 300,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 1664
+        },
+        "username": "Evf_Trotsky",
+        "verified": false
+      }
+    ]
+  }
+}

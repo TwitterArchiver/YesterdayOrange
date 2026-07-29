@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056621339415621632"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2056621359627997292",
+    "created_at": "2026-05-19T06:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T07:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056621359627997292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o7cBC2C0PR",
+          "end": 53,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2056621359627997292/photo/1",
+          "media_key": "3_2056621339415621632",
+          "start": 30,
+          "url": "https://t.co/o7cBC2C0PR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056621359627997292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么总有人觉得不靠药物靠他给的安慰就可以治愈抑郁患者呢？ https://t.co/o7cBC2C0PR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 239,
+        "media_key": "3_2056621339415621632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqWNjVbMAAfOkA.jpg",
+        "width": 1342
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056621339415621632"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2056621359627997292",
+        "created_at": "2026-05-19T06:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056621359627997292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o7cBC2C0PR",
+              "end": 53,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2056621359627997292/photo/1",
+              "media_key": "3_2056621339415621632",
+              "start": 30,
+              "url": "https://t.co/o7cBC2C0PR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056621359627997292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么总有人觉得不靠药物靠他给的安慰就可以治愈抑郁患者呢？ https://t.co/o7cBC2C0PR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2056355935485071678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12054,
+          "following_count": 5074,
+          "like_count": 91650,
+          "listed_count": 22,
+          "media_count": 2253,
+          "tweet_count": 20003
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

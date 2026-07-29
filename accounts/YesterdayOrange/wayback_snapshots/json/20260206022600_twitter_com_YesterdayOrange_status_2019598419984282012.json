@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2019378424859803703",
+    "created_at": "2026-02-06T02:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T03:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019598419984282012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1652003868853821440",
+          "start": 0,
+          "username": "zheee_wwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019598419984282012",
+    "in_reply_to_user_id": "1652003868853821440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019577319745319003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zheee_wwc 摸摸头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2019378424859803703",
+        "created_at": "2026-02-06T02:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T03:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019598419984282012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1652003868853821440",
+              "start": 0,
+              "username": "zheee_wwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019598419984282012",
+        "in_reply_to_user_id": "1652003868853821440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019577319745319003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zheee_wwc 摸摸头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652003868853821440",
+        "conversation_id": "2019378424859803703",
+        "created_at": "2026-02-06T01:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T02:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019577319745319003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019577319745319003",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019378424859803703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 嘻嘻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2017875249245917244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10155,
+          "following_count": 3813,
+          "like_count": 74256,
+          "listed_count": 16,
+          "media_count": 1708,
+          "tweet_count": 16870
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-28T17:36:39.000Z",
+        "description": "2010 ♂️/现居陕西西安/寻找自己的取向ing/欢迎私聊/本人不是跨不是不是不是/ENFJ-T",
+        "id": "1652003868853821440",
+        "location": "中国",
+        "name": "zheee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961357383546146816/y_QetQNX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 118,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 62
+        },
+        "username": "zheee_wwc",
+        "verified": false
+      }
+    ]
+  }
+}

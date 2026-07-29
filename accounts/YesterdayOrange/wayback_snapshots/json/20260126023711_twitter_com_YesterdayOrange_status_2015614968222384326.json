@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2015472346187129002",
+    "created_at": "2026-01-26T02:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T03:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015614968222384326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1986489544045412352",
+          "start": 0,
+          "username": "yx_BA4UED_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015614968222384326",
+    "in_reply_to_user_id": "1986489544045412352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015472346187129002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yx_BA4UED_11 这是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015472343309799424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hlavWa0AAUrDT.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015472342898716672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hlat0aMAAT-_u.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2015472343464939520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hlav7aEAAlfTS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2015472346187129002",
+        "created_at": "2026-01-26T02:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T03:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015614968222384326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986489544045412352",
+              "start": 0,
+              "username": "yx_BA4UED_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015614968222384326",
+        "in_reply_to_user_id": "1986489544045412352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015472346187129002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yx_BA4UED_11 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015472343309799424",
+            "3_2015472342898716672",
+            "3_2015472343464939520"
+          ]
+        },
+        "author_id": "1986489544045412352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015472346187129002",
+        "created_at": "2026-01-25T17:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015472346187129002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Zj8W8K2jI",
+              "end": 40,
+              "expanded_url": "https://x.com/yx_BA4UED_11/status/2015472346187129002/photo/1",
+              "media_key": "3_2015472343309799424",
+              "start": 17,
+              "url": "https://t.co/4Zj8W8K2jI"
+            },
+            {
+              "display_url": "pic.x.com/4Zj8W8K2jI",
+              "end": 40,
+              "expanded_url": "https://x.com/yx_BA4UED_11/status/2015472346187129002/photo/1",
+              "media_key": "3_2015472342898716672",
+              "start": 17,
+              "url": "https://t.co/4Zj8W8K2jI"
+            },
+            {
+              "display_url": "pic.x.com/4Zj8W8K2jI",
+              "end": 40,
+              "expanded_url": "https://x.com/yx_BA4UED_11/status/2015472346187129002/photo/1",
+              "media_key": "3_2015472343464939520",
+              "start": 17,
+              "url": "https://t.co/4Zj8W8K2jI"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "06ef846bfc783874"
+        },
+        "id": "2015472346187129002",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "UHF 1/4λ antenna https://t.co/4Zj8W8K2jI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2014686382502117540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10119,
+          "following_count": 3766,
+          "like_count": 73596,
+          "listed_count": 15,
+          "media_count": 1685,
+          "tweet_count": 16760
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T17:43:43.000Z",
+        "description": "",
+        "id": "1986489544045412352",
+        "name": "BA4UED🍥🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006549916861214721/-NANo-lQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 54,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "username": "yx_BA4UED_11",
+        "verified": false
+      }
+    ]
+  }
+}

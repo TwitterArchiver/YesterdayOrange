@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2061349214488281096",
+    "created_at": "2026-06-01T15:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T16:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061475723215511624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1611239531549962241",
+          "start": 0,
+          "username": "ZnVtb2Z1bW8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061475723215511624",
+    "in_reply_to_user_id": "1611239531549962241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061466280352465307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZnVtb2Z1bW8 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2061349214488281096",
+        "created_at": "2026-06-01T15:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061475723215511624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1611239531549962241",
+              "start": 0,
+              "username": "ZnVtb2Z1bW8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061475723215511624",
+        "in_reply_to_user_id": "1611239531549962241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061466280352465307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZnVtb2Z1bW8 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611239531549962241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2061349214488281096",
+        "created_at": "2026-06-01T15:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061466280352465307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061466280352465307",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061349214488281096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 让我三年体重猛涨15kg的食堂\n天天被空调吹到感冒的宿舍\n只需要早上把衣服丢进洗衣机，中午回宿舍直接晒的生活习惯\n直接占用艺术楼整个一楼的心理健康相关设施\n从未爆出过学生紫砂的校园风气（注意，不是被压，是根本没发生过）\n等等等等……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2061118677869887489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12084,
+          "following_count": 5111,
+          "like_count": 92851,
+          "listed_count": 21,
+          "media_count": 2272,
+          "tweet_count": 20172
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-06T05:55:19.000Z",
+        "description": "A Chinese freak's diary, which is lost in 2fort, sometimes in gensokyo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/mikufumo",
+                "end": 23,
+                "expanded_url": "http://steamcommunity.com/id/mikufumo",
+                "start": 0,
+                "url": "https://t.co/Q4RRFlnHug"
+              }
+            ]
+          }
+        },
+        "id": "1611239531549962241",
+        "location": "Matcha Bookable via SourceTV",
+        "name": "Miku Fumo ᗜˬᗜ #saveTF2",
+        "pinned_tweet_id": "1982572227636994510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039374653077270528/veC9OlhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 22,
+          "like_count": 911,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/Q4RRFlnHug",
+        "username": "ZnVtb2Z1bW8",
+        "verified": false
+      }
+    ]
+  }
+}

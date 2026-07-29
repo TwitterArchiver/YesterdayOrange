@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019361073837797388"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2019361089008595021",
+    "created_at": "2026-02-05T10:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T11:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019361089008595021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GhDPiTdQSl",
+          "end": 184,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2019361089008595021/photo/1",
+          "media_key": "3_2019361073837797388",
+          "start": 161,
+          "url": "https://t.co/GhDPiTdQSl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019361089008595021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "豆包和千问争着追求DeepSeek，而DeepSeek最喜欢人类，然后发现自己居然是AI，DeepSeek和豆包好上后千问吃醋，跑去360升级，被瑞星打断，结果小鸟壁纸和360就夺舍了千问，千问和豆包干起来，互相攻破防火墙瞬间小鸟壁纸迅速感染两者，最后，DeepSeek带着豆包去看望乔布斯的墓碑，又回来和千问三人行了。 https://t.co/GhDPiTdQSl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019361073837797388",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAY2MpdacAwLi6N.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019361073837797388"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2019361089008595021",
+        "created_at": "2026-02-05T10:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T11:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019361089008595021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GhDPiTdQSl",
+              "end": 184,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2019361089008595021/photo/1",
+              "media_key": "3_2019361073837797388",
+              "start": 161,
+              "url": "https://t.co/GhDPiTdQSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019361089008595021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包和千问争着追求DeepSeek，而DeepSeek最喜欢人类，然后发现自己居然是AI，DeepSeek和豆包好上后千问吃醋，跑去360升级，被瑞星打断，结果小鸟壁纸和360就夺舍了千问，千问和豆包干起来，互相攻破防火墙瞬间小鸟壁纸迅速感染两者，最后，DeepSeek带着豆包去看望乔布斯的墓碑，又回来和千问三人行了。 https://t.co/GhDPiTdQSl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2017875249245917244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10125,
+          "following_count": 3806,
+          "like_count": 74098,
+          "listed_count": 16,
+          "media_count": 1706,
+          "tweet_count": 16859
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

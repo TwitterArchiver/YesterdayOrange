@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1983909096815522015",
+    "created_at": "2025-10-30T15:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T16:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983919269613060578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1505175065498828800",
+          "start": 0,
+          "username": "franciswwwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983919269613060578",
+    "in_reply_to_user_id": "1505175065498828800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983918615792394537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@franciswwwww 我只说doro走了，又没说她死了，要对未来乐观一些哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1983909096815522015",
+        "created_at": "2025-10-30T15:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T16:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983919269613060578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1505175065498828800",
+              "start": 0,
+              "username": "franciswwwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983919269613060578",
+        "in_reply_to_user_id": "1505175065498828800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983918615792394537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@franciswwwww 我只说doro走了，又没说她死了，要对未来乐观一些哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505175065498828800",
+        "conversation_id": "1983909096815522015",
+        "created_at": "2025-10-30T15:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T16:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983918615792394537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983918615792394537",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983918179677008000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 原来是这个意思么😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1983909096815522015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7221,
+          "following_count": 3007,
+          "like_count": 59741,
+          "listed_count": 14,
+          "media_count": 1204,
+          "tweet_count": 14138
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T13:31:25.000Z",
+        "description": "嘿嘿 你發現我了🤪Hej是個滿天星😁不hrt🍥🙃07大齡青年🫤珠三角刷新🤪某港八大分校在讀🤪網絡獵奇生物🤪超好的朋友@Fe_ions",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "Fe_ions"
+              }
+            ]
+          }
+        },
+        "id": "1505175065498828800",
+        "location": "2.3km",
+        "name": "𝕙𝕖𝕛 😉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978651893447655424/7Ss-5pgs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 394,
+          "like_count": 2189,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1128
+        },
+        "username": "franciswwwww",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1984868263617257727",
+    "created_at": "2025-11-02T06:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T07:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984870055608467766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753042880162299904",
+          "start": 0,
+          "username": "zhang_jia57877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984870055608467766",
+    "in_reply_to_user_id": "1753042880162299904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984868649363259780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhang_jia57877 那你当我老婆吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1984868263617257727",
+        "created_at": "2025-11-02T06:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T07:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984870055608467766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753042880162299904",
+              "start": 0,
+              "username": "zhang_jia57877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984870055608467766",
+        "in_reply_to_user_id": "1753042880162299904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984868649363259780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhang_jia57877 那你当我老婆吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753042880162299904",
+        "conversation_id": "1984868263617257727",
+        "created_at": "2025-11-02T06:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T07:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984868649363259780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984868649363259780",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984868263617257727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我比他高点，我先来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1984642176056541222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7443,
+          "following_count": 3042,
+          "like_count": 60945,
+          "listed_count": 14,
+          "media_count": 1230,
+          "tweet_count": 14272
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T13:09:39.000Z",
+        "description": "希望你天天开心🫂",
+        "id": "1753042880162299904",
+        "name": "荆棘我冠 .",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982480538272169984/4Cyy6NjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 66,
+          "like_count": 5220,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9448
+        },
+        "username": "zhang_jia57877",
+        "verified": false
+      }
+    ]
+  }
+}

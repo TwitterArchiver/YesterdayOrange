@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000466803802406912",
+        "3_2000466803877924864",
+        "3_2000466803785703424"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2000466811171774789",
+    "created_at": "2025-12-15T07:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T08:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000466811171774789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K4gn0m6jhQ",
+          "end": 56,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2000466811171774789/photo/1",
+          "media_key": "3_2000466803802406912",
+          "start": 33,
+          "url": "https://t.co/K4gn0m6jhQ"
+        },
+        {
+          "display_url": "pic.x.com/K4gn0m6jhQ",
+          "end": 56,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2000466811171774789/photo/1",
+          "media_key": "3_2000466803877924864",
+          "start": 33,
+          "url": "https://t.co/K4gn0m6jhQ"
+        },
+        {
+          "display_url": "pic.x.com/K4gn0m6jhQ",
+          "end": 56,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2000466811171774789/photo/1",
+          "media_key": "3_2000466803785703424",
+          "start": 33,
+          "url": "https://t.co/K4gn0m6jhQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000466811171774789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如何看待逃离鸭科夫mod作者通过mod内黑名单禁止用户进入游戏？ https://t.co/K4gn0m6jhQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2000466803802406912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MV9YmagAAyDAm.jpg",
+        "width": 461
+      },
+      {
+        "height": 744,
+        "media_key": "3_2000466803877924864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MV9Y4a0AAHOtM.jpg",
+        "width": 580
+      },
+      {
+        "height": 356,
+        "media_key": "3_2000466803785703424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MV9YiboAA2znB.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000466803802406912",
+            "3_2000466803877924864",
+            "3_2000466803785703424"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2000466811171774789",
+        "created_at": "2025-12-15T07:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000466811171774789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K4gn0m6jhQ",
+              "end": 56,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2000466811171774789/photo/1",
+              "media_key": "3_2000466803802406912",
+              "start": 33,
+              "url": "https://t.co/K4gn0m6jhQ"
+            },
+            {
+              "display_url": "pic.x.com/K4gn0m6jhQ",
+              "end": 56,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2000466811171774789/photo/1",
+              "media_key": "3_2000466803877924864",
+              "start": 33,
+              "url": "https://t.co/K4gn0m6jhQ"
+            },
+            {
+              "display_url": "pic.x.com/K4gn0m6jhQ",
+              "end": 56,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2000466811171774789/photo/1",
+              "media_key": "3_2000466803785703424",
+              "start": 33,
+              "url": "https://t.co/K4gn0m6jhQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000466811171774789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何看待逃离鸭科夫mod作者通过mod内黑名单禁止用户进入游戏？ https://t.co/K4gn0m6jhQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2000095705998983445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9473,
+          "following_count": 3415,
+          "like_count": 68585,
+          "listed_count": 16,
+          "media_count": 1510,
+          "tweet_count": 15813
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2072275298943709489",
+    "created_at": "2026-07-01T11:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T12:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072275298943709489"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ouo02213882/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/ouo02213882/status/2072274992902131973",
+          "start": 7,
+          "url": "https://t.co/3E05FxOdVf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072275298943709489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072274992902131973",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想去这里生活 https://t.co/3E05FxOdVf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072274978867994624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIzHShbYAATTBI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2072274979153227776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIzHTlbsAAojbb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2072275298943709489",
+        "created_at": "2026-07-01T11:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072275298943709489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ouo02213882/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ouo02213882/status/2072274992902131973",
+              "start": 7,
+              "url": "https://t.co/3E05FxOdVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072275298943709489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072274992902131973",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想去这里生活 https://t.co/3E05FxOdVf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072274978867994624",
+            "3_2072274979153227776"
+          ]
+        },
+        "author_id": "1320354023451496450",
+        "conversation_id": "2072274992902131973",
+        "created_at": "2026-07-01T11:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072274992902131973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ci2n1BUheu",
+              "end": 27,
+              "expanded_url": "https://x.com/OuO02213882/status/2072274992902131973/photo/1",
+              "media_key": "3_2072274978867994624",
+              "start": 4,
+              "url": "https://t.co/Ci2n1BUheu"
+            },
+            {
+              "display_url": "pic.x.com/Ci2n1BUheu",
+              "end": 27,
+              "expanded_url": "https://x.com/OuO02213882/status/2072274992902131973/photo/1",
+              "media_key": "3_2072274979153227776",
+              "start": 4,
+              "url": "https://t.co/Ci2n1BUheu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072274992902131973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天空喵 https://t.co/Ci2n1BUheu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2072275015719080105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12176,
+          "following_count": 5143,
+          "like_count": 94902,
+          "listed_count": 20,
+          "media_count": 2339,
+          "tweet_count": 20634
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "還在慢慢認識自己喵",
+        "id": "1320354023451496450",
+        "location": "不能說喵 反正不在杭州喵",
+        "name": "粉天藍貓OuO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 1193,
+          "like_count": 25133,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "OuO02213882",
+        "verified": true
+      }
+    ]
+  }
+}

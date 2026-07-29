@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2061118677869887489",
+    "created_at": "2026-06-01T01:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T02:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061256267696603489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1878480066088402944",
+          "start": 0,
+          "username": "cjfx1892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061256267696603489",
+    "in_reply_to_user_id": "1878480066088402944",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061247471750385915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cjfx1892 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2061118677869887489",
+        "created_at": "2026-06-01T01:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061256267696603489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1878480066088402944",
+              "start": 0,
+              "username": "cjfx1892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061256267696603489",
+        "in_reply_to_user_id": "1878480066088402944",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061247471750385915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cjfx1892 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878480066088402944",
+        "conversation_id": "2061118677869887489",
+        "created_at": "2026-06-01T00:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T01:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061247471750385915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061247471750385915",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061118677869887489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 这人是天才吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2061118677869887489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12082,
+          "following_count": 5110,
+          "like_count": 92764,
+          "listed_count": 21,
+          "media_count": 2268,
+          "tweet_count": 20162
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-12T16:33:09.000Z",
+        "description": "電子知能障害。",
+        "id": "1878480066088402944",
+        "location": "The earth ",
+        "name": "林檎斎主人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878484132885680128/3aVNGZPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 60,
+          "like_count": 2477,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1513
+        },
+        "username": "cjfx1892",
+        "verified": false
+      }
+    ]
+  }
+}

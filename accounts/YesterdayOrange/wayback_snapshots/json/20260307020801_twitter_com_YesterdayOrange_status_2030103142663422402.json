@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030103133679230976"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2030103142663422402",
+    "created_at": "2026-03-07T02:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T03:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030103142663422402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0mHi6AdCHV",
+          "end": 53,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2030103142663422402/photo/1",
+          "media_key": "3_2030103133679230976",
+          "start": 30,
+          "url": "https://t.co/0mHi6AdCHV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030103142663422402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "既然消费者对政治正确不买账，为什么影视与游戏仍要政治正确? https://t.co/0mHi6AdCHV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030103133679230976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCxgC0xboAAlr9R.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030103133679230976"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2030103142663422402",
+        "created_at": "2026-03-07T02:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T03:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030103142663422402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0mHi6AdCHV",
+              "end": 53,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2030103142663422402/photo/1",
+              "media_key": "3_2030103133679230976",
+              "start": 30,
+              "url": "https://t.co/0mHi6AdCHV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030103142663422402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "既然消费者对政治正确不买账，为什么影视与游戏仍要政治正确? https://t.co/0mHi6AdCHV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2028629348073587063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10942,
+          "following_count": 4413,
+          "like_count": 80301,
+          "listed_count": 20,
+          "media_count": 1907,
+          "tweet_count": 17905
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

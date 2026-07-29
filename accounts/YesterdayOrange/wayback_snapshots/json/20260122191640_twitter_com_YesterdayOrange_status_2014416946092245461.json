@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2014265266503577647",
+    "created_at": "2026-01-22T19:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T20:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014416946092245461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "851071239506481152",
+          "start": 0,
+          "username": "CHARLIETHEWIND"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014416946092245461",
+    "in_reply_to_user_id": "851071239506481152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014415973273743608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CHARLIETHEWIND 你是怎么学习SQL的呢？\n我其实就课上学过一点点（x），还给老师了。\n我应该也不需要学习什么复杂的，在找测试岗，会一点就行了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2014265266503577647",
+        "created_at": "2026-01-22T19:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T20:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014416946092245461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "851071239506481152",
+              "start": 0,
+              "username": "CHARLIETHEWIND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014416946092245461",
+        "in_reply_to_user_id": "851071239506481152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014415973273743608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CHARLIETHEWIND 你是怎么学习SQL的呢？\n我其实就课上学过一点点（x），还给老师了。\n我应该也不需要学习什么复杂的，在找测试岗，会一点就行了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "851071239506481152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2014265266503577647",
+        "created_at": "2026-01-22T19:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T20:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014415973273743608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014415973273743608",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014265266503577647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 节哀朋友，sql可能还是死记硬背多，我当时是用的菜鸟背得，如果你需要别的实战项目，我可以分享给你，百度网盘行不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2012954429889163654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10075,
+          "following_count": 3734,
+          "like_count": 73346,
+          "listed_count": 15,
+          "media_count": 1677,
+          "tweet_count": 16699
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-09T13:56:10.000Z",
+        "description": "書籍 娛樂 書籍 新聞",
+        "id": "851071239506481152",
+        "name": "听风CHARLIE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/851075619567751168/4Gn7kn5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 306,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 421
+        },
+        "username": "CHARLIETHEWIND",
+        "verified": false
+      }
+    ]
+  }
+}

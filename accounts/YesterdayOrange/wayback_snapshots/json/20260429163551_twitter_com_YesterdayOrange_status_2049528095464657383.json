@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2049528095464657383",
+    "created_at": "2026-04-29T16:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049528095464657383"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049528095464657383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“听过这首歌吗？”\n“我听过，一个朋友很喜欢听。”\n“说说看吧。”\n“我们每周打四次语音吧，周一周三周五周日，每次两个小时，他会放这首歌，玩我们最喜欢的游戏，一边听我絮絮叨叨。”\n“真是很好的朋友了。”\n“是啊，他对我很好，那会经常半夜两点还安慰我，听我倒垃圾。”\n“你们还联系吗？”\n“他自杀两年了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2049528095464657383",
+        "created_at": "2026-04-29T16:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049528095464657383"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049528095464657383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“听过这首歌吗？”\n“我听过，一个朋友很喜欢听。”\n“说说看吧。”\n“我们每周打四次语音吧，周一周三周五周日，每次两个小时，他会放这首歌，玩我们最喜欢的游戏，一边听我絮絮叨叨。”\n“真是很好的朋友了。”\n“是啊，他对我很好，那会经常半夜两点还安慰我，听我倒垃圾。”\n“你们还联系吗？”\n“他自杀两年了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2048959571394511106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11861,
+          "following_count": 4966,
+          "like_count": 89040,
+          "listed_count": 23,
+          "media_count": 2190,
+          "tweet_count": 19619
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

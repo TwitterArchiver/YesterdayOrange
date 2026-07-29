@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1985562220231901231",
+    "created_at": "2025-11-04T04:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T05:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985562220231901231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 147,
+          "id": "1761204299475148800",
+          "start": 135,
+          "username": "ChiwaiL3887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985562220231901231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "doro吃掉了早晨\n父亲从垃圾桶里长出来了，手里全是欧润吉\n清晨的胃里是欧润吉的果肉\n胃在与太阳撕咬，doro在笑\n太阳在胃中升起，世界在灼烧\n钟声不再响起，街道在扭曲\n欧润吉还在\ndoro伸手去抓，手融化成果汁\n她喝下了果汁，一切都在融化\n世界化为了巨大的胃\n\nby @ChiwaiL3887"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1985562220231901231",
+        "created_at": "2025-11-04T04:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T05:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985562220231901231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 147,
+              "id": "1761204299475148800",
+              "start": 135,
+              "username": "ChiwaiL3887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985562220231901231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "doro吃掉了早晨\n父亲从垃圾桶里长出来了，手里全是欧润吉\n清晨的胃里是欧润吉的果肉\n胃在与太阳撕咬，doro在笑\n太阳在胃中升起，世界在灼烧\n钟声不再响起，街道在扭曲\n欧润吉还在\ndoro伸手去抓，手融化成果汁\n她喝下了果汁，一切都在融化\n世界化为了巨大的胃\n\nby @ChiwaiL3887"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1985385072380477750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7581,
+          "following_count": 3068,
+          "like_count": 61445,
+          "listed_count": 14,
+          "media_count": 1245,
+          "tweet_count": 14342
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T01:40:14.000Z",
+        "description": "06生/179 67/常駐日本大阪中國無錫/是LGBT🏳️‍🌈（btm）/喜歡旅行和攝影📷/正太控捏😋",
+        "id": "1761204299475148800",
+        "location": "Osaka",
+        "name": "Tabiちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904220477297704960/8dmRrIlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 322,
+          "like_count": 9626,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1048
+        },
+        "username": "ChiwaiL3887",
+        "verified": false
+      }
+    ]
+  }
+}

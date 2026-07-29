@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2060400754779984221",
+    "created_at": "2026-06-01T01:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T02:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061256981609164966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1310357328261124096",
+          "start": 0,
+          "username": "Trapyko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061256981609164966",
+    "in_reply_to_user_id": "1310357328261124096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061235114299085197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Trapyko 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2060400754779984221",
+        "created_at": "2026-06-01T01:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061256981609164966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1310357328261124096",
+              "start": 0,
+              "username": "Trapyko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061256981609164966",
+        "in_reply_to_user_id": "1310357328261124096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061235114299085197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Trapyko 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1310357328261124096",
+        "conversation_id": "2060400754779984221",
+        "created_at": "2026-05-31T23:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T00:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061235114299085197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061235114299085197",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060400754779984221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 想互相舔耳朵亲亲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2061118677869887489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12082,
+          "following_count": 5111,
+          "like_count": 92767,
+          "listed_count": 21,
+          "media_count": 2268,
+          "tweet_count": 20163
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-27T23:15:20.000Z",
+        "description": "",
+        "id": "1310357328261124096",
+        "location": "Sydney, New South Wales",
+        "name": "Trapyko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1391195294017019910/hlGHVIzO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 940,
+          "like_count": 1104,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 34
+        },
+        "username": "Trapyko",
+        "verified": false
+      }
+    ]
+  }
+}

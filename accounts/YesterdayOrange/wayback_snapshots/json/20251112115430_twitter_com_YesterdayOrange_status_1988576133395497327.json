@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1988494163474833612",
+    "created_at": "2025-11-12T11:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T12:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988576133395497327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1739915785441861632",
+          "start": 0,
+          "username": "Lem_PackageMain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988576133395497327",
+    "in_reply_to_user_id": "1739915785441861632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988574879235596688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lem_PackageMain 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1988494163474833612",
+        "created_at": "2025-11-12T11:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988576133395497327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1739915785441861632",
+              "start": 0,
+              "username": "Lem_PackageMain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988576133395497327",
+        "in_reply_to_user_id": "1739915785441861632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988574879235596688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lem_PackageMain 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739915785441861632",
+        "conversation_id": "1988494163474833612",
+        "created_at": "2025-11-12T11:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988574879235596688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988574879235596688",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988494163474833612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 现在好需要有人给我一个抱抱😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1988520564370161874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8164,
+          "following_count": 3203,
+          "like_count": 64028,
+          "listed_count": 14,
+          "media_count": 1320,
+          "tweet_count": 14734
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T07:47:12.000Z",
+        "description": "MtX/F   ▏183cm天空树🫥    ▏过期JK    ▏天残家暴党🙃    ▏照骗皆为高P，线下查无此人Or2   ▏拉力B照持有者   ▏有大证但是好像并没有什么卵用……   ▏是一个大面包所以容易膨胀、任人拿捏、一点不抗压（",
+        "id": "1739915785441861632",
+        "name": "柠檬味的Main包🍥",
+        "pinned_tweet_id": "1983147113874895083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787256133910155264/kksrVeC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 228,
+          "like_count": 18211,
+          "listed_count": 2,
+          "media_count": 261,
+          "tweet_count": 4783
+        },
+        "username": "Lem_PackageMain",
+        "verified": false
+      }
+    ]
+  }
+}

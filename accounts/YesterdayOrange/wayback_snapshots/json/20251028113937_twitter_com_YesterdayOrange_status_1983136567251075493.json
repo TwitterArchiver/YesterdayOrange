@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1983136567251075493",
+    "created_at": "2025-10-28T11:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T12:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983136567251075493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amamiya_kksk/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/amamiya_kksk/status/1982844187759534085",
+          "start": 16,
+          "url": "https://t.co/RbJDxiHf0h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983136567251075493",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 14,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982844187759534085",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Nobody loves me https://t.co/RbJDxiHf0h"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1983136567251075493",
+        "created_at": "2025-10-28T11:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T12:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983136567251075493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amamiya_kksk/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/amamiya_kksk/status/1982844187759534085",
+              "start": 16,
+              "url": "https://t.co/RbJDxiHf0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983136567251075493",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982844187759534085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Nobody loves me https://t.co/RbJDxiHf0h"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835282674455613440",
+        "conversation_id": "1982844187759534085",
+        "created_at": "2025-10-27T16:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T17:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982844187759534085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982844187759534085",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Nobody loves me"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1983039190972641305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6967,
+          "following_count": 2874,
+          "like_count": 58617,
+          "listed_count": 14,
+          "media_count": 1185,
+          "tweet_count": 14010
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T11:41:25.000Z",
+        "description": "Non-binary💛🤍💜🖤/Any pronoun/中文🇨🇳🇹🇼/English🇬🇧🇺🇲/日本語🇯🇵/DMs are welcome/自我认同为废物/某人的第二人格/主要内容是碎碎念",
+        "id": "1835282674455613440",
+        "location": "Your heart❤",
+        "name": "🌙月饼兔兔木🥮",
+        "pinned_tweet_id": "1835311114860605472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982038115662360576/FNP52E97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 81,
+          "like_count": 1256,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 610
+        },
+        "username": "Amamiya_kksk",
+        "verified": false
+      }
+    ]
+  }
+}

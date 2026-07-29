@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2037046875036197277",
+    "created_at": "2026-03-26T13:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T14:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037157934275453036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1689214483481452544",
+          "start": 0,
+          "username": "ZianTT_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037157934275453036",
+    "in_reply_to_user_id": "1689214483481452544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037046875036197277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ZianTT_Official 呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2037046875036197277",
+        "created_at": "2026-03-26T13:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037157934275453036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1689214483481452544",
+              "start": 0,
+              "username": "ZianTT_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037157934275453036",
+        "in_reply_to_user_id": "1689214483481452544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037046875036197277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ZianTT_Official 呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689214483481452544",
+        "conversation_id": "2037046875036197277",
+        "created_at": "2026-03-26T05:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037046875036197277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037046875036197277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12359,
+          "like_count": 109,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 1
+        },
+        "reply_settings": "other",
+        "text": "有万达广场附近的吗\n\n我饿了想在万达广场吃麦了\n（其实是测试一下新的回复权限）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2036351762710639004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11418,
+          "following_count": 4794,
+          "like_count": 84402,
+          "listed_count": 20,
+          "media_count": 2006,
+          "tweet_count": 18661
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-09T09:58:21.000Z",
+        "description": "DevOps, Cyber Security,  Web Developer | Python & GoLang & JavaScript | LightXi Inc.",
+        "id": "1689214483481452544",
+        "location": "Shanghai, PRC",
+        "name": "ZianTT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019966519879573504/bNAx8h0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 459,
+          "like_count": 2577,
+          "listed_count": 6,
+          "media_count": 217,
+          "tweet_count": 3070
+        },
+        "username": "ZianTT_Official",
+        "verified": true
+      }
+    ]
+  }
+}

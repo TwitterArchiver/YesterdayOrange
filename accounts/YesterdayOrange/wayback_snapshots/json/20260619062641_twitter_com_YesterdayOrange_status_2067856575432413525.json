@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2067856575432413525",
+    "created_at": "2026-06-19T06:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T07:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067856575432413525"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2067852557314355409",
+          "start": 6,
+          "url": "https://t.co/N9cctYXGkw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067856575432413525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067852557314355409",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "等的好焦躁 https://t.co/N9cctYXGkw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2067856575432413525",
+        "created_at": "2026-06-19T06:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067856575432413525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2067852557314355409",
+              "start": 6,
+              "url": "https://t.co/N9cctYXGkw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067856575432413525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067852557314355409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等的好焦躁 https://t.co/N9cctYXGkw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2067852557314355409",
+        "created_at": "2026-06-19T06:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067852557314355409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067852557314355409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "候诊大厅大部分人都在发呆，很安静。\n玩手机的人感觉不到一半，大部分都是两眼空空发呆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2065839376798806044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12151,
+          "following_count": 5113,
+          "like_count": 94394,
+          "listed_count": 21,
+          "media_count": 2309,
+          "tweet_count": 20465
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

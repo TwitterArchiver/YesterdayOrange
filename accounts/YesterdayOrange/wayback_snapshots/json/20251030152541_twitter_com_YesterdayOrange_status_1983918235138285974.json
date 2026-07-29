@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1983909096815522015",
+    "created_at": "2025-10-30T15:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T16:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983918235138285974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1903061664137912320",
+          "start": 0,
+          "username": "blackna1201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983918235138285974",
+    "in_reply_to_user_id": "1903061664137912320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983915118430974438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackna1201 为什么不是doro勇敢地离开了渣男，寻找到了自己想要的生活呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1983909096815522015",
+        "created_at": "2025-10-30T15:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T16:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983918235138285974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1903061664137912320",
+              "start": 0,
+              "username": "blackna1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983918235138285974",
+        "in_reply_to_user_id": "1903061664137912320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983915118430974438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackna1201 为什么不是doro勇敢地离开了渣男，寻找到了自己想要的生活呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903061664137912320",
+        "conversation_id": "1983909096815522015",
+        "created_at": "2025-10-30T15:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T16:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983915118430974438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983915118430974438",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983909096815522015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 不！！！！😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1983909096815522015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7221,
+          "following_count": 3007,
+          "like_count": 59734,
+          "listed_count": 14,
+          "media_count": 1204,
+          "tweet_count": 14137
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T12:32:02.000Z",
+        "description": "我是一位上海理工大学附属中学的学生 男的\n喜欢音游（phigros osu malody等等） 赛车（f1 gt3之类的）骑车（一窍不通 骑着上下学玩）羽毛球（不是很会打）等事物\n永远喜欢伊蕾娜\n喜欢平常简单的事物 也喜欢干一些疯狂的事情\n只是一个梦想落空的笨蛋罢了",
+        "id": "1903061664137912320",
+        "location": "和平国洛贝塔",
+        "name": "blackna1201",
+        "pinned_tweet_id": "1958470668862759213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904515651596873728/Glc0mx6S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 312,
+          "like_count": 3991,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 2464
+        },
+        "username": "blackna1201",
+        "verified": false
+      }
+    ]
+  }
+}

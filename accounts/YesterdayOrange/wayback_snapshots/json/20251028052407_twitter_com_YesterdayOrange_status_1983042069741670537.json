@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1983038432927772688",
+    "created_at": "2025-10-28T05:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T06:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983042069741670537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1304732370214371329",
+          "start": 0,
+          "username": "Yirasumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983042069741670537",
+    "in_reply_to_user_id": "1304732370214371329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983041921418440770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yirasumi 摸摸头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1983038432927772688",
+        "created_at": "2025-10-28T05:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T06:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983042069741670537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1304732370214371329",
+              "start": 0,
+              "username": "Yirasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983042069741670537",
+        "in_reply_to_user_id": "1304732370214371329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983041921418440770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yirasumi 摸摸头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1304732370214371329",
+        "conversation_id": "1983038432927772688",
+        "created_at": "2025-10-28T05:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T06:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983041921418440770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983041921418440770",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983038432927772688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 早安捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1983039190972641305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6952,
+          "following_count": 2865,
+          "like_count": 58552,
+          "listed_count": 14,
+          "media_count": 1180,
+          "tweet_count": 13988
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-12T10:43:40.000Z",
+        "description": "猫猫罢了｜INFJ-T｜05后｜如果看到你可爱会跟你互fo！🎉在twi上属于只看不发的！会很认真考虑别人对我的看法。｜会一点点Linux CLI｜Phigros rks11.86｜拥有一个10token的GPT｜想学前端但是学不会",
+        "id": "1304732370214371329",
+        "location": "1.2km",
+        "name": "^薄荷奶昔^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886358330643456000/hKW3io-x_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 324,
+          "like_count": 12484,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 708
+        },
+        "username": "Yirasumi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061639538762817536",
+        "3_2061639538410475520"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2061639549252702266",
+    "created_at": "2026-06-02T02:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061639549252702266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eipr9jouek",
+          "end": 75,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2061639549252702266/photo/1",
+          "media_key": "3_2061639538762817536",
+          "start": 52,
+          "url": "https://t.co/eipr9jouek"
+        },
+        {
+          "display_url": "pic.x.com/eipr9jouek",
+          "end": 75,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2061639549252702266/photo/1",
+          "media_key": "3_2061639538410475520",
+          "start": 52,
+          "url": "https://t.co/eipr9jouek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061639549252702266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "近日有心理调研报告显示，高达 74.9% 受访高中生存在不同程度和频率的拒学意念，高中生为何不想上学？ https://t.co/eipr9jouek"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061639538762817536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxqPMrboAAc5O9.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061639538410475520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxqPLXbUAA3oCZ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061639538762817536",
+            "3_2061639538410475520"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2061639549252702266",
+        "created_at": "2026-06-02T02:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061639549252702266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eipr9jouek",
+              "end": 75,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2061639549252702266/photo/1",
+              "media_key": "3_2061639538762817536",
+              "start": 52,
+              "url": "https://t.co/eipr9jouek"
+            },
+            {
+              "display_url": "pic.x.com/eipr9jouek",
+              "end": 75,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2061639549252702266/photo/1",
+              "media_key": "3_2061639538410475520",
+              "start": 52,
+              "url": "https://t.co/eipr9jouek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061639549252702266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "近日有心理调研报告显示，高达 74.9% 受访高中生存在不同程度和频率的拒学意念，高中生为何不想上学？ https://t.co/eipr9jouek"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2061118677869887489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12076,
+          "following_count": 5105,
+          "like_count": 92915,
+          "listed_count": 21,
+          "media_count": 2273,
+          "tweet_count": 20181
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1996920290841186756",
+    "created_at": "2025-12-05T12:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T13:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996922010820399465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1462701627647750144",
+          "start": 0,
+          "username": "kuanghuanlonga1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996922010820399465",
+    "in_reply_to_user_id": "1462701627647750144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996921655491531033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuanghuanlonga1 但我需要期末考试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1996920290841186756",
+        "created_at": "2025-12-05T12:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T13:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996922010820399465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1462701627647750144",
+              "start": 0,
+              "username": "kuanghuanlonga1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996922010820399465",
+        "in_reply_to_user_id": "1462701627647750144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996921655491531033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuanghuanlonga1 但我需要期末考试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462701627647750144",
+        "conversation_id": "1996920290841186756",
+        "created_at": "2025-12-05T12:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T13:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996921655491531033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996921655491531033",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996920290841186756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange AI会，人类已经不需要会了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1996467554056118485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9459,
+          "following_count": 3403,
+          "like_count": 67953,
+          "listed_count": 16,
+          "media_count": 1462,
+          "tweet_count": 15630
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-22T08:37:06.000Z",
+        "description": "script kidden/vulnerability exploit/CTF seeker/JavaScript/Node.js/React.js/Python/Web Spider/INTP/混进狼群里的哈士奇",
+        "id": "1462701627647750144",
+        "name": "Steven · 爱乌",
+        "pinned_tweet_id": "1994757879182889050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800731660339834880/hnq4zfsY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 1154,
+          "like_count": 120300,
+          "listed_count": 2,
+          "media_count": 432,
+          "tweet_count": 20321
+        },
+        "username": "kuanghuanlonga1",
+        "verified": false
+      }
+    ]
+  }
+}

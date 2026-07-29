@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2022267373387121089",
+    "created_at": "2026-02-13T11:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022267373387121089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2022266561705513091",
+          "start": 11,
+          "url": "https://t.co/8exCKjRoe1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022267373387121089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022266561705513091",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我过气了，怎么没人😢 https://t.co/8exCKjRoe1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 843,
+        "media_key": "3_2022266551894994944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCItura8AAgYgn.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2022267373387121089",
+        "created_at": "2026-02-13T11:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022267373387121089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2022266561705513091",
+              "start": 11,
+              "url": "https://t.co/8exCKjRoe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022267373387121089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022266561705513091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我过气了，怎么没人😢 https://t.co/8exCKjRoe1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022266551894994944"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2022266561705513091",
+        "created_at": "2026-02-13T11:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022266561705513091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/chat/group_j…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/chat/group_join/g2022266237447971207/fXW9v9Wg6y",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2021573601963433984/GrWey8fe?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2021573601963433984/GrWey8fe?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/flow/login",
+              "url": "https://t.co/hCbtKbI4J4"
+            },
+            {
+              "display_url": "pic.x.com/hEaa3okyYL",
+              "end": 62,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2022266561705513091/photo/1",
+              "media_key": "3_2022266551894994944",
+              "start": 39,
+              "url": "https://t.co/hEaa3okyYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022266561705513091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hCbtKbI4J4\n拉了个群喵，可以一起过年ww https://t.co/hEaa3okyYL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2022266561705513091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10448,
+          "following_count": 4019,
+          "like_count": 75783,
+          "listed_count": 17,
+          "media_count": 1766,
+          "tweet_count": 17189
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

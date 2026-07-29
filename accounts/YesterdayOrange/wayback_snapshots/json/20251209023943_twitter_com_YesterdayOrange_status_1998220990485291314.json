@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998220981379399680"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "1998220990485291314",
+    "created_at": "2025-12-09T02:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T03:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998220990485291314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FXGI6ucehh",
+          "end": 59,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1998220990485291314/photo/1",
+          "media_key": "3_1998220981379399680",
+          "start": 36,
+          "url": "https://t.co/FXGI6ucehh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998220990485291314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如何评价2024太原理工大学（211）软件工程招60个班，接近2k人？ https://t.co/FXGI6ucehh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 266,
+        "media_key": "3_1998220981379399680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7sbZUHaAAARMGa.jpg",
+        "width": 1346
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998220981379399680"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1998220990485291314",
+        "created_at": "2025-12-09T02:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T03:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998220990485291314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXGI6ucehh",
+              "end": 59,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1998220990485291314/photo/1",
+              "media_key": "3_1998220981379399680",
+              "start": 36,
+              "url": "https://t.co/FXGI6ucehh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998220990485291314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何评价2024太原理工大学（211）软件工程招60个班，接近2k人？ https://t.co/FXGI6ucehh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1997998050275717160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9478,
+          "following_count": 3423,
+          "like_count": 68246,
+          "listed_count": 16,
+          "media_count": 1481,
+          "tweet_count": 15707
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

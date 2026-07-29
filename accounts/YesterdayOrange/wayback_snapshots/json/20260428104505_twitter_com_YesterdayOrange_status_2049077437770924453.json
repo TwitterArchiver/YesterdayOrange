@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2049077437770924453",
+    "created_at": "2026-04-28T10:45:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T11:45:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049077437770924453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tokaiteiott/st…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/tokaiteiott/status/2045433015703359645",
+          "start": 57,
+          "url": "https://t.co/TYlp94ehnE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049077437770924453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045433015703359645",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么我感觉身边的每个人都在赶我走 我真的很烦人吗😭\n我…我只想默默无闻地呆在你们身边 我不求别的 让我留下来吧 https://t.co/TYlp94ehnE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 283,
+        "media_key": "3_2045433013316759552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLWfQqaMAAnbTD.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2049077437770924453",
+        "created_at": "2026-04-28T10:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049077437770924453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokaiteiott/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/tokaiteiott/status/2045433015703359645",
+              "start": 57,
+              "url": "https://t.co/TYlp94ehnE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049077437770924453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045433015703359645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么我感觉身边的每个人都在赶我走 我真的很烦人吗😭\n我…我只想默默无闻地呆在你们身边 我不求别的 让我留下来吧 https://t.co/TYlp94ehnE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045433013316759552"
+          ]
+        },
+        "author_id": "1818504937715777537",
+        "conversation_id": "2045433015703359645",
+        "created_at": "2026-04-18T09:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045433015703359645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IWipwCUmFP",
+              "end": 50,
+              "expanded_url": "https://x.com/TokaiTeioTT/status/2045433015703359645/photo/1",
+              "media_key": "3_2045433013316759552",
+              "start": 27,
+              "url": "https://t.co/IWipwCUmFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045433015703359645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我感觉身边的每个人都在赶我走 我真的很烦人吗😭 https://t.co/IWipwCUmFP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2048959571394511106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11850,
+          "following_count": 4981,
+          "like_count": 88761,
+          "listed_count": 23,
+          "media_count": 2182,
+          "tweet_count": 19547
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-31T04:32:29.000Z",
+        "description": "❤️Ave mujica🐧",
+        "id": "1818504937715777537",
+        "name": "とがわさきこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921832308694220800/Eg6RE8Do_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 706,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 47
+        },
+        "username": "TokaiTeioTT",
+        "verified": false
+      }
+    ]
+  }
+}

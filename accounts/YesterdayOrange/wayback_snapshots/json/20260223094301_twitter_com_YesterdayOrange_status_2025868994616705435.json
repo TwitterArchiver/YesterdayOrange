@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2025836891606864347",
+    "created_at": "2026-02-23T09:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T10:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025868994616705435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1692008708770004992",
+          "start": 0,
+          "username": "gearopo44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025868994616705435",
+    "in_reply_to_user_id": "1692008708770004992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025863650179940845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gearopo44 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2025836891606864347",
+        "created_at": "2026-02-23T09:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025868994616705435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1692008708770004992",
+              "start": 0,
+              "username": "gearopo44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025868994616705435",
+        "in_reply_to_user_id": "1692008708770004992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025863650179940845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gearopo44 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692008708770004992",
+        "conversation_id": "2025836891606864347",
+        "created_at": "2026-02-23T09:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025863650179940845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025863650179940845",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025836891606864347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 什么意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2025842062571257859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10839,
+          "following_count": 4323,
+          "like_count": 79303,
+          "listed_count": 19,
+          "media_count": 1861,
+          "tweet_count": 17683
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T03:01:46.000Z",
+        "description": "",
+        "id": "1692008708770004992",
+        "name": "总资真无所谓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025394612870021124/wtjPjMFr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 66,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 108
+        },
+        "username": "gearopo44",
+        "verified": false
+      }
+    ]
+  }
+}

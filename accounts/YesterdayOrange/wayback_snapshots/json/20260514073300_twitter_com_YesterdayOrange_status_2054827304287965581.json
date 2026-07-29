@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2054367091843866648",
+    "created_at": "2026-05-14T07:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054827304287965581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2028123863180259328",
+          "start": 0,
+          "username": "GdhdhWvz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054827304287965581",
+    "in_reply_to_user_id": "2028123863180259328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054776884475641952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@GdhdhWvz 互关w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2054367091843866648",
+        "created_at": "2026-05-14T07:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054827304287965581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2028123863180259328",
+              "start": 0,
+              "username": "GdhdhWvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054827304287965581",
+        "in_reply_to_user_id": "2028123863180259328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054776884475641952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@GdhdhWvz 互关w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028123863180259328",
+        "conversation_id": "2054367091843866648",
+        "created_at": "2026-05-14T04:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T05:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054776884475641952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054776884475641952",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054367091843866648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@YesterdayOrange 欸，我居然也可以是吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2054258784231645579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11975,
+          "following_count": 5018,
+          "like_count": 90775,
+          "listed_count": 22,
+          "media_count": 2232,
+          "tweet_count": 19896
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-01T15:03:20.000Z",
+        "description": "这里是GdhdhWvz，可以叫我GW，欢迎和我交朋友！\n学生/arcaea/chunithm/福瑞控\n中文/English×",
+        "id": "2028123863180259328",
+        "name": "GdhdhWvz",
+        "pinned_tweet_id": "2048752089455849842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028123932424069120/2BrFwLzY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 147,
+          "like_count": 1630,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 352
+        },
+        "username": "GdhdhWvz",
+        "verified": false
+      }
+    ]
+  }
+}

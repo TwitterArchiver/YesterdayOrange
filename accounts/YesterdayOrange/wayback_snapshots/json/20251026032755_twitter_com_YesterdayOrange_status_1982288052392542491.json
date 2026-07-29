@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1982276178124931255",
+    "created_at": "2025-10-26T03:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T04:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982288052392542491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799337134605930496",
+          "start": 0,
+          "username": "Sogg6716"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982288052392542491",
+    "in_reply_to_user_id": "1799337134605930496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982276178124931255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sogg6716 后来怎么样了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_1982276170902126592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4J1rMVXwAA9yNX.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1982276178124931255",
+        "created_at": "2025-10-26T03:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T04:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982288052392542491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799337134605930496",
+              "start": 0,
+              "username": "Sogg6716"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982288052392542491",
+        "in_reply_to_user_id": "1799337134605930496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982276178124931255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sogg6716 后来怎么样了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982276170902126592"
+          ]
+        },
+        "author_id": "1799337134605930496",
+        "conversation_id": "1982276178124931255",
+        "created_at": "2025-10-26T02:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T03:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982276178124931255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EhuUlepPYA",
+              "end": 170,
+              "expanded_url": "https://x.com/Sogg6716/status/1982276178124931255/photo/1",
+              "media_key": "3_1982276170902126592",
+              "start": 147,
+              "url": "https://t.co/EhuUlepPYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982276178124931255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小学五年级时候班里来了一个转校生\n当时经常和她拌嘴 \n她的姓氏是个多音字 我在新华词典查到读音和现在大家的叫法不一样\n我俩开始争 闹到老师办公室叫老师评理\n结果老师上来就骂了我一顿\n我气不过 之后就老找她的茬\n有一次把她说哭了\n我觉得对不起她 回家还给她发小作文道歉\n在那之后好像就喜欢上她了 https://t.co/EhuUlepPYA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1982157534913007732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6821,
+          "following_count": 2803,
+          "like_count": 57945,
+          "listed_count": 14,
+          "media_count": 1159,
+          "tweet_count": 13904
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T07:06:24.000Z",
+        "description": "大三在读丨目前打算学医丨上推特当然是大家做朋友丨回fo率99%丨介于现充和死宅之间丨熟悉后想恰v丨碎碎念&胡言乱语出没⚠️丨算是混乱中立？ 总之祝所有人生活愉快捏(^∇^*)/",
+        "id": "1799337134605930496",
+        "location": "Santa Barbara, USA",
+        "name": "笙鹤",
+        "pinned_tweet_id": "1974372503515771046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972145919211778048/5cHPM9gg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 309,
+          "like_count": 13977,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 2544
+        },
+        "username": "Sogg6716",
+        "verified": false
+      }
+    ]
+  }
+}

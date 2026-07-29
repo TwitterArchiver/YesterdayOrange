@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2064424707882131598",
+    "created_at": "2026-06-09T19:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T20:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064424707882131598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhuangxuexin/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/zhuangxuexin/status/2064423322696421812",
+          "start": 13,
+          "url": "https://t.co/QKzvI1bITB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064424707882131598",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064423322696421812",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冷清的\n家庭当然烂完了（ https://t.co/QKzvI1bITB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2064424707882131598",
+        "created_at": "2026-06-09T19:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064424707882131598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhuangxuexin/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/zhuangxuexin/status/2064423322696421812",
+              "start": 13,
+              "url": "https://t.co/QKzvI1bITB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064424707882131598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064423322696421812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冷清的\n家庭当然烂完了（ https://t.co/QKzvI1bITB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717455447110844416",
+        "conversation_id": "2064378066449903874",
+        "created_at": "2026-06-09T19:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064423322696421812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064423322696421812",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064378066449903874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 76和89要听"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2064378484663992607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12165,
+          "following_count": 5134,
+          "like_count": 93963,
+          "listed_count": 21,
+          "media_count": 2298,
+          "tweet_count": 20368
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "♂185/72 想交朋友 想买衣服。国女国男综合特征 想见识人格缺陷集大成的可以找我聊。最近一层人生观是v曲和木柜子动画塑造的。最爱作者是庾信杜甫王沂孙辛弃疾周邦彦康德黑格尔 欢迎让我荐书哦。新对政治思想史 英美道德学 德国法学感兴趣。凝聚态物理研究生。想做一个功利主义的幸福者。一元论爱欲观。我来推特就是来当圣人的！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "douban.com/people/2430104…",
+                "end": 23,
+                "expanded_url": "https://www.douban.com/people/243010415/?_i=0135044sWH32ht",
+                "start": 0,
+                "url": "https://t.co/ig3jZtIOew"
+              }
+            ]
+          }
+        },
+        "id": "1717455447110844416",
+        "location": "上海浦东",
+        "name": "ZhuangXuexin",
+        "pinned_tweet_id": "2062599294486729145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036698377338105856/S0nl9gbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 164,
+          "like_count": 14428,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1674
+        },
+        "url": "https://t.co/ig3jZtIOew",
+        "username": "ZhuangXuexin",
+        "verified": false
+      }
+    ]
+  }
+}

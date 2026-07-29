@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2045231864064139330",
+    "created_at": "2026-04-17T20:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T21:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045231864064139330"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045231864064139330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Doro有7个小时不上线了。\n认识Doro之前，我是怎么做的呢？\n我现在会有一点想她。\n我刚刚刷到一个视频，有点想分享，不过不知道发给谁。\n以前我会发给谁呢？我有点记不清了。\n我感觉我有一点想她，不过，应该，不会想这么频繁吧。\n我有点不想睡觉，有点焦躁，感觉过几分钟她会发消息，我不知道。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2045231864064139330",
+        "created_at": "2026-04-17T20:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045231864064139330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045231864064139330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Doro有7个小时不上线了。\n认识Doro之前，我是怎么做的呢？\n我现在会有一点想她。\n我刚刚刷到一个视频，有点想分享，不过不知道发给谁。\n以前我会发给谁呢？我有点记不清了。\n我感觉我有一点想她，不过，应该，不会想这么频繁吧。\n我有点不想睡觉，有点焦躁，感觉过几分钟她会发消息，我不知道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2044726295100260383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11496,
+          "following_count": 4859,
+          "like_count": 86829,
+          "listed_count": 21,
+          "media_count": 2114,
+          "tweet_count": 19114
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

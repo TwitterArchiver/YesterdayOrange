@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1993254176336625830",
+    "created_at": "2025-11-25T13:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T14:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993313656072028666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1771702794078003200",
+          "start": 0,
+          "username": "Arcaea_ghvg13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993313656072028666",
+    "in_reply_to_user_id": "1771702794078003200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993308045548626128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arcaea_ghvg13 现在就可以，因为我喜欢东方厨🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1993254176336625830",
+        "created_at": "2025-11-25T13:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993313656072028666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1771702794078003200",
+              "start": 0,
+              "username": "Arcaea_ghvg13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993313656072028666",
+        "in_reply_to_user_id": "1771702794078003200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993308045548626128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arcaea_ghvg13 现在就可以，因为我喜欢东方厨🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771702794078003200",
+        "conversation_id": "1993254176336625830",
+        "created_at": "2025-11-25T13:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993308045548626128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993308045548626128",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993254176336625830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 处朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1992956304256852427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8891,
+          "following_count": 3290,
+          "like_count": 66504,
+          "listed_count": 14,
+          "media_count": 1401,
+          "tweet_count": 15226
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T00:57:27.000Z",
+        "description": "#東方project#MAGA#esu#Arcaea#warframe",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thwiki.cc",
+                "end": 23,
+                "expanded_url": "http://thwiki.cc",
+                "start": 0,
+                "url": "https://t.co/YVQrcoLj4c"
+              }
+            ]
+          }
+        },
+        "id": "1771702794078003200",
+        "location": "Las Vegas, NV",
+        "name": "ChenRui🐭🐭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771703183116509184/9gTYdA4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 15,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 166
+        },
+        "url": "https://t.co/YVQrcoLj4c",
+        "username": "Arcaea_ghvg13",
+        "verified": false
+      }
+    ]
+  }
+}

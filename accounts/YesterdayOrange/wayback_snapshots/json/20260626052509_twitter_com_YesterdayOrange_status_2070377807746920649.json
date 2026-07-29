@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2070376878582714521",
+    "created_at": "2026-06-26T05:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T06:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070377807746920649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2061934893295419392",
+          "start": 0,
+          "username": "changhangon3413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070377807746920649",
+    "in_reply_to_user_id": "2061934893295419392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070377665463509440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changhangon3413 群星"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2070376878582714521",
+        "created_at": "2026-06-26T05:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070377807746920649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2061934893295419392",
+              "start": 0,
+              "username": "changhangon3413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070377807746920649",
+        "in_reply_to_user_id": "2061934893295419392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070377665463509440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changhangon3413 群星"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061934893295419392",
+        "conversation_id": "2070376878582714521",
+        "created_at": "2026-06-26T05:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070377665463509440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070377665463509440",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070376878582714521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 玩什么（探头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2069728968174178357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12151,
+          "following_count": 5122,
+          "like_count": 94610,
+          "listed_count": 20,
+          "media_count": 2331,
+          "tweet_count": 20548
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-02T22:17:08.000Z",
+        "description": "这是一个无聊的小孩，试图在这上面分享一些日常和无聊的碎碎念。如果有人看的话不胜感激～～～～欢迎私信骚扰（\n手游主要玩舟/终/084 主玩电脑端游戏，最近沉迷于深海迷航2、都市天际线",
+        "id": "2061934893295419392",
+        "location": "Hong Kong",
+        "name": "寒蝉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061935605882470400/KGS7qQ3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 554,
+          "like_count": 2751,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "changhangon3413",
+        "verified": false
+      }
+    ]
+  }
+}

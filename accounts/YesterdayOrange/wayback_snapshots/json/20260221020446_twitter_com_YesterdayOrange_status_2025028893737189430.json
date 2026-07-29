@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2025028893737189430",
+    "created_at": "2026-02-21T02:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T03:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025028893737189430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haikuolin/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/haikuolin/status/2024987033165271473",
+          "start": 15,
+          "url": "https://t.co/z2C5MXgMy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025028893737189430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024987033165271473",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我到底咋勾搭上列表这些大佬的 https://t.co/z2C5MXgMy8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2025028893737189430",
+        "created_at": "2026-02-21T02:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T03:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025028893737189430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haikuolin/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/haikuolin/status/2024987033165271473",
+              "start": 15,
+              "url": "https://t.co/z2C5MXgMy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025028893737189430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024987033165271473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我到底咋勾搭上列表这些大佬的 https://t.co/z2C5MXgMy8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2024987033165271473",
+        "created_at": "2026-02-20T23:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T00:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024987033165271473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DDaquaforever/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/DDaquaforever/status/2024526818158805097",
+              "start": 15,
+              "url": "https://t.co/jlNM1oTvFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024987033165271473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024526818158805097",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我到底咋勾搭上列表这些大佬的 https://t.co/jlNM1oTvFu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2024122058007793948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10742,
+          "following_count": 4285,
+          "like_count": 78302,
+          "listed_count": 19,
+          "media_count": 1839,
+          "tweet_count": 17564
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "IE+CS大一/留学中/1i/4i/有很爱的对象/平和/2007/死鱼被水推着游",
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 470,
+          "like_count": 6276,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 4391
+        },
+        "username": "HaikuoLin",
+        "verified": true
+      }
+    ]
+  }
+}

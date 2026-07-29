@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988469407123992576",
+        "3_1988469407161692160",
+        "3_1988469407153274880"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "1988469418717040828",
+    "created_at": "2025-11-12T04:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T05:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988469418717040828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xEC0c7PT13",
+          "end": 165,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1988469418717040828/photo/1",
+          "media_key": "3_1988469407123992576",
+          "start": 142,
+          "url": "https://t.co/xEC0c7PT13"
+        },
+        {
+          "display_url": "pic.x.com/xEC0c7PT13",
+          "end": 165,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1988469418717040828/photo/1",
+          "media_key": "3_1988469407161692160",
+          "start": 142,
+          "url": "https://t.co/xEC0c7PT13"
+        },
+        {
+          "display_url": "pic.x.com/xEC0c7PT13",
+          "end": 165,
+          "expanded_url": "https://x.com/YesterdayOrange/status/1988469418717040828/photo/1",
+          "media_key": "3_1988469407153274880",
+          "start": 142,
+          "url": "https://t.co/xEC0c7PT13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988469418717040828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "金钱上衡量太多特别伤感情，我觉得男女生花销6－4或者7－3比较正常，要怎么开口和他说这件事呢？会不会显得我太物质了。\n\n我觉得你不该花钱 谈念爱是男生最上头的时候 谈念爱时你都不占到一点便宜 结婚后怎么办 谈念爱男生愿意给女生花多少这也是筛选经济实力和显示男生的抠搜程度的一种方法。 https://t.co/xEC0c7PT13"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988469407123992576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5h2Y_JbcAAkJEC.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988469407161692160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5h2Y_SasAAHkbW.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988469407153274880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5h2Y_QaQAA02r6.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988469407123992576",
+            "3_1988469407161692160",
+            "3_1988469407153274880"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1988469418717040828",
+        "created_at": "2025-11-12T04:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T05:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988469418717040828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEC0c7PT13",
+              "end": 165,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1988469418717040828/photo/1",
+              "media_key": "3_1988469407123992576",
+              "start": 142,
+              "url": "https://t.co/xEC0c7PT13"
+            },
+            {
+              "display_url": "pic.x.com/xEC0c7PT13",
+              "end": 165,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1988469418717040828/photo/1",
+              "media_key": "3_1988469407161692160",
+              "start": 142,
+              "url": "https://t.co/xEC0c7PT13"
+            },
+            {
+              "display_url": "pic.x.com/xEC0c7PT13",
+              "end": 165,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1988469418717040828/photo/1",
+              "media_key": "3_1988469407153274880",
+              "start": 142,
+              "url": "https://t.co/xEC0c7PT13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988469418717040828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "金钱上衡量太多特别伤感情，我觉得男女生花销6－4或者7－3比较正常，要怎么开口和他说这件事呢？会不会显得我太物质了。\n\n我觉得你不该花钱 谈念爱是男生最上头的时候 谈念爱时你都不占到一点便宜 结婚后怎么办 谈念爱男生愿意给女生花多少这也是筛选经济实力和显示男生的抠搜程度的一种方法。 https://t.co/xEC0c7PT13"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1988268283351757203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8165,
+          "following_count": 3198,
+          "like_count": 63918,
+          "listed_count": 14,
+          "media_count": 1315,
+          "tweet_count": 14705
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

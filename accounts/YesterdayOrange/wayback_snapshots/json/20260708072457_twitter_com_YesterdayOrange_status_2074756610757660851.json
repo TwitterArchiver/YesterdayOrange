@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2074756610757660851",
+    "created_at": "2026-07-08T07:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074756610757660851"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Asuka080s/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Asuka080s/status/2074745017508540528",
+          "start": 10,
+          "url": "https://t.co/4AbxVQ3JVv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074756610757660851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074745017508540528",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我可以当你的舔狗吗 https://t.co/4AbxVQ3JVv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_2074745011477049344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMr5mHCacAAK5pe.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2074756610757660851",
+        "created_at": "2026-07-08T07:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074756610757660851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Asuka080s/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Asuka080s/status/2074745017508540528",
+              "start": 10,
+              "url": "https://t.co/4AbxVQ3JVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074756610757660851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074745017508540528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我可以当你的舔狗吗 https://t.co/4AbxVQ3JVv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074745011477049344"
+          ]
+        },
+        "author_id": "1875906425517662208",
+        "conversation_id": "2074745017508540528",
+        "created_at": "2026-07-08T06:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074745017508540528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P982RGuvtl",
+              "end": 28,
+              "expanded_url": "https://x.com/Asuka080s/status/2074745017508540528/photo/1",
+              "media_key": "3_2074745011477049344",
+              "start": 5,
+              "url": "https://t.co/P982RGuvtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074745017508540528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尽力了喵 https://t.co/P982RGuvtl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2074753248301588880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12193,
+          "following_count": 5178,
+          "like_count": 95197,
+          "listed_count": 20,
+          "media_count": 2353,
+          "tweet_count": 20713
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-05T14:05:30.000Z",
+        "description": "我们都要努力好好吃饭，好好睡觉，，",
+        "id": "1875906425517662208",
+        "location": "猫家",
+        "name": "槲寄生.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066528910855258112/y1tp1OCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 45,
+          "like_count": 603,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 800
+        },
+        "url": "",
+        "username": "Asuka080s",
+        "verified": false
+      }
+    ]
+  }
+}

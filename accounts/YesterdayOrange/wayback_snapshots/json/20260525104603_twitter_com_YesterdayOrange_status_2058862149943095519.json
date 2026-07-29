@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2038666807054381454",
+    "created_at": "2026-05-25T10:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058862149943095519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1258372197304815617",
+          "start": 0,
+          "username": "Nya_Shouko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058862149943095519",
+    "in_reply_to_user_id": "1258372197304815617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038666807054381454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nya_Shouko 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2038666807054381454",
+        "created_at": "2026-05-25T10:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058862149943095519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1258372197304815617",
+              "start": 0,
+              "username": "Nya_Shouko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058862149943095519",
+        "in_reply_to_user_id": "1258372197304815617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038666807054381454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nya_Shouko 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1258372197304815617",
+        "conversation_id": "2038666807054381454",
+        "created_at": "2026-03-30T17:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038666807054381454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038666807054381454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😨我才发现我以前推也是和外网一样批量更的，好可怕好可怕，不知道日后的运营方向了\n（推不知道为啥去年9月开学后就突然不更了，可能是害怕哪条突然火了打扰到现实生活？感觉没有更电报那么安心Desu）\n今后得想想这边更新什么会比较好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2057128877051588914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12065,
+          "following_count": 5086,
+          "like_count": 92367,
+          "listed_count": 22,
+          "media_count": 2263,
+          "tweet_count": 20093
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-07T12:24:54.000Z",
+        "description": "",
+        "id": "1258372197304815617",
+        "name": "Nya_Sho",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003665363637342208/58YYOF87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 96,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 530,
+          "tweet_count": 799
+        },
+        "username": "Nya_Shouko",
+        "verified": false
+      }
+    ]
+  }
+}

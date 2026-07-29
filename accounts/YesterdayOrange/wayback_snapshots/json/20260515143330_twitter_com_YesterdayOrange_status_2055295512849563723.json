@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055295503882227712",
+        "3_2055295503823409152",
+        "3_2055295503848583168",
+        "3_2055295503966040065"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055295512849563723",
+    "created_at": "2026-05-15T14:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055295512849563723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8nOYS5uGLs",
+          "end": 102,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2055295512849563723/photo/1",
+          "media_key": "3_2055295503882227712",
+          "start": 79,
+          "url": "https://t.co/8nOYS5uGLs"
+        },
+        {
+          "display_url": "pic.x.com/8nOYS5uGLs",
+          "end": 102,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2055295512849563723/photo/1",
+          "media_key": "3_2055295503823409152",
+          "start": 79,
+          "url": "https://t.co/8nOYS5uGLs"
+        },
+        {
+          "display_url": "pic.x.com/8nOYS5uGLs",
+          "end": 102,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2055295512849563723/photo/1",
+          "media_key": "3_2055295503848583168",
+          "start": 79,
+          "url": "https://t.co/8nOYS5uGLs"
+        },
+        {
+          "display_url": "pic.x.com/8nOYS5uGLs",
+          "end": 102,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2055295512849563723/photo/1",
+          "media_key": "3_2055295503966040065",
+          "start": 79,
+          "url": "https://t.co/8nOYS5uGLs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055295512849563723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有无四川大学的看看是不是真的（（（\n“应该是25级电子的哪个班，辅导员不停的在查宿舍抓笔电男大打游戏，抓点外卖，还要发到家长群里让寸头爱好者父母们表达赞扬” https://t.co/8nOYS5uGLs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055295503882227712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXgXxFbkAAB-Gh.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055295503823409152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXgXw3aEAAN6Zg.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055295503848583168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXgXw9aMAAo52p.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055295503966040065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXgXxZacAEtnx2.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055295503882227712",
+            "3_2055295503823409152",
+            "3_2055295503848583168",
+            "3_2055295503966040065"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055295512849563723",
+        "created_at": "2026-05-15T14:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055295512849563723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8nOYS5uGLs",
+              "end": 102,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2055295512849563723/photo/1",
+              "media_key": "3_2055295503882227712",
+              "start": 79,
+              "url": "https://t.co/8nOYS5uGLs"
+            },
+            {
+              "display_url": "pic.x.com/8nOYS5uGLs",
+              "end": 102,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2055295512849563723/photo/1",
+              "media_key": "3_2055295503823409152",
+              "start": 79,
+              "url": "https://t.co/8nOYS5uGLs"
+            },
+            {
+              "display_url": "pic.x.com/8nOYS5uGLs",
+              "end": 102,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2055295512849563723/photo/1",
+              "media_key": "3_2055295503848583168",
+              "start": 79,
+              "url": "https://t.co/8nOYS5uGLs"
+            },
+            {
+              "display_url": "pic.x.com/8nOYS5uGLs",
+              "end": 102,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2055295512849563723/photo/1",
+              "media_key": "3_2055295503966040065",
+              "start": 79,
+              "url": "https://t.co/8nOYS5uGLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055295512849563723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有无四川大学的看看是不是真的（（（\n“应该是25级电子的哪个班，辅导员不停的在查宿舍抓笔电男大打游戏，抓点外卖，还要发到家长群里让寸头爱好者父母们表达赞扬” https://t.co/8nOYS5uGLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2054845995012509696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12025,
+          "following_count": 5052,
+          "like_count": 91122,
+          "listed_count": 22,
+          "media_count": 2236,
+          "tweet_count": 19943
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

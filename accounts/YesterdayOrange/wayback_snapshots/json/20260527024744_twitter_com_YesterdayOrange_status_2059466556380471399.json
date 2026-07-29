@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2059446348706091236",
+    "created_at": "2026-05-27T02:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T03:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059466556380471399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1520789244037398528",
+          "start": 0,
+          "username": "cooyuka2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059466556380471399",
+    "in_reply_to_user_id": "1520789244037398528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059463368877220005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cooyuka2 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2059446348706091236",
+        "created_at": "2026-05-27T02:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059466556380471399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1520789244037398528",
+              "start": 0,
+              "username": "cooyuka2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059466556380471399",
+        "in_reply_to_user_id": "1520789244037398528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059463368877220005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cooyuka2 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520789244037398528",
+        "conversation_id": "2059446348706091236",
+        "created_at": "2026-05-27T02:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059463368877220005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059463368877220005",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059446348706091236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 早安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2059129992366452940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12075,
+          "following_count": 5096,
+          "like_count": 92484,
+          "listed_count": 22,
+          "media_count": 2264,
+          "tweet_count": 20117
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-01T15:37:25.000Z",
+        "description": "",
+        "id": "1520789244037398528",
+        "location": "上海",
+        "name": "Such",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058824528734965761/4zU9Z1Je_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 270,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 148
+        },
+        "username": "cooyuka2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055553123687788544"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055553129564045711",
+    "created_at": "2026-05-16T07:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T08:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055553129564045711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ndK29u2KIe",
+          "end": 29,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2055553129564045711/photo/1",
+          "media_key": "3_2055553123687788544",
+          "start": 6,
+          "url": "https://t.co/ndK29u2KIe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055553129564045711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是你吗😋 https://t.co/ndK29u2KIe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 980,
+        "media_key": "3_2055553123687788544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbKrNpa8AATSa7.jpg",
+        "width": 1796
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055553123687788544"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055553129564045711",
+        "created_at": "2026-05-16T07:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T08:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055553129564045711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ndK29u2KIe",
+              "end": 29,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2055553129564045711/photo/1",
+              "media_key": "3_2055553123687788544",
+              "start": 6,
+              "url": "https://t.co/ndK29u2KIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055553129564045711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是你吗😋 https://t.co/ndK29u2KIe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2054845995012509696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12037,
+          "following_count": 5057,
+          "like_count": 91241,
+          "listed_count": 22,
+          "media_count": 2238,
+          "tweet_count": 19955
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

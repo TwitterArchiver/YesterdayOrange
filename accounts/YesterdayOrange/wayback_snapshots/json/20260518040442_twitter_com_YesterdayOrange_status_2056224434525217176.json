@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056224425767587840"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2056224434525217176",
+    "created_at": "2026-05-18T04:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T05:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056224434525217176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JQqkdc5xWs",
+          "end": 162,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2056224434525217176/photo/1",
+          "media_key": "3_2056224425767587840",
+          "start": 139,
+          "url": "https://t.co/JQqkdc5xWs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056224434525217176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实国际象棋是最早的后宫ACG桌游。\n\n已知王后是妹子，而兵可以升变后，所以兵也是妹子。\n\n又因兵可以升变车马象，所以车马象也是妹子（女领主，女骑士，女神官）。所以棋盘上除了王以外都是妹子。\n\n所以国际象棋的双方其实就是两个日式轻小说废物男主，带着自己的后宫团相互撕B的故事。 https://t.co/JQqkdc5xWs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056224425767587840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIktOIxb0AArdLR.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056224425767587840"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2056224434525217176",
+        "created_at": "2026-05-18T04:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056224434525217176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JQqkdc5xWs",
+              "end": 162,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2056224434525217176/photo/1",
+              "media_key": "3_2056224425767587840",
+              "start": 139,
+              "url": "https://t.co/JQqkdc5xWs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056224434525217176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实国际象棋是最早的后宫ACG桌游。\n\n已知王后是妹子，而兵可以升变后，所以兵也是妹子。\n\n又因兵可以升变车马象，所以车马象也是妹子（女领主，女骑士，女神官）。所以棋盘上除了王以外都是妹子。\n\n所以国际象棋的双方其实就是两个日式轻小说废物男主，带着自己的后宫团相互撕B的故事。 https://t.co/JQqkdc5xWs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2054845995012509696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12052,
+          "following_count": 5062,
+          "like_count": 91441,
+          "listed_count": 22,
+          "media_count": 2246,
+          "tweet_count": 19984
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

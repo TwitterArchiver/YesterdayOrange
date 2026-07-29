@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "1982609899197751593",
+    "created_at": "2025-10-27T14:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T15:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982820479133245921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769172912337240064",
+          "start": 0,
+          "username": "JLorrie45850"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982820479133245921",
+    "in_reply_to_user_id": "1769172912337240064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982818278918508624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JLorrie45850 你还没有fo我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1982609899197751593",
+        "created_at": "2025-10-27T14:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T15:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982820479133245921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769172912337240064",
+              "start": 0,
+              "username": "JLorrie45850"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982820479133245921",
+        "in_reply_to_user_id": "1769172912337240064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982818278918508624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JLorrie45850 你还没有fo我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769172912337240064",
+        "conversation_id": "1982609899197751593",
+        "created_at": "2025-10-27T14:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T15:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982818278918508624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982818278918508624",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982609899197751593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 11＞𐋣＜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实， 明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1982468201574535482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6899,
+          "following_count": 2843,
+          "like_count": 58389,
+          "listed_count": 14,
+          "media_count": 1179,
+          "tweet_count": 13961
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T01:24:39.000Z",
+        "description": "我素咪咪猫＞𐋣＜",
+        "id": "1769172912337240064",
+        "name": "咪咪猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979961897840439296/mGAAnXkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "JLorrie45850",
+        "verified": false
+      }
+    ]
+  }
+}

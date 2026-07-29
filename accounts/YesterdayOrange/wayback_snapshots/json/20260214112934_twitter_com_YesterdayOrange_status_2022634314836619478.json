@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2022259278455984412",
+    "created_at": "2026-02-14T11:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T12:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022634314836619478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1678530197153521665",
+          "start": 0,
+          "username": "SkrMiryth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022634314836619478",
+    "in_reply_to_user_id": "1678530197153521665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022629820564426950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SkrMiryth 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2022259278455984412",
+        "created_at": "2026-02-14T11:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022634314836619478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1678530197153521665",
+              "start": 0,
+              "username": "SkrMiryth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022634314836619478",
+        "in_reply_to_user_id": "1678530197153521665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022629820564426950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SkrMiryth 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678530197153521665",
+        "conversation_id": "2022259278455984412",
+        "created_at": "2026-02-14T11:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022629820564426950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022629820564426950",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022259278455984412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 一起过年叭~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2022259278455984412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10490,
+          "following_count": 4065,
+          "like_count": 76124,
+          "listed_count": 17,
+          "media_count": 1771,
+          "tweet_count": 17236
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T22:22:44.000Z",
+        "description": "ENFP/男的！/稀有的光遇玩家/永远喜欢风神大人巴巴托斯！/大学自动化在读/背叛抛弃褪尽 努力让自己相信才有光明",
+        "id": "1678530197153521665",
+        "name": "Miryth",
+        "pinned_tweet_id": "2005448628870234242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997997371410800640/6kaS6Odj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 107,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 196
+        },
+        "username": "SkrMiryth",
+        "verified": false
+      }
+    ]
+  }
+}

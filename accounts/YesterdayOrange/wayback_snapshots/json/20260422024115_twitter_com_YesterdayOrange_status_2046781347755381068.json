@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2046781347755381068",
+    "created_at": "2026-04-22T02:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T03:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046781347755381068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/km_no3rm/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/km_no3rm/status/2046124852621545966",
+          "start": 11,
+          "url": "https://t.co/QhuWYBe8pi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046781347755381068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046124852621545966",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢我的所有朋友👍 https://t.co/QhuWYBe8pi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2046781347755381068",
+        "created_at": "2026-04-22T02:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046781347755381068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/km_no3rm/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/km_no3rm/status/2046124852621545966",
+              "start": 11,
+              "url": "https://t.co/QhuWYBe8pi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046781347755381068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046124852621545966",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢我的所有朋友👍 https://t.co/QhuWYBe8pi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1177574696004374529",
+        "conversation_id": "2046124852621545966",
+        "created_at": "2026-04-20T07:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046124852621545966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046124852621545966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "為什麼朋友之間不能說喜歡？就是喜歡才會做朋友不是嗎☹️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2046775846531420517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11649,
+          "following_count": 4920,
+          "like_count": 87735,
+          "listed_count": 22,
+          "media_count": 2149,
+          "tweet_count": 19314
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-27T13:24:34.000Z",
+        "description": "",
+        "id": "1177574696004374529",
+        "location": "Taiwan",
+        "name": "茗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016316258116108296/1u1hS-PO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 41,
+          "like_count": 6870,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1028
+        },
+        "username": "km_no3rm",
+        "verified": false
+      }
+    ]
+  }
+}

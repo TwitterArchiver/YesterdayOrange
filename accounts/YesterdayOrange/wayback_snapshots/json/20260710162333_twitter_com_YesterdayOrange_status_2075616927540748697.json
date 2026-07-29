@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2075616927540748697",
+    "created_at": "2026-07-10T16:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075616927540748697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1133938939184726016",
+          "start": 3,
+          "username": "jxmo1141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075616927540748697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075267988945834138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jxmo1141: 一直想整个睡裙。也想给室友整个睡衣。一想不如就安排个情侣的吧 便宜也好看 但是室友多半不会同意。所以就在想要不要以买一送一的借口骗一下呢🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2075616927540748697",
+        "created_at": "2026-07-10T16:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075616927540748697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1133938939184726016",
+              "start": 3,
+              "username": "jxmo1141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075616927540748697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075267988945834138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jxmo1141: 一直想整个睡裙。也想给室友整个睡衣。一想不如就安排个情侣的吧 便宜也好看 但是室友多半不会同意。所以就在想要不要以买一送一的借口骗一下呢🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1133938939184726016",
+        "conversation_id": "2075267988945834138",
+        "created_at": "2026-07-09T17:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075267988945834138"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075267988945834138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直想整个睡裙。也想给室友整个睡衣。一想不如就安排个情侣的吧 便宜也好看 但是室友多半不会同意。所以就在想要不要以买一送一的借口骗一下呢🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2075535532181135827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12183,
+          "following_count": 5179,
+          "like_count": 95316,
+          "listed_count": 20,
+          "media_count": 2357,
+          "tweet_count": 20757
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-30T03:31:25.000Z",
+        "description": "可以和我聊天哦！多找我聊聊天吧拜托了！！！\n- 杂鱼全栈， 资深Yes工程师 ✨\n- 应该算是睁一只眼闭一只眼的家长党🏳️‍⚧️\n- 低质量coser\n- POtwe 饲养员 | 电子玩具收集癖",
+        "id": "1133938939184726016",
+        "location": "希望是你心里",
+        "name": "今天兴许是介墨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064342571187671040/KDxpqSu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 115,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 283
+        },
+        "url": "",
+        "username": "jxmo1141",
+        "verified": true
+      }
+    ]
+  }
+}

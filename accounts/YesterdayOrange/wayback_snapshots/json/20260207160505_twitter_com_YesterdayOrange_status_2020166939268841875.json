@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2019756622592323950",
+    "created_at": "2026-02-07T16:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T17:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020166939268841875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1560991861413933056",
+          "start": 0,
+          "username": "belovedquarry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020166939268841875",
+    "in_reply_to_user_id": "1560991861413933056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020166423239340257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@belovedquarry 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2019756622592323950",
+        "created_at": "2026-02-07T16:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T17:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020166939268841875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1560991861413933056",
+              "start": 0,
+              "username": "belovedquarry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020166939268841875",
+        "in_reply_to_user_id": "1560991861413933056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020166423239340257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@belovedquarry 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560991861413933056",
+        "conversation_id": "2019756622592323950",
+        "created_at": "2026-02-07T16:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T17:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020166423239340257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020166423239340257",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019756622592323950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 喵🍊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2017875249245917244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10190,
+          "following_count": 3834,
+          "like_count": 74455,
+          "listed_count": 17,
+          "media_count": 1718,
+          "tweet_count": 16908
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T14:07:28.000Z",
+        "description": "你可以叫我摩尔｜Aspie｜hyper-reactive｜重焦重抑｜lesbian｜本质是一块韧韧的有机玻璃｜精神在线会写些短诗，也接纪念诗以及情诗定制，文学交流大欢迎！｜药物滥用、自伤、烟、酒｜小摩尔恋爱中｜请同类找我互fo吧！！！",
+        "id": "1560991861413933056",
+        "location": "海拉鲁大陆",
+        "name": "破喉咙骑士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560992274435428352/_l_rnZ10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 109,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1010
+        },
+        "username": "belovedquarry",
+        "verified": false
+      }
+    ]
+  }
+}
