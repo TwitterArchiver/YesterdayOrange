@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-29T11:17:28",
+  "last_updated": "2026-07-29T11:18:31",
   "html": {
     "https://web.archive.org/web/20251026033610if_/https://twitter.com/YesterdayOrange/status/1982290129839706510": {
       "status": "done",
@@ -42280,9 +42280,9 @@
       "referenced_by": [
         "20251231135457_twitter_com_YesterdayOrange_status_2006363451095167152.json"
       ],
-      "last_updated": "2026-07-29T10:21:13",
+      "last_updated": "2026-07-29T11:18:25",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251231135457/https://video.twimg.com/tweet_video/G9gIh-YbEAAw5JP.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2011411741402685441/vid/avc1/480x480/ZM63hBkSKJSjQRWG.mp4": {
       "status": "done",
@@ -42349,13 +42349,13 @@
       "last_updated": "2026-07-29T10:21:04"
     },
     "https://video.twimg.com/tweet_video/HIFtWMYWkAAk5xd.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260512034443_twitter_com_YesterdayOrange_status_2054045077543227892.json"
       ],
-      "last_updated": "2026-07-29T10:21:10",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260512034443/https://video.twimg.com/tweet_video/HIFtWMYWkAAk5xd.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-29T11:18:31",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512034443if_/https://video.twimg.com/tweet_video/HIFtWMYWkAAk5xd.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f89ee7caea0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2064295607553126400/pu/vid/avc1/1280x720/9hquE5yzvcpTIwmq.mp4?tag=12": {
       "status": "done",
