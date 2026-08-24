@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2091100622582145277",
+    "created_at": "2026-08-22T10:15:40.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T11:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091107025807904956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1791431581330214912",
+          "start": 0,
+          "username": "Iris_AI_Studio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091107025807904956",
+    "in_reply_to_user_id": "1791431581330214912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091104705069961338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iris_AI_Studio 好有意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2091100622582145277",
+        "created_at": "2026-08-22T10:15:40.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091107025807904956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1791431581330214912",
+              "start": 0,
+              "username": "Iris_AI_Studio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091107025807904956",
+        "in_reply_to_user_id": "1791431581330214912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091104705069961338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iris_AI_Studio 好有意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791431581330214912",
+        "conversation_id": "2091100622582145277",
+        "created_at": "2026-08-22T10:06:27.000Z",
+        "display_text_range": [
+          17,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091104705069961338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091104705069961338",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091100622582145277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 开学在讲台上自我介绍：\n一堆废话过后，大喊一声：我是个疯子！来结尾...\n\n现在都大学毕业了，还是觉得当时的我好像个傻X...不过我这句话反而调动了班上不少的气氛，当然，我可不是嘉豪🙃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091107025807904956",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2090833482234917329",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12348,
+          "following_count": 5352,
+          "like_count": 101062,
+          "listed_count": 23,
+          "media_count": 2557,
+          "tweet_count": 21734
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T11:32:49.000Z",
+        "description": "🇨🇳CN中国人︱✉️欢迎私聊︱❌反对极端主义︱❌不谈论政治︱❤️Peace And Love︱✨座右铭：不要觉得世界太过疯狂 而是你自己还不够变态 Don't think the world is too crazy. You're just not crazy enough.",
+        "id": "1791431581330214912",
+        "is_identity_verified": false,
+        "location": "Guangdong, China",
+        "most_recent_tweet_id": "2091105658397397298",
+        "name": "Iris ✧",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791431581330214912/1727366000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047248371199725568/7SD3fd-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 39,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "Iris_AI_Studio",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

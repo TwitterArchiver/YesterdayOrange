@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2081768154292969555",
+    "created_at": "2026-07-28T09:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082036878644318445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022131059794780161",
+          "start": 0,
+          "username": "uwuneko_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082036878644318445",
+    "in_reply_to_user_id": "2022131059794780161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082035973303799879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uwuneko_1 fo了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2081768154292969555",
+        "created_at": "2026-07-28T09:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082036878644318445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022131059794780161",
+              "start": 0,
+              "username": "uwuneko_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082036878644318445",
+        "in_reply_to_user_id": "2022131059794780161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082035973303799879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uwuneko_1 fo了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022131059794780161",
+        "conversation_id": "2081768154292969555",
+        "created_at": "2026-07-28T09:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082035973303799879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082035973303799879",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081768154292969555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我這不是在理你嗎喵（想互fo呀喵🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2081790267934626067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12262,
+          "following_count": 5298,
+          "like_count": 97654,
+          "listed_count": 21,
+          "media_count": 2449,
+          "tweet_count": 21147
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T02:10:09.000Z",
+        "description": "Languages: JP / EN / ZH (TC & SC) | 姑且算是人類 | 中立 | coffee依存症 | Sky光·遇 | 和我聊天互fo可以發dm |\n恋人:@narutomaki_4\nblog:https://t.co/kjzs4WL7Kd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 89,
+                "username": "narutomaki_4"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "uwuburogu.blogspot.com",
+                "end": 131,
+                "expanded_url": "http://uwuburogu.blogspot.com",
+                "start": 108,
+                "url": "https://t.co/kjzs4WL7Kd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mond.how/uwutokumei",
+                "end": 23,
+                "expanded_url": "https://mond.how/uwutokumei",
+                "start": 0,
+                "url": "https://t.co/Gi3bZS3zne"
+              }
+            ]
+          }
+        },
+        "id": "2022131059794780161",
+        "location": "Hong Kong",
+        "name": "uwu",
+        "pinned_tweet_id": "2081369481398591660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080009291587788800/_m5Wlp1G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 137,
+          "like_count": 5829,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/Gi3bZS3zne",
+        "username": "uwuneko_1",
+        "verified": false
+      }
+    ]
+  }
+}

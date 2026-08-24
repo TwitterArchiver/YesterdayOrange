@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2087823377549660582",
+    "created_at": "2026-08-13T09:29:07.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T10:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087833818594230526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2046094466428334080",
+          "start": 0,
+          "username": "chunqingNailong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087833818594230526",
+    "in_reply_to_user_id": "2046094466428334080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087833108678930747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chunqingNailong 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2087823377549660582",
+        "created_at": "2026-08-13T09:29:07.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087833818594230526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046094466428334080",
+              "start": 0,
+              "username": "chunqingNailong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087833818594230526",
+        "in_reply_to_user_id": "2046094466428334080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087833108678930747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chunqingNailong 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046094466428334080",
+        "conversation_id": "2087823377549660582",
+        "created_at": "2026-08-13T09:26:17.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087833108678930747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087833108678930747",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087823377549660582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 总统府旁边的吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087833818594230526",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2087153312848347377",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12328,
+          "following_count": 5333,
+          "like_count": 100041,
+          "listed_count": 22,
+          "media_count": 2518,
+          "tweet_count": 21559
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-20T05:13:23.000Z",
+        "description": "随便发发 想认识很多朋友 温和友善（可能）高强度冲浪选手 很想被打扰（正经的那种）或许可以被攻略？\nB side @Xyu0041 成分复杂谨慎关注\n好朋友：温柔善良可爱帅气的🍟@IanYeeHo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 57,
+                "username": "Xyu0041"
+              },
+              {
+                "end": 98,
+                "start": 89,
+                "username": "IanYeeHo"
+              }
+            ]
+          }
+        },
+        "id": "2046094466428334080",
+        "is_identity_verified": false,
+        "location": "地球村",
+        "most_recent_tweet_id": "2087833408785547638",
+        "name": "纯情奶龙",
+        "pinned_tweet_id": "2053524006817636619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046094466428334080/1779648374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064566713480581120/pVjoJLJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 325,
+          "like_count": 22633,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 4487
+        },
+        "url": "",
+        "username": "chunqingNailong",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2091040081989742649",
+    "created_at": "2026-08-22T05:49:39.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T06:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091040081989742649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dylanbl8c/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/dylanbl8c/status/2090693761625911672",
+          "start": 4,
+          "url": "https://t.co/734j4zNdjK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091040081989742649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090693761625911672",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好看喵 https://t.co/734j4zNdjK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1276,
+        "media_key": "3_2090693751165353984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOi48RXAAAmTd6.jpg",
+        "width": 1702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2091040081989742649",
+        "created_at": "2026-08-22T05:49:39.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T06:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091040081989742649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dylanbl8c/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/dylanbl8c/status/2090693761625911672",
+              "start": 4,
+              "url": "https://t.co/734j4zNdjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091040081989742649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090693761625911672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好看喵 https://t.co/734j4zNdjK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090693751165353984"
+          ]
+        },
+        "author_id": "2090680380365922304",
+        "conversation_id": "2090693761625911672",
+        "created_at": "2026-08-21T06:53:30.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090693761625911672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tZgfld31Ps",
+              "end": 52,
+              "expanded_url": "https://x.com/Dylanbl8c/status/2090693761625911672/photo/1",
+              "media_key": "3_2090693751165353984",
+              "start": 29,
+              "url": "https://t.co/tZgfld31Ps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090693761625911672",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090693751165353984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们的大学真的开学得好早呢，有谁知道这是哪个大学吗（笑） https://t.co/tZgfld31Ps"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091040081989742649",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2090833482234917329",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12346,
+          "following_count": 5334,
+          "like_count": 101025,
+          "listed_count": 23,
+          "media_count": 2557,
+          "tweet_count": 21713
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T06:01:54.000Z",
+        "description": "",
+        "id": "2090680380365922304",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090977208361771458",
+        "name": "西門靈夢",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090681353285103616/nsC6rtH8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 51,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "Dylanbl8c",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

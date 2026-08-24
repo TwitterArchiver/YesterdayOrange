@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2083589747902152854",
+    "created_at": "2026-08-01T16:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083589747902152854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ictyep/status/…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/ictyep/status/2083583427178324029",
+          "start": 141,
+          "url": "https://t.co/ESzBqdbA9M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083589747902152854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083583427178324029",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊呜呜想和可爱的贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴 https://t.co/ESzBqdbA9M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2083589747902152854",
+        "created_at": "2026-08-01T16:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083589747902152854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ictyep/status/…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/ictyep/status/2083583427178324029",
+              "start": 141,
+              "url": "https://t.co/ESzBqdbA9M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083589747902152854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083583427178324029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊呜呜想和可爱的贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴 https://t.co/ESzBqdbA9M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1575956145159622656",
+        "conversation_id": "2083583427178324029",
+        "created_at": "2026-08-01T15:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083583427178324029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083583427178324029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊呜呜想和可爱的贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2083394810401153196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12297,
+          "following_count": 5327,
+          "like_count": 98426,
+          "listed_count": 21,
+          "media_count": 2467,
+          "tweet_count": 21309
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-30T21:10:17.000Z",
+        "description": "VTuber者雅好音律之戏善东方及街机射游也属工作室曰@IctyeOffice/@icnotye蓝空社号https://t.co/juZrLFU9au禁转载也眩度千分者又号@th_firest_cute也自称楚天寻萧又曰@IctyeP禁言以脚本驱之时有不足率若误禁诉于ictyedaily@gmail.com也",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "IctyeOffice"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "icnotye"
+              },
+              {
+                "end": 101,
+                "start": 86,
+                "username": "th_firest_cute"
+              },
+              {
+                "end": 117,
+                "start": 110,
+                "username": "IctyeP"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ictyep.bsky.social",
+                "end": 75,
+                "expanded_url": "http://ictyep.bsky.social",
+                "start": 52,
+                "url": "https://t.co/juZrLFU9au"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "northgreen.github.io",
+                "end": 23,
+                "expanded_url": "http://northgreen.github.io/",
+                "start": 0,
+                "url": "https://t.co/CluStjstAr"
+              }
+            ]
+          }
+        },
+        "id": "1575956145159622656",
+        "location": "Gensokyo",
+        "name": "楚天寻萧~123❤️🌕（Ictye）",
+        "pinned_tweet_id": "2061790397979070868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051625461655162880/Wv5oVRV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 638,
+          "like_count": 29880,
+          "listed_count": 8,
+          "media_count": 2074,
+          "tweet_count": 15907
+        },
+        "url": "https://t.co/CluStjstAr",
+        "username": "IctyeP",
+        "verified": false
+      }
+    ]
+  }
+}

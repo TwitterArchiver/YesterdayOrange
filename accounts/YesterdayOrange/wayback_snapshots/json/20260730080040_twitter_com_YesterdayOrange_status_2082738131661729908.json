@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2082738131661729908",
+    "created_at": "2026-07-30T08:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082738131661729908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/reyreyymeow/st…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/reyreyymeow/status/2082737793240113184",
+          "start": 52,
+          "url": "https://t.co/Y30iYQIUdX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082738131661729908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082737793240113184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实是挺想去香港玩的，有几个想见的朋友。\n但是这边天天下雨烦死了，我怕去了就是在宾馆房间一天-600。 https://t.co/Y30iYQIUdX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2082738131661729908",
+        "created_at": "2026-07-30T08:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082738131661729908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reyreyymeow/st…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/reyreyymeow/status/2082737793240113184",
+              "start": 52,
+              "url": "https://t.co/Y30iYQIUdX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082738131661729908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082737793240113184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实是挺想去香港玩的，有几个想见的朋友。\n但是这边天天下雨烦死了，我怕去了就是在宾馆房间一天-600。 https://t.co/Y30iYQIUdX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1097931431215390720",
+        "conversation_id": "2082711627498127642",
+        "created_at": "2026-07-30T07:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082737793240113184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082737793240113184",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082711627498127642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 来香港嗎（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2082711627498127642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12284,
+          "following_count": 5334,
+          "like_count": 97969,
+          "listed_count": 21,
+          "media_count": 2457,
+          "tweet_count": 21214
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-19T18:50:26.000Z",
+        "description": "ⓘ检测到你过于可爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "reyreyy.net",
+                "end": 23,
+                "expanded_url": "https://reyreyy.net",
+                "start": 0,
+                "url": "https://t.co/hM7puXgUwg"
+              }
+            ]
+          }
+        },
+        "id": "1097931431215390720",
+        "location": "距离你5.2km",
+        "name": "ReyReyy",
+        "pinned_tweet_id": "1907684946699059523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880628596777287681/exeKJmX-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 125,
+          "like_count": 52170,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 940
+        },
+        "url": "https://t.co/hM7puXgUwg",
+        "username": "ReyReyyMeow",
+        "verified": false
+      }
+    ]
+  }
+}

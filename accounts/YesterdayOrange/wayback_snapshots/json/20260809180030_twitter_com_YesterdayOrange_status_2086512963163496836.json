@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2086371004541272405",
+    "created_at": "2026-08-09T18:00:30.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T19:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086512963163496836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948895753939943425",
+          "start": 0,
+          "username": "Varlic2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086512963163496836",
+    "in_reply_to_user_id": "1948895753939943425",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086455645889573102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Varlic2007 互关喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 169,
+        "media_key": "3_2086455640642535424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSUWcQbwAAB1vh.jpg",
+        "width": 198
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2086371004541272405",
+        "created_at": "2026-08-09T18:00:30.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086512963163496836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948895753939943425",
+              "start": 0,
+              "username": "Varlic2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086512963163496836",
+        "in_reply_to_user_id": "1948895753939943425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086455645889573102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Varlic2007 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086455640642535424"
+          ]
+        },
+        "author_id": "1948895753939943425",
+        "conversation_id": "2086371004541272405",
+        "created_at": "2026-08-09T14:12:45.000Z",
+        "display_text_range": [
+          17,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086455645889573102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OqHmzdUL7d",
+              "end": 71,
+              "expanded_url": "https://x.com/Varlic2007/status/2086455645889573102/photo/1",
+              "media_key": "3_2086455640642535424",
+              "start": 48,
+              "url": "https://t.co/OqHmzdUL7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086455645889573102",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086455640642535424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086371004541272405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 墙外总是把交朋友挂嘴上，实际上发了半天一堆点赞的没一个私信的 https://t.co/OqHmzdUL7d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086512963163496836",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2085347821205807211",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12325,
+          "following_count": 5326,
+          "like_count": 99621,
+          "listed_count": 22,
+          "media_count": 2510,
+          "tweet_count": 21480
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-25T23:59:03.000Z",
+        "description": "",
+        "id": "1948895753939943425",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086470540727144467",
+        "name": "Var1ic",
+        "pinned_tweet_id": "2085707928540254458",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078794293029089281/-7Y-oUnZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 49,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "Varlic2007",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

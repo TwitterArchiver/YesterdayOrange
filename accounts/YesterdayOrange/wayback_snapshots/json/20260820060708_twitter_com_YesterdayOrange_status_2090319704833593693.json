@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2090319704833593693",
+    "created_at": "2026-08-20T06:07:08.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T07:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090319704833593693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jom123ab/statu…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/jom123ab/status/2090125216773288014",
+          "start": 23,
+          "url": "https://t.co/hUt4uqplRr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090319704833593693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090125216773288014",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "经常遇到喜欢开水的老一辈，应该让他们注意健康 https://t.co/hUt4uqplRr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2090319704833593693",
+        "created_at": "2026-08-20T06:07:08.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090319704833593693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jom123ab/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/jom123ab/status/2090125216773288014",
+              "start": 23,
+              "url": "https://t.co/hUt4uqplRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090319704833593693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090125216773288014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经常遇到喜欢开水的老一辈，应该让他们注意健康 https://t.co/hUt4uqplRr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684489356931629059",
+        "conversation_id": "2090125216773288014",
+        "created_at": "2026-08-19T17:14:18.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090125216773288014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090125216773288014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 634,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我必须吐槽一下我们家里这个饮水机的问题。\n这个饮水机是只能设定一种温度的，45， 55和85。\n但是我爸妈特别爱喝茶，就必须要热水。所以他们总是会调成85度🤗🤗\n但是我只想立马喝水。所以经常会发生我接水之后直接喝，然后给我烫的飞起来😇\n我真没招了\n（写下此篇，是因为刚刚又被烫了😭）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090319704833593693",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2089695161827852759",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12316,
+          "following_count": 5325,
+          "like_count": 100880,
+          "listed_count": 22,
+          "media_count": 2551,
+          "tweet_count": 21674
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-27T09:02:29.000Z",
+        "description": "这个人在想写点什么能引起你的注意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jom123ab",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jom123ab",
+                "start": 0,
+                "url": "https://t.co/vPpRVW5i49"
+              }
+            ]
+          }
+        },
+        "id": "1684489356931629059",
+        "is_identity_verified": false,
+        "location": "一本回忆录里",
+        "most_recent_tweet_id": "2090293630200397924",
+        "name": "Jom",
+        "pinned_tweet_id": "2063566548250525839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684489356931629059/1785494168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875020315207884800/6vjYfloc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 2814,
+          "like_count": 17627,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1951
+        },
+        "url": "https://t.co/vPpRVW5i49",
+        "username": "jom123ab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2083773586834415800",
+    "created_at": "2026-08-02T07:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T08:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083813631939264674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2022662428383965184",
+          "start": 0,
+          "username": "echo_torrential"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083813631939264674",
+    "in_reply_to_user_id": "2022662428383965184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083813265973694590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@echo_torrential 那是什么样子？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2083773586834415800",
+        "created_at": "2026-08-02T07:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083813631939264674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2022662428383965184",
+              "start": 0,
+              "username": "echo_torrential"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083813631939264674",
+        "in_reply_to_user_id": "2022662428383965184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083813265973694590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@echo_torrential 那是什么样子？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022662428383965184",
+        "conversation_id": "2083773586834415800",
+        "created_at": "2026-08-02T07:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083813265973694590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083813265973694590",
+        "in_reply_to_user_id": "2022662428383965184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083812827706593435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 开始没找到租房的地方都是找到60一晚的民宿，那个是真难受😵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2083394810401153196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12298,
+          "following_count": 5332,
+          "like_count": 98578,
+          "listed_count": 22,
+          "media_count": 2471,
+          "tweet_count": 21335
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-14T13:21:34.000Z",
+        "description": "",
+        "id": "2022662428383965184",
+        "name": "Echo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078511667609227265/cYRnq8Po_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 15,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "echo_torrential",
+        "verified": false
+      }
+    ]
+  }
+}

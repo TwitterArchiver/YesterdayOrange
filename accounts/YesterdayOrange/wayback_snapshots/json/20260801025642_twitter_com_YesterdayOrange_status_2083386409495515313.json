@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2083386409495515313",
+    "created_at": "2026-08-01T02:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T03:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083386409495515313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/durantraym9367…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/durantraym93677/status/2083140198142226445",
+          "start": 11,
+          "url": "https://t.co/JOGcfnaXVW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083386409495515313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083140198142226445",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "允许你用那两个字叫我 https://t.co/JOGcfnaXVW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2083386409495515313",
+        "created_at": "2026-08-01T02:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083386409495515313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/durantraym9367…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/durantraym93677/status/2083140198142226445",
+              "start": 11,
+              "url": "https://t.co/JOGcfnaXVW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083386409495515313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083140198142226445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "允许你用那两个字叫我 https://t.co/JOGcfnaXVW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699273459325390848",
+        "conversation_id": "2083140198142226445",
+        "created_at": "2026-07-31T10:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083140198142226445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083140198142226445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14906,
+          "like_count": 109,
+          "quote_count": 1,
+          "reply_count": 87,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "允许你用那两个字叫我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2083051169732243582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12296,
+          "following_count": 5328,
+          "like_count": 98279,
+          "listed_count": 21,
+          "media_count": 2463,
+          "tweet_count": 21287
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🍊 あぁ 闇はただ純粋で | \n🚼 🔑サブ: @AmmieColl84391 (フォロー歓迎) | 💼 Speaker of the Parliament of @enchenia | 💕 @Chiyorin0908",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "AmmieColl84391"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "enchenia"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Chiyorin0908"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "location": "Japan",
+        "name": "Luke 鈴木 さくらみ⛩️",
+        "pinned_tweet_id": "1991763708138397781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036740912668389376/LWPePSYk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3572,
+          "following_count": 4149,
+          "like_count": 51734,
+          "listed_count": 15,
+          "media_count": 617,
+          "tweet_count": 12381
+        },
+        "url": "",
+        "username": "DurantRaym93677",
+        "verified": true
+      }
+    ]
+  }
+}

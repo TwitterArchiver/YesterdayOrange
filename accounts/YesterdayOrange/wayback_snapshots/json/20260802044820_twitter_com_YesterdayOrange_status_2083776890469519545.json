@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2083776890469519545",
+    "created_at": "2026-08-02T04:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083776890469519545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/acaneyu10309/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/acaneyu10309/status/2083776117006328018",
+          "start": 15,
+          "url": "https://t.co/OiCrFlC4O3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083776890469519545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083776117006328018",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和朋友住电竞酒店真是幸福麻了 https://t.co/OiCrFlC4O3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2083776890469519545",
+        "created_at": "2026-08-02T04:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083776890469519545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acaneyu10309/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/acaneyu10309/status/2083776117006328018",
+              "start": 15,
+              "url": "https://t.co/OiCrFlC4O3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083776890469519545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083776117006328018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和朋友住电竞酒店真是幸福麻了 https://t.co/OiCrFlC4O3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029403000293474307",
+        "conversation_id": "2083773586834415800",
+        "created_at": "2026-08-02T04:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083776117006328018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083776117006328018",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083773586834415800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 房间比较好吧 我和朋友住电竞酒店一晚150 虽然没阳光但是住着也挺舒服的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2083394810401153196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12299,
+          "following_count": 5327,
+          "like_count": 98523,
+          "listed_count": 21,
+          "media_count": 2471,
+          "tweet_count": 21325
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-05T03:47:01.000Z",
+        "description": "19 尼古丁重度依赖\n请不要在意我的性别\n偶尔刷屏对不起\n我反对将具象个体统括成抽象形象的行为 不了解的圈子我不作任何评价\n我的评价只会从自己出发落到个人 可能狭隘偏见\n私信请随意 我尽量回复\n如果我的发言造成了困扰请告知\n我有过抑郁症 目前正在尽自己所能爱生活 会发画会发日常 概率割手图\n会回fo 感谢捧场",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/13381610",
+                "end": 23,
+                "expanded_url": "https://ngl.link/13381610",
+                "start": 0,
+                "url": "https://t.co/EJnjRPjhOf"
+              }
+            ]
+          }
+        },
+        "id": "2029403000293474307",
+        "location": "地球不存在的思想中",
+        "name": "拾叁叁",
+        "pinned_tweet_id": "2052070176292827158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078451034377375744/dPpDSUd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 244,
+          "like_count": 1341,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 436
+        },
+        "url": "https://t.co/EJnjRPjhOf",
+        "username": "AcaneYu10309",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2090820227705847820",
+    "created_at": "2026-08-21T16:34:20.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T17:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090839932214657497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090788680185319424",
+          "start": 0,
+          "username": "Etherealinwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090839932214657497",
+    "in_reply_to_user_id": "2090788680185319424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090820227705847820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Etherealinwm 我喜欢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 990,
+        "media_key": "3_2090820211868041216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQV57GaAAAHvHI.jpg",
+        "width": 1320
+      },
+      {
+        "height": 990,
+        "media_key": "3_2090820219061362688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQV6V5bYAAJmBq.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2090820227705847820",
+        "created_at": "2026-08-21T16:34:20.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090839932214657497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090788680185319424",
+              "start": 0,
+              "username": "Etherealinwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090839932214657497",
+        "in_reply_to_user_id": "2090788680185319424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090820227705847820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Etherealinwm 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090820211868041216",
+            "3_2090820219061362688"
+          ]
+        },
+        "author_id": "2090788680185319424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "856568905648578560",
+              "name": "Grand Theft Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2090820227705847820",
+        "created_at": "2026-08-21T15:16:02.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090820227705847820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xhoTyZLKcz",
+              "end": 42,
+              "expanded_url": "https://x.com/Etherealinwm/status/2090820227705847820/photo/1",
+              "media_key": "3_2090820211868041216",
+              "start": 19,
+              "url": "https://t.co/xhoTyZLKcz"
+            },
+            {
+              "display_url": "pic.x.com/xhoTyZLKcz",
+              "end": 42,
+              "expanded_url": "https://x.com/Etherealinwm/status/2090820227705847820/photo/1",
+              "media_key": "3_2090820219061362688",
+              "start": 19,
+              "url": "https://t.co/xhoTyZLKcz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090820227705847820",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090820211868041216"
+          },
+          {
+            "media_key": "3_2090820219061362688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "PS5pro以备好静等《GTA6》😋 https://t.co/xhoTyZLKcz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090839932214657497",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2090833482234917329",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12311,
+          "following_count": 5317,
+          "like_count": 100964,
+          "listed_count": 23,
+          "media_count": 2557,
+          "tweet_count": 21691
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T13:13:28.000Z",
+        "description": "一个普通人",
+        "id": "2090788680185319424",
+        "is_identity_verified": false,
+        "location": "火星或者地球",
+        "most_recent_tweet_id": "2090820227705847820",
+        "name": "雾烬Ethereal",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090788680185319424/1787318352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090789603095810048/roXLkNnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "Etherealinwm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

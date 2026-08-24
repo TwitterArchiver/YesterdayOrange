@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2082774181503180953",
+    "created_at": "2026-07-30T10:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082774181503180953"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yesterdayorang…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/yesterdayorange/status/2082771193900445924",
+          "start": 36,
+          "url": "https://t.co/y5kqawpjJ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082774181503180953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082771193900445924",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也有点想去成都玩（x）\n问题还是没有人陪我玩😭\n羡慕那些朋友多的人😭😭 https://t.co/y5kqawpjJ7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2082774181503180953",
+        "created_at": "2026-07-30T10:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082774181503180953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yesterdayorang…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/yesterdayorange/status/2082771193900445924",
+              "start": 36,
+              "url": "https://t.co/y5kqawpjJ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082774181503180953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082771193900445924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也有点想去成都玩（x）\n问题还是没有人陪我玩😭\n羡慕那些朋友多的人😭😭 https://t.co/y5kqawpjJ7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2082771193900445924",
+        "created_at": "2026-07-30T10:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082771193900445924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082771193900445924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话还是有点想去广州玩两天（x）\n但好像没有人陪我🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2082711627498127642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12285,
+          "following_count": 5334,
+          "like_count": 98009,
+          "listed_count": 21,
+          "media_count": 2459,
+          "tweet_count": 21226
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

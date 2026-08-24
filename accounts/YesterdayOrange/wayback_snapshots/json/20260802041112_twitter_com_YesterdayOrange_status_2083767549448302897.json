@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2083762889731772890",
+    "created_at": "2026-08-02T04:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083767549448302897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885529810942009344",
+          "start": 0,
+          "username": "NEO_NA45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083767549448302897",
+    "in_reply_to_user_id": "1885529810942009344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083767344409784745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEO_NA45 早点回来就可以喵😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2083762889731772890",
+        "created_at": "2026-08-02T04:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083767549448302897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885529810942009344",
+              "start": 0,
+              "username": "NEO_NA45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083767549448302897",
+        "in_reply_to_user_id": "1885529810942009344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083767344409784745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEO_NA45 早点回来就可以喵😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885529810942009344",
+        "conversation_id": "2083762889731772890",
+        "created_at": "2026-08-02T04:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083767344409784745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083767344409784745",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083762889731772890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 好像找你去玩。。可是要過幾天才回去惹。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2083394810401153196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12298,
+          "following_count": 5325,
+          "like_count": 98509,
+          "listed_count": 21,
+          "media_count": 2470,
+          "tweet_count": 21317
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T03:25:23.000Z",
+        "description": "互fo喵 | 主要產出：🏎️ F1｜📱 Android｜📷 Photography｜⛏️Minecraft  | 分享生活碎片與一些想法 | F1相關長文 |\n👑GOAT:@LewisHamilton #WeRaceAsOne",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 101,
+                "tag": "WeRaceAsOne"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 100,
+                "start": 86,
+                "username": "LewisHamilton"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NEO_NA45s_Chan…",
+                "end": 23,
+                "expanded_url": "https://t.me/NEO_NA45s_Channel",
+                "start": 0,
+                "url": "https://t.co/rS411XNlcO"
+              }
+            ]
+          }
+        },
+        "id": "1885529810942009344",
+        "name": "NEO_NA45",
+        "pinned_tweet_id": "2083496515662950490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075981609870991360/TQWSYK8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 720,
+          "like_count": 4786,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1403
+        },
+        "url": "https://t.co/rS411XNlcO",
+        "username": "NEO_NA45",
+        "verified": true
+      }
+    ]
+  }
+}

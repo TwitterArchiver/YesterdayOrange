@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2085210915734196723",
+    "created_at": "2026-08-06T13:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085353708574163433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1950555130153357312",
+          "start": 0,
+          "username": "clovo_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085353708574163433",
+    "in_reply_to_user_id": "1950555130153357312",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085352687063969801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clovo_o 350"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2085210915734196723",
+        "created_at": "2026-08-06T13:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085353708574163433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1950555130153357312",
+              "start": 0,
+              "username": "clovo_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085353708574163433",
+        "in_reply_to_user_id": "1950555130153357312",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085352687063969801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clovo_o 350"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950555130153357312",
+        "conversation_id": "2085210915734196723",
+        "created_at": "2026-08-06T13:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085352687063969801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085352687063969801",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085210915734196723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 旧的呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2085347821205807211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12295,
+          "following_count": 5324,
+          "like_count": 99256,
+          "listed_count": 22,
+          "media_count": 2495,
+          "tweet_count": 21433
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T13:52:58.000Z",
+        "description": "07/👧🏻/INTJ/我不能没有咖啡因/我不能没有less ice无糖可乐/我不能没有麦当劳现炸的撒盐薯条/想念冬天⛄️",
+        "id": "1950555130153357312",
+        "location": "麦当劳薯条 ",
+        "name": "我要喝咖啡",
+        "pinned_tweet_id": "2065719253056238007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082486847473934337/DZeIjXDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 116,
+          "like_count": 2045,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 896
+        },
+        "url": "",
+        "username": "clovo_o",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083504789657366528",
+        "3_2083504789644771328"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2083504820858843264",
+    "created_at": "2026-08-01T10:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083504820858843264"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PWxBSWeOYh",
+          "end": 70,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2083504820858843264/photo/1",
+          "media_key": "3_2083504789657366528",
+          "start": 47,
+          "url": "https://t.co/PWxBSWeOYh"
+        },
+        {
+          "display_url": "pic.x.com/PWxBSWeOYh",
+          "end": 70,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2083504820858843264/photo/1",
+          "media_key": "3_2083504789644771328",
+          "start": 47,
+          "url": "https://t.co/PWxBSWeOYh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083504820858843264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大学期末考能否由「PVE」模式改成「PVP」模式，即 60 分及格改为排名前 80％ 及格？ https://t.co/PWxBSWeOYh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083504789657366528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoYkTtaMAALIfy.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083504789644771328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoYkTqaAAAmDV8.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083504789657366528",
+            "3_2083504789644771328"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2083504820858843264",
+        "created_at": "2026-08-01T10:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083504820858843264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PWxBSWeOYh",
+              "end": 70,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2083504820858843264/photo/1",
+              "media_key": "3_2083504789657366528",
+              "start": 47,
+              "url": "https://t.co/PWxBSWeOYh"
+            },
+            {
+              "display_url": "pic.x.com/PWxBSWeOYh",
+              "end": 70,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2083504820858843264/photo/1",
+              "media_key": "3_2083504789644771328",
+              "start": 47,
+              "url": "https://t.co/PWxBSWeOYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083504820858843264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大学期末考能否由「PVE」模式改成「PVP」模式，即 60 分及格改为排名前 80％ 及格？ https://t.co/PWxBSWeOYh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2083394810401153196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12295,
+          "following_count": 5327,
+          "like_count": 98368,
+          "listed_count": 21,
+          "media_count": 2466,
+          "tweet_count": 21300
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2082526257007476768",
+    "created_at": "2026-07-29T17:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T18:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082526257007476768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cts_87729/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/cts_87729/status/2073140435116270072",
+          "start": 12,
+          "url": "https://t.co/1JLbiE3D8C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082526257007476768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073140435116270072",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想和我贴近可以给我看😋 https://t.co/1JLbiE3D8C"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2082526257007476768",
+        "created_at": "2026-07-29T17:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082526257007476768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cts_87729/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/cts_87729/status/2073140435116270072",
+              "start": 12,
+              "url": "https://t.co/1JLbiE3D8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082526257007476768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073140435116270072",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想和我贴近可以给我看😋 https://t.co/1JLbiE3D8C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655122857591029761",
+        "conversation_id": "2073140435116270072",
+        "created_at": "2026-07-03T20:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T21:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073140435116270072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073140435116270072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的对于好多人没法理解脚的涩情之处而感到纯粹的原始的惋惜。并且于我而言所有丝袜管你这那的都是异类，只有人类最原始性的不带有任何理性下的造物的最原始的裸足才是最美味的。虽然你要问我具体我也没法用语言精确分析并描述出来问我不如问AI，因为我记忆里从我很小的时候我就对这方面产生明显兴趣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2082314419162550432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12277,
+          "following_count": 5329,
+          "like_count": 97889,
+          "listed_count": 21,
+          "media_count": 2457,
+          "tweet_count": 21197
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-07T08:10:28.000Z",
+        "description": "08男｜坐标山西｜音游人wmc｜fps低手｜双｜185巨魔飞柱｜喜欢可爱的东西｜想和大家建立起联系！｜QQ781911863",
+        "id": "1655122857591029761",
+        "name": "CTS",
+        "pinned_tweet_id": "2067325497235963922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033533566311870465/32nKugP__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 32,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "CTS_87729",
+        "verified": false
+      }
+    ]
+  }
+}

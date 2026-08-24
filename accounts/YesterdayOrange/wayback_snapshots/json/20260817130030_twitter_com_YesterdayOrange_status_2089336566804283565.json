@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2089336566804283565",
+    "created_at": "2026-08-17T13:00:30.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089336566804283565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/freefree777777…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/freefree777777/status/2089336321785643482",
+          "start": 2,
+          "url": "https://t.co/U4bZFee77h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089336566804283565",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089336321785643482",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "夯 https://t.co/U4bZFee77h"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2089336566804283565",
+        "created_at": "2026-08-17T13:00:30.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089336566804283565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/freefree777777…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/freefree777777/status/2089336321785643482",
+              "start": 2,
+              "url": "https://t.co/U4bZFee77h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089336566804283565",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089336321785643482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "夯 https://t.co/U4bZFee77h"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597026591850184704",
+        "conversation_id": "2089330994356863465",
+        "created_at": "2026-08-17T12:59:31.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089336321785643482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089336321785643482",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089330994356863465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 好看吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089336566804283565",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2088965980638855251",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12323,
+          "following_count": 5331,
+          "like_count": 100651,
+          "listed_count": 22,
+          "media_count": 2543,
+          "tweet_count": 21626
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T00:37:06.000Z",
+        "description": "人生长恨水长东",
+        "id": "1597026591850184704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089336321785643482",
+        "name": "摩伦",
+        "pinned_tweet_id": "2005679066251407365",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597026591850184704/1754761286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998732609892003842/Kvg_IN5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 85,
+          "like_count": 6038,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 3120
+        },
+        "url": "",
+        "username": "FreeFree777777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

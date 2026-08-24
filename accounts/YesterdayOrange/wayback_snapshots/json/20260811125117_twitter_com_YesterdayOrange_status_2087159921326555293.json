@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2087159615775764703",
+    "created_at": "2026-08-11T12:51:17.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T13:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087159921326555293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1699273463465443328",
+          "start": 0,
+          "username": "AmmieColl84391"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087159921326555293",
+    "in_reply_to_user_id": "1699273463465443328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087159615775764703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmmieColl84391 怎么了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087159615775764703].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087159615775764703",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087159615775764703"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2087159615775764703",
+        "created_at": "2026-08-11T12:51:17.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087159921326555293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1699273463465443328",
+              "start": 0,
+              "username": "AmmieColl84391"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087159921326555293",
+        "in_reply_to_user_id": "1699273463465443328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087159615775764703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmmieColl84391 怎么了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087159921326555293",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2087153312848347377",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12359,
+          "following_count": 5349,
+          "like_count": 99878,
+          "listed_count": 22,
+          "media_count": 2511,
+          "tweet_count": 21528
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-06T04:09:05.000Z",
+        "description": "🚼里人格 ｜ 🔙首都@DurantRaym93677 ｜ \n一个人过家家用的账号 ｜ ⚠️可能会包含无聊的发言、逻辑混乱、自言自语，以及负能或错误的内容哦🥺 ｜ \n📮电邮：ZephyrusLuke@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "DurantRaym93677"
+              }
+            ]
+          }
+        },
+        "id": "1699273463465443328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1985692556764840345",
+        "name": "五月雨🌧️🇯🇵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699273463465443328/1766671782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701877594340438016/jJsS0DtQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 320,
+          "like_count": 3597,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1634
+        },
+        "url": "",
+        "username": "AmmieColl84391",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

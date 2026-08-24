@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2082865518743327022",
+    "created_at": "2026-07-30T16:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082865518743327022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047307566045364224",
+          "start": 0,
+          "username": "BailiYu317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082865518743327022",
+    "in_reply_to_user_id": "2047307566045364224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@BailiYu317 想和你组小团体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2082865518743327022",
+        "created_at": "2026-07-30T16:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082865518743327022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047307566045364224",
+              "start": 0,
+              "username": "BailiYu317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082865518743327022",
+        "in_reply_to_user_id": "2047307566045364224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@BailiYu317 想和你组小团体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2082711627498127642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12292,
+          "following_count": 5334,
+          "like_count": 98108,
+          "listed_count": 21,
+          "media_count": 2459,
+          "tweet_count": 21250
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T13:32:31.000Z",
+        "description": "这里是百里雩的碎碎念空间...                                     \n07｜INFP 4w5｜中文系在读｜想学CL｜喜欢幻想，喜欢思考，喜欢雨天和晴天",
+        "id": "2047307566045364224",
+        "name": "白鲤鱼不会梦见猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078479404410220544/y8Pw6UZx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 14,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "BailiYu317",
+        "verified": false
+      }
+    ]
+  }
+}

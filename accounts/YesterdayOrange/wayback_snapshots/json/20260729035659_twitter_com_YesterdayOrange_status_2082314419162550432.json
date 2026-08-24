@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082314411340144640"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2082314419162550432",
+    "created_at": "2026-07-29T03:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T04:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082314419162550432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AvGNRTdla2",
+          "end": 127,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2082314419162550432/photo/1",
+          "media_key": "3_2082314411340144640",
+          "start": 104,
+          "url": "https://t.co/AvGNRTdla2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082314419162550432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "不管是说话留白，还是负面诠释行为的形成，大概率是因为“缺爱\"的成长体验，被爱过的人会滋养出一些自信，包括但不限于：\n我是有价值的，我是可以无条件被爱的。\n我的需求是可以被满足的，所以我可以毫无顾虑得提出来。\n关系是有弹性的，父母也是床头吵架床尾和，即便观点有不同，我们也可以通过争吵找到共识。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不管是说话留白，还是负面诠释行为的形成，大概率是因为“缺爱\"的成长体验，被爱过的人会滋养出一些自信，包括但不限于：\n我是有价值的，我是可以无条件被爱的。\n我的需求是可以被满足的，所以我可以毫无顾虑得提出来。 https://t.co/AvGNRTdla2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082314411340144640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXd7K6bIAAM3bj.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082314411340144640"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2082314419162550432",
+        "created_at": "2026-07-29T03:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082314419162550432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AvGNRTdla2",
+              "end": 127,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2082314419162550432/photo/1",
+              "media_key": "3_2082314411340144640",
+              "start": 104,
+              "url": "https://t.co/AvGNRTdla2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082314419162550432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "不管是说话留白，还是负面诠释行为的形成，大概率是因为“缺爱\"的成长体验，被爱过的人会滋养出一些自信，包括但不限于：\n我是有价值的，我是可以无条件被爱的。\n我的需求是可以被满足的，所以我可以毫无顾虑得提出来。\n关系是有弹性的，父母也是床头吵架床尾和，即便观点有不同，我们也可以通过争吵找到共识。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不管是说话留白，还是负面诠释行为的形成，大概率是因为“缺爱\"的成长体验，被爱过的人会滋养出一些自信，包括但不限于：\n我是有价值的，我是可以无条件被爱的。\n我的需求是可以被满足的，所以我可以毫无顾虑得提出来。 https://t.co/AvGNRTdla2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2081790267934626067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12262,
+          "following_count": 5301,
+          "like_count": 97729,
+          "listed_count": 21,
+          "media_count": 2453,
+          "tweet_count": 21160
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

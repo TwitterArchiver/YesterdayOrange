@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2087823377549660582",
+    "created_at": "2026-08-14T07:17:17.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T08:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088163029976563760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1794569354597793792",
+          "start": 0,
+          "username": "lockloveovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088163029976563760",
+    "in_reply_to_user_id": "1794569354597793792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088160338332045799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lockloveovo 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2087823377549660582",
+        "created_at": "2026-08-14T07:17:17.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088163029976563760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1794569354597793792",
+              "start": 0,
+              "username": "lockloveovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088163029976563760",
+        "in_reply_to_user_id": "1794569354597793792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088160338332045799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lockloveovo 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794569354597793792",
+        "conversation_id": "2087823377549660582",
+        "created_at": "2026-08-14T07:06:35.000Z",
+        "display_text_range": [
+          17,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088160338332045799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088160338332045799",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087823377549660582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 不懂就问，是总统府外面那条街吗（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088163029976563760",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2087153312848347377",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12329,
+          "following_count": 5332,
+          "like_count": 100146,
+          "listed_count": 22,
+          "media_count": 2523,
+          "tweet_count": 21570
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-26T03:21:00.000Z",
+        "description": "男｜zh-cn🇨🇳｜准初三｜进步保守主义（建制？)｜爱玩三角洲和看少女乐队番｜喜怒无常乐子人|友跨\nqq空间（bushi）：https://t.co/lUzu6rW4L0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/locklove947",
+                "end": 85,
+                "expanded_url": "https://telegram.me/locklove947",
+                "start": 62,
+                "url": "https://t.co/lUzu6rW4L0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lockloveovo",
+                "end": 23,
+                "expanded_url": "http://telegram.me/lockloveovo",
+                "start": 0,
+                "url": "https://t.co/YnKeIlwMSl"
+              }
+            ]
+          }
+        },
+        "id": "1794569354597793792",
+        "is_identity_verified": true,
+        "location": "你家",
+        "most_recent_tweet_id": "2088160338332045799",
+        "name": "不知道起啥名",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794569354597793792/1751375753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075495501156290560/d4HzXytJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 398,
+          "like_count": 2014,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1032
+        },
+        "url": "https://t.co/YnKeIlwMSl",
+        "username": "lockloveovo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

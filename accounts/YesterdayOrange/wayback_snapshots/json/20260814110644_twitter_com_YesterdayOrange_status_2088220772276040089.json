@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088220762142593024",
+        "3_2088220762083917824"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2088220772276040089",
+    "created_at": "2026-08-14T11:06:44.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T12:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088220772276040089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eAqNps020E",
+          "end": 27,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2088220772276040089/photo/1",
+          "media_key": "3_2088220762142593024",
+          "start": 4,
+          "url": "https://t.co/eAqNps020E"
+        },
+        {
+          "display_url": "pic.x.com/eAqNps020E",
+          "end": 27,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2088220772276040089/photo/1",
+          "media_key": "3_2088220762083917824",
+          "start": 4,
+          "url": "https://t.co/eAqNps020E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088220772276040089",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088220762142593024"
+      },
+      {
+        "media_key": "3_2088220762083917824"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚饭喵 https://t.co/eAqNps020E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2088220762142593024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrZuCQa0AAVKzY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2088220762083917824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrZuCCbgAAYCYg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088220762142593024",
+            "3_2088220762083917824"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088220772276040089",
+        "created_at": "2026-08-14T11:06:44.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088220772276040089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eAqNps020E",
+              "end": 27,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2088220772276040089/photo/1",
+              "media_key": "3_2088220762142593024",
+              "start": 4,
+              "url": "https://t.co/eAqNps020E"
+            },
+            {
+              "display_url": "pic.x.com/eAqNps020E",
+              "end": 27,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2088220772276040089/photo/1",
+              "media_key": "3_2088220762083917824",
+              "start": 4,
+              "url": "https://t.co/eAqNps020E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088220772276040089",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088220762142593024"
+          },
+          {
+            "media_key": "3_2088220762083917824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚饭喵 https://t.co/eAqNps020E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088220772276040089",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2087153312848347377",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12326,
+          "following_count": 5336,
+          "like_count": 100169,
+          "listed_count": 22,
+          "media_count": 2529,
+          "tweet_count": 21579
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

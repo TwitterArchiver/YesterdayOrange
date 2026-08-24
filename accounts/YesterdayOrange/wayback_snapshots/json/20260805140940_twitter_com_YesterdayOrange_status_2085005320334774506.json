@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2085005320334774506",
+    "created_at": "2026-08-05T14:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T15:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085005320334774506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rippin_c/statu…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/rippin_c/status/2071931029607330124",
+          "start": 83,
+          "url": "https://t.co/w8MSrA4YES"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085005320334774506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071931029607330124",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎对着网黄发电不如对着我发电\n感觉让别人对着自己发情蛇精有一种快感\n有一种我要把大家都榨出来的爽感\n我的愿望是成为魅魔！（\n别问我擦边照在哪里，还没拍呢你们自己yy https://t.co/w8MSrA4YES"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2085005320334774506",
+        "created_at": "2026-08-05T14:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085005320334774506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rippin_c/statu…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/rippin_c/status/2071931029607330124",
+              "start": 83,
+              "url": "https://t.co/w8MSrA4YES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085005320334774506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071931029607330124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎对着网黄发电不如对着我发电\n感觉让别人对着自己发情蛇精有一种快感\n有一种我要把大家都榨出来的爽感\n我的愿望是成为魅魔！（\n别问我擦边照在哪里，还没拍呢你们自己yy https://t.co/w8MSrA4YES"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886560923518779396",
+        "conversation_id": "2071931029607330124",
+        "created_at": "2026-06-30T12:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071931029607330124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071931029607330124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1764,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎对着网黄发电不如对着我发电\n感觉让别人对着自己发情蛇精有一种快感\n有一种我要把大家都榨出来的爽感\n我的愿望是成为魅魔！（\n别问我擦边照在哪里，还没拍呢你们自己yy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2084574852359622685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12295,
+          "following_count": 5327,
+          "like_count": 99126,
+          "listed_count": 22,
+          "media_count": 2493,
+          "tweet_count": 21414
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-16T12:19:30.000Z",
+        "description": "02 | 电波系&碎碎念&白日梦；喜欢可爱单纯的和病娇崩坏的事物；非键政非涩涩日常推；希望做一个少年感&包容&温柔&可爱&冷静的人。喜欢的游戏和番剧挂在我的个人网页上！主包没有雷点只有可能踩雷，包容性远超常人，又没有脾气，所以怎样和我互动都没关系啦。好朋友 @bin_x_13",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 129,
+                "username": "bin_x_13"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "void-island.com",
+                "end": 23,
+                "expanded_url": "http://void-island.com",
+                "start": 0,
+                "url": "https://t.co/ikZ6E4MgRi"
+              }
+            ]
+          }
+        },
+        "id": "886560923518779396",
+        "location": "拉格朗日点L3",
+        "name": "涟漪Rippin（兔涟漪版）",
+        "pinned_tweet_id": "2084312158310150403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066895100060545024/RTyHfyUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 1041,
+          "like_count": 25750,
+          "listed_count": 7,
+          "media_count": 768,
+          "tweet_count": 5320
+        },
+        "url": "https://t.co/ikZ6E4MgRi",
+        "username": "Rippin_C",
+        "verified": false
+      }
+    ]
+  }
+}

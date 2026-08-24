@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2083774540937830823",
+    "created_at": "2026-08-02T04:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083774540937830823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chinaddls/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/chinaddls/status/2083774187223560606",
+          "start": 7,
+          "url": "https://t.co/8obXkKJHiq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083774540937830823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083774187223560606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想当富哥 https://t.co/8obXkKJHiq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2083774540937830823",
+        "created_at": "2026-08-02T04:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083774540937830823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chinaddls/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/chinaddls/status/2083774187223560606",
+              "start": 7,
+              "url": "https://t.co/8obXkKJHiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083774540937830823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083774187223560606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想当富哥 https://t.co/8obXkKJHiq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560570561960374272",
+        "conversation_id": "2083773586834415800",
+        "created_at": "2026-08-02T04:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083774187223560606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083774187223560606",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083773586834415800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 富哥喵😃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2083394810401153196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12298,
+          "following_count": 5327,
+          "like_count": 98514,
+          "listed_count": 21,
+          "media_count": 2471,
+          "tweet_count": 21319
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-19T10:13:30.000Z",
+        "description": "一个来自中国🇨🇳的coser，很高兴认识你们，希望和你们做朋友！！！✌︎ ॑꒳ ॑✌︎\n168cm 54kg 喜欢分享美好的事物\n语言🇨🇳🇯🇵",
+        "id": "1560570561960374272",
+        "location": "0.01km",
+        "name": "ChinaDD老师🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069720309515886593/UirEmi_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941,
+          "following_count": 773,
+          "like_count": 3772,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 432
+        },
+        "url": "",
+        "username": "ChinaDDLS",
+        "verified": true
+      }
+    ]
+  }
+}

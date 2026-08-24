@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2089010640405049735",
+    "created_at": "2026-08-16T15:25:23.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T16:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089010640405049735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/charlotte_163a…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/charlotte_163a/status/2088985710086820054",
+          "start": 4,
+          "url": "https://t.co/FYyAx4mJhH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089010640405049735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088985710086820054",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好问题 https://t.co/FYyAx4mJhH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2089010640405049735",
+        "created_at": "2026-08-16T15:25:23.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089010640405049735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/charlotte_163a…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/charlotte_163a/status/2088985710086820054",
+              "start": 4,
+              "url": "https://t.co/FYyAx4mJhH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089010640405049735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088985710086820054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好问题 https://t.co/FYyAx4mJhH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707241252129853440",
+        "conversation_id": "2088965980638855251",
+        "created_at": "2026-08-16T13:46:19.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088985710086820054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088985710086820054",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088965980638855251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 欧润吉是双吗👀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089010640405049735",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2088965980638855251",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12328,
+          "following_count": 5330,
+          "like_count": 100523,
+          "listed_count": 22,
+          "media_count": 2536,
+          "tweet_count": 21606
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-28T03:50:19.000Z",
+        "description": "MtX. My pronouns are freak/pathetic.",
+        "id": "1707241252129853440",
+        "is_identity_verified": false,
+        "location": "London, England",
+        "most_recent_tweet_id": "2088985710086820054",
+        "name": "六神沙示风油精",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020295712970555392/3rdh7G68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 506,
+          "like_count": 174380,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1723
+        },
+        "url": "",
+        "username": "Charlotte_163a",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

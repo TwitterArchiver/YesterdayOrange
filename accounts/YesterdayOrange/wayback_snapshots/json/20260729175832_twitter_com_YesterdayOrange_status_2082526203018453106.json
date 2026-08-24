@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2082526203018453106",
+    "created_at": "2026-07-29T17:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T18:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082526203018453106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cts_87729/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/cts_87729/status/2071528648235245877",
+          "start": 11,
+          "url": "https://t.co/QxArehBh31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082526203018453106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071528648235245877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘻嘻因为事实就是如此 https://t.co/QxArehBh31"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2082526203018453106",
+        "created_at": "2026-07-29T17:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082526203018453106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cts_87729/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/cts_87729/status/2071528648235245877",
+              "start": 11,
+              "url": "https://t.co/QxArehBh31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082526203018453106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071528648235245877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘻嘻因为事实就是如此 https://t.co/QxArehBh31"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655122857591029761",
+        "conversation_id": "2071528648235245877",
+        "created_at": "2026-06-29T09:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071528648235245877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071528648235245877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是我正经有点没明白，中考就已经有一半的人没高中上了，高考更是只有半成还有点不到的人能上本科，也就是说如果你能考上本科就已经是同龄人里前30％了，但感觉网上人均本科一堆六百分的并且都说大学生毕业找不到工作🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2082314419162550432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12277,
+          "following_count": 5329,
+          "like_count": 97889,
+          "listed_count": 21,
+          "media_count": 2457,
+          "tweet_count": 21196
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-07T08:10:28.000Z",
+        "description": "08男｜坐标山西｜音游人wmc｜fps低手｜双｜185巨魔飞柱｜喜欢可爱的东西｜想和大家建立起联系！｜QQ781911863",
+        "id": "1655122857591029761",
+        "name": "CTS",
+        "pinned_tweet_id": "2067325497235963922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033533566311870465/32nKugP__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 32,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "CTS_87729",
+        "verified": false
+      }
+    ]
+  }
+}
