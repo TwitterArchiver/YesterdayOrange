@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2096820429302419488",
+    "created_at": "2026-09-07T04:38:42.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T05:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096820429302419488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/echo_torrentia…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/echo_torrential/status/2096811104127402246",
+          "start": 7,
+          "url": "https://t.co/L70qdKDwDp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096820429302419488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096811104127402246",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "学计算机学的 https://t.co/L70qdKDwDp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2096820429302419488",
+        "created_at": "2026-09-07T04:38:42.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096820429302419488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/echo_torrentia…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/echo_torrential/status/2096811104127402246",
+              "start": 7,
+              "url": "https://t.co/L70qdKDwDp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096820429302419488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096811104127402246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学计算机学的 https://t.co/L70qdKDwDp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022662428383965184",
+        "conversation_id": "2096612502264259041",
+        "created_at": "2026-09-07T04:01:38.000Z",
+        "display_text_range": [
+          17,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096811104127402246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096811104127402246",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096612502264259041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 你不是大四吗？怎么都三份工作了？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096820429302419488",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2096651181628227904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12387,
+          "following_count": 5442,
+          "like_count": 103284,
+          "listed_count": 23,
+          "media_count": 2628,
+          "tweet_count": 22117
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-14T13:21:34.000Z",
+        "description": "I already accepted everything but why does it still hurt so much",
+        "id": "2022662428383965184",
+        "is_identity_verified": false,
+        "location": "Antarctica",
+        "most_recent_tweet_id": "2096820335949844657",
+        "name": "Echo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022662428383965184/1771312167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078511667609227265/cYRnq8Po_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 22,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "echo_torrential",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

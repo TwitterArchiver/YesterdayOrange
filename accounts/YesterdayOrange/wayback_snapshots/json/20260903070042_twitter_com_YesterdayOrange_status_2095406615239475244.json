@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2095344811071148179",
+    "created_at": "2026-09-03T07:00:42.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T08:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095406615239475244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801909372492406784",
+          "start": 0,
+          "username": "KomeijiLUKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095406615239475244",
+    "in_reply_to_user_id": "1801909372492406784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095386231710548190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KomeijiLUKA 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2095344811071148179",
+        "created_at": "2026-09-03T07:00:42.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T08:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095406615239475244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801909372492406784",
+              "start": 0,
+              "username": "KomeijiLUKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095406615239475244",
+        "in_reply_to_user_id": "1801909372492406784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095386231710548190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KomeijiLUKA 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801909372492406784",
+        "conversation_id": "2095344811071148179",
+        "created_at": "2026-09-03T05:39:42.000Z",
+        "display_text_range": [
+          17,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095386231710548190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095386231710548190",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095344811071148179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 已經忘記了那時候的自己在幹什麼了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095406615239475244",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2095344811071148179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12316,
+          "following_count": 5388,
+          "like_count": 102491,
+          "listed_count": 23,
+          "media_count": 2610,
+          "tweet_count": 22012
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-15T09:27:37.000Z",
+        "description": "出於某些緣故，我清空了我賬號的全部圖片。不過以後如果我有時間，我會繼續發的！",
+        "id": "1801909372492406784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095389280260821172",
+        "name": "古明地ルカ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801909372492406784/1788073814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900864647726612480/1X0xDDAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 16,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "KomeijiLUKA",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

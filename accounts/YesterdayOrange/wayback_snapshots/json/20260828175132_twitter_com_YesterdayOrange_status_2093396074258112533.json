@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2093396074258112533",
+    "created_at": "2026-08-28T17:51:32.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T18:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093396074258112533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2022662428383965184",
+          "start": 3,
+          "username": "echo_torrential"
+        },
+        {
+          "end": 37,
+          "id": "1788485889225834496",
+          "start": 21,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093396074258112533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093395732917350551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @echo_torrential: @YesterdayOrange 一条胳膊上全是卫生纸然后用胶布缠着，阴恻恻地再笑，看眼神似乎是在问我知不知道是什么。我没过脑子就疑问了句，行为艺术？她突然嘴角上扬，另一只手撕开了最靠近手掌的那个卫生纸上的胶布，揭开来全是像一条条蚯蚓一…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2093396074258112533",
+        "created_at": "2026-08-28T17:51:32.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T18:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093396074258112533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2022662428383965184",
+              "start": 3,
+              "username": "echo_torrential"
+            },
+            {
+              "end": 37,
+              "id": "1788485889225834496",
+              "start": 21,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093396074258112533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093395732917350551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @echo_torrential: @YesterdayOrange 一条胳膊上全是卫生纸然后用胶布缠着，阴恻恻地再笑，看眼神似乎是在问我知不知道是什么。我没过脑子就疑问了句，行为艺术？她突然嘴角上扬，另一只手撕开了最靠近手掌的那个卫生纸上的胶布，揭开来全是像一条条蚯蚓一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022662428383965184",
+        "conversation_id": "2093343761640333697",
+        "created_at": "2026-08-28T17:50:10.000Z",
+        "display_text_range": [
+          17,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T18:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093395732917350551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093395732917350551",
+        "in_reply_to_user_id": "2022662428383965184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093393646699815221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 一条胳膊上全是卫生纸然后用胶布缠着，阴恻恻地再笑，看眼神似乎是在问我知不知道是什么。我没过脑子就疑问了句，行为艺术？她突然嘴角上扬，另一只手撕开了最靠近手掌的那个卫生纸上的胶布，揭开来全是像一条条蚯蚓一样扭曲的伤疤，伤疤附近还用红笔描了很粗的边，不是血。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093396074258112533",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2093032624533168460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12318,
+          "following_count": 5361,
+          "like_count": 101782,
+          "listed_count": 23,
+          "media_count": 2577,
+          "tweet_count": 21867
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-14T13:21:34.000Z",
+        "description": "",
+        "id": "2022662428383965184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093395732917350551",
+        "name": "Echo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022662428383965184/1771312167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078511667609227265/cYRnq8Po_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 19,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "echo_torrential",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

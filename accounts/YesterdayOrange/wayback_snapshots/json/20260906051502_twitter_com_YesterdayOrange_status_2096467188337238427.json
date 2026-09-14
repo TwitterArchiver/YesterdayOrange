@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2096467188337238427",
+    "created_at": "2026-09-06T05:15:02.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T06:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096467188337238427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1105278946168397824",
+          "start": 3,
+          "username": "iseki_zero"
+        },
+        {
+          "end": 32,
+          "id": "1788485889225834496",
+          "start": 16,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096467188337238427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096439628287066178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iseki_zero: @YesterdayOrange 我也可以住进去吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2096467188337238427",
+        "created_at": "2026-09-06T05:15:02.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096467188337238427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1105278946168397824",
+              "start": 3,
+              "username": "iseki_zero"
+            },
+            {
+              "end": 32,
+              "id": "1788485889225834496",
+              "start": 16,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096467188337238427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096439628287066178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iseki_zero: @YesterdayOrange 我也可以住进去吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1105278946168397824",
+        "conversation_id": "2096202871578747303",
+        "created_at": "2026-09-06T03:25:32.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096439628287066178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096439628287066178",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096202871578747303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我也可以住进去吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096467188337238427",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2096202871578747303",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12379,
+          "following_count": 5435,
+          "like_count": 103078,
+          "listed_count": 23,
+          "media_count": 2626,
+          "tweet_count": 22084
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-12T01:26:50.000Z",
+        "description": "26🚹中国人 | 愿能得到Miku的怀抱。 @iseki_stderr\n退堂鼓国家一级演奏员\n社交恐怖分子，请多关照\nマジミラ24京25京阪26松京阪ブルミング名京札ローミクDecoMWY25Expo25港韩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "iseki_stderr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "iseki.space",
+                "end": 23,
+                "expanded_url": "https://iseki.space",
+                "start": 0,
+                "url": "https://t.co/Rszp41vPnp"
+              }
+            ]
+          }
+        },
+        "id": "1105278946168397824",
+        "is_identity_verified": true,
+        "location": "Next⇒神様いる場所",
+        "most_recent_tweet_id": "2096462375159538050",
+        "name": "iseki＠神様のいる場所",
+        "pinned_tweet_id": "2090664538941300742",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1105278946168397824/1785701613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223461934428614657/HelElVGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 1576,
+          "like_count": 37371,
+          "listed_count": 6,
+          "media_count": 342,
+          "tweet_count": 11254
+        },
+        "url": "https://t.co/Rszp41vPnp",
+        "username": "iseki_zero",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

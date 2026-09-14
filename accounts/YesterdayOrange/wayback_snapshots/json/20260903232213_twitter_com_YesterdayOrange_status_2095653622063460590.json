@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095653611082813440"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2095653622063460590",
+    "created_at": "2026-09-03T23:22:13.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T00:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095653622063460590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cAddfEGsIC",
+          "end": 126,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2095653622063460590/photo/1",
+          "media_key": "3_2095653611082813440",
+          "start": 103,
+          "url": "https://t.co/cAddfEGsIC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095653622063460590",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095653611082813440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "反快乐教育是指:把“不快乐”当成一种美德。甚至已经不在乎能不能提高考试分数，只要把学生不快乐，学校和家长就非常满意。只要学生快乐，学校和家长就认为哪里出了问题，需要改正。哪怕考试分数低，只要不快乐，就好。 https://t.co/cAddfEGsIC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095653611082813440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRVB2yTbEAAlGMW.jpg",
+        "width": 806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095653611082813440"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2095653622063460590",
+        "created_at": "2026-09-03T23:22:13.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T00:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095653622063460590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cAddfEGsIC",
+              "end": 126,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2095653622063460590/photo/1",
+              "media_key": "3_2095653611082813440",
+              "start": 103,
+              "url": "https://t.co/cAddfEGsIC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095653622063460590",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095653611082813440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反快乐教育是指:把“不快乐”当成一种美德。甚至已经不在乎能不能提高考试分数，只要把学生不快乐，学校和家长就非常满意。只要学生快乐，学校和家长就认为哪里出了问题，需要改正。哪怕考试分数低，只要不快乐，就好。 https://t.co/cAddfEGsIC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095653622063460590",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2095565075318972857",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12340,
+          "following_count": 5415,
+          "like_count": 102675,
+          "listed_count": 23,
+          "media_count": 2614,
+          "tweet_count": 22042
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

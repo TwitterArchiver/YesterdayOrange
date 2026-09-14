@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2091815828450934811",
+    "created_at": "2026-08-24T09:12:12.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T10:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091815828450934811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1832433350390509570",
+          "start": 3,
+          "username": "2YtKr5FEoQ10455"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091815828450934811",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091799201663607086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2YtKr5FEoQ10455: なぜ光球面の代表的な光学的深さは τ=2/3 なのか。\n灰色大気のEddington解では、T⁴=(3/4)T_eff⁴(τ+2/3)。\nここでT=T_effとすると、τ=2/3。\nつまり、これは「光がちょうど逃げられる深さ」ではなく、…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "gpt生成",
+        "height": 1331,
+        "media_key": "3_2091799081865928704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQeQLqAbYAAn4OT.jpg",
+        "width": 1181
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2091815828450934811",
+        "created_at": "2026-08-24T09:12:12.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091815828450934811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1832433350390509570",
+              "start": 3,
+              "username": "2YtKr5FEoQ10455"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091815828450934811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091799201663607086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2YtKr5FEoQ10455: なぜ光球面の代表的な光学的深さは τ=2/3 なのか。\n灰色大気のEddington解では、T⁴=(3/4)T_eff⁴(τ+2/3)。\nここでT=T_effとすると、τ=2/3。\nつまり、これは「光がちょうど逃げられる深さ」ではなく、…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091799081865928704"
+          ]
+        },
+        "author_id": "1832433350390509570",
+        "conversation_id": "2091799201663607086",
+        "created_at": "2026-08-24T08:06:08.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091799201663607086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/baxK13Y0Wr",
+              "end": 160,
+              "expanded_url": "https://x.com/2YtKr5FEoQ10455/status/2091799201663607086/photo/1",
+              "media_key": "3_2091799081865928704",
+              "start": 137,
+              "url": "https://t.co/baxK13Y0Wr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091799201663607086",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "alt_text": "gpt生成",
+            "media_key": "3_2091799081865928704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "なぜ光球面の代表的な光学的深さは τ=2/3 なのか。\n灰色大気のEddington解では、T⁴=(3/4)T_eff⁴(τ+2/3)。\nここでT=T_effとすると、τ=2/3。\nつまり、これは「光がちょうど逃げられる深さ」ではなく、有効温度に対応する光学的深さである。 https://t.co/baxK13Y0Wr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091815828450934811",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2091452170570989584",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12345,
+          "following_count": 5354,
+          "like_count": 101283,
+          "listed_count": 23,
+          "media_count": 2566,
+          "tweet_count": 21771
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-07T14:59:00.000Z",
+        "description": "天体物理硕士在读 / 物理与历史爱好者 / 期待交流  \n天体物理学修士課程在籍 / 物理と歴史の愛好家 / 意見交換を歓迎します  \nMaster’s student in Astrophysics / Physics & History enthusiast / Open to discussions",
+        "id": "1832433350390509570",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091799201663607086",
+        "name": "退相干",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832433350390509570/1787481832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963486748476149772/DfxCjpqn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 65,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "2YtKr5FEoQ10455",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

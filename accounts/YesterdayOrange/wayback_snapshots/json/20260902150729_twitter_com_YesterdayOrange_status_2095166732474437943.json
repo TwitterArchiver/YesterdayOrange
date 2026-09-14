@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2095166732474437943",
+    "created_at": "2026-09-02T15:07:29.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095166732474437943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NeuxIce/status…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/NeuxIce/status/2094766451123224827",
+          "start": 25,
+          "url": "https://t.co/s3dOXuomu6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095166732474437943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094766451123224827",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们ASD真的很难。。。\n从小被觉得不认真不努力 https://t.co/s3dOXuomu6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2095166732474437943",
+        "created_at": "2026-09-02T15:07:29.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095166732474437943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NeuxIce/status…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/NeuxIce/status/2094766451123224827",
+              "start": 25,
+              "url": "https://t.co/s3dOXuomu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095166732474437943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094766451123224827",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们ASD真的很难。。。\n从小被觉得不认真不努力 https://t.co/s3dOXuomu6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088186677177290753",
+        "conversation_id": "2094766451123224827",
+        "created_at": "2026-09-01T12:36:55.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T13:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094766451123224827"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094766451123224827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6997,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "突然想起来一件事.....\n我不推荐任何有ASD的人去做心理咨询\n我甚至不推荐任何人去找心理咨询师\n先不说那位咨询师能不能理解你的一些奇怪表现\n说出的言语其实和ASD 有关\n能吗？\n很遗憾\n据我所知 在我16岁没有告诉任何心理咨询师我有ASD时 他们都看不出来\n即使我告知了\n他们也只有否认 或怀疑你的病情"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095166732474437943",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2095005274742702246",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12309,
+          "following_count": 5381,
+          "like_count": 102368,
+          "listed_count": 23,
+          "media_count": 2605,
+          "tweet_count": 21986
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T08:56:07.000Z",
+        "description": "里推....我会用来发大量的负能内容.....打扰到你了那就非常抱歉....\n可以关注@NeInflux....\n一般会回Fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "NeInflux"
+              }
+            ]
+          }
+        },
+        "id": "2088186677177290753",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094980864136688092",
+        "name": "NEUX",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088188288192634880/5ITZRtvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 20,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "NeuxIce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

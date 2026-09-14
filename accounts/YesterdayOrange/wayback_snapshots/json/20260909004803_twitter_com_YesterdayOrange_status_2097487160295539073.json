@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2097184892165701845",
+    "created_at": "2026-09-09T00:48:03.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T01:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097487160295539073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1179337349433450496",
+          "start": 0,
+          "username": "Yuusi_Hoshizora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097487160295539073",
+    "in_reply_to_user_id": "1179337349433450496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097370449701454146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuusi_Hoshizora 互关喵www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2097184892165701845",
+        "created_at": "2026-09-09T00:48:03.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T01:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097487160295539073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1179337349433450496",
+              "start": 0,
+              "username": "Yuusi_Hoshizora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097487160295539073",
+        "in_reply_to_user_id": "1179337349433450496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097370449701454146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuusi_Hoshizora 互关喵www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1179337349433450496",
+        "conversation_id": "2097184892165701845",
+        "created_at": "2026-09-08T17:04:17.000Z",
+        "display_text_range": [
+          17,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097370449701454146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097370449701454146",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097184892165701845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 👀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097487160295539073",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2097204746637787144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12502,
+          "following_count": 5490,
+          "like_count": 103755,
+          "listed_count": 23,
+          "media_count": 2634,
+          "tweet_count": 22194
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-02T10:08:42.000Z",
+        "description": "Astra vias nostras illustrent pietate.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starlightsacredsanctuary.top",
+                "end": 23,
+                "expanded_url": "http://starlightsacredsanctuary.top",
+                "start": 0,
+                "url": "https://t.co/RSeOJbRh88"
+              }
+            ]
+          }
+        },
+        "id": "1179337349433450496",
+        "is_identity_verified": false,
+        "location": "Vespera γ orbit",
+        "most_recent_tweet_id": "2097370449701454146",
+        "name": "余事 星空",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1179337349433450496/1715671556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069366340004302848/9VXwH653_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 71,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "https://t.co/RSeOJbRh88",
+        "username": "Yuusi_Hoshizora",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

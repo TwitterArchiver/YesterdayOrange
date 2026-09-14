@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2097710650571317382",
+    "created_at": "2026-09-09T15:36:07.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T16:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097710650571317382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mimikyucht/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/mimikyucht/status/2097689868143071383",
+          "start": 35,
+          "url": "https://t.co/aIAOOoQqkU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097710650571317382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097689868143071383",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "特别奇怪的理由一般就是\n单纯想分手了找点对方问题免得显得自己莫名其妙 https://t.co/aIAOOoQqkU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097689863588044800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRx90SAaYAAuwST.jpg",
+        "width": 186
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2097710650571317382",
+        "created_at": "2026-09-09T15:36:07.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097710650571317382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mimikyucht/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/mimikyucht/status/2097689868143071383",
+              "start": 35,
+              "url": "https://t.co/aIAOOoQqkU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097710650571317382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097689868143071383",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "特别奇怪的理由一般就是\n单纯想分手了找点对方问题免得显得自己莫名其妙 https://t.co/aIAOOoQqkU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097689863588044800"
+          ]
+        },
+        "author_id": "2095412247459991552",
+        "conversation_id": "2097689868143071383",
+        "created_at": "2026-09-09T14:13:32.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097689868143071383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dK4o1K7q3B",
+              "end": 54,
+              "expanded_url": "https://x.com/Mimikyucht/status/2097689868143071383/photo/1",
+              "media_key": "3_2097689863588044800",
+              "start": 31,
+              "url": "https://t.co/dK4o1K7q3B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097689868143071383",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097689863588044800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和terf对象分手了，原因就只是因为面基了一个trans同类 https://t.co/dK4o1K7q3B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097710650571317382",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2097689336993186299",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12552,
+          "following_count": 5511,
+          "like_count": 104011,
+          "listed_count": 23,
+          "media_count": 2636,
+          "tweet_count": 22242
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T07:24:20.000Z",
+        "description": "肉身死去后，灵魂进入皮套，变成Mimikyu",
+        "id": "2095412247459991552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097689868143071383",
+        "name": "Mimikyu",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095412858393894912/JwAKG-uQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "Mimikyucht",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

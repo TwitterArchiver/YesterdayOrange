@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2098967321817825406",
+    "created_at": "2026-09-13T02:49:41.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T03:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098967321817825406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2017131353838669825",
+          "start": 3,
+          "username": "wsygrk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098967321817825406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098960883682848864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wsygrk: 各位小处男直接给我发鸡，上来就打招呼的，我不知道怎么回复你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2098967321817825406",
+        "created_at": "2026-09-13T02:49:41.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T03:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098967321817825406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2017131353838669825",
+              "start": 3,
+              "username": "wsygrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098967321817825406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098960883682848864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wsygrk: 各位小处男直接给我发鸡，上来就打招呼的，我不知道怎么回复你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017131353838669825",
+        "conversation_id": "2098960883682848864",
+        "created_at": "2026-09-13T02:24:06.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T03:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098960883682848864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098960883682848864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "各位小处男直接给我发鸡，上来就打招呼的，我不知道怎么回复你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098967321817825406",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2098669891037594022",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12590,
+          "following_count": 5537,
+          "like_count": 104549,
+          "listed_count": 24,
+          "media_count": 2651,
+          "tweet_count": 22330
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-30T07:03:08.000Z",
+        "description": "一个人坤#3781",
+        "id": "2017131353838669825",
+        "is_identity_verified": false,
+        "location": "台中市, 台灣",
+        "most_recent_tweet_id": "2098967086902972467",
+        "name": "wsygrk",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097916335472975872/1oBW1Zoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 62,
+          "like_count": 1775,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "wsygrk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

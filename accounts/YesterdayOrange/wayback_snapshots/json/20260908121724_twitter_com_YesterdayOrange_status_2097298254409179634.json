@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2097184892165701845",
+    "created_at": "2026-09-08T12:17:24.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T13:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097298254409179634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1114984083635953664",
+          "start": 0,
+          "username": "caitiskk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097298254409179634",
+    "in_reply_to_user_id": "1114984083635953664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097284436752826551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caitiskk 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2097184892165701845",
+        "created_at": "2026-09-08T12:17:24.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097298254409179634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1114984083635953664",
+              "start": 0,
+              "username": "caitiskk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097298254409179634",
+        "in_reply_to_user_id": "1114984083635953664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097284436752826551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caitiskk 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1114984083635953664",
+        "conversation_id": "2097184892165701845",
+        "created_at": "2026-09-08T11:22:30.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097284436752826551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097284436752826551",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097184892165701845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange まあ．．．"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097298254409179634",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2097204746637787144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12412,
+          "following_count": 5456,
+          "like_count": 103579,
+          "listed_count": 23,
+          "media_count": 2634,
+          "tweet_count": 22162
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-07T20:11:35.000Z",
+        "description": "とんがり帽子のアトリエ的见习魔法师！魔法とは、世界をカラフルに染める奇跡だ！！",
+        "id": "1114984083635953664",
+        "is_identity_verified": false,
+        "location": "大号鱼板",
+        "most_recent_tweet_id": "2097291002516246823",
+        "name": "宽帽檐的可可",
+        "pinned_tweet_id": "2088993483575230475",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1114984083635953664/1666929119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074677838817710080/k6ra-oli_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 1866,
+          "like_count": 24928,
+          "listed_count": 8,
+          "media_count": 1540,
+          "tweet_count": 10506
+        },
+        "url": "",
+        "username": "caitiskk",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

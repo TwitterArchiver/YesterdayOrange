@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2097338664032276651",
+    "created_at": "2026-09-08T16:11:39.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T17:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097357205368606859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1968300138222215168",
+          "start": 0,
+          "username": "wafuunai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097357205368606859",
+    "in_reply_to_user_id": "1968300138222215168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097338664032276651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wafuunai 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2097338664032276651",
+        "created_at": "2026-09-08T16:11:39.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097357205368606859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1968300138222215168",
+              "start": 0,
+              "username": "wafuunai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097357205368606859",
+        "in_reply_to_user_id": "1968300138222215168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097338664032276651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wafuunai 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968300138222215168",
+        "conversation_id": "2097338664032276651",
+        "created_at": "2026-09-08T14:57:58.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097338664032276651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097338664032276651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想考猎枪证\n感觉射击是少数注意力被霸占了也会很心甘情愿的事情\n不过可能会增加独居生存风险"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097357205368606859",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2097204746637787144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12452,
+          "following_count": 5478,
+          "like_count": 103706,
+          "listed_count": 23,
+          "media_count": 2634,
+          "tweet_count": 22181
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-17T13:05:04.000Z",
+        "description": "UTC -8｜不想转@UMichCSE 的 @UMichECE 学生将永远无法做@UMRobotics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "UMichCSE"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "UMichECE"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "UMRobotics"
+              }
+            ]
+          }
+        },
+        "id": "1968300138222215168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097343780311421168",
+        "name": "水无清奈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1968300138222215168/1758114519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968300496143220736/_PytA9lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 128,
+          "like_count": 16302,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1747
+        },
+        "url": "",
+        "username": "wafuunai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2092942571811242443",
+    "created_at": "2026-08-27T11:49:28.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092942571811242443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yu1081990/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/yu1081990/status/2092942376276730116",
+          "start": 13,
+          "url": "https://t.co/I4xTUmb8TY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092942571811242443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092942376276730116",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以后你吃薯条不准蘸番茄酱 https://t.co/I4xTUmb8TY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2092942571811242443",
+        "created_at": "2026-08-27T11:49:28.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092942571811242443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yu1081990/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/yu1081990/status/2092942376276730116",
+              "start": 13,
+              "url": "https://t.co/I4xTUmb8TY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092942571811242443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092942376276730116",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以后你吃薯条不准蘸番茄酱 https://t.co/I4xTUmb8TY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984506302576672774",
+        "conversation_id": "2092938771222385042",
+        "created_at": "2026-08-27T11:48:42.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092942376276730116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092942376276730116",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092938771222385042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 土豆和番茄原来是cp吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092942571811242443",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2092298896974491864",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12328,
+          "following_count": 5364,
+          "like_count": 101635,
+          "listed_count": 23,
+          "media_count": 2571,
+          "tweet_count": 21828
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-01T06:27:33.000Z",
+        "description": "iiii直男 小⭕️m （03，期待实践）",
+        "id": "1984506302576672774",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092942376276730116",
+        "name": "echo",
+        "pinned_tweet_id": "2069765073116315854",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069768016665972736/4en3zuQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 198,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "yu1081990",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

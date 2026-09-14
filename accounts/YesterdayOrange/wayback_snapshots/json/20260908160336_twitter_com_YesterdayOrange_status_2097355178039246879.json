@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2097184892165701845",
+    "created_at": "2026-09-08T16:03:36.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T17:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097355178039246879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "845907957434888192",
+          "start": 0,
+          "username": "crystallovecht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097355178039246879",
+    "in_reply_to_user_id": "845907957434888192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097299909833793603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crystallovecht 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2097184892165701845",
+        "created_at": "2026-09-08T16:03:36.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097355178039246879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "845907957434888192",
+              "start": 0,
+              "username": "crystallovecht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097355178039246879",
+        "in_reply_to_user_id": "845907957434888192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097299909833793603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crystallovecht 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "845907957434888192",
+        "conversation_id": "2097184892165701845",
+        "created_at": "2026-09-08T12:23:59.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097299909833793603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097299909833793603",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097184892165701845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 还有这种事"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097355178039246879",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2097204746637787144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12448,
+          "following_count": 5478,
+          "like_count": 103704,
+          "listed_count": 23,
+          "media_count": 2634,
+          "tweet_count": 22180
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-26T07:59:08.000Z",
+        "description": "清水/Mtx/全世界找朋友ing/孤独的摄影师\n行动力Max 遇到事情不能坐以待毙\n同类互fo，忘fo请提醒我谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/98229920",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/98229920",
+                "start": 0,
+                "url": "https://t.co/MFCMSqBT9E"
+              }
+            ]
+          }
+        },
+        "id": "845907957434888192",
+        "is_identity_verified": false,
+        "location": "Sydney, New South Wales",
+        "most_recent_tweet_id": "2097323980084670800",
+        "name": "慕心🍊🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2095668257739214946",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/845907957434888192/1784442704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091884790161231873/5YTNYrpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 239,
+          "like_count": 579,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 446
+        },
+        "url": "https://t.co/MFCMSqBT9E",
+        "username": "crystallovecht",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

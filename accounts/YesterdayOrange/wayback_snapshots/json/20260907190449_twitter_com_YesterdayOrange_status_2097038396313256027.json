@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2096968456537276924",
+    "created_at": "2026-09-07T19:04:49.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T20:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097038396313256027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2070551023488475136",
+          "start": 0,
+          "username": "nikaidouaima"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097038396313256027",
+    "in_reply_to_user_id": "2070551023488475136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097009073233551559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nikaidouaima 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2096968456537276924",
+        "created_at": "2026-09-07T19:04:49.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T20:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097038396313256027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2070551023488475136",
+              "start": 0,
+              "username": "nikaidouaima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097038396313256027",
+        "in_reply_to_user_id": "2070551023488475136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097009073233551559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nikaidouaima 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070551023488475136",
+        "conversation_id": "2096968456537276924",
+        "created_at": "2026-09-07T17:08:18.000Z",
+        "display_text_range": [
+          17,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T18:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097009073233551559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097009073233551559",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096968456537276924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 曾经混过荤的语c群，有几个固聊好友。然而现在已经全部不干了，本人也不会突然就想玩文爱了，终究是欲买桂花同载酒"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097038396313256027",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2096954098415521811",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12386,
+          "following_count": 5448,
+          "like_count": 103426,
+          "listed_count": 23,
+          "media_count": 2633,
+          "tweet_count": 22144
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T16:57:00.000Z",
+        "description": "",
+        "id": "2070551023488475136",
+        "is_identity_verified": false,
+        "location": "二相乐园",
+        "most_recent_tweet_id": "2097025885576765593",
+        "name": "Anastasia",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070551023488475136/1788798412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070552284304723968/9uB_P8Gt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 40,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "nikaidouaima",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

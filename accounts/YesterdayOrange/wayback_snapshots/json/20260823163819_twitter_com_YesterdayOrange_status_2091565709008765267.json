@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2091515397241737604",
+    "created_at": "2026-08-23T16:38:19.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T17:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091565709008765267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2090923670231506944",
+          "start": 0,
+          "username": "ttyeyk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091565709008765267",
+    "in_reply_to_user_id": "2090923670231506944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091565137476080060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttyeyk 先fo我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2091515397241737604",
+        "created_at": "2026-08-23T16:38:19.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091565709008765267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2090923670231506944",
+              "start": 0,
+              "username": "ttyeyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091565709008765267",
+        "in_reply_to_user_id": "2090923670231506944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091565137476080060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttyeyk 先fo我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090923670231506944",
+        "conversation_id": "2091515397241737604",
+        "created_at": "2026-08-23T16:36:02.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091565137476080060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091565137476080060",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091515397241737604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 不知道看你啦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091565709008765267",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2091452170570989584",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12351,
+          "following_count": 5355,
+          "like_count": 101175,
+          "listed_count": 23,
+          "media_count": 2562,
+          "tweet_count": 21755
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T22:07:57.000Z",
+        "description": "早安呐早安呐 今天我还没有死掉哦 很乐意交友 我应该什么都可以聊吧。？",
+        "id": "2090923670231506944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091565137476080060",
+        "name": "炭炭.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090923670231506944/1787356065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090924778140176384/0o-mcWkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "ttyeyk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

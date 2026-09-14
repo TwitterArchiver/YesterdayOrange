@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2093324183564673451",
+    "created_at": "2026-08-28T13:05:52.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T14:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093324183564673451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/key7uc/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/key7uc/status/2093310331959525737",
+          "start": 5,
+          "url": "https://t.co/Odotfp4vV9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093324183564673451",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093310331959525737",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不许o😡 https://t.co/Odotfp4vV9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2093324183564673451",
+        "created_at": "2026-08-28T13:05:52.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T14:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093324183564673451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/key7uc/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/key7uc/status/2093310331959525737",
+              "start": 5,
+              "url": "https://t.co/Odotfp4vV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093324183564673451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093310331959525737",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不许o😡 https://t.co/Odotfp4vV9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065847601770209281",
+        "conversation_id": "2093310331959525737",
+        "created_at": "2026-08-28T12:10:49.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093310331959525737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093310331959525737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要钱！需要钱来买白兔🥺开学之后就没有经济收入了😢我还没在学习o过呢，刚好体验一下🤣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093324183564673451",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2093032624533168460",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12316,
+          "following_count": 5357,
+          "like_count": 101733,
+          "listed_count": 23,
+          "media_count": 2576,
+          "tweet_count": 21853
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-13T17:25:23.000Z",
+        "description": "09年男高中生‖欢迎提问，匿名箱→https://t.co/qAclATUgdV‖会发些梗图聊些日常和发牢骚，比较内向社恐‖欢迎私信聊天骚扰ᗜ֊ᗜ‖上学期间即星期天到星期五晚上（除了法定节假日以外）都不会上线",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/key7uc",
+                "end": 40,
+                "expanded_url": "https://ngl.link/key7uc",
+                "start": 17,
+                "url": "https://t.co/qAclATUgdV"
+              }
+            ]
+          }
+        },
+        "id": "2065847601770209281",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093317750756364386",
+        "name": "Key",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065847601770209281/1785072619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067633843163856896/It9-6-h7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 29,
+          "like_count": 3027,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 473
+        },
+        "url": "",
+        "username": "Key7uc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

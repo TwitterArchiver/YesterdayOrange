@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2092836407660474789",
+    "created_at": "2026-08-27T04:47:37.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T05:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092836407660474789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/daygaoli/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/daygaoli/status/2092830426557714877",
+          "start": 9,
+          "url": "https://t.co/I1oSIdLbfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092836407660474789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092830426557714877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们升学率一半😇 https://t.co/I1oSIdLbfn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2092836407660474789",
+        "created_at": "2026-08-27T04:47:37.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092836407660474789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/daygaoli/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/daygaoli/status/2092830426557714877",
+              "start": 9,
+              "url": "https://t.co/I1oSIdLbfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092836407660474789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092830426557714877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们升学率一半😇 https://t.co/I1oSIdLbfn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880217164025839617",
+        "conversation_id": "2092714358854107346",
+        "created_at": "2026-08-27T04:23:51.000Z",
+        "display_text_range": [
+          17,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092830426557714877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092830426557714877",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092714358854107346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我也是垃圾学校😇，升学率达到惊人的2.x%😇，在校时间还比隔壁升学率正常的两所高一点😇"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092836407660474789",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2092298896974491864",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12329,
+          "following_count": 5364,
+          "like_count": 101604,
+          "listed_count": 23,
+          "media_count": 2571,
+          "tweet_count": 21821
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-17T11:35:24.000Z",
+        "description": "Language:English,中文,日本語(学ぶing)",
+        "id": "1880217164025839617",
+        "is_identity_verified": false,
+        "location": "八闽大地",
+        "most_recent_tweet_id": "2092830426557714877",
+        "name": "朝陽高黎",
+        "pinned_tweet_id": "2074833810383126982",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880217164025839617/1769856189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017541921305165824/qyKyzNng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 6,
+          "like_count": 1349,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1635
+        },
+        "url": "",
+        "username": "DayGaoLi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

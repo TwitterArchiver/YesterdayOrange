@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2094501469538099618",
+    "created_at": "2026-08-31T19:03:58.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T20:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094501469538099618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047307566045364224",
+          "start": 3,
+          "username": "BailiYu317"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094501469538099618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094490161329414442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BailiYu317: 去旅行，和朋友聊天，谈恋爱，看电影，打游戏，读小说，刷互联网，观察不同人的说话方式，甚至单纯坐在校园里发呆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2094501469538099618",
+        "created_at": "2026-08-31T19:03:58.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T20:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094501469538099618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047307566045364224",
+              "start": 3,
+              "username": "BailiYu317"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094501469538099618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094490161329414442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BailiYu317: 去旅行，和朋友聊天，谈恋爱，看电影，打游戏，读小说，刷互联网，观察不同人的说话方式，甚至单纯坐在校园里发呆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047307566045364224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2094490161329414442",
+        "created_at": "2026-08-31T18:19:02.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T19:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094490161329414442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094490161329414442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "去旅行，和朋友聊天，谈恋爱，看电影，打游戏，读小说，刷互联网，观察不同人的说话方式，甚至单纯坐在校园里发呆"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094501469538099618",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2094121959634456677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12313,
+          "following_count": 5367,
+          "like_count": 102164,
+          "listed_count": 23,
+          "media_count": 2597,
+          "tweet_count": 21934
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T13:32:31.000Z",
+        "description": "这里是百里雩的碎碎念空间                                     \n07｜INFP 4w5｜中文系在读｜想学CL｜喜欢幻想，喜欢思考，喜欢雨天和晴天",
+        "id": "2047307566045364224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094490161329414442",
+        "name": "白鲤鱼不会梦见猫",
+        "pinned_tweet_id": "2094490161329414442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047307566045364224/1784996393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094029834158788608/7jrLm10i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 21,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "BailiYu317",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

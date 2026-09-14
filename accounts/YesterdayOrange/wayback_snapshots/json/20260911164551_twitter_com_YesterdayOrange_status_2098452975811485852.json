@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2098452975811485852",
+    "created_at": "2026-09-11T16:45:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T17:45:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098452975811485852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1412013339115360258",
+          "start": 3,
+          "username": "gaoxiaojiede"
+        },
+        {
+          "end": 34,
+          "id": "1788485889225834496",
+          "start": 18,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098452975811485852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098451425055699133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gaoxiaojiede: @YesterdayOrange 我们不会吐槽吃这个的，只要你愿意吃啥都行 不过我告诉你为什么没有番茄味，因为正新鸡排的番茄酱是另外配送的，其他的酱料采购价格很低，但是正新鸡排的番茄酱 只有番茄酱是独立包装，而且用的是中粮 会贵 所以都不愿意…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2098452975811485852",
+        "created_at": "2026-09-11T16:45:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098452975811485852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1412013339115360258",
+              "start": 3,
+              "username": "gaoxiaojiede"
+            },
+            {
+              "end": 34,
+              "id": "1788485889225834496",
+              "start": 18,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098452975811485852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098451425055699133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gaoxiaojiede: @YesterdayOrange 我们不会吐槽吃这个的，只要你愿意吃啥都行 不过我告诉你为什么没有番茄味，因为正新鸡排的番茄酱是另外配送的，其他的酱料采购价格很低，但是正新鸡排的番茄酱 只有番茄酱是独立包装，而且用的是中粮 会贵 所以都不愿意…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412013339115360258",
+        "conversation_id": "2098433167023861790",
+        "created_at": "2026-09-11T16:39:41.000Z",
+        "display_text_range": [
+          17,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098451425055699133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098451425055699133",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098433167023861790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我们不会吐槽吃这个的，只要你愿意吃啥都行 不过我告诉你为什么没有番茄味，因为正新鸡排的番茄酱是另外配送的，其他的酱料采购价格很低，但是正新鸡排的番茄酱 只有番茄酱是独立包装，而且用的是中粮 会贵 所以都不愿意送😂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098452975811485852",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2098282957215768857",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12577,
+          "following_count": 5520,
+          "like_count": 104334,
+          "listed_count": 24,
+          "media_count": 2647,
+          "tweet_count": 22296
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-05T11:40:01.000Z",
+        "description": "秉忠贞之志 守谦退之节",
+        "id": "1412013339115360258",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098451812873625922",
+        "name": "高小姐的皮卡丘",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1412013339115360258/1773728454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033790613246877696/cCaAKxy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 69,
+          "like_count": 5699,
+          "listed_count": 2,
+          "media_count": 378,
+          "tweet_count": 7282
+        },
+        "url": "",
+        "username": "gaoxiaojiede",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

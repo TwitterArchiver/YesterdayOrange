@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2092094629772702023",
+    "created_at": "2026-08-25T03:40:03.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T04:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092094629772702023"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amagalan_b1/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/amagalan_b1/status/2092050381123506265",
+          "start": 14,
+          "url": "https://t.co/Joc5ZrIPLv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092094629772702023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092050381123506265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我怎么不知道自己这么有钱了 https://t.co/Joc5ZrIPLv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2092094629772702023",
+        "created_at": "2026-08-25T03:40:03.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T04:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092094629772702023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amagalan_b1/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/amagalan_b1/status/2092050381123506265",
+              "start": 14,
+              "url": "https://t.co/Joc5ZrIPLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092094629772702023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092050381123506265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我怎么不知道自己这么有钱了 https://t.co/Joc5ZrIPLv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362678086211301384",
+        "conversation_id": "2091775673849598071",
+        "created_at": "2026-08-25T00:44:13.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T01:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092050381123506265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092050381123506265",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091775673849598071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 26€一顿的人羡慕了😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092094629772702023",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2091898036813430904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12342,
+          "following_count": 5354,
+          "like_count": 101355,
+          "listed_count": 23,
+          "media_count": 2567,
+          "tweet_count": 21786
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-19T08:19:32.000Z",
+        "description": "A heavy tank made by Renault. A fan of trains, tanks，F1 & battleships. #Renault #Alpine💙💛 Car 35 WEC Fuji🥇 🎉🎉\n阿尔派/雷诺中文资讯",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 71,
+                "tag": "Renault"
+              },
+              {
+                "end": 87,
+                "start": 80,
+                "tag": "Alpine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "defense.gouv.fr",
+                "end": 23,
+                "expanded_url": "https://www.defense.gouv.fr/",
+                "start": 0,
+                "url": "https://t.co/hXf8XtfrY4"
+              }
+            ]
+          }
+        },
+        "id": "1362678086211301384",
+        "is_identity_verified": false,
+        "location": "Boulogne-Billancourt, France",
+        "most_recent_tweet_id": "2092051577477476502",
+        "name": "☢️Char B1 bis",
+        "pinned_tweet_id": "2060503160360231035",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362678086211301384/1751543071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888752159979696128/1MaSeRRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 865,
+          "like_count": 81527,
+          "listed_count": 2,
+          "media_count": 598,
+          "tweet_count": 20237
+        },
+        "url": "https://t.co/hXf8XtfrY4",
+        "username": "Amagalan_B1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

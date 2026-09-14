@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094084512754139136"
+      ],
+      "media_source_tweet_id": [
+        "2094084531167138015"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2094087539670069503",
+    "created_at": "2026-08-30T15:39:10.000Z",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T16:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094087539670069503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1841564916572151808",
+          "start": 3,
+          "username": "jiankong_jiang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RXtoPwBm5k",
+          "end": 117,
+          "expanded_url": "https://x.com/jiankong_jiang/status/2094084531167138015/photo/1",
+          "media_key": "3_2094084512754139136",
+          "start": 94,
+          "url": "https://t.co/RXtoPwBm5k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094087539670069503",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094084512754139136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094084531167138015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiankong_jiang: 好崩溃，我上高二妈妈给我买的教辅书是这样的。。。\n到底是谁在视频号上乱发这种东西还不标注年龄段😤\n这些书我小学可能喜欢看，但是我现在高二了。。。😰 https://t.co/RXtoPwBm5k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2094084512754139136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-uxPhbgAAwIxN.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094084512754139136"
+          ],
+          "media_source_tweet_id": [
+            "2094084531167138015"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2094087539670069503",
+        "created_at": "2026-08-30T15:39:10.000Z",
+        "display_text_range": [
+          0,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094087539670069503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1841564916572151808",
+              "start": 3,
+              "username": "jiankong_jiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RXtoPwBm5k",
+              "end": 117,
+              "expanded_url": "https://x.com/jiankong_jiang/status/2094084531167138015/photo/1",
+              "media_key": "3_2094084512754139136",
+              "start": 94,
+              "url": "https://t.co/RXtoPwBm5k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094087539670069503",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094084512754139136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094084531167138015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiankong_jiang: 好崩溃，我上高二妈妈给我买的教辅书是这样的。。。\n到底是谁在视频号上乱发这种东西还不标注年龄段😤\n这些书我小学可能喜欢看，但是我现在高二了。。。😰 https://t.co/RXtoPwBm5k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094084512754139136"
+          ]
+        },
+        "author_id": "1841564916572151808",
+        "conversation_id": "2094084531167138015",
+        "created_at": "2026-08-30T15:27:13.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094084531167138015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RXtoPwBm5k",
+              "end": 97,
+              "expanded_url": "https://x.com/jiankong_jiang/status/2094084531167138015/photo/1",
+              "media_key": "3_2094084512754139136",
+              "start": 74,
+              "url": "https://t.co/RXtoPwBm5k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094084531167138015",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094084512754139136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好崩溃，我上高二妈妈给我买的教辅书是这样的。。。\n到底是谁在视频号上乱发这种东西还不标注年龄段😤\n这些书我小学可能喜欢看，但是我现在高二了。。。😰 https://t.co/RXtoPwBm5k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094087539670069503",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2093736919452852657",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12302,
+          "following_count": 5354,
+          "like_count": 102017,
+          "listed_count": 23,
+          "media_count": 2590,
+          "tweet_count": 21909
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-02T19:44:44.000Z",
+        "description": "09/高二/0.5M/infp    湖北\n如果有认识的人发现了我的推，请千万别说出去，只要不说出去，让我干什么都行，我还要维持人设，求求了🥺",
+        "id": "1841564916572151808",
+        "is_identity_verified": false,
+        "location": "璃月港",
+        "most_recent_tweet_id": "2094084911682494799",
+        "name": "见空",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841566986696065024/UF4d8osl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 1389,
+          "like_count": 26755,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1862
+        },
+        "url": "",
+        "username": "jiankong_jiang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

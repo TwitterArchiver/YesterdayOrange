@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2094991451470143526",
+    "created_at": "2026-09-02T03:30:59.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T04:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094991451470143526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxjuzi091123/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/xxjuzi091123/status/2073812322041401481",
+          "start": 15,
+          "url": "https://t.co/bVOIWWVzG9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094991451470143526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073812322041401481",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我需要朋友😭谁能和我交朋友😭 https://t.co/bVOIWWVzG9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2094991451470143526",
+        "created_at": "2026-09-02T03:30:59.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094991451470143526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxjuzi091123/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/xxjuzi091123/status/2073812322041401481",
+              "start": 15,
+              "url": "https://t.co/bVOIWWVzG9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094991451470143526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073812322041401481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我需要朋友😭谁能和我交朋友😭 https://t.co/bVOIWWVzG9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650498704812437504",
+        "conversation_id": "2073812322041401481",
+        "created_at": "2026-07-05T16:52:41.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073812322041401481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073812322041401481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8628,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 67,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要朋友😭谁能和我交朋友😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094991451470143526",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2094877550556410337",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12316,
+          "following_count": 5376,
+          "like_count": 102277,
+          "listed_count": 23,
+          "media_count": 2600,
+          "tweet_count": 21962
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-24T13:55:57.000Z",
+        "description": "2009.11.23 hrt2024.2.25 也许是家长党 坐标河北 大部分时间都在玩apex 也许是树洞 可以私信给我🥰 会互fo 祝你拥有一个美好的一天 🚪6.6 我只是被顺直男骚扰烦了 嘻嘻 同类快来找我扩列",
+        "id": "1650498704812437504",
+        "is_identity_verified": false,
+        "location": "河北",
+        "most_recent_tweet_id": "2094989968477442500",
+        "name": "橘子ay🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650498704812437504/1755057652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089593164021768193/1OWfdzMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 762,
+          "like_count": 274,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 1352
+        },
+        "url": "",
+        "username": "xxjuzi091123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

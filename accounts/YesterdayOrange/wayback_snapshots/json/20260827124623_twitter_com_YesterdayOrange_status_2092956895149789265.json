@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2092956895149789265",
+    "created_at": "2026-08-27T12:46:23.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092956895149789265"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eggtartqwq/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/eggtartqwq/status/2092922301591224797",
+          "start": 13,
+          "url": "https://t.co/i83C1n0WDk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092956895149789265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092922301591224797",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家有多余的钱可以给我吗 https://t.co/i83C1n0WDk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2092956895149789265",
+        "created_at": "2026-08-27T12:46:23.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092956895149789265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eggtartqwq/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/eggtartqwq/status/2092922301591224797",
+              "start": 13,
+              "url": "https://t.co/i83C1n0WDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092956895149789265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092922301591224797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家有多余的钱可以给我吗 https://t.co/i83C1n0WDk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966745903055990786",
+        "conversation_id": "2092922301591224797",
+        "created_at": "2026-08-27T10:28:55.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092922301591224797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092922301591224797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 639,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我日了在南京新街口大街上坐着休息一下一个老头过来非要找我算命我拗不过就给了他50说了一大堆说最后让我抽个签然后没想到签上写着喜钱599我好不容易讲价到200最后给老头250显得我是个小丑🤡。休息十分钟损失250我日了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092956895149789265",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2092298896974491864",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12329,
+          "following_count": 5364,
+          "like_count": 101646,
+          "listed_count": 23,
+          "media_count": 2571,
+          "tweet_count": 21831
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-13T06:09:08.000Z",
+        "description": "家里蹲",
+        "id": "1966745903055990786",
+        "is_identity_verified": false,
+        "location": "茶楼",
+        "most_recent_tweet_id": "2092922301591224797",
+        "name": "樱川九十九",
+        "pinned_tweet_id": "2075360819131642109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1966745903055990786/1774210846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088252217019322368/RTkXbSIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 941,
+          "like_count": 12242,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1276
+        },
+        "url": "",
+        "username": "eggtartqwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

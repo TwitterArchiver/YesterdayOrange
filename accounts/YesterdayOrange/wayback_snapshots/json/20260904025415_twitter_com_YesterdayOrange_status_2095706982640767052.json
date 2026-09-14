@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2095565075318972857",
+    "created_at": "2026-09-04T02:54:15.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T03:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095706982640767052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2088898782549114881",
+          "start": 0,
+          "username": "etrangermort"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095706982640767052",
+    "in_reply_to_user_id": "2088898782549114881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095689966080975113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@etrangermort 你希望是什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2095565075318972857",
+        "created_at": "2026-09-04T02:54:15.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T03:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095706982640767052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2088898782549114881",
+              "start": 0,
+              "username": "etrangermort"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095706982640767052",
+        "in_reply_to_user_id": "2088898782549114881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095689966080975113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@etrangermort 你希望是什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088898782549114881",
+        "conversation_id": "2095565075318972857",
+        "created_at": "2026-09-04T01:46:38.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T02:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095689966080975113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095689966080975113",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095565075318972857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 这真的是好结局吗😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095706982640767052",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2095565075318972857",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12341,
+          "following_count": 5415,
+          "like_count": 102700,
+          "listed_count": 23,
+          "media_count": 2614,
+          "tweet_count": 22045
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T08:01:48.000Z",
+        "description": "I hope you remember me我还是会回来的🥲\n前世perimetranger和前前世etrangerperim都没了所以是troisième 了\n🇫🇷 habiter et travailler / 日本語復習している/中国北方人/English forgotten /日常无黄/",
+        "id": "2088898782549114881",
+        "is_identity_verified": false,
+        "location": "提瓦特大陆-枫丹-枫丹廷区-伊黎耶岛",
+        "most_recent_tweet_id": "2095700575140913570",
+        "name": "TroisiemeMiracle",
+        "pinned_tweet_id": "2088902763589550575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088898782549114881/1786867473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088899591735218176/hwWBcX56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 606,
+          "like_count": 2198,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 466
+        },
+        "url": "",
+        "username": "etrangermort",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

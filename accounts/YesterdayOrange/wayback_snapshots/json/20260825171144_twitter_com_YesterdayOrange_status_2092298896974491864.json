@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2092298896974491864",
+    "created_at": "2026-08-25T17:11:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T18:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092298896974491864"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2092298896974491864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "排好座位，老师要讲话了。\n开始说的无非是什么“进重点班不要骄傲。”“新起点新方向。”“高一是关键期”之类的。\n然后老师说，大家要重视心理健康。\n“我们学校以前有学生，高中三年一直被家里压着学，到了大学没人管了，一下子就不行了，退学以后又回来了，又分到我的班级。”\n“被压着学习？”\n我母亲就很喜欢这么做，从二年级开始，她就热衷于晚上看着我写作业了。\n数学考不好，刷题少了，懒惰，语文，背的少了，也是懒惰。\n为什么你什么都不会？\n她大吼一声，撕掉我的作业，然后伸手打我——然后我们就扭打在一起，直到父亲把我们拉开。\n“同学们，遇到困难，要和家长倾诉。”\n真糟糕。\n“也可以和好朋友说，也可以来找我，我不会请家长。”\n我记住了。\n但没有人教我怎么交朋友。\n我看了一眼桌上的《挪威的森林》。\n侧面写着李羽衡的名字，还是那种像小孩子一样的字体。\n“同学们，成绩不是最重要的，做人是最重要的。\n同学之间要团结， 不要为了小事计较，大家已经不是小孩子了。”\n我不是小孩子了，那我是大人了吗？\n“你们是高中生了，要为自己的选择负责。”\n“大家尽量提高学习成绩，学累了和我请假，只要家长同意我就批，不想上课也在我办公室睡觉。”\n“现在大家是重点班的学生，但是高一结束的时候会调整，一些同学可能会去更合适节奏的班级。”\n“学校是单休日，晚自习到九点，可以自愿留到十一点，肯定尊重你的意愿。”\n“今天不上晚自习，再等十分钟，同学们就可以回家了。”"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "排好座位，老师要讲话了。\n开始说的无非是什么“进重点班不要骄傲。”“新起点新方向。”“高一是关键期”之类的。\n然后老师说，大家要重视心理健康。\n“我们学校以前有学生，高中三年一直被家里压着学，到了大学没人管了，一下子就不行了，退学以后又回来了，又分到我的班级。”\n“被压着学习？”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2092298896974491864",
+        "created_at": "2026-08-25T17:11:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T18:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092298896974491864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092298896974491864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "排好座位，老师要讲话了。\n开始说的无非是什么“进重点班不要骄傲。”“新起点新方向。”“高一是关键期”之类的。\n然后老师说，大家要重视心理健康。\n“我们学校以前有学生，高中三年一直被家里压着学，到了大学没人管了，一下子就不行了，退学以后又回来了，又分到我的班级。”\n“被压着学习？”\n我母亲就很喜欢这么做，从二年级开始，她就热衷于晚上看着我写作业了。\n数学考不好，刷题少了，懒惰，语文，背的少了，也是懒惰。\n为什么你什么都不会？\n她大吼一声，撕掉我的作业，然后伸手打我——然后我们就扭打在一起，直到父亲把我们拉开。\n“同学们，遇到困难，要和家长倾诉。”\n真糟糕。\n“也可以和好朋友说，也可以来找我，我不会请家长。”\n我记住了。\n但没有人教我怎么交朋友。\n我看了一眼桌上的《挪威的森林》。\n侧面写着李羽衡的名字，还是那种像小孩子一样的字体。\n“同学们，成绩不是最重要的，做人是最重要的。\n同学之间要团结， 不要为了小事计较，大家已经不是小孩子了。”\n我不是小孩子了，那我是大人了吗？\n“你们是高中生了，要为自己的选择负责。”\n“大家尽量提高学习成绩，学累了和我请假，只要家长同意我就批，不想上课也在我办公室睡觉。”\n“现在大家是重点班的学生，但是高一结束的时候会调整，一些同学可能会去更合适节奏的班级。”\n“学校是单休日，晚自习到九点，可以自愿留到十一点，肯定尊重你的意愿。”\n“今天不上晚自习，再等十分钟，同学们就可以回家了。”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "排好座位，老师要讲话了。\n开始说的无非是什么“进重点班不要骄傲。”“新起点新方向。”“高一是关键期”之类的。\n然后老师说，大家要重视心理健康。\n“我们学校以前有学生，高中三年一直被家里压着学，到了大学没人管了，一下子就不行了，退学以后又回来了，又分到我的班级。”\n“被压着学习？”"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092298896974491864",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2091898036813430904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12336,
+          "following_count": 5355,
+          "like_count": 101474,
+          "listed_count": 23,
+          "media_count": 2568,
+          "tweet_count": 21798
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

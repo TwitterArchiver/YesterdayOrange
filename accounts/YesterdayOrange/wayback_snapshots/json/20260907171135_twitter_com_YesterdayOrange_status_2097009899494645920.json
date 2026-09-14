@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2097009899494645920",
+    "created_at": "2026-09-07T17:11:35.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T18:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097009899494645920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2066884552036122624",
+          "start": 3,
+          "username": "Zns04foreal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097009899494645920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097009000365875376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zns04foreal: 严肃问题：在宿舍想🦒怎么办？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2097009899494645920",
+        "created_at": "2026-09-07T17:11:35.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T18:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097009899494645920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2066884552036122624",
+              "start": 3,
+              "username": "Zns04foreal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097009899494645920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097009000365875376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zns04foreal: 严肃问题：在宿舍想🦒怎么办？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066884552036122624",
+        "conversation_id": "2097009000365875376",
+        "created_at": "2026-09-07T17:08:00.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T18:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097009000365875376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097009000365875376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "严肃问题：在宿舍想🦒怎么办？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097009899494645920",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2096954098415521811",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12384,
+          "following_count": 5445,
+          "like_count": 103413,
+          "listed_count": 23,
+          "media_count": 2633,
+          "tweet_count": 22143
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-16T14:05:57.000Z",
+        "description": "只谈风月,不闻政事\n友跨 | ACM初学者 | #FaZe 比赛享受者 | 顺男\n不想搞黄只想聊天\n私信open\n没事干发点碎碎念",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "FaZe"
+              }
+            ]
+          }
+        },
+        "id": "2066884552036122624",
+        "is_identity_verified": false,
+        "location": "-18cm",
+        "most_recent_tweet_id": "2097009000365875376",
+        "name": "Znsforeal",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066884552036122624/1787729905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096912746189365248/T4d5ZPCT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 115,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "Zns04foreal",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

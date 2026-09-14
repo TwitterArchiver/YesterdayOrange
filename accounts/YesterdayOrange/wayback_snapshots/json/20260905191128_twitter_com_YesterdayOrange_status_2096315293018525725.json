@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2087494497856815104",
+    "conversation_id": "2096170400107597952",
+    "created_at": "2026-09-05T19:11:28.000Z",
+    "display_text_range": [
+      17,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T20:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096315293018525725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096315293018525725",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096170400107597952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesterdayOrange 应该没人比我玩的开了吧🙌🍑我福不黑不信你看"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [2087494497856815104].",
+      "parameter": "author_id",
+      "resource_id": "2087494497856815104",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2087494497856815104"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 574,
+        "media_key": "3_2096170391484174336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcX3XUbEAA3o2d.jpg",
+        "width": 530
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087494497856815104",
+        "conversation_id": "2096170400107597952",
+        "created_at": "2026-09-05T19:11:28.000Z",
+        "display_text_range": [
+          17,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096315293018525725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096315293018525725",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096170400107597952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 应该没人比我玩的开了吧🙌🍑我福不黑不信你看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096170391484174336"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2096170400107597952",
+        "created_at": "2026-09-05T09:35:43.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096170400107597952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JTT6uZ5oA1",
+              "end": 44,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2096170400107597952/photo/1",
+              "media_key": "3_2096170391484174336",
+              "start": 21,
+              "url": "https://t.co/JTT6uZ5oA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096170400107597952",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096170391484174336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 10570,
+          "like_count": 249,
+          "quote_count": 1,
+          "reply_count": 87,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "可以用一句话描述一下你对麦当劳的印象吗？ https://t.co/JTT6uZ5oA1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096309603223195857",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2096202871578747303",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12375,
+          "following_count": 5434,
+          "like_count": 103063,
+          "listed_count": 23,
+          "media_count": 2626,
+          "tweet_count": 22082
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

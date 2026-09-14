@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2095123389187043535",
+    "created_at": "2026-09-06T10:12:32.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096542053555752979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2090770384157278208",
+          "start": 0,
+          "username": "strt316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096542053555752979",
+    "in_reply_to_user_id": "2090770384157278208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095123389187043535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@strt316 你和我亲亲😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2095123389187043535",
+        "created_at": "2026-09-06T10:12:32.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096542053555752979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2090770384157278208",
+              "start": 0,
+              "username": "strt316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096542053555752979",
+        "in_reply_to_user_id": "2090770384157278208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095123389187043535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@strt316 你和我亲亲😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090770384157278208",
+        "conversation_id": "2095123389187043535",
+        "created_at": "2026-09-02T12:15:16.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095123389187043535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095123389187043535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前夫哥吻技有点舒服。。这真的是他的初吻吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096542053555752979",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2096469479916183918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12386,
+          "following_count": 5440,
+          "like_count": 103147,
+          "listed_count": 23,
+          "media_count": 2628,
+          "tweet_count": 22094
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T12:00:19.000Z",
+        "description": "碎碎念存放",
+        "id": "2090770384157278208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096539117475799508",
+        "name": "玥涵",
+        "pinned_tweet_id": "2091190073811423571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090770384157278208/1787314941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090772528075878400/wBbiJvmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 667,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 247
+        },
+        "url": "",
+        "username": "strt316",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

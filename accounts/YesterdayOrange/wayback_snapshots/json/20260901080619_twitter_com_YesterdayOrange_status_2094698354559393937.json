@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Graphic Design",
+          "id": "1046580793848418305",
+          "name": "Graphic design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Graphic Design",
+          "id": "1046580793848418305",
+          "name": "Graphic design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2094698354559393937",
+    "created_at": "2026-09-01T08:06:19.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T09:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094698354559393937"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/westerly_21/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/westerly_21/status/2094463782567473603",
+          "start": 29,
+          "url": "https://t.co/suxYX5roD5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094698354559393937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094463782567473603",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "hr一天要看800份简历，写多余的东西会导致直接pass https://t.co/suxYX5roD5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2094698354559393937",
+        "created_at": "2026-09-01T08:06:19.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T09:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094698354559393937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/westerly_21/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/westerly_21/status/2094463782567473603",
+              "start": 29,
+              "url": "https://t.co/suxYX5roD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094698354559393937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094463782567473603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hr一天要看800份简历，写多余的东西会导致直接pass https://t.co/suxYX5roD5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396000212724994051",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2094463782567473603",
+        "created_at": "2026-08-31T16:34:13.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094463782567473603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094463782567473603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "请问，大学生找工作的简历里面，可以写和对口工作关系不是很大的技能和个人项目吗？比方说会使用相机拍摄短片，并进行后期调色剪辑啥的？我还很想（但没啥时间）做点ai短片啥的可以写进去咩？\n我最近还在用InDesign排版我的摄影作品，打算做个画册\n我还会点编程，但还是比较稚嫩，只能说在现在ai编程的趋势下能看懂ai写的架构原理啥的，但让我自己写我大概写不了那么漂亮\n还有各种乱七八糟的使用ai的能力\n这些乱七八糟的东西可以写到简历上咩......（啊我是环境学生来着忘了说了）\n会有点纠结，毕竟对口的大部分工作其实完全用不上这些技能呢。我还没有正经的实习经历（只有两段认识实习，也就是参观啦），大学三年都在玩捏..."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 459,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请问，大学生找工作的简历里面，可以写和对口工作关系不是很大的技能和个人项目吗？比方说会使用相机拍摄短片，并进行后期调色剪辑啥的？我还很想（但没啥时间）做点ai短片啥的可以写进去咩？\n我最近还在用InDesign排版我的摄影作品，打算做个画册"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094698354559393937",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2094121959634456677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12315,
+          "following_count": 5375,
+          "like_count": 102196,
+          "listed_count": 23,
+          "media_count": 2598,
+          "tweet_count": 21939
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-22T07:09:32.000Z",
+        "description": "♂ | 喜欢摄影 | 环境专业学生 | 可能会有女装\n会分享一堆日常和碎碎念\nr18小号：@Wester21",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "Wester21"
+              }
+            ]
+          }
+        },
+        "id": "1396000212724994051",
+        "is_identity_verified": false,
+        "location": "大抵是在家中",
+        "most_recent_tweet_id": "2094684726728790050",
+        "name": "淅🍊💫",
+        "pinned_tweet_id": "2094463782567473603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1396000212724994051/1657607007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093691929028681729/nPwV0In0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 92,
+          "like_count": 1441,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "Westerly_21",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

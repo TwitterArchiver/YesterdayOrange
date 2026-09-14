@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2095344811071148179",
+    "created_at": "2026-09-03T12:11:54.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T13:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095484933137699250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1276090446213640192",
+          "start": 0,
+          "username": "ExcitableH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095484933137699250",
+    "in_reply_to_user_id": "1276090446213640192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095482808181633362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ExcitableH 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2095344811071148179",
+        "created_at": "2026-09-03T12:11:54.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095484933137699250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1276090446213640192",
+              "start": 0,
+              "username": "ExcitableH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095484933137699250",
+        "in_reply_to_user_id": "1276090446213640192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095482808181633362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ExcitableH 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276090446213640192",
+        "conversation_id": "2095344811071148179",
+        "created_at": "2026-09-03T12:03:28.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095482808181633362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095482808181633362",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095344811071148179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 狠狠地🦌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095484933137699250",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2095344811071148179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12322,
+          "following_count": 5391,
+          "like_count": 102521,
+          "listed_count": 23,
+          "media_count": 2611,
+          "tweet_count": 22017
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-25T09:50:59.000Z",
+        "description": "Music / 2D Design\nLearning game script writing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "katuria.fyi",
+                "end": 23,
+                "expanded_url": "http://katuria.fyi",
+                "start": 0,
+                "url": "https://t.co/d6KRHL5FuE"
+              }
+            ]
+          }
+        },
+        "id": "1276090446213640192",
+        "is_identity_verified": false,
+        "location": "Somewhere maple leaves fall",
+        "most_recent_tweet_id": "2095483039250092317",
+        "name": "𝑲𝒂𝒕𝒖𝒓𝒊𝒂🍁叶子",
+        "pinned_tweet_id": "1841806409924579725",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276090446213640192/1747729983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089745030475075584/TWXCd5bZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 345,
+          "like_count": 1408,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1087
+        },
+        "url": "https://t.co/d6KRHL5FuE",
+        "username": "ExcitableH",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

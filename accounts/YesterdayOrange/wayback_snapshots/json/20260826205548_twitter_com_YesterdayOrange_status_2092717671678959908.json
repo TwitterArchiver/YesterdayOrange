@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2092717671678959908",
+    "created_at": "2026-08-26T20:55:48.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T21:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092717671678959908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kerons8/status…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/kerons8/status/2092703819545313412",
+          "start": 33,
+          "url": "https://t.co/PwLM8DGYE5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092717671678959908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092703819545313412",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大学同学可以选择一两个喜欢的相处，而高中同学的强迫相处成分更高。 https://t.co/PwLM8DGYE5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2092717671678959908",
+        "created_at": "2026-08-26T20:55:48.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T21:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092717671678959908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kerons8/status…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/kerons8/status/2092703819545313412",
+              "start": 33,
+              "url": "https://t.co/PwLM8DGYE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092717671678959908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092703819545313412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大学同学可以选择一两个喜欢的相处，而高中同学的强迫相处成分更高。 https://t.co/PwLM8DGYE5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481992585795170305",
+        "conversation_id": "2092703819545313412",
+        "created_at": "2026-08-26T20:00:45.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T21:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092703819545313412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092703819545313412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一种感觉\n大学同学（或者说认识的人）像那种补课班的同学，或者说是网友\n虽然我的高中生活一大坨还经常想办法请假逃课，也没有什么所谓的归属感\n但是高中同学感觉才是同学，有那种纯粹的一起玩的感觉\n今天跟高中同学出勤之后就特想回到高一的时候逗逗他，长大同学不好玩\n感觉高中错过了很多好玩的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092717671678959908",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2092298896974491864",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12329,
+          "following_count": 5360,
+          "like_count": 101584,
+          "listed_count": 23,
+          "media_count": 2571,
+          "tweet_count": 21817
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-14T14:12:33.000Z",
+        "description": "已经没有人类了｜冒犯到你了抱歉｜一不小心b了你可能是脚本写出问题了对不起｜cs新生｜莫名关注你是你的某些言论突然感觉对胃口｜头像是本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zueshans.github.io",
+                "end": 23,
+                "expanded_url": "https://zueshans.github.io",
+                "start": 0,
+                "url": "https://t.co/NMPzBHp1rg"
+              }
+            ]
+          }
+        },
+        "id": "1481992585795170305",
+        "is_identity_verified": false,
+        "location": "颍川阳翟",
+        "most_recent_tweet_id": "2092703819545313412",
+        "name": "Kerons",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481992585795170305/1703898684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092670298491617280/-7c-5HSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 205,
+          "like_count": 14563,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 478
+        },
+        "url": "https://t.co/NMPzBHp1rg",
+        "username": "Kerons8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2097184892165701845",
+    "created_at": "2026-09-09T00:47:16.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T01:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097486966392762642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049799556859334657",
+          "start": 0,
+          "username": "Ardra_HTTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097486966392762642",
+    "in_reply_to_user_id": "2049799556859334657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097369820887195993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ardra_HTTS 你被选中了喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "16_2097369773386731520",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRtaslFbkAANEdK.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRtaslFbkAANEdK.mp4"
+          }
+        ],
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2097184892165701845",
+        "created_at": "2026-09-09T00:47:16.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T01:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097486966392762642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049799556859334657",
+              "start": 0,
+              "username": "Ardra_HTTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097486966392762642",
+        "in_reply_to_user_id": "2049799556859334657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097369820887195993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ardra_HTTS 你被选中了喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2097369773386731520"
+          ]
+        },
+        "author_id": "2049799556859334657",
+        "conversation_id": "2097184892165701845",
+        "created_at": "2026-09-08T17:01:47.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097369820887195993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1FQKbxY3nt",
+              "end": 51,
+              "expanded_url": "https://x.com/Ardra_HTTS/status/2097369820887195993/photo/1",
+              "media_key": "16_2097369773386731520",
+              "start": 28,
+              "url": "https://t.co/1FQKbxY3nt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097369820887195993",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2097369773386731520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097184892165701845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 我.....我吗？？ https://t.co/1FQKbxY3nt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097486966392762642",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2097204746637787144",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12502,
+          "following_count": 5487,
+          "like_count": 103751,
+          "listed_count": 23,
+          "media_count": 2634,
+          "tweet_count": 22191
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-30T10:34:39.000Z",
+        "description": "EZ2/PIU/BMS/DJMAX\n随机使用以下名义：\nHTTS (\"黄桃糖水\" in Chinese Platfrom)\nHTTSArd (\"黄桃糖水Ard\" in Chinese Platfrom)\nArdrA\nArdrA.HTTS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "HTTSArd.online",
+                "end": 23,
+                "expanded_url": "http://HTTSArd.online",
+                "start": 0,
+                "url": "https://t.co/rvEZYajOqc"
+              }
+            ]
+          }
+        },
+        "id": "2049799556859334657",
+        "is_identity_verified": false,
+        "location": "identify_confusion.sh",
+        "most_recent_tweet_id": "2097469947584864740",
+        "name": "ArdrA.HTTS",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049799556859334657/1788097615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094066316063981568/LTPx-yCi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 43,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/rvEZYajOqc",
+        "username": "Ardra_HTTS",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

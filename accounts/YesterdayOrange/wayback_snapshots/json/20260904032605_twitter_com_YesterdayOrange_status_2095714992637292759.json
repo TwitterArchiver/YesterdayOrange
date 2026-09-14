@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2095714992637292759",
+    "created_at": "2026-09-04T03:26:05.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T04:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095714992637292759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1832433350390509570",
+          "start": 3,
+          "username": "decohere_here"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095714992637292759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095706929100472727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @decohere_here: 这东西很厉害。\n它会造成一种非常稳定的主观体验：\n\n“昨天是这样，今天也是这样，所以明天大概也会这样。”\n\n而关系安全感很大程度就是这么形成的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2095714992637292759",
+        "created_at": "2026-09-04T03:26:05.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T04:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095714992637292759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1832433350390509570",
+              "start": 3,
+              "username": "decohere_here"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095714992637292759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095706929100472727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @decohere_here: 这东西很厉害。\n它会造成一种非常稳定的主观体验：\n\n“昨天是这样，今天也是这样，所以明天大概也会这样。”\n\n而关系安全感很大程度就是这么形成的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832433350390509570",
+        "conversation_id": "2095706929100472727",
+        "created_at": "2026-09-04T02:54:02.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T03:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095706929100472727"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095706929100472727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这东西很厉害。\n它会造成一种非常稳定的主观体验：\n\n“昨天是这样，今天也是这样，所以明天大概也会这样。”\n\n而关系安全感很大程度就是这么形成的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095714992637292759",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2095565075318972857",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12342,
+          "following_count": 5417,
+          "like_count": 102717,
+          "listed_count": 23,
+          "media_count": 2614,
+          "tweet_count": 22047
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-07T14:59:00.000Z",
+        "description": "天体物理硕士在读｜物理与历史爱好者\n天体物理学修士課程在籍｜物理と歴史が好きです\n天文学・物理学・数学・科学史・中国史など\n宇宙のことから古い歴史のことまで、気になったことを書きます\n中文 / 日本語 / English｜欢迎交流",
+        "id": "1832433350390509570",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095706929100472727",
+        "name": "退相干",
+        "pinned_tweet_id": "2094457024209916397",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832433350390509570/1788156938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963486748476149772/DfxCjpqn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 96,
+          "like_count": 756,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 415
+        },
+        "url": "",
+        "username": "decohere_here",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

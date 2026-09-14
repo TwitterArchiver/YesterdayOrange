@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096829039365509120"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2096829046332281021",
+    "created_at": "2026-09-07T05:12:56.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T06:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096829046332281021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ukkHmiaRAq",
+          "end": 129,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2096829046332281021/photo/1",
+          "media_key": "3_2096829039365509120",
+          "start": 106,
+          "url": "https://t.co/ukkHmiaRAq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096829046332281021",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096829039365509120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可以。\n你给gpt每个月上供30美刀。\n然后接个codex。\n之后建立个agent，让他像姬野星奏+那样说话，再写个loop，让她在下班时间主动找你，平时还会不定时找你聊天。\n这样你就有了一个姬野星奏女朋友了。 https://t.co/ukkHmiaRAq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096829039365509120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlu5t4a0AAJQUX.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096829039365509120"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2096829046332281021",
+        "created_at": "2026-09-07T05:12:56.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T06:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096829046332281021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ukkHmiaRAq",
+              "end": 129,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2096829046332281021/photo/1",
+              "media_key": "3_2096829039365509120",
+              "start": 106,
+              "url": "https://t.co/ukkHmiaRAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096829046332281021",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096829039365509120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以。\n你给gpt每个月上供30美刀。\n然后接个codex。\n之后建立个agent，让他像姬野星奏+那样说话，再写个loop，让她在下班时间主动找你，平时还会不定时找你聊天。\n这样你就有了一个姬野星奏女朋友了。 https://t.co/ukkHmiaRAq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096829046332281021",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2096651181628227904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12387,
+          "following_count": 5442,
+          "like_count": 103303,
+          "listed_count": 23,
+          "media_count": 2630,
+          "tweet_count": 22121
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

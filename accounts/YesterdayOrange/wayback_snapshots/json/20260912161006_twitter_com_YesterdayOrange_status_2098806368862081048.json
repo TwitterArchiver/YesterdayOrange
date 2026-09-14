@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098806324926812160"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2098806368862081048",
+    "created_at": "2026-09-12T16:10:06.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T17:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098806368862081048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ADalUjfMNW",
+          "end": 134,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2098806368862081048/photo/1",
+          "media_key": "3_2098806324926812160",
+          "start": 111,
+          "url": "https://t.co/ADalUjfMNW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098806368862081048",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098806324926812160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "语文课本里面的「全文背诵」，真有人能全部背下来吗？\n小学初中高中12年的分量，所有标了“全文背诵”四个字的课文，一字不差背诵出来和默写出来，一个字不差（包括读音）。\n\n真有人能够按质按量做得到吗？\n\n毕业了出社会之后呢？\n\n真有人能做到出社会了还任选一篇语文课本里面要求全文背诵的课文，在毫无事先准备的前提之下直接能背诵出来，而且丝毫不卡壳（或者写错字）？（职业是语文老师除外）"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "语文课本里面的「全文背诵」，真有人能全部背下来吗？\n小学初中高中12年的分量，所有标了“全文背诵”四个字的课文，一字不差背诵出来和默写出来，一个字不差（包括读音）。\n\n真有人能够按质按量做得到吗？\n\n毕业了出社会之后呢？ https://t.co/ADalUjfMNW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 595,
+        "media_key": "3_2098806324926812160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSB1O4mbEAAawCx.jpg",
+        "width": 1421
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098806324926812160"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2098806368862081048",
+        "created_at": "2026-09-12T16:10:06.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098806368862081048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ADalUjfMNW",
+              "end": 134,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2098806368862081048/photo/1",
+              "media_key": "3_2098806324926812160",
+              "start": 111,
+              "url": "https://t.co/ADalUjfMNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098806368862081048",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098806324926812160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "语文课本里面的「全文背诵」，真有人能全部背下来吗？\n小学初中高中12年的分量，所有标了“全文背诵”四个字的课文，一字不差背诵出来和默写出来，一个字不差（包括读音）。\n\n真有人能够按质按量做得到吗？\n\n毕业了出社会之后呢？\n\n真有人能做到出社会了还任选一篇语文课本里面要求全文背诵的课文，在毫无事先准备的前提之下直接能背诵出来，而且丝毫不卡壳（或者写错字）？（职业是语文老师除外）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "语文课本里面的「全文背诵」，真有人能全部背下来吗？\n小学初中高中12年的分量，所有标了“全文背诵”四个字的课文，一字不差背诵出来和默写出来，一个字不差（包括读音）。\n\n真有人能够按质按量做得到吗？\n\n毕业了出社会之后呢？ https://t.co/ADalUjfMNW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098806368862081048",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2098669891037594022",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12582,
+          "following_count": 5530,
+          "like_count": 104465,
+          "listed_count": 24,
+          "media_count": 2652,
+          "tweet_count": 22318
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

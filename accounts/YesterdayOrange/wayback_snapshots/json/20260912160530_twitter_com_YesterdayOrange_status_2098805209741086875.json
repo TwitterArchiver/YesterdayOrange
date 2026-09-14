@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2044942552013623584",
+    "created_at": "2026-09-12T16:05:30.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T17:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098805209741086875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757633051834871808",
+          "start": 0,
+          "username": "LyCecilion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098805209741086875",
+    "in_reply_to_user_id": "1757633051834871808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044942552013623584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LyCecilion 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2044942552013623584",
+        "created_at": "2026-09-12T16:05:30.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098805209741086875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757633051834871808",
+              "start": 0,
+              "username": "LyCecilion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098805209741086875",
+        "in_reply_to_user_id": "1757633051834871808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044942552013623584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LyCecilion 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757633051834871808",
+        "conversation_id": "2044942552013623584",
+        "created_at": "2026-04-17T00:54:32.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-17T01:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044942552013623584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044942552013623584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不会再焦虑了。\n\n这些日子里零音经常哭到凌晨一点，到近乎失声和颤抖。\n\n还是零音太敏感了吧。因几条悬着的消息，就开始 xhigh 般焦虑，开始恐惧关系的破裂，开始担忧零音的未来。零音太笨拙了，无法在这一时刻向心之所向伸出援手，却又小心翼翼地害怕这段关系的落地。说到底，零音才是笨拙的那一个。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098805209741086875",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2098669891037594022",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12582,
+          "following_count": 5530,
+          "like_count": 104465,
+          "listed_count": 24,
+          "media_count": 2651,
+          "tweet_count": 22317
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T05:09:26.000Z",
+        "description": "我们不是理想的陈述者，而是理想的践行者。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystal.stellalyr.ink",
+                "end": 23,
+                "expanded_url": "http://crystal.stellalyr.ink",
+                "start": 0,
+                "url": "https://t.co/FTr8eytO6w"
+              }
+            ]
+          }
+        },
+        "id": "1757633051834871808",
+        "is_identity_verified": false,
+        "location": "LyRiverse",
+        "most_recent_tweet_id": "2098794266021748803",
+        "name": "LyCecilion",
+        "pinned_tweet_id": "1770663539835101581",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757633051834871808/1771140867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022937523299979266/QY-Da_sJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 240,
+          "like_count": 2127,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/FTr8eytO6w",
+        "username": "LyCecilion",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

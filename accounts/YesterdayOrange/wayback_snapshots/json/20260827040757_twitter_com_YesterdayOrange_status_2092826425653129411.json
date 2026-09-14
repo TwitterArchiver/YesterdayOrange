@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2092825850609803310",
+    "created_at": "2026-08-27T04:07:57.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T05:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092826425653129411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1985625445577138176",
+          "start": 0,
+          "username": "whos3third"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092826425653129411",
+    "in_reply_to_user_id": "1985625445577138176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092825850609803310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whos3third 饱饱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2092825850609803310",
+        "created_at": "2026-08-27T04:07:57.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092826425653129411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1985625445577138176",
+              "start": 0,
+              "username": "whos3third"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092826425653129411",
+        "in_reply_to_user_id": "1985625445577138176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092825850609803310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whos3third 饱饱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985625445577138176",
+        "conversation_id": "2092825850609803310",
+        "created_at": "2026-08-27T04:05:40.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092825850609803310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092825850609803310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上出門前邊沖澡邊想著下午開會的事，於是便在恍惚間將潤髮乳當作洗面乳一把抹到了臉上（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092826425653129411",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2092298896974491864",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12329,
+          "following_count": 5364,
+          "like_count": 101600,
+          "listed_count": 23,
+          "media_count": 2571,
+          "tweet_count": 21820
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-04T08:30:02.000Z",
+        "description": "我們窮盡一生需要學會的不過是彼此擁抱......",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ltyxoeqkvnyn3p…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ltyxoeqkvnyn3pu?t=Ie03zl&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/zaelVCYkpR"
+              }
+            ]
+          }
+        },
+        "id": "1985625445577138176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092825850609803310",
+        "name": "who",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1985625445577138176/1786957713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012751736327311360/0b7WvGzt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 434,
+          "like_count": 11640,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/zaelVCYkpR",
+        "username": "whos3third",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

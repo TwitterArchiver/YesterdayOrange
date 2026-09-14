@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2091767759814479965",
+    "created_at": "2026-08-24T06:18:01.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T07:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091771992949330285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796564644745588736",
+          "start": 0,
+          "username": "kck279541641236"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091771992949330285",
+    "in_reply_to_user_id": "1796564644745588736",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091769122698707028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kck279541641236 prc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2091767759814479965",
+        "created_at": "2026-08-24T06:18:01.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091771992949330285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796564644745588736",
+              "start": 0,
+              "username": "kck279541641236"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091771992949330285",
+        "in_reply_to_user_id": "1796564644745588736",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091769122698707028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kck279541641236 prc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796564644745588736",
+        "conversation_id": "2091767759814479965",
+        "created_at": "2026-08-24T06:06:36.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091769122698707028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091769122698707028",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091767759814479965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 你是在哪个国家呀？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091771992949330285",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2091452170570989584",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12348,
+          "following_count": 5356,
+          "like_count": 101245,
+          "listed_count": 23,
+          "media_count": 2564,
+          "tweet_count": 21765
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-31T15:30:27.000Z",
+        "description": "投喂小兔兔USDT的trc20地址：TKD7cisUzCWbuWBNkuEsPs1nXjr7UNVBNv            \n\n来都来了，互关下呗",
+        "id": "1796564644745588736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091769122698707028",
+        "name": "赤道上的小兔兔(关注我 互关互fo)Equatorial Little Bunny",
+        "pinned_tweet_id": "1803772781613449399",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796564644745588736/1759497923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854942358988619776/EbiQ_yMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 253,
+          "like_count": 8761,
+          "listed_count": 3,
+          "media_count": 626,
+          "tweet_count": 6544
+        },
+        "url": "",
+        "username": "kck279541641236",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
