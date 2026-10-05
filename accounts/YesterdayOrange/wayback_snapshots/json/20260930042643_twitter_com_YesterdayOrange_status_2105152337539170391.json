@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2105152337539170391",
+    "created_at": "2026-09-30T04:26:43.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T05:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105152337539170391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/itssunshinexd/…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/itssunshinexd/status/2105149774701944936",
+          "start": 56,
+          "url": "https://t.co/XssZEZKGiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105152337539170391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105149774701944936",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吵架是希望改变别人，把别人变成自己喜欢的样子。\n但这太难了，所以大部分时候会选择直接分开，然后期待下一个会更好 https://t.co/XssZEZKGiy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2105149764279169024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTb-jprbcAALDO2.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2105152337539170391",
+        "created_at": "2026-09-30T04:26:43.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T05:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105152337539170391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itssunshinexd/…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/itssunshinexd/status/2105149774701944936",
+              "start": 56,
+              "url": "https://t.co/XssZEZKGiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105152337539170391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105149774701944936",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吵架是希望改变别人，把别人变成自己喜欢的样子。\n但这太难了，所以大部分时候会选择直接分开，然后期待下一个会更好 https://t.co/XssZEZKGiy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105149764279169024"
+          ]
+        },
+        "author_id": "1932834726051786808",
+        "conversation_id": "2105149774701944936",
+        "created_at": "2026-09-30T04:16:32.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T05:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105149774701944936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EmaNFkG38n",
+              "end": 136,
+              "expanded_url": "https://x.com/ItsSunshineXD/status/2105149774701944936/photo/1",
+              "media_key": "3_2105149764279169024",
+              "start": 113,
+              "url": "https://t.co/EmaNFkG38n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105149774701944936",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105149764279169024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好羡慕吵架到互相厌恶 最终分手的情侣\n\n我尊重理解她们的决定\n可是 回忆以前的美好瞬间 好留恋\n\n为什么...突然不喜欢我了呢\n我还没有分开的打算呢...\n为什么都要把过错揽到自己身上\n我好想做改变 挽回\n每次都是这样... https://t.co/EmaNFkG38n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105152337539170391",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2105117767020187938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12686,
+          "following_count": 5604,
+          "like_count": 106773,
+          "listed_count": 24,
+          "media_count": 2712,
+          "tweet_count": 22674
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-11T16:19:20.000Z",
+        "description": "19yo 175cm/52kg 想当可爱的男孩纸\n大二在校 | 开发者 | CTFer | notholding.eth\n一只很菜很菜的菜叶片ovo 蓝v互fo或dm互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "getflag.sh",
+                "end": 23,
+                "expanded_url": "https://getflag.sh",
+                "start": 0,
+                "url": "https://t.co/MK53oTlfig"
+              }
+            ]
+          }
+        },
+        "id": "1932834726051786808",
+        "is_identity_verified": false,
+        "location": "暨南大学番禺校区",
+        "most_recent_tweet_id": "2105151687019344273",
+        "name": "菜叶片",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932834726051786808/1790145816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095839416313126912/Aqs0LUDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 221,
+          "like_count": 4024,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1065
+        },
+        "url": "https://t.co/MK53oTlfig",
+        "username": "ItsSunshineXD",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

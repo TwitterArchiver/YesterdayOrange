@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102057774805082113",
+        "3_2102057775132205056"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2102057788075810874",
+    "created_at": "2026-09-21T15:30:05.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T16:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102057788075810874"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UQjvl8RG3r",
+          "end": 29,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2102057788075810874/photo/1",
+          "media_key": "3_2102057774805082113",
+          "start": 6,
+          "url": "https://t.co/UQjvl8RG3r"
+        },
+        {
+          "display_url": "pic.x.com/UQjvl8RG3r",
+          "end": 29,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2102057788075810874/photo/1",
+          "media_key": "3_2102057775132205056",
+          "start": 6,
+          "url": "https://t.co/UQjvl8RG3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102057788075810874",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102057774805082113"
+      },
+      {
+        "media_key": "3_2102057775132205056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃麦麦新品 https://t.co/UQjvl8RG3r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2102057774805082113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwCaLSa4AEVrtl.jpg",
+        "width": 1560
+      },
+      {
+        "height": 720,
+        "media_key": "3_2102057775132205056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwCaMgaYAAzNSO.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102057774805082113",
+            "3_2102057775132205056"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102057788075810874",
+        "created_at": "2026-09-21T15:30:05.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102057788075810874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UQjvl8RG3r",
+              "end": 29,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2102057788075810874/photo/1",
+              "media_key": "3_2102057774805082113",
+              "start": 6,
+              "url": "https://t.co/UQjvl8RG3r"
+            },
+            {
+              "display_url": "pic.x.com/UQjvl8RG3r",
+              "end": 29,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2102057788075810874/photo/1",
+              "media_key": "3_2102057775132205056",
+              "start": 6,
+              "url": "https://t.co/UQjvl8RG3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102057788075810874",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102057774805082113"
+          },
+          {
+            "media_key": "3_2102057775132205056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃麦麦新品 https://t.co/UQjvl8RG3r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102057788075810874",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2102047831804833803",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12690,
+          "following_count": 5612,
+          "like_count": 105924,
+          "listed_count": 24,
+          "media_count": 2680,
+          "tweet_count": 22524
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

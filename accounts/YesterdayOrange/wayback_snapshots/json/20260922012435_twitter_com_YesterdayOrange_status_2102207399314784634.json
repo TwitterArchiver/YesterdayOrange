@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2102207399314784634",
+    "created_at": "2026-09-22T01:24:35.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T02:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102207399314784634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cookie3108861/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/cookie3108861/status/2102186350430785640",
+          "start": 5,
+          "url": "https://t.co/B9ON1Av8Yc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102207399314784634",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102186350430785640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "xmsl https://t.co/B9ON1Av8Yc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2102207399314784634",
+        "created_at": "2026-09-22T01:24:35.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T02:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102207399314784634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cookie3108861/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/cookie3108861/status/2102186350430785640",
+              "start": 5,
+              "url": "https://t.co/B9ON1Av8Yc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102207399314784634",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102186350430785640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "xmsl https://t.co/B9ON1Av8Yc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836558161987481600",
+        "conversation_id": "2101917224491737441",
+        "created_at": "2026-09-22T00:00:57.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T01:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102186350430785640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102186350430785640",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101917224491737441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 倆男的跟我告白算嗎"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102207399314784634",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2102047831804833803",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12696,
+          "following_count": 5611,
+          "like_count": 106012,
+          "listed_count": 24,
+          "media_count": 2681,
+          "tweet_count": 22532
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-19T00:09:32.000Z",
+        "description": "*もしご迷惑をおかけしたのであれば、ぜひその場でご指摘いただければ幸いです。できる限り改善に努めますので、ご協力いただきありがとうございます。\n\n*アバターおよびバナー画像の出典:\nhttps://t.co/lC8lFxLaIx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/soryu342?s=11",
+                "end": 114,
+                "expanded_url": "https://x.com/soryu342?s=11",
+                "start": 91,
+                "url": "https://t.co/lC8lFxLaIx"
+              }
+            ]
+          }
+        },
+        "id": "1836558161987481600",
+        "is_identity_verified": false,
+        "location": "Taiwan ",
+        "most_recent_tweet_id": "2102186350430785640",
+        "name": "星宮Hoshimiya",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836558161987481600/1788585161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096104159783346176/iYTM9Uiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 319,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 465
+        },
+        "url": "",
+        "username": "Cookie3108861",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

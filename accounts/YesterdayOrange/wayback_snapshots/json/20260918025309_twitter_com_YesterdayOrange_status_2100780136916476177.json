@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100780125969350656"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2100780136916476177",
+    "created_at": "2026-09-18T02:53:09.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T03:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100780136916476177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F4cp5Bu4Vc",
+          "end": 103,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2100780136916476177/photo/1",
+          "media_key": "3_2100780125969350656",
+          "start": 80,
+          "url": "https://t.co/F4cp5Bu4Vc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100780136916476177",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100780125969350656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因灾难被困图书馆时应按何种顺序烧书取暖？\n•图书馆中有现存所有类型的书籍\n•灾难结束后世界上绝大多数书籍都被损毁，该图书馆中烧剩的书将是人类重建文明的重要资料 https://t.co/F4cp5Bu4Vc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100780125969350656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSd4ZOeagAAxvHZ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100780125969350656"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2100780136916476177",
+        "created_at": "2026-09-18T02:53:09.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T03:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100780136916476177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F4cp5Bu4Vc",
+              "end": 103,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2100780136916476177/photo/1",
+              "media_key": "3_2100780125969350656",
+              "start": 80,
+              "url": "https://t.co/F4cp5Bu4Vc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100780136916476177",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100780125969350656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因灾难被困图书馆时应按何种顺序烧书取暖？\n•图书馆中有现存所有类型的书籍\n•灾难结束后世界上绝大多数书籍都被损毁，该图书馆中烧剩的书将是人类重建文明的重要资料 https://t.co/F4cp5Bu4Vc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100780136916476177",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2100447668464148564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12643,
+          "following_count": 5572,
+          "like_count": 105267,
+          "listed_count": 24,
+          "media_count": 2665,
+          "tweet_count": 22429
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

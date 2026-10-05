@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101920937142841344"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2101920946089247063",
+    "created_at": "2026-09-21T06:26:20.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T07:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101920946089247063"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kEsYSBWp8K",
+          "end": 110,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2101920946089247063/photo/1",
+          "media_key": "3_2101920937142841344",
+          "start": 87,
+          "url": "https://t.co/kEsYSBWp8K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101920946089247063",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101920937142841344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "欢迎来到世界第一伪好就业专业计算机，这里没有年少轻狂，只有包装为王。所有vibe的论文和项目都是为了争夺一封为期一小时的约面邮件，你的token无人报销,你的演技必须高超。 https://t.co/kEsYSBWp8K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101920937142841344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuF9LRa8AAc2hc.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101920937142841344"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2101920946089247063",
+        "created_at": "2026-09-21T06:26:20.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T07:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101920946089247063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEsYSBWp8K",
+              "end": 110,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2101920946089247063/photo/1",
+              "media_key": "3_2101920937142841344",
+              "start": 87,
+              "url": "https://t.co/kEsYSBWp8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101920946089247063",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101920937142841344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来到世界第一伪好就业专业计算机，这里没有年少轻狂，只有包装为王。所有vibe的论文和项目都是为了争夺一封为期一小时的约面邮件，你的token无人报销,你的演技必须高超。 https://t.co/kEsYSBWp8K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101920946089247063",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2101638631287111796",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12674,
+          "following_count": 5599,
+          "like_count": 105733,
+          "listed_count": 24,
+          "media_count": 2677,
+          "tweet_count": 22507
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

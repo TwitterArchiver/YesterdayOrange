@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2104757928280588452",
+    "created_at": "2026-09-29T05:01:58.000Z",
+    "display_text_range": [
+      15,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T06:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104798818189640041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2090993417744719872",
+          "start": 0,
+          "username": "moeKafuuChino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104798818189640041",
+    "in_reply_to_user_id": "2090993417744719872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104757928280588452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moeKafuuChino 饱饱这是你第几个账号了，你怎么一直在转生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2104757928280588452",
+        "created_at": "2026-09-29T05:01:58.000Z",
+        "display_text_range": [
+          15,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104798818189640041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2090993417744719872",
+              "start": 0,
+              "username": "moeKafuuChino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104798818189640041",
+        "in_reply_to_user_id": "2090993417744719872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104757928280588452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moeKafuuChino 饱饱这是你第几个账号了，你怎么一直在转生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090993417744719872",
+        "conversation_id": "2104757928280588452",
+        "created_at": "2026-09-29T02:19:29.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T03:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104757928280588452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104757928280588452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 934,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我父母为了生计，2007年就来北京打工了。\n我因为没有北京户口，中学不得不去四川做留守儿童。\n2026年，我在找工作的时候，有一些比较中意的岗位在北京。\n如果我毕业后继续在北京工作，假设工作个十年，那么，两代人，在北京三四十年，没房、没户口、没北京车牌，每次开车去市区都要算进京证\n可悲呢….."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104798818189640041",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2104798135910642055",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12681,
+          "following_count": 5599,
+          "like_count": 106748,
+          "listed_count": 24,
+          "media_count": 2710,
+          "tweet_count": 22652
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T02:51:15.000Z",
+        "description": "Life swings like a pendulum backward and forward between pain and boredom | tg: https://t.co/IuukNVwvJq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+5z_gCbEFiWxkN…",
+                "end": 103,
+                "expanded_url": "https://t.me/+5z_gCbEFiWxkNjc9",
+                "start": 80,
+                "url": "https://t.co/IuukNVwvJq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deeplemon.win",
+                "end": 23,
+                "expanded_url": "https://www.deeplemon.win/",
+                "start": 0,
+                "url": "https://t.co/nejlUCxYOA"
+              }
+            ]
+          }
+        },
+        "id": "2090993417744719872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104782375062491520",
+        "name": "智乃萌萌",
+        "pinned_tweet_id": "2100234238310387902",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090993417744719872/1787367216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090995335971950592/9TidCFGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 182,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 320
+        },
+        "url": "https://t.co/nejlUCxYOA",
+        "username": "moeKafuuChino",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

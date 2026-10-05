@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2105571042240655870",
+    "created_at": "2026-10-01T10:54:45.000Z",
+    "display_text_range": [
+      7,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T11:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105612375386992872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2085119554666270720",
+          "start": 0,
+          "username": "xk9yb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105612375386992872",
+    "in_reply_to_user_id": "2085119554666270720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105610980004958297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xk9yb 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2105571042240655870",
+        "created_at": "2026-10-01T10:54:45.000Z",
+        "display_text_range": [
+          7,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105612375386992872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2085119554666270720",
+              "start": 0,
+              "username": "xk9yb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105612375386992872",
+        "in_reply_to_user_id": "2085119554666270720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105610980004958297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xk9yb 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085119554666270720",
+        "conversation_id": "2105571042240655870",
+        "created_at": "2026-10-01T10:49:12.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105610980004958297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105610980004958297",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105571042240655870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 13"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105612375386992872",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2105117767020187938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12689,
+          "following_count": 5605,
+          "like_count": 106873,
+          "listed_count": 24,
+          "media_count": 2716,
+          "tweet_count": 22688
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T21:45:07.000Z",
+        "description": "无聊",
+        "id": "2085119554666270720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105612037619699922",
+        "name": "飛羽真",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085119554666270720/1785966515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085120702043271168/NK4VjhHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 55,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "xk9yb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2102985571136369077",
+    "created_at": "2026-09-24T04:56:46.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T05:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102985571136369077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bcpz007/status…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/bcpz007/status/2102843438685397330",
+          "start": 20,
+          "url": "https://t.co/kjfP0dMHX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102985571136369077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102843438685397330",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一种吧。\n第二种廉价感和ai感太强了 https://t.co/kjfP0dMHX3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102843429705392128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS7M9T3aoAA4uUO.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2102843429709627392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS7M9T4bQAAq1Ad.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2102985571136369077",
+        "created_at": "2026-09-24T04:56:46.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T05:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102985571136369077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bcpz007/status…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/bcpz007/status/2102843438685397330",
+              "start": 20,
+              "url": "https://t.co/kjfP0dMHX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102985571136369077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102843438685397330",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一种吧。\n第二种廉价感和ai感太强了 https://t.co/kjfP0dMHX3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102843429705392128",
+            "3_2102843429709627392"
+          ]
+        },
+        "author_id": "2095727354446495744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102843438685397330",
+        "created_at": "2026-09-23T19:31:59.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T20:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102843438685397330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WBB1LYaOQR",
+              "end": 71,
+              "expanded_url": "https://x.com/bcpz007/status/2102843438685397330/photo/1",
+              "media_key": "3_2102843429705392128",
+              "start": 48,
+              "url": "https://t.co/WBB1LYaOQR"
+            },
+            {
+              "display_url": "pic.x.com/WBB1LYaOQR",
+              "end": 71,
+              "expanded_url": "https://x.com/bcpz007/status/2102843438685397330/photo/1",
+              "media_key": "3_2102843429709627392",
+              "start": 48,
+              "url": "https://t.co/WBB1LYaOQR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102843438685397330",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102843429705392128"
+          },
+          {
+            "media_key": "3_2102843429709627392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们帮帮忙\n\n这两种风格\n\n我该用哪种\n\n简约\n还是这种可爱风\n期待大家帮我做出选择\n感谢🙏 https://t.co/WBB1LYaOQR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102985571136369077",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2102760999585796285",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12689,
+          "following_count": 5596,
+          "like_count": 106233,
+          "listed_count": 24,
+          "media_count": 2690,
+          "tweet_count": 22563
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-04T04:16:50.000Z",
+        "description": "12年小城市披萨制作者",
+        "id": "2095727354446495744",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102976040750797113",
+        "name": "黑猫家披萨店主",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095728081751433216/GL5tnL2D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1700,
+          "following_count": 1723,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1008
+        },
+        "url": "",
+        "username": "bcpz007",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

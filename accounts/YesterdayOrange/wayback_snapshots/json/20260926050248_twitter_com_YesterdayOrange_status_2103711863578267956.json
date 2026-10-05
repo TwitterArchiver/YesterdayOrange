@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103711831047143424",
+        "3_2103711831068143616",
+        "3_2103711831114342400"
+      ]
+    },
+    "author_id": "1788485889225834496",
+    "conversation_id": "2103711863578267956",
+    "created_at": "2026-09-26T05:02:48.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T06:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103711863578267956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0AcVTaVxYQ",
+          "end": 55,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2103711863578267956/photo/1",
+          "media_key": "3_2103711831047143424",
+          "start": 32,
+          "url": "https://t.co/0AcVTaVxYQ"
+        },
+        {
+          "display_url": "pic.x.com/0AcVTaVxYQ",
+          "end": 55,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2103711863578267956/photo/1",
+          "media_key": "3_2103711831068143616",
+          "start": 32,
+          "url": "https://t.co/0AcVTaVxYQ"
+        },
+        {
+          "display_url": "pic.x.com/0AcVTaVxYQ",
+          "end": 55,
+          "expanded_url": "https://x.com/YesterdayOrange/status/2103711863578267956/photo/1",
+          "media_key": "3_2103711831114342400",
+          "start": 32,
+          "url": "https://t.co/0AcVTaVxYQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103711863578267956",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103711831047143424"
+      },
+      {
+        "media_key": "3_2103711831068143616"
+      },
+      {
+        "media_key": "3_2103711831114342400"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "我把通俗故事共有的这个特征，称之为“对人之常情的理想化预设”。\n\n这个“理想化预设”是说，通俗故事总是按照那些人之常情“应然”的面目去呈现它们：人应当忠于朋友，故事就让人物总是忠于朋友；友情中有一些磕磕绊绊，故事中的人物跟朋友就会有一些磕磕绊绊；有正义感的人理应嫉恶如仇并对反派深恶痛绝，故事就让正面人物具有这种特质；有些人面对邪恶则有懦弱的一面，那么故事就让这个人物合情合理地展现他懦弱的一面。\n\n这本质上是把人的复杂感性经验简化为一种固定模式，这种模式并不真正解释这种感性经验本身，而是对感性经验的“脸谱化”。它作为一种叙事的基础非常好用，人们可以从这种理想化预设直接出发去建构许多想象性的东西。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我把通俗故事共有的这个特征，称之为“对人之常情的理想化预设”。 https://t.co/0AcVTaVxYQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103711831047143424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHiw69aAAAseex.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103711831068143616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHiw7CacAAbVPY.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103711831114342400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHiw7NbYAA1rqD.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103711831047143424",
+            "3_2103711831068143616",
+            "3_2103711831114342400"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2103711863578267956",
+        "created_at": "2026-09-26T05:02:48.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T06:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103711863578267956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0AcVTaVxYQ",
+              "end": 55,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2103711863578267956/photo/1",
+              "media_key": "3_2103711831047143424",
+              "start": 32,
+              "url": "https://t.co/0AcVTaVxYQ"
+            },
+            {
+              "display_url": "pic.x.com/0AcVTaVxYQ",
+              "end": 55,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2103711863578267956/photo/1",
+              "media_key": "3_2103711831068143616",
+              "start": 32,
+              "url": "https://t.co/0AcVTaVxYQ"
+            },
+            {
+              "display_url": "pic.x.com/0AcVTaVxYQ",
+              "end": 55,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2103711863578267956/photo/1",
+              "media_key": "3_2103711831114342400",
+              "start": 32,
+              "url": "https://t.co/0AcVTaVxYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103711863578267956",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103711831047143424"
+          },
+          {
+            "media_key": "3_2103711831068143616"
+          },
+          {
+            "media_key": "3_2103711831114342400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我把通俗故事共有的这个特征，称之为“对人之常情的理想化预设”。\n\n这个“理想化预设”是说，通俗故事总是按照那些人之常情“应然”的面目去呈现它们：人应当忠于朋友，故事就让人物总是忠于朋友；友情中有一些磕磕绊绊，故事中的人物跟朋友就会有一些磕磕绊绊；有正义感的人理应嫉恶如仇并对反派深恶痛绝，故事就让正面人物具有这种特质；有些人面对邪恶则有懦弱的一面，那么故事就让这个人物合情合理地展现他懦弱的一面。\n\n这本质上是把人的复杂感性经验简化为一种固定模式，这种模式并不真正解释这种感性经验本身，而是对感性经验的“脸谱化”。它作为一种叙事的基础非常好用，人们可以从这种理想化预设直接出发去建构许多想象性的东西。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把通俗故事共有的这个特征，称之为“对人之常情的理想化预设”。 https://t.co/0AcVTaVxYQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103711863578267956",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2103325081258918123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12695,
+          "following_count": 5600,
+          "like_count": 106500,
+          "listed_count": 24,
+          "media_count": 2703,
+          "tweet_count": 22605
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2100381151500349462",
+    "created_at": "2026-09-17T03:57:04.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T04:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100433834462625908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1558825107664932865",
+          "start": 0,
+          "username": "Akum6_Junsh1n4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100433834462625908",
+    "in_reply_to_user_id": "1558825107664932865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100432639371169933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akum6_Junsh1n4 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2100381151500349462",
+        "created_at": "2026-09-17T03:57:04.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100433834462625908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1558825107664932865",
+              "start": 0,
+              "username": "Akum6_Junsh1n4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100433834462625908",
+        "in_reply_to_user_id": "1558825107664932865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100432639371169933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akum6_Junsh1n4 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558825107664932865",
+        "conversation_id": "2100381151500349462",
+        "created_at": "2026-09-17T03:52:20.000Z",
+        "display_text_range": [
+          17,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100432639371169933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100432639371169933",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100381151500349462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 那我还挺羡慕，因为我是个“父母健全的孤儿”"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100433834462625908",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2100037656491205080",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12632,
+          "following_count": 5559,
+          "like_count": 105137,
+          "listed_count": 24,
+          "media_count": 2662,
+          "tweet_count": 22410
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-14T14:37:34.000Z",
+        "description": "Глупые люди счастливы, потому что они никогда не считают себя дураками.",
+        "id": "1558825107664932865",
+        "is_identity_verified": false,
+        "location": "科普卢星区→特雷森学园→彼岸",
+        "most_recent_tweet_id": "2100432639371169933",
+        "name": "Прости меня и забудь меня.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1558825107664932865/1709400951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057022421874716672/xMB0gXCl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2964,
+          "following_count": 1400,
+          "like_count": 55351,
+          "listed_count": 15,
+          "media_count": 746,
+          "tweet_count": 19198
+        },
+        "url": "",
+        "username": "Akum6_Junsh1n4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

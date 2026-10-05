@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2105118251999285379",
+    "created_at": "2026-09-30T02:11:17.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T03:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105118251999285379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moekafuuchino/…",
+          "end": 126,
+          "expanded_url": "https://twitter.com/moekafuuchino/status/2105102232207368543",
+          "start": 103,
+          "url": "https://t.co/kU4CjadcXq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105118251999285379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105102232207368543",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抑郁症休学一年对于找工作的影响可比无实习恐怖多了。\n要不你开个网店吧说创业了（有没有懂的人想一点更好的借口？）\nbtw，我半年前找工作的时候什么岗位都要会扣子dify，还见过龙虾，现在这三位都查无此人了。 https://t.co/kU4CjadcXq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2105118251999285379",
+        "created_at": "2026-09-30T02:11:17.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T03:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105118251999285379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moekafuuchino/…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/moekafuuchino/status/2105102232207368543",
+              "start": 103,
+              "url": "https://t.co/kU4CjadcXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105118251999285379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105102232207368543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抑郁症休学一年对于找工作的影响可比无实习恐怖多了。\n要不你开个网店吧说创业了（有没有懂的人想一点更好的借口？）\nbtw，我半年前找工作的时候什么岗位都要会扣子dify，还见过龙虾，现在这三位都查无此人了。 https://t.co/kU4CjadcXq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090993417744719872",
+        "conversation_id": "2105102232207368543",
+        "created_at": "2026-09-30T01:07:37.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T02:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105102232207368543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105102232207368543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 516,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来，现在大四无实习，如果休学，空出一年，把后端/Agent学了，搞两段或者三段实习，推迟到28年毕业如何🤔\nHR问起来就说我有一年抑郁症休学了（因为我确实在吃精神药物）\n计算机相关太恐怖了……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105118251999285379",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2105117767020187938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12686,
+          "following_count": 5604,
+          "like_count": 106735,
+          "listed_count": 24,
+          "media_count": 2711,
+          "tweet_count": 22671
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T02:51:15.000Z",
+        "description": "Life swings like a pendulum backward and forward between pain and boredom | tg: https://t.co/IuukNVwvJq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+5z_gCbEFiWxkN…",
+                "end": 103,
+                "expanded_url": "https://t.me/+5z_gCbEFiWxkNjc9",
+                "start": 80,
+                "url": "https://t.co/IuukNVwvJq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deeplemon.win",
+                "end": 23,
+                "expanded_url": "https://www.deeplemon.win/",
+                "start": 0,
+                "url": "https://t.co/nejlUCxYOA"
+              }
+            ]
+          }
+        },
+        "id": "2090993417744719872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105104241601954119",
+        "name": "智乃萌萌",
+        "pinned_tweet_id": "2100234238310387902",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090993417744719872/1787367216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090995335971950592/9TidCFGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 196,
+          "like_count": 1150,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/nejlUCxYOA",
+        "username": "moeKafuuChino",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

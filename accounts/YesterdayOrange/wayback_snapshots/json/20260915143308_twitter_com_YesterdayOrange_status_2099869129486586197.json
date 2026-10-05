@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2099869129486586197",
+    "created_at": "2026-09-15T14:33:08.000Z",
+    "display_text_range": [
+      0,
+      145
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099869129486586197"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2099869129486586197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直记得那个下午，我靠在同学肩膀上，看熊本来的学生踢足球。\n\n那天太阳很好，操场上有些热。\n\n我没怎么看比赛，只记得同学一直在给日本人喝倒彩。\n\n后来，我发现那并不是熊本，而是厚木。\n\n厚木在神奈川县。\n\n我只记得《神奈川冲浪里》了。\n\n后来，这里很久没有再来过日本人了，乐天玛特也关了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2099869129486586197",
+        "created_at": "2026-09-15T14:33:08.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099869129486586197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099869129486586197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直记得那个下午，我靠在同学肩膀上，看熊本来的学生踢足球。\n\n那天太阳很好，操场上有些热。\n\n我没怎么看比赛，只记得同学一直在给日本人喝倒彩。\n\n后来，我发现那并不是熊本，而是厚木。\n\n厚木在神奈川县。\n\n我只记得《神奈川冲浪里》了。\n\n后来，这里很久没有再来过日本人了，乐天玛特也关了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099869129486586197",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2099702812741665074",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12619,
+          "following_count": 5548,
+          "like_count": 105018,
+          "listed_count": 24,
+          "media_count": 2658,
+          "tweet_count": 22385
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2104592976899101099",
+    "created_at": "2026-09-28T15:24:01.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T16:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104592976899101099"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/todzheng25/sta…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/todzheng25/status/2104588571894251902",
+          "start": 22,
+          "url": "https://t.co/WnB3uwqMTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104592976899101099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104588571894251902",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来一起想一下吧，你们都是怎么学习单词的呢？ https://t.co/WnB3uwqMTT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2104588507675312128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUAGN5bQAAyEbF.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2104592976899101099",
+        "created_at": "2026-09-28T15:24:01.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T16:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104592976899101099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/todzheng25/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/todzheng25/status/2104588571894251902",
+              "start": 22,
+              "url": "https://t.co/WnB3uwqMTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104592976899101099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104588571894251902",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来一起想一下吧，你们都是怎么学习单词的呢？ https://t.co/WnB3uwqMTT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104588507675312128"
+          ]
+        },
+        "author_id": "1616035120464691201",
+        "conversation_id": "2104588571894251902",
+        "created_at": "2026-09-28T15:06:31.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T16:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104588571894251902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IChluw1A2B",
+              "end": 86,
+              "expanded_url": "https://x.com/TodZheng25/status/2104588571894251902/photo/1",
+              "media_key": "3_2104588507675312128",
+              "start": 63,
+              "url": "https://t.co/IChluw1A2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104588571894251902",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104588507675312128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我明明已经背了4个多小时了\n还剩下好多好多\n明天还有一堆堆等着我\n唉\n之前欠下的债是怎么还都还不完啊（断签了几天，就成这样了 https://t.co/IChluw1A2B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104592976899101099",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2104404261014732960",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12686,
+          "following_count": 5601,
+          "like_count": 106717,
+          "listed_count": 24,
+          "media_count": 2710,
+          "tweet_count": 22643
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-19T11:29:43.000Z",
+        "description": "ai大一，喜欢看书，喜欢小动物，喜欢折腾（菜鸡\n最近沉迷vibe coding，尝试做一些有意思的东西\n\n（我发誓不会再沉迷推特了..努力淡推中",
+        "id": "1616035120464691201",
+        "is_identity_verified": false,
+        "location": "2.05 km",
+        "most_recent_tweet_id": "2104592902177579021",
+        "name": "vibe睦头人",
+        "pinned_tweet_id": "2096699702481977756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616035120464691201/1788323013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088093035582390272/d1WXK8ju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 1229,
+          "like_count": 4429,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 1937
+        },
+        "url": "",
+        "username": "TodZheng25",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

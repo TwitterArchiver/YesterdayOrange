@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2105138110153781698",
+    "created_at": "2026-09-30T03:30:11.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T04:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105138110153781698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/itssunshinexd/…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/itssunshinexd/status/2104966423345054034",
+          "start": 71,
+          "url": "https://t.co/RHqhUo11Ts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105138110153781698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104966423345054034",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "包容同性恋是哪个平行世界的事情……\n饱饱你只是没感受过这种恶意而已，《完蛋我被男生包围了》的事情才过去一个月而已，我可忘不了铺天盖地的攻击。 https://t.co/RHqhUo11Ts"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104966407490510849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZXy4aaIAE4xl3.jpg",
+        "width": 921
+      },
+      {
+        "height": 1673,
+        "media_key": "3_2104966415904354304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZXzXwbMAAepev.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2105138110153781698",
+        "created_at": "2026-09-30T03:30:11.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T04:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105138110153781698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itssunshinexd/…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/itssunshinexd/status/2104966423345054034",
+              "start": 71,
+              "url": "https://t.co/RHqhUo11Ts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105138110153781698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104966423345054034",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "包容同性恋是哪个平行世界的事情……\n饱饱你只是没感受过这种恶意而已，《完蛋我被男生包围了》的事情才过去一个月而已，我可忘不了铺天盖地的攻击。 https://t.co/RHqhUo11Ts"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104966407490510849",
+            "3_2104966415904354304"
+          ]
+        },
+        "author_id": "1932834726051786808",
+        "conversation_id": "2104966423345054034",
+        "created_at": "2026-09-29T16:07:58.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T17:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104966423345054034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zQGdswBkLE",
+              "end": 97,
+              "expanded_url": "https://x.com/ItsSunshineXD/status/2104966423345054034/photo/1",
+              "media_key": "3_2104966407490510849",
+              "start": 74,
+              "url": "https://t.co/zQGdswBkLE"
+            },
+            {
+              "display_url": "pic.x.com/zQGdswBkLE",
+              "end": 97,
+              "expanded_url": "https://x.com/ItsSunshineXD/status/2104966423345054034/photo/1",
+              "media_key": "3_2104966415904354304",
+              "start": 74,
+              "url": "https://t.co/zQGdswBkLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104966423345054034",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104966407490510849"
+          },
+          {
+            "media_key": "3_2104966415904354304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3600,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墙内社交平台能包容同性恋\n却不能包容我和跨性别\n认为男生就应该帅气阳刚 不能女性化\n\n哦 我现在也开始讨厌顺直男了\n也不想跟他们生气 免得心情不好 https://t.co/zQGdswBkLE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105138110153781698",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2105117767020187938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12686,
+          "following_count": 5604,
+          "like_count": 106735,
+          "listed_count": 24,
+          "media_count": 2711,
+          "tweet_count": 22672
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-11T16:19:20.000Z",
+        "description": "19yo 175cm/52kg 想当可爱的男孩纸\n大二在校 | 开发者 | CTFer | notholding.eth\n一只很菜很菜的菜叶片ovo 蓝v互fo或dm互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "getflag.sh",
+                "end": 23,
+                "expanded_url": "https://getflag.sh",
+                "start": 0,
+                "url": "https://t.co/MK53oTlfig"
+              }
+            ]
+          }
+        },
+        "id": "1932834726051786808",
+        "is_identity_verified": false,
+        "location": "暨南大学番禺校区",
+        "most_recent_tweet_id": "2104986122728403367",
+        "name": "菜叶片",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932834726051786808/1790145816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095839416313126912/Aqs0LUDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 220,
+          "like_count": 4016,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1063
+        },
+        "url": "https://t.co/MK53oTlfig",
+        "username": "ItsSunshineXD",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

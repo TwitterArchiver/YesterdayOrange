@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2105571042240655870",
+    "created_at": "2026-10-01T15:29:30.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T16:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105681519478264229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2105510909657677825",
+          "start": 0,
+          "username": "togawasaki6767"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105681519478264229",
+    "in_reply_to_user_id": "2105510909657677825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105594524840153290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@togawasaki6767 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2105571042240655870",
+        "created_at": "2026-10-01T15:29:30.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105681519478264229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2105510909657677825",
+              "start": 0,
+              "username": "togawasaki6767"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105681519478264229",
+        "in_reply_to_user_id": "2105510909657677825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105594524840153290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@togawasaki6767 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2105510909657677825",
+        "conversation_id": "2105571042240655870",
+        "created_at": "2026-10-01T09:43:49.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T10:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105594524840153290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105594524840153290",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105571042240655870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 676767"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105681519478264229",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2105117767020187938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12686,
+          "following_count": 5609,
+          "like_count": 106890,
+          "listed_count": 24,
+          "media_count": 2717,
+          "tweet_count": 22695
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-01T04:12:50.000Z",
+        "description": "我怀疑一切，但思考本身即是确证\nI think，therefore I am.",
+        "id": "2105510909657677825",
+        "is_identity_verified": false,
+        "location": "月之森女子中学",
+        "most_recent_tweet_id": "2105680735030165800",
+        "name": "忧郁型若叶睦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2105510909657677825/1790828292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105511321269919744/fh3UKGRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 22,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "togawasaki6767",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

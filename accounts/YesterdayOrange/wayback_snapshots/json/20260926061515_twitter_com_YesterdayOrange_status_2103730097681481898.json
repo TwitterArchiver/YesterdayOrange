@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2103728202791157760",
+    "created_at": "2026-09-26T06:15:15.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T07:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103730097681481898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750730166480125952",
+          "start": 0,
+          "username": "riyo490503"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103730097681481898",
+    "in_reply_to_user_id": "1750730166480125952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103728202791157760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riyo490503 宝宝看我私信😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2103728192678744064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHxpSyXUAAe0uc.jpg",
+        "width": 2652
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2103728202791157760",
+        "created_at": "2026-09-26T06:15:15.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T07:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103730097681481898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750730166480125952",
+              "start": 0,
+              "username": "riyo490503"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103730097681481898",
+        "in_reply_to_user_id": "1750730166480125952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103728202791157760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riyo490503 宝宝看我私信😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103728192678744064"
+          ]
+        },
+        "author_id": "1750730166480125952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103728202791157760",
+        "created_at": "2026-09-26T06:07:43.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T07:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103728202791157760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6AbffLaBFX",
+              "end": 58,
+              "expanded_url": "https://x.com/riyo490503/status/2103728202791157760/photo/1",
+              "media_key": "3_2103728192678744064",
+              "start": 35,
+              "url": "https://t.co/6AbffLaBFX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103728202791157760",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103728192678744064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我恨断触啊啊啊啊，不断触就解at了，这次魔王的in怎么能难成这样子🥲 https://t.co/6AbffLaBFX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103730097681481898",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2103716386220753265",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12697,
+          "following_count": 5601,
+          "like_count": 106512,
+          "listed_count": 24,
+          "media_count": 2705,
+          "tweet_count": 22608
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-26T03:59:41.000Z",
+        "description": "09/INFP-T/高二牲/爱好物理但是菜鸡/自我性别认知混乱中/日本語を勉強したい/ododod！！/友跨/喜欢一切可爱的事物\n\n我会成为一国之材，而非一党之豺",
+        "id": "1750730166480125952",
+        "is_identity_verified": false,
+        "location": "中国 山东 济南",
+        "most_recent_tweet_id": "2103728202791157760",
+        "name": "柚riyo",
+        "pinned_tweet_id": "1925578602026037453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1750730166480125952/1738303530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824458538137292803/lKoKoKLI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 419,
+          "like_count": 2390,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 627
+        },
+        "url": "",
+        "username": "riyo490503",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

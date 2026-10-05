@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2099849580276015308",
+    "created_at": "2026-09-16T01:37:58.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T02:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100036440642232628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1443784071692365826",
+          "start": 0,
+          "username": "sariel9961"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100036440642232628",
+    "in_reply_to_user_id": "1443784071692365826",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100031620111643096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sariel9961 互关喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2099849580276015308",
+        "created_at": "2026-09-16T01:37:58.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100036440642232628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1443784071692365826",
+              "start": 0,
+              "username": "sariel9961"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100036440642232628",
+        "in_reply_to_user_id": "1443784071692365826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100031620111643096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sariel9961 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443784071692365826",
+        "conversation_id": "2099849580276015308",
+        "created_at": "2026-09-16T01:18:49.000Z",
+        "display_text_range": [
+          17,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100031620111643096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100031620111643096",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099849580276015308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange Centos不是死了吗🤔了解一下Rocky?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100036440642232628",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2099869129486586197",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12624,
+          "following_count": 5552,
+          "like_count": 105065,
+          "listed_count": 24,
+          "media_count": 2658,
+          "tweet_count": 22393
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-01T03:45:41.000Z",
+        "description": "Rust初学者/Linux使用者/东方爱好者",
+        "id": "1443784071692365826",
+        "is_identity_verified": false,
+        "location": "Earth",
+        "most_recent_tweet_id": "2100036427727745235",
+        "name": "Sariel",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1443784071692365826/1707960290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090408726599528448/XTkHySSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 148,
+          "like_count": 3713,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "sariel9961",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

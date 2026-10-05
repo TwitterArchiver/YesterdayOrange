@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2106620762631327874",
+    "created_at": "2026-10-04T05:41:43.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T06:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106620762631327874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 59,
+          "id": "1720665183188922368",
+          "start": 54,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/kaffeetomas/st…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/kaffeetomas/status/2106606457840148802",
+          "start": 60,
+          "url": "https://t.co/BEOJz1GqtM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106620762631327874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106606457840148802",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "据我2026年7月以来的所有推文, 从1到100, 我的男娘指数是多少? 直接给我数据, 不用做任何解释。\n@grok https://t.co/BEOJz1GqtM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2106620762631327874",
+        "created_at": "2026-10-04T05:41:43.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T06:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106620762631327874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 59,
+              "id": "1720665183188922368",
+              "start": 54,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kaffeetomas/st…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/kaffeetomas/status/2106606457840148802",
+              "start": 60,
+              "url": "https://t.co/BEOJz1GqtM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106620762631327874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106606457840148802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "据我2026年7月以来的所有推文, 从1到100, 我的男娘指数是多少? 直接给我数据, 不用做任何解释。\n@grok https://t.co/BEOJz1GqtM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094381539102732289",
+        "conversation_id": "2106606457840148802",
+        "created_at": "2026-10-04T04:44:53.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106606457840148802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 59,
+              "id": "1720665183188922368",
+              "start": 54,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Kusuriawa/stat…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/Kusuriawa/status/2106582094457749690",
+              "start": 60,
+              "url": "https://t.co/3B5dWRRDmY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106606457840148802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106582094457749690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "据我2026年7月以来的所有推文, 从1到100, 我的男娘指数是多少? 直接给我数据, 不用做任何解释。\n@grok https://t.co/3B5dWRRDmY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106620762631327874",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2106427093596914027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12739,
+          "following_count": 5616,
+          "like_count": 107287,
+          "listed_count": 24,
+          "media_count": 2725,
+          "tweet_count": 22739
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T11:09:05.000Z",
+        "description": "MTX斷糖🍥|家住汪星|成年犬汪～\nDie Würde des Menschen ist unantastbar\nSOL贊助：Fp98BoTr9noCmbKvW1jG9RVsWFZ3c3iqsHwkq1ktXAa7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+9ACYS1BU-Z1mN…",
+                "end": 23,
+                "expanded_url": "http://t.me/+9ACYS1BU-Z1mNjYx",
+                "start": 0,
+                "url": "https://t.co/igPbHan8yo"
+              }
+            ]
+          }
+        },
+        "id": "2094381539102732289",
+        "is_identity_verified": false,
+        "location": "汪星（台灣）",
+        "most_recent_tweet_id": "2106611643228762148",
+        "name": "Kaffee🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2104208944004751762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094381539102732289/1788488108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095694866307252224/h79FVuBX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 50,
+          "like_count": 3674,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1746
+        },
+        "url": "https://t.co/igPbHan8yo",
+        "username": "kaffeetomas",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106620778103926822",
+        "name": "Grok",
+        "pinned_tweet_id": "2099876430561632548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9133681,
+          "following_count": 4,
+          "like_count": 142,
+          "listed_count": 7727,
+          "media_count": 3981281,
+          "tweet_count": 138747833
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

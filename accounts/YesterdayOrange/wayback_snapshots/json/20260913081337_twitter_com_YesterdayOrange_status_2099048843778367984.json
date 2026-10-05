@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2098963707028230425",
+    "created_at": "2026-09-13T08:13:37.000Z",
+    "display_text_range": [
+      28,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T09:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099048843778367984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1867236221359173632",
+          "start": 0,
+          "username": "nannan07788"
+        },
+        {
+          "end": 27,
+          "id": "1877039814211686400",
+          "start": 13,
+          "username": "shinano533586"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099048843778367984",
+    "in_reply_to_user_id": "1867236221359173632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099048462469730627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nannan07788 @shinano533586 喵？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2098963707028230425",
+        "created_at": "2026-09-13T08:13:37.000Z",
+        "display_text_range": [
+          28,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099048843778367984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1867236221359173632",
+              "start": 0,
+              "username": "nannan07788"
+            },
+            {
+              "end": 27,
+              "id": "1877039814211686400",
+              "start": 13,
+              "username": "shinano533586"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099048843778367984",
+        "in_reply_to_user_id": "1867236221359173632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099048462469730627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nannan07788 @shinano533586 喵？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867236221359173632",
+        "conversation_id": "2098963707028230425",
+        "created_at": "2026-09-13T08:12:06.000Z",
+        "display_text_range": [
+          32,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099048462469730627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            },
+            {
+              "end": 31,
+              "id": "1877039814211686400",
+              "start": 17,
+              "username": "shinano533586"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099048462469730627",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099048054628516338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange @shinano533586 浇"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099048843778367984",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2098669891037594022",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12603,
+          "following_count": 5544,
+          "like_count": 104658,
+          "listed_count": 24,
+          "media_count": 2653,
+          "tweet_count": 22346
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-12T15:53:15.000Z",
+        "description": "",
+        "id": "1867236221359173632",
+        "is_identity_verified": false,
+        "location": "Republic of Slovenia",
+        "most_recent_tweet_id": "2099048684893659320",
+        "name": "Flora",
+        "pinned_tweet_id": "2009598393287643520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1867236221359173632/1768375241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011337611877720064/iTEavpMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3904,
+          "following_count": 2059,
+          "like_count": 3702,
+          "listed_count": 6,
+          "media_count": 350,
+          "tweet_count": 7162
+        },
+        "url": "",
+        "username": "nannan07788",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-08T17:09:11.000Z",
+        "description": "I like anime  games such as Arknights, StarRail and Girls' Frontline. Do you want to fight the Holy Grail War with me?Let the red banners fly across the world",
+        "id": "1877039814211686400",
+        "is_identity_verified": false,
+        "location": "Fuyuki",
+        "most_recent_tweet_id": "2099048266495353153",
+        "name": "shinano",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877039814211686400/1736356411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877040287429832704/BMIeSqf0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 166,
+          "like_count": 984,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "shinano533586",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

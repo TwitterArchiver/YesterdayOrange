@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1788485889225834496",
+    "conversation_id": "2102047831804833803",
+    "created_at": "2026-09-21T15:34:12.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T16:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102058822760301046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2088572160688410624",
+          "start": 0,
+          "username": "johntsqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102058822760301046",
+    "in_reply_to_user_id": "2088572160688410624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102057614574342278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@johntsqs 互关喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2102057608597422081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwCQgHbQAE1Dww.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2102047831804833803",
+        "created_at": "2026-09-21T15:34:12.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102058822760301046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2088572160688410624",
+              "start": 0,
+              "username": "johntsqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102058822760301046",
+        "in_reply_to_user_id": "2088572160688410624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102057614574342278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@johntsqs 互关喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102057608597422081"
+          ]
+        },
+        "author_id": "2088572160688410624",
+        "conversation_id": "2102047831804833803",
+        "created_at": "2026-09-21T15:29:24.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102057614574342278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z3oX3Xh5Uk",
+              "end": 46,
+              "expanded_url": "https://x.com/johntsqs/status/2102057614574342278/photo/1",
+              "media_key": "3_2102057608597422081",
+              "start": 23,
+              "url": "https://t.co/z3oX3Xh5Uk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102057614574342278",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102057608597422081"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102047831804833803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 祝你幸福喵 https://t.co/z3oX3Xh5Uk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "悼良会之永绝兮，哀一逝而异乡。\n逃生舱 @haishishenlou25\n沙糖桔 @kiraspirit13883",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "haishishenlou25"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "kiraspirit13883"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102058822760301046",
+        "name": "昨天有欧润吉吗🍊",
+        "pinned_tweet_id": "2102047831804833803",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1788485889225834496/1774201954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092821492614696960/hiS44LKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12690,
+          "following_count": 5613,
+          "like_count": 105964,
+          "listed_count": 24,
+          "media_count": 2680,
+          "tweet_count": 22525
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T10:24:16.000Z",
+        "description": "",
+        "id": "2088572160688410624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102058601317843316",
+        "name": "流萤",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102030402844278784/nHZbi6WW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 175,
+          "like_count": 1530,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "johntsqs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
